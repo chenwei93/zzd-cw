@@ -1,0 +1,33 @@
+{
+  "pageNum": 1,
+  "pageSize": 15,
+  "size": 4,
+  "total": 4,
+  "pages": 1,
+  "list": [
+    {
+      "id": 1,
+      "nameCh": "人物表",
+      "nameEn": "tb_person",
+      "description": "人物信息"
+    },
+    {
+      "id": 2,
+      "nameCh": "学生表",
+      "nameEn": "tb_student",
+      "description": "学生信息"
+    },
+    {
+      "id": 3,
+      "nameCh": "用户表",
+      "nameEn": "tb_user",
+      "description": "用户信息"
+    },
+    {
+      "id": 4,
+      "nameCh": "教师表",
+      "nameEn": "tb_teacher",
+      "description": "脚是信息"
+    }
+  ]
+}

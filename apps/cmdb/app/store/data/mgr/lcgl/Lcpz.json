@@ -1,0 +1,275 @@
+{
+  "content": [
+    {
+      "title": "云资源申请流程",
+      "code": "yzysq",
+      "updateTime": "2018年4月24日",
+      "changeTime": "2018年4月24日",
+      "version": "1.1.1",
+      "items": [
+        {
+          "name": "yzysq",
+          "text": "云资源申请",
+          "type": "user",
+          "bd": "jkzy",
+          "user": null
+        },
+        {
+          "name": "sqsh",
+          "text": "申请审核",
+          "type": "user",
+          "bd": "jkzy",
+          "user": "mozs"
+        },
+        {
+          "name": "blsh",
+          "text": "并联审核",
+          "bd": "jkzy",
+          "type": "user",
+          "user": null
+        },
+        {
+          "name": "zgsh",
+          "text": "主管审核",
+          "bd": "jkzy",
+          "type": "user",
+          "user": "wangs"
+        }
+      ]
+    },
+    {
+      "title": "服务资产申请流程",
+      "code": "fwzc",
+      "updateTime": "2018年4月24日",
+      "changeTime": "2018年4月24日",
+      "version": "1.1.1",
+      "items": [
+        {
+          "name": "sq",
+          "text": "申请",
+          "bd": "jkzy",
+          "type": "user",
+          "user": null
+        },
+        {
+          "name": "sqcs",
+          "text": "申请初审",
+          "bd": "jkzy",
+          "type": "user",
+          "user": "mozs"
+        },
+        {
+          "name": "ss",
+          "text": "实施",
+          "bd": "jkzy",
+          "type": "user",
+          "user": "chenw"
+        },
+        {
+          "name": "jgsh",
+          "text": "结果审核",
+          "bd": "jkzy",
+          "type": "user",
+          "user": "wangs"
+        },
+        {
+          "name": "jggz",
+          "text": "结果告知",
+          "bd": "jkzy",
+          "type": "user",
+          "user": "fangr"
+        }
+      ]
+    },
+    {
+      "title": "接口资源申请流程",
+      "code": "jkzy",
+      "updateTime": "2018年4月24日",
+      "changeTime": "2018年4月24日",
+      "version": "1.1.1",
+      "items": [
+        {
+          "name": "sq",
+          "bd": "jkzy",
+          "text": "申请",
+          "type": "user",
+          "user": null
+        },
+        {
+          "name": "jsrysh",
+          "bd": "jkzy",
+          "type": "user",
+          "text": "技术人员审核",
+          "user": "mozs"
+        },
+        {
+          "name": "ldsh",
+          "bd": "jkzy",
+          "text": "领导审核",
+          "type": "user",
+          "user": "wangs"
+        },
+        {
+          "name": "ssjk",
+          "bd": "jkzy",
+          "type": "user",
+          "text": "实施",
+          "user": "chenw"
+        },
+        {
+          "name": "jggzjk",
+          "bd": "jkzy",
+          "text": "结果告知",
+          "type": "user",
+          "user": "fangr"
+        }
+      ]
+    },
+    {
+      "title": "数据共享申请流程",
+      "code": "sjgx",
+      "updateTime": "2018年4月24日",
+      "changeTime": "2018年4月24日",
+      "version": "1.1.1",
+      "items": [
+        {
+          "name": "sq",
+          "bd": "jkzy",
+          "text": "申请",
+          "type": "user",
+          "user": null
+        },
+        {
+          "name": "jsryqrsh",
+          "text": "技术人员确认",
+          "bd": "jkzy",
+          "type": "user",
+          "user": "fangr"
+        },
+        {
+          "name": "jsryshsh",
+          "text": "技术人员审核",
+          "bd": "jkzy",
+          "type": "user",
+          "user": "mozs"
+        },
+        {
+          "name": "ldshsh",
+          "text": "领导审核",
+          "bd": "jkzy",
+          "type": "user",
+          "user": "wangs"
+        },
+        {
+          "name": "sssh",
+          "text": "实施",
+          "bd": "jkzy",
+          "type": "user",
+          "user": "chenw"
+        },
+        {
+          "name": "jggzsh",
+          "bd": "jkzy",
+          "type": "user",
+          "text": "结果告知",
+          "user": "fangr"
+        }
+      ]
+    },
+    {
+      "title": "数据汇集申请流程",
+      "code": "sjhj",
+      "updateTime": "2018年4月24日",
+      "changeTime": "2018年4月24日",
+      "version": "1.1.1",
+      "items": [
+        {
+          "name": "sq",
+          "bd": "jkzy",
+          "text": "申请",
+          "type": "user",
+          "user": null
+        },
+        {
+          "name": "hj_jsrysh",
+          "bd": "jkzy",
+          "text": "技术人员审核",
+          "type": "user",
+          "user": "mozs"
+        },
+        {
+          "name": "hj_jsryqr",
+          "bd": "jkzy",
+          "text": "技术人员确认",
+          "type": "user",
+          "user": "fangr"
+        },
+        {
+          "name": "hj_ldsh",
+          "bd": "jkzy",
+          "text": "领导审核",
+          "type": "user",
+          "user": "wangs"
+        },
+        {
+          "name": "hj_ssjk",
+          "text": "实施",
+          "type": "user",
+          "bd": "jkzy",
+          "user": "chenw"
+        },
+        {
+          "name": "hj_jggzjk",
+          "text": "结果告知",
+          "bd": "jkzy",
+          "type": "user",
+          "user": "fangr"
+        }
+      ]
+    },
+    {
+      "title": "数据开放申请流程",
+      "code": "jkzy",
+      "updateTime": "2018年4月24日",
+      "changeTime": "2018年4月24日",
+      "version": "1.1.1",
+      "items": [
+        {
+          "name": "sq",
+          "bd": "jkzy",
+          "text": "申请",
+          "type": "user",
+          "user": null
+        },
+        {
+          "name": "kf_jsrysh",
+          "bd": "jkzy",
+          "text": "技术人员审核",
+          "type": "user",
+          "user": "mozs"
+        },
+        {
+          "name": "kf_ldsh",
+          "bd": "jkzy",
+          "text": "领导审核",
+          "type": "user",
+          "user": "wangs"
+        },
+        {
+          "name": "kf_ss",
+          "text": "实施",
+          "bd": "jkzy",
+          "type": "user",
+          "user": "chenw"
+        },
+        {
+          "name": "kf_jggz",
+          "text": "结果告知",
+          "type": "user",
+          "bd": "jkzy",
+          "user": "fangr"
+        }
+      ]
+    }
+  ]
+}

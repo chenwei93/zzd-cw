@@ -1,0 +1,297 @@
+{
+  "content": [
+    {
+      "bd_title": "事件管理表单模版",
+      "bd_type": "event",
+      "id": "jkzy",
+      "bd_code": "jkzy",
+      "bd_des": "这是事件管理表单模版",
+      "items": [
+        {
+          "name": "资产清单",
+          "code": "zcList",
+          "type": "string",
+          "show_type": "textfield",
+          "percent": 1
+        },
+        {
+          "name": "资产编号",
+          "code": "zcCode",
+          "type": "string",
+          "show_type": "textfield",
+          "percent": 0.5
+        },
+        {
+          "name": "资产类别",
+          "code": "zcType",
+          "type": "string",
+          "show_type": "combo",
+          "store": [
+            {
+              "showname": "云资源",
+              "value": "yzy"
+            },
+            {
+              "showname": "数据资源",
+              "value": "sjzy"
+            },
+            {
+              "showname": "软件服务",
+              "value": "rjfw"
+            },
+            {
+              "showname": "接口资源",
+              "value": "jkzy"
+            },
+            {
+              "showname": "基础数据资源",
+              "value": "jcsjzy"
+            },
+            {
+              "showname": "日志资源",
+              "value": "rzzy"
+            }
+          ],
+          "percent": 0.5
+        },
+        {
+          "name": "资产说明",
+          "code": "zcDes",
+          "type": "string",
+          "show_type": "textarea",
+          "percent": 1
+        },
+        {
+          "name": "申请部门",
+          "code": "sqDept",
+          "type": "string",
+          "show_type": "combo",
+          "store": [
+            {
+              "showname": "公安局",
+              "value": "gaj"
+            },
+            {
+              "showname": "民政局",
+              "value": "mzj"
+            },
+            {
+              "showname": "司法局",
+              "value": "sfj"
+            },
+            {
+              "showname": "监察局",
+              "value": "jcj"
+            }
+          ],
+          "percent": 0.5
+        },
+        {
+          "name": "联系人",
+          "code": "contactPerson",
+          "type": "string",
+          "show_type": "combo",
+          "store": [
+            {
+              "showname": "王石",
+              "value": "wangs"
+            },
+            {
+              "showname": "陈薇",
+              "value": "chenw"
+            },
+            {
+              "showname": "方荣",
+              "value": "fangr"
+            },
+            {
+              "showname": "莫智胜",
+              "value": "mozs"
+            }
+          ],
+          "percent": 0.5
+        },
+        {
+          "name": "关联项目",
+          "code": "contactXm",
+          "type": "string",
+          "show_type": "combo",
+          "store": [
+            {
+              "showname": "项目A",
+              "value": "xma"
+            },
+            {
+              "showname": "项目B",
+              "value": "xmb"
+            },
+            {
+              "showname": "项目C",
+              "value": "xmc"
+            },
+            {
+              "showname": "项目D",
+              "value": "xmd"
+            }
+          ],
+          "percent": 0.5
+        },
+        {
+          "name": "紧急程度",
+          "code": "emergencyLevel",
+          "type": "string",
+          "show_type": "combo",
+          "store": [
+            {
+              "showname": "特提",
+              "value": "tt"
+            },
+            {
+              "showname": "特急",
+              "value": "tj"
+            },
+            {
+              "showname": "加急",
+              "value": "jj"
+            },
+            {
+              "showname": "平急",
+              "value": "pj"
+            }
+          ],
+          "percent": 0.5
+        },
+        {
+          "name": "要求完成日期",
+          "code": "endTime",
+          "type": "date",
+          "show_type": "datefield",
+          "percent": 0.5
+        },
+        {
+          "name": "申请原因",
+          "code": "applyReason",
+          "type": "string",
+          "show_type": "textarea",
+          "percent": 1
+        },
+        {
+          "name": "接口调用范围",
+          "code": "interfaceCallScope",
+          "type": "string",
+          "show_type": "textfield",
+          "percent": 0.5
+        },
+        {
+          "name": "调用频率限制",
+          "code": "callFrequencyLimit",
+          "type": "string",
+          "show_type": "combo",
+          "store": [
+            {
+              "showname": "实时",
+              "value": "realTime"
+            },
+            {
+              "showname": "高",
+              "value": "high"
+            },
+            {
+              "showname": "一般",
+              "value": "normal"
+            },
+            {
+              "showname": "低",
+              "value": "low"
+            }
+          ],
+          "percent": 0.5
+        },
+        {
+          "name": "重点监控",
+          "code": "focusMonitor",
+          "type": "boolean",
+          "show_type": "radiogroup",
+          "store": [
+            {
+              "boxLabel": "是",
+              "inputValue": true,
+              "checked": true
+            },
+            {
+              "boxLabel": "否",
+              "inputValue": false
+            }
+          ],
+          "percent": 0.5
+        },
+        {
+          "name": "协议类型",
+          "code": "agreementType",
+          "type": "string",
+          "show_type": "combo",
+          "store": [
+            {
+              "showname": "Webserice",
+              "value": "Webserice"
+            },
+            {
+              "showname": "RPC",
+              "value": "RPC"
+            },
+            {
+              "showname": "Restful",
+              "value": "Restful"
+            }
+          ],
+          "percent": 0.5
+        },
+        {
+          "name": "认证方式",
+          "code": "verificationMethod",
+          "type": "string",
+          "show_type": "combo",
+          "store": [
+            {
+              "showname": "OAuth",
+              "value": "OAuth"
+            },
+            {
+              "showname": "WS-Security",
+              "value": "WS-Security"
+            }
+          ],
+          "percent": 0.5
+        },
+        {
+          "name": "传输方式",
+          "code": "transferMethod",
+          "type": "string",
+          "show_type": "combo",
+          "store": [
+            {
+              "showname": "XML",
+              "value": "XML"
+            },
+            {
+              "showname": "JSON",
+              "value": "JSON"
+            },
+            {
+              "showname": "二进制",
+              "value": "ejz"
+            }
+          ],
+          "percent": 0.5
+        },
+        {
+          "name": "URL映射",
+          "code": "urlMapping",
+          "type": "string",
+          "show_type": "textfield",
+          "percent": 1
+        }
+      ]
+    }
+  ]
+}

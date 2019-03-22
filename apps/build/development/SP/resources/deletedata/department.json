@@ -1,0 +1,918 @@
+{
+  "id" : "root",
+  "text" : "根节点",
+  "expanded" : false,
+  "leaf" : false,
+  "children" : [ {
+    "parentId" : "root",
+    "id" : "15edd9c1-accd-456d-8cc0-a645768c62c6",
+    "text" : "市政府",
+    "expanded" : false,
+    "leaf" : false,
+    "children" : [ {
+      "parentId" : "15edd9c1-accd-456d-8cc0-a645768c62c6",
+      "id" : "e34affdb-0866-4e38-9d05-3e599e81bfff",
+      "text" : "民政局",
+      "expanded" : false,
+      "leaf" : true,
+      "extraAttributes" : {
+        "owner" : [ ],
+        "code" : "MZJ",
+        "displayName" : "民政局",
+        "idRel" : "principals/e34affdb-0866-4e38-9d05-3e599e81bfff",
+        "orders" : 0
+      }
+    }, {
+      "parentId" : "15edd9c1-accd-456d-8cc0-a645768c62c6",
+      "id" : "1d9e065a-fa62-4348-a5b5-82baad8c4052",
+      "text" : "公安交通管理局",
+      "expanded" : false,
+      "leaf" : true,
+      "extraAttributes" : {
+        "owner" : [ ],
+        "code" : "GAJ",
+        "displayName" : "公安交通管理局",
+        "idRel" : "principals/1d9e065a-fa62-4348-a5b5-82baad8c4052",
+        "orders" : 0
+      }
+    }, {
+      "parentId" : "15edd9c1-accd-456d-8cc0-a645768c62c6",
+      "id" : "93b18126-bd1e-4386-a741-887132593044",
+      "text" : "司法局",
+      "expanded" : false,
+      "leaf" : true,
+      "extraAttributes" : {
+        "owner" : [ ],
+        "code" : "SFJ",
+        "displayName" : "司法局",
+        "idRel" : "principals/93b18126-bd1e-4386-a741-887132593044",
+        "orders" : 0
+      }
+    }, {
+      "parentId" : "15edd9c1-accd-456d-8cc0-a645768c62c6",
+      "id" : "402a20ea-e8ef-426d-9b51-eca4555bd5e2",
+      "text" : "监察局",
+      "expanded" : false,
+      "leaf" : true,
+      "extraAttributes" : {
+        "owner" : [ ],
+        "code" : "JCJ",
+        "displayName" : "监察局",
+        "idRel" : "principals/402a20ea-e8ef-426d-9b51-eca4555bd5e2",
+        "orders" : 0
+      }
+    }, {
+      "parentId" : "15edd9c1-accd-456d-8cc0-a645768c62c6",
+      "id" : "e23f7b1b-f69d-49c3-badc-b472076325c1",
+      "text" : "国土房管局",
+      "expanded" : false,
+      "leaf" : true,
+      "extraAttributes" : {
+        "owner" : [ ],
+        "code" : "GTJ",
+        "displayName" : "国土房管局",
+        "idRel" : "principals/e23f7b1b-f69d-49c3-badc-b472076325c1",
+        "orders" : 0
+      }
+    }, {
+      "parentId" : "15edd9c1-accd-456d-8cc0-a645768c62c6",
+      "id" : "b99c8e31-db6f-4d35-b8d6-29a078c43549",
+      "text" : "体育局",
+      "expanded" : false,
+      "leaf" : true,
+      "extraAttributes" : {
+        "owner" : [ ],
+        "code" : "TYJ",
+        "displayName" : "体育局",
+        "idRel" : "principals/b99c8e31-db6f-4d35-b8d6-29a078c43549",
+        "orders" : 0
+      }
+    }, {
+      "parentId" : "15edd9c1-accd-456d-8cc0-a645768c62c6",
+      "id" : "eb7a3623-e6a1-4dfd-ba1b-7f389d0fde77",
+      "text" : "林业局",
+      "expanded" : false,
+      "leaf" : true,
+      "extraAttributes" : {
+        "owner" : [ ],
+        "code" : "SMJ",
+        "displayName" : "林业局",
+        "idRel" : "principals/eb7a3623-e6a1-4dfd-ba1b-7f389d0fde77",
+        "orders" : 0
+      }
+    }, {
+      "parentId" : "15edd9c1-accd-456d-8cc0-a645768c62c6",
+      "id" : "93b3b91b-3455-4a00-970a-4b5e198965ff",
+      "text" : "海洋局",
+      "expanded" : false,
+      "leaf" : true,
+      "extraAttributes" : {
+        "owner" : [ ],
+        "code" : "HYJ",
+        "displayName" : "海洋局",
+        "idRel" : "principals/93b3b91b-3455-4a00-970a-4b5e198965ff",
+        "orders" : 0
+      }
+    }, {
+      "parentId" : "15edd9c1-accd-456d-8cc0-a645768c62c6",
+      "id" : "af80d2f9-5549-4418-80d1-933e95b41a02",
+      "text" : "粮食局",
+      "expanded" : false,
+      "leaf" : true,
+      "extraAttributes" : {
+        "owner" : [ ],
+        "code" : "LSJ",
+        "displayName" : "粮食局",
+        "idRel" : "principals/af80d2f9-5549-4418-80d1-933e95b41a02",
+        "orders" : 0
+      }
+    }, {
+      "parentId" : "15edd9c1-accd-456d-8cc0-a645768c62c6",
+      "id" : "5ef55b0f-c629-4f58-a2d5-a0df551f50bc",
+      "text" : "环保局",
+      "expanded" : false,
+      "leaf" : true,
+      "extraAttributes" : {
+        "owner" : [ ],
+        "code" : "HBJ",
+        "displayName" : "环保局",
+        "idRel" : "principals/5ef55b0f-c629-4f58-a2d5-a0df551f50bc",
+        "orders" : 0
+      }
+    }, {
+      "parentId" : "15edd9c1-accd-456d-8cc0-a645768c62c6",
+      "id" : "97e3576d-623b-4280-919c-458758f78e06",
+      "text" : "规划局",
+      "expanded" : false,
+      "leaf" : true,
+      "extraAttributes" : {
+        "owner" : [ ],
+        "code" : "GHJ",
+        "displayName" : "规划局",
+        "idRel" : "principals/97e3576d-623b-4280-919c-458758f78e06",
+        "orders" : 0
+      }
+    }, {
+      "parentId" : "15edd9c1-accd-456d-8cc0-a645768c62c6",
+      "id" : "672ba4af-c664-49b3-953e-c4b8bf6e6814",
+      "text" : "政府办公厅",
+      "expanded" : false,
+      "leaf" : true,
+      "extraAttributes" : {
+        "owner" : [ ],
+        "code" : "ZFB",
+        "displayName" : "政府办公厅",
+        "idRel" : "principals/672ba4af-c664-49b3-953e-c4b8bf6e6814",
+        "orders" : 0
+      }
+    }, {
+      "parentId" : "15edd9c1-accd-456d-8cc0-a645768c62c6",
+      "id" : "fc85a396-7a73-490f-99e9-0b80fe5738de",
+      "text" : "发展改革委",
+      "expanded" : false,
+      "leaf" : true,
+      "extraAttributes" : {
+        "owner" : [ ],
+        "code" : "FGW",
+        "displayName" : "发展改革委",
+        "idRel" : "principals/fc85a396-7a73-490f-99e9-0b80fe5738de",
+        "orders" : 0
+      }
+    }, {
+      "parentId" : "15edd9c1-accd-456d-8cc0-a645768c62c6",
+      "id" : "f43b21a2-859d-476c-ab1a-706a6d1ab682",
+      "text" : "工业和信息化委",
+      "expanded" : false,
+      "leaf" : true,
+      "extraAttributes" : {
+        "owner" : [ ],
+        "code" : "GXW",
+        "displayName" : "工业和信息化委",
+        "idRel" : "principals/f43b21a2-859d-476c-ab1a-706a6d1ab682",
+        "orders" : 0
+      }
+    }, {
+      "parentId" : "15edd9c1-accd-456d-8cc0-a645768c62c6",
+      "id" : "a397230d-7d92-4601-b422-df91d610aa92",
+      "text" : "商务委",
+      "expanded" : false,
+      "leaf" : true,
+      "extraAttributes" : {
+        "owner" : [ ],
+        "code" : "SWW",
+        "displayName" : "商务委",
+        "idRel" : "principals/a397230d-7d92-4601-b422-df91d610aa92",
+        "orders" : 0
+      }
+    }, {
+      "parentId" : "15edd9c1-accd-456d-8cc0-a645768c62c6",
+      "id" : "16dc1b31-5e13-4c1b-9cc8-6e58bafee86c",
+      "text" : "教委",
+      "expanded" : false,
+      "leaf" : true,
+      "extraAttributes" : {
+        "owner" : [ ],
+        "code" : "SJW",
+        "displayName" : "教委",
+        "idRel" : "principals/16dc1b31-5e13-4c1b-9cc8-6e58bafee86c",
+        "orders" : 0
+      }
+    }, {
+      "parentId" : "15edd9c1-accd-456d-8cc0-a645768c62c6",
+      "id" : "0ad622af-6e98-4b1f-b581-5d2bcb7608d4",
+      "text" : "科委",
+      "expanded" : false,
+      "leaf" : true,
+      "extraAttributes" : {
+        "owner" : [ ],
+        "code" : "SKW",
+        "displayName" : "科委",
+        "idRel" : "principals/0ad622af-6e98-4b1f-b581-5d2bcb7608d4",
+        "orders" : 0
+      }
+    }, {
+      "parentId" : "15edd9c1-accd-456d-8cc0-a645768c62c6",
+      "id" : "f59dfc33-06e5-4e72-af3c-1ed453223d19",
+      "text" : "民委",
+      "expanded" : false,
+      "leaf" : true,
+      "extraAttributes" : {
+        "owner" : [ ],
+        "code" : "SMW",
+        "displayName" : "民委",
+        "idRel" : "principals/f59dfc33-06e5-4e72-af3c-1ed453223d19",
+        "orders" : 0
+      }
+    }, {
+      "parentId" : "15edd9c1-accd-456d-8cc0-a645768c62c6",
+      "id" : "0873dcdb-ce08-46ab-ab9e-51141a24e0f2",
+      "text" : "安全局",
+      "expanded" : false,
+      "leaf" : true,
+      "extraAttributes" : {
+        "owner" : [ ],
+        "code" : "AQJ",
+        "displayName" : "安全局",
+        "idRel" : "principals/0873dcdb-ce08-46ab-ab9e-51141a24e0f2",
+        "orders" : 0
+      }
+    }, {
+      "parentId" : "15edd9c1-accd-456d-8cc0-a645768c62c6",
+      "id" : "380c3898-e298-4fad-9ed7-8d862beeed59",
+      "text" : "财政局",
+      "expanded" : false,
+      "leaf" : true,
+      "extraAttributes" : {
+        "owner" : [ ],
+        "code" : "CZJ",
+        "displayName" : "财政局",
+        "idRel" : "principals/380c3898-e298-4fad-9ed7-8d862beeed59",
+        "orders" : 0
+      }
+    }, {
+      "parentId" : "15edd9c1-accd-456d-8cc0-a645768c62c6",
+      "id" : "39b2dc5c-fb43-4d07-9da0-4bc196d4a5f4",
+      "text" : "人力社保局",
+      "expanded" : false,
+      "leaf" : true,
+      "extraAttributes" : {
+        "owner" : [ ],
+        "code" : "SBJ",
+        "displayName" : "人力社保局",
+        "idRel" : "principals/39b2dc5c-fb43-4d07-9da0-4bc196d4a5f4",
+        "orders" : 0
+      }
+    }, {
+      "parentId" : "15edd9c1-accd-456d-8cc0-a645768c62c6",
+      "id" : "8cefbb8c-174c-47e1-8607-3198d132d497",
+      "text" : "国土房管局",
+      "expanded" : false,
+      "leaf" : true,
+      "extraAttributes" : {
+        "owner" : [ ],
+        "code" : "FGJ",
+        "displayName" : "国土房管局",
+        "idRel" : "principals/8cefbb8c-174c-47e1-8607-3198d132d497",
+        "orders" : 0
+      }
+    }, {
+      "parentId" : "15edd9c1-accd-456d-8cc0-a645768c62c6",
+      "id" : "77b86f62-5202-4bfc-a376-9d3f68606a65",
+      "text" : "建委",
+      "expanded" : false,
+      "leaf" : true,
+      "extraAttributes" : {
+        "owner" : [ ],
+        "code" : "JZW",
+        "displayName" : "建委",
+        "idRel" : "principals/77b86f62-5202-4bfc-a376-9d3f68606a65",
+        "orders" : 0
+      }
+    }, {
+      "parentId" : "15edd9c1-accd-456d-8cc0-a645768c62c6",
+      "id" : "61f1c7ab-f42e-44a7-bc2f-f3e265361d7a",
+      "text" : "市容园林委",
+      "expanded" : false,
+      "leaf" : true,
+      "extraAttributes" : {
+        "owner" : [ ],
+        "code" : "YLW",
+        "displayName" : "市容园林委",
+        "idRel" : "principals/61f1c7ab-f42e-44a7-bc2f-f3e265361d7a",
+        "orders" : 0
+      }
+    }, {
+      "parentId" : "15edd9c1-accd-456d-8cc0-a645768c62c6",
+      "id" : "658d6202-7000-4e71-9cf5-67dcaf3a5b69",
+      "text" : "农委",
+      "expanded" : false,
+      "leaf" : true,
+      "extraAttributes" : {
+        "owner" : [ ],
+        "code" : "SNW",
+        "displayName" : "农委",
+        "idRel" : "principals/658d6202-7000-4e71-9cf5-67dcaf3a5b69",
+        "orders" : 0
+      }
+    }, {
+      "parentId" : "15edd9c1-accd-456d-8cc0-a645768c62c6",
+      "id" : "396bf7fb-77d6-4235-a28e-903caf126532",
+      "text" : "水务局",
+      "expanded" : false,
+      "leaf" : true,
+      "extraAttributes" : {
+        "owner" : [ ],
+        "code" : "SWJ",
+        "displayName" : "水务局",
+        "idRel" : "principals/396bf7fb-77d6-4235-a28e-903caf126532",
+        "orders" : 0
+      }
+    }, {
+      "parentId" : "15edd9c1-accd-456d-8cc0-a645768c62c6",
+      "id" : "23358a99-25b1-45a0-89db-da312633e65b",
+      "text" : "文化广播影视局",
+      "expanded" : false,
+      "leaf" : true,
+      "extraAttributes" : {
+        "owner" : [ ],
+        "code" : "YSJ",
+        "displayName" : "文化广播影视局",
+        "idRel" : "principals/23358a99-25b1-45a0-89db-da312633e65b",
+        "orders" : 0
+      }
+    }, {
+      "parentId" : "15edd9c1-accd-456d-8cc0-a645768c62c6",
+      "id" : "f3801ba6-f07c-40e7-9889-0b680f3a0f2e",
+      "text" : "卫生计生委",
+      "expanded" : false,
+      "leaf" : true,
+      "extraAttributes" : {
+        "owner" : [ ],
+        "code" : "WJW",
+        "displayName" : "卫生计生委",
+        "idRel" : "principals/f3801ba6-f07c-40e7-9889-0b680f3a0f2e",
+        "orders" : 0
+      }
+    }, {
+      "parentId" : "15edd9c1-accd-456d-8cc0-a645768c62c6",
+      "id" : "00ca4364-5ad1-47d8-a8e6-28378efef88f",
+      "text" : "审计局",
+      "expanded" : false,
+      "leaf" : true,
+      "extraAttributes" : {
+        "owner" : [ ],
+        "code" : "SJJ",
+        "displayName" : "审计局",
+        "idRel" : "principals/00ca4364-5ad1-47d8-a8e6-28378efef88f",
+        "orders" : 0
+      }
+    }, {
+      "parentId" : "15edd9c1-accd-456d-8cc0-a645768c62c6",
+      "id" : "88b11c45-be89-470d-abb9-4d2bee40db3c",
+      "text" : "外办",
+      "expanded" : false,
+      "leaf" : true,
+      "extraAttributes" : {
+        "owner" : [ ],
+        "code" : "SWB",
+        "displayName" : "外办",
+        "idRel" : "principals/88b11c45-be89-470d-abb9-4d2bee40db3c",
+        "orders" : 0
+      }
+    }, {
+      "parentId" : "15edd9c1-accd-456d-8cc0-a645768c62c6",
+      "id" : "0af36ccb-c961-4fd5-87e1-fd21cc57fb67",
+      "text" : "交通运输委",
+      "expanded" : false,
+      "leaf" : true,
+      "extraAttributes" : {
+        "owner" : [ ],
+        "code" : "YSW",
+        "displayName" : "交通运输委",
+        "idRel" : "principals/0af36ccb-c961-4fd5-87e1-fd21cc57fb67",
+        "orders" : 0
+      }
+    }, {
+      "parentId" : "15edd9c1-accd-456d-8cc0-a645768c62c6",
+      "id" : "437abded-96a8-49f0-923f-2a0c1d8ec062",
+      "text" : "市场监管委",
+      "expanded" : false,
+      "leaf" : true,
+      "extraAttributes" : {
+        "owner" : [ ],
+        "code" : "JGW",
+        "displayName" : "市场监管委",
+        "idRel" : "principals/437abded-96a8-49f0-923f-2a0c1d8ec062",
+        "orders" : 0
+      }
+    }, {
+      "parentId" : "15edd9c1-accd-456d-8cc0-a645768c62c6",
+      "id" : "a85f7521-3651-406d-8f95-dc2ad2d09d45",
+      "text" : "国资委",
+      "expanded" : false,
+      "leaf" : true,
+      "extraAttributes" : {
+        "owner" : [ ],
+        "code" : "GZW",
+        "displayName" : "国资委",
+        "idRel" : "principals/a85f7521-3651-406d-8f95-dc2ad2d09d45",
+        "orders" : 0
+      }
+    }, {
+      "parentId" : "15edd9c1-accd-456d-8cc0-a645768c62c6",
+      "id" : "4d084ac4-b0da-414b-927b-69f99660f197",
+      "text" : "统计局",
+      "expanded" : false,
+      "leaf" : true,
+      "extraAttributes" : {
+        "owner" : [ ],
+        "code" : "TJJ",
+        "displayName" : "统计局",
+        "idRel" : "principals/4d084ac4-b0da-414b-927b-69f99660f197",
+        "orders" : 0
+      }
+    }, {
+      "parentId" : "15edd9c1-accd-456d-8cc0-a645768c62c6",
+      "id" : "5bb918d7-74c6-4436-87eb-43896cd75040",
+      "text" : "旅游局",
+      "expanded" : false,
+      "leaf" : true,
+      "extraAttributes" : {
+        "owner" : [ ],
+        "code" : "LYJ",
+        "displayName" : "旅游局",
+        "idRel" : "principals/5bb918d7-74c6-4436-87eb-43896cd75040",
+        "orders" : 0
+      }
+    }, {
+      "parentId" : "15edd9c1-accd-456d-8cc0-a645768c62c6",
+      "id" : "34036b68-04cb-4b21-a0f2-418c7f666c25",
+      "text" : "出版局",
+      "expanded" : false,
+      "leaf" : true,
+      "extraAttributes" : {
+        "owner" : [ ],
+        "code" : "CBJ",
+        "displayName" : "出版局",
+        "idRel" : "principals/34036b68-04cb-4b21-a0f2-418c7f666c25",
+        "orders" : 0
+      }
+    }, {
+      "parentId" : "15edd9c1-accd-456d-8cc0-a645768c62c6",
+      "id" : "07a61baf-e5e6-4447-9b38-85e4220487fd",
+      "text" : "安全监管局",
+      "expanded" : false,
+      "leaf" : true,
+      "extraAttributes" : {
+        "owner" : [ ],
+        "code" : "JGJ",
+        "displayName" : "安全监管局",
+        "idRel" : "principals/07a61baf-e5e6-4447-9b38-85e4220487fd",
+        "orders" : 0
+      }
+    }, {
+      "parentId" : "15edd9c1-accd-456d-8cc0-a645768c62c6",
+      "id" : "7c5aa294-7ef4-44c4-a7a1-53c0255233e9",
+      "text" : "机关事务管理局",
+      "expanded" : false,
+      "leaf" : true,
+      "extraAttributes" : {
+        "owner" : [ ],
+        "code" : "GLJ",
+        "displayName" : "机关事务管理局",
+        "idRel" : "principals/7c5aa294-7ef4-44c4-a7a1-53c0255233e9",
+        "orders" : 0
+      }
+    }, {
+      "parentId" : "15edd9c1-accd-456d-8cc0-a645768c62c6",
+      "id" : "20520907-7525-4bcd-914f-d001332a5032",
+      "text" : "知识产权局",
+      "expanded" : false,
+      "leaf" : true,
+      "extraAttributes" : {
+        "owner" : [ ],
+        "code" : "CQJ",
+        "displayName" : "知识产权局",
+        "idRel" : "principals/20520907-7525-4bcd-914f-d001332a5032",
+        "orders" : 0
+      }
+    }, {
+      "parentId" : "15edd9c1-accd-456d-8cc0-a645768c62c6",
+      "id" : "5b907fd6-60e2-448e-9111-f02011674f16",
+      "text" : "法制办",
+      "expanded" : false,
+      "leaf" : true,
+      "extraAttributes" : {
+        "owner" : [ ],
+        "code" : "FZB",
+        "displayName" : "法制办",
+        "idRel" : "principals/5b907fd6-60e2-448e-9111-f02011674f16",
+        "orders" : 0
+      }
+    }, {
+      "parentId" : "15edd9c1-accd-456d-8cc0-a645768c62c6",
+      "id" : "9197c109-5fd3-4b79-835d-498979dfb015",
+      "text" : "政府研究室",
+      "expanded" : false,
+      "leaf" : true,
+      "extraAttributes" : {
+        "owner" : [ ],
+        "code" : "YJS",
+        "displayName" : "政府研究室",
+        "idRel" : "principals/9197c109-5fd3-4b79-835d-498979dfb015",
+        "orders" : 0
+      }
+    }, {
+      "parentId" : "15edd9c1-accd-456d-8cc0-a645768c62c6",
+      "id" : "cfd35957-404e-4a4e-922e-c3792cd113d9",
+      "text" : "信访办",
+      "expanded" : false,
+      "leaf" : true,
+      "extraAttributes" : {
+        "owner" : [ ],
+        "code" : "XFB",
+        "displayName" : "信访办",
+        "idRel" : "principals/cfd35957-404e-4a4e-922e-c3792cd113d9",
+        "orders" : 0
+      }
+    }, {
+      "parentId" : "15edd9c1-accd-456d-8cc0-a645768c62c6",
+      "id" : "08fc241a-0872-4db0-ad37-4f5f93fb5715",
+      "text" : "侨办",
+      "expanded" : false,
+      "leaf" : true,
+      "extraAttributes" : {
+        "owner" : [ ],
+        "code" : "SQB",
+        "displayName" : "侨办",
+        "idRel" : "principals/08fc241a-0872-4db0-ad37-4f5f93fb5715",
+        "orders" : 0
+      }
+    }, {
+      "parentId" : "15edd9c1-accd-456d-8cc0-a645768c62c6",
+      "id" : "6ae30bfb-8108-4bcf-9c07-e07ba3e47d2e",
+      "text" : "合作交流办",
+      "expanded" : false,
+      "leaf" : true,
+      "extraAttributes" : {
+        "owner" : [ ],
+        "code" : "JLB",
+        "displayName" : "合作交流办",
+        "idRel" : "principals/6ae30bfb-8108-4bcf-9c07-e07ba3e47d2e",
+        "orders" : 0
+      }
+    }, {
+      "parentId" : "15edd9c1-accd-456d-8cc0-a645768c62c6",
+      "id" : "a221efad-b6b8-453b-9ce6-09dc8a9732d2",
+      "text" : "人防办",
+      "expanded" : false,
+      "leaf" : true,
+      "extraAttributes" : {
+        "owner" : [ ],
+        "code" : "RFB",
+        "displayName" : "人防办",
+        "idRel" : "principals/a221efad-b6b8-453b-9ce6-09dc8a9732d2",
+        "orders" : 0
+      }
+    }, {
+      "parentId" : "15edd9c1-accd-456d-8cc0-a645768c62c6",
+      "id" : "da2862b8-76f6-4f57-a227-cd1983ef3dcf",
+      "text" : "金融局",
+      "expanded" : false,
+      "leaf" : true,
+      "extraAttributes" : {
+        "owner" : [ ],
+        "code" : "JRJ",
+        "displayName" : "金融局",
+        "idRel" : "principals/da2862b8-76f6-4f57-a227-cd1983ef3dcf",
+        "orders" : 0
+      }
+    }, {
+      "parentId" : "15edd9c1-accd-456d-8cc0-a645768c62c6",
+      "id" : "9b904b98-4646-4eb7-94e5-5ae04b29fd9d",
+      "text" : "口岸办",
+      "expanded" : false,
+      "leaf" : true,
+      "extraAttributes" : {
+        "owner" : [ ],
+        "code" : "KAB",
+        "displayName" : "口岸办",
+        "idRel" : "principals/9b904b98-4646-4eb7-94e5-5ae04b29fd9d",
+        "orders" : 0
+      }
+    }, {
+      "parentId" : "15edd9c1-accd-456d-8cc0-a645768c62c6",
+      "id" : "1336610b-5459-4b86-9e30-e928a1168f15",
+      "text" : "审批办",
+      "expanded" : false,
+      "leaf" : true,
+      "extraAttributes" : {
+        "owner" : [ ],
+        "code" : "SPB",
+        "displayName" : "审批办",
+        "idRel" : "principals/1336610b-5459-4b86-9e30-e928a1168f15",
+        "orders" : 0
+      }
+    }, {
+      "parentId" : "15edd9c1-accd-456d-8cc0-a645768c62c6",
+      "id" : "dc06c65d-3998-4c86-b124-d040872f6797",
+      "text" : "中小企业局",
+      "expanded" : false,
+      "leaf" : true,
+      "extraAttributes" : {
+        "owner" : [ ],
+        "code" : "QYJ",
+        "displayName" : "中小企业局",
+        "idRel" : "principals/dc06c65d-3998-4c86-b124-d040872f6797",
+        "orders" : 0
+      }
+    }, {
+      "parentId" : "15edd9c1-accd-456d-8cc0-a645768c62c6",
+      "id" : "d0d2bf65-86c8-46ff-ab7b-1d3b4c285a34",
+      "text" : "公务员局",
+      "expanded" : false,
+      "leaf" : true,
+      "extraAttributes" : {
+        "owner" : [ ],
+        "code" : "GWJ",
+        "displayName" : "公务员局",
+        "idRel" : "principals/d0d2bf65-86c8-46ff-ab7b-1d3b4c285a34",
+        "orders" : 0
+      }
+    }, {
+      "parentId" : "15edd9c1-accd-456d-8cc0-a645768c62c6",
+      "id" : "69b322ae-aa84-4430-869e-252ce92e1964",
+      "text" : "外专局",
+      "expanded" : false,
+      "leaf" : true,
+      "extraAttributes" : {
+        "owner" : [ ],
+        "code" : "ZWJ",
+        "displayName" : "外专局",
+        "idRel" : "principals/69b322ae-aa84-4430-869e-252ce92e1964",
+        "orders" : 0
+      }
+    }, {
+      "parentId" : "15edd9c1-accd-456d-8cc0-a645768c62c6",
+      "id" : "9b0fd37c-a9e3-4807-99ca-f988cbdbee0a",
+      "text" : "监狱局",
+      "expanded" : false,
+      "leaf" : true,
+      "extraAttributes" : {
+        "owner" : [ ],
+        "code" : "JYJ",
+        "displayName" : "监狱局",
+        "idRel" : "principals/9b0fd37c-a9e3-4807-99ca-f988cbdbee0a",
+        "orders" : 0
+      }
+    }, {
+      "parentId" : "15edd9c1-accd-456d-8cc0-a645768c62c6",
+      "id" : "d2c17ce5-e42c-4150-9481-d62f36f16a5f",
+      "text" : "戒毒局",
+      "expanded" : false,
+      "leaf" : true,
+      "extraAttributes" : {
+        "owner" : [ ],
+        "code" : "JDJ",
+        "displayName" : "戒毒局",
+        "idRel" : "principals/d2c17ce5-e42c-4150-9481-d62f36f16a5f",
+        "orders" : 0
+      }
+    }, {
+      "parentId" : "15edd9c1-accd-456d-8cc0-a645768c62c6",
+      "id" : "f57fcec7-c459-40fe-b476-d8c63f0b4011",
+      "text" : "社团局",
+      "expanded" : false,
+      "leaf" : true,
+      "extraAttributes" : {
+        "owner" : [ ],
+        "code" : "STJ",
+        "displayName" : "社团局",
+        "idRel" : "principals/f57fcec7-c459-40fe-b476-d8c63f0b4011",
+        "orders" : 0
+      }
+    }, {
+      "parentId" : "15edd9c1-accd-456d-8cc0-a645768c62c6",
+      "id" : "97e86b7f-b300-46fb-bdd3-2294818571a2",
+      "text" : "城市管理综合执法局",
+      "expanded" : false,
+      "leaf" : true,
+      "extraAttributes" : {
+        "owner" : [ ],
+        "code" : "ZFJ",
+        "displayName" : "城市管理综合执法局",
+        "idRel" : "principals/97e86b7f-b300-46fb-bdd3-2294818571a2",
+        "orders" : 0
+      }
+    }, {
+      "parentId" : "15edd9c1-accd-456d-8cc0-a645768c62c6",
+      "id" : "296efb00-82c7-4162-a954-de6f147dd58e",
+      "text" : "应急办",
+      "expanded" : false,
+      "leaf" : true,
+      "extraAttributes" : {
+        "owner" : [ ],
+        "code" : "YJB",
+        "displayName" : "应急办",
+        "idRel" : "principals/296efb00-82c7-4162-a954-de6f147dd58e",
+        "orders" : 0
+      }
+    }, {
+      "parentId" : "15edd9c1-accd-456d-8cc0-a645768c62c6",
+      "id" : "6ba061b2-e628-4747-bac6-6f5d4bb68575",
+      "text" : "台办",
+      "expanded" : false,
+      "leaf" : true,
+      "extraAttributes" : {
+        "owner" : [ ],
+        "code" : "STB",
+        "displayName" : "台办",
+        "idRel" : "principals/6ba061b2-e628-4747-bac6-6f5d4bb68575",
+        "orders" : 0
+      }
+    }, {
+      "parentId" : "15edd9c1-accd-456d-8cc0-a645768c62c6",
+      "id" : "a9bddf74-762e-4a85-b6dd-45eef6921406",
+      "text" : "新闻办",
+      "expanded" : false,
+      "leaf" : true,
+      "extraAttributes" : {
+        "owner" : [ ],
+        "code" : "XWB",
+        "displayName" : "新闻办",
+        "idRel" : "principals/a9bddf74-762e-4a85-b6dd-45eef6921406",
+        "orders" : 0
+      }
+    }, {
+      "parentId" : "15edd9c1-accd-456d-8cc0-a645768c62c6",
+      "id" : "17cd17b4-e70a-48de-8936-dcc3475ffa3c",
+      "text" : "保密局",
+      "expanded" : false,
+      "leaf" : true,
+      "extraAttributes" : {
+        "owner" : [ ],
+        "code" : "BMJ",
+        "displayName" : "保密局",
+        "idRel" : "principals/17cd17b4-e70a-48de-8936-dcc3475ffa3c",
+        "orders" : 0
+      }
+    }, {
+      "parentId" : "15edd9c1-accd-456d-8cc0-a645768c62c6",
+      "id" : "7cdb69b0-c756-4615-b134-acadebc484ee",
+      "text" : "密码局",
+      "expanded" : false,
+      "leaf" : true,
+      "extraAttributes" : {
+        "owner" : [ ],
+        "code" : "MMJ",
+        "displayName" : "密码局",
+        "idRel" : "principals/7cdb69b0-c756-4615-b134-acadebc484ee",
+        "orders" : 0
+      }
+    }, {
+      "parentId" : "15edd9c1-accd-456d-8cc0-a645768c62c6",
+      "id" : "191ffd5e-38d2-4b5b-be6b-90ef788da0a7",
+      "text" : "档案局",
+      "expanded" : false,
+      "leaf" : true,
+      "extraAttributes" : {
+        "owner" : [ ],
+        "code" : "DAJ",
+        "displayName" : "档案局",
+        "idRel" : "principals/191ffd5e-38d2-4b5b-be6b-90ef788da0a7",
+        "orders" : 0
+      }
+    }, {
+      "parentId" : "15edd9c1-accd-456d-8cc0-a645768c62c6",
+      "id" : "681f8d85-d0cf-45b5-b6c8-788f96466ba6",
+      "text" : "文化执法总队",
+      "expanded" : false,
+      "leaf" : true,
+      "extraAttributes" : {
+        "owner" : [ ],
+        "code" : "WZD",
+        "displayName" : "文化执法总队",
+        "idRel" : "principals/681f8d85-d0cf-45b5-b6c8-788f96466ba6",
+        "orders" : 0
+      }
+    }, {
+      "parentId" : "15edd9c1-accd-456d-8cc0-a645768c62c6",
+      "id" : "130da0c4-08a4-4c8c-b444-33bc10d2d120",
+      "text" : "鱼政渔港监管处",
+      "expanded" : false,
+      "leaf" : true,
+      "extraAttributes" : {
+        "owner" : [ ],
+        "code" : "YGC",
+        "displayName" : "鱼政渔港监管处",
+        "idRel" : "principals/130da0c4-08a4-4c8c-b444-33bc10d2d120",
+        "orders" : 0
+      }
+    }, {
+      "parentId" : "15edd9c1-accd-456d-8cc0-a645768c62c6",
+      "id" : "84d80007-9a36-4a70-9600-08188e13c2f6",
+      "text" : "动物卫生监督所",
+      "expanded" : false,
+      "leaf" : true,
+      "extraAttributes" : {
+        "owner" : [ ],
+        "code" : "DWS",
+        "displayName" : "动物卫生监督所",
+        "idRel" : "principals/84d80007-9a36-4a70-9600-08188e13c2f6",
+        "orders" : 0
+      }
+    }, {
+      "parentId" : "15edd9c1-accd-456d-8cc0-a645768c62c6",
+      "id" : "10d8b362-fe01-4d73-8337-ad961b677c35",
+      "text" : "客管办",
+      "expanded" : false,
+      "leaf" : true,
+      "extraAttributes" : {
+        "owner" : [ ],
+        "code" : "KGB",
+        "displayName" : "客管办",
+        "idRel" : "principals/10d8b362-fe01-4d73-8337-ad961b677c35",
+        "orders" : 0
+      }
+    }, {
+      "parentId" : "15edd9c1-accd-456d-8cc0-a645768c62c6",
+      "id" : "2441e779-4f7a-47b8-aca6-8f032f18e732",
+      "text" : "航管处",
+      "expanded" : false,
+      "leaf" : true,
+      "extraAttributes" : {
+        "owner" : [ ],
+        "code" : "HGC",
+        "displayName" : "航管处",
+        "idRel" : "principals/2441e779-4f7a-47b8-aca6-8f032f18e732",
+        "orders" : 0
+      }
+    }, {
+      "parentId" : "15edd9c1-accd-456d-8cc0-a645768c62c6",
+      "id" : "0057d22a-25e4-4286-90cc-10d44a216541",
+      "text" : "无委办",
+      "expanded" : false,
+      "leaf" : true,
+      "extraAttributes" : {
+        "owner" : [ ],
+        "code" : "WWB",
+        "displayName" : "无委办",
+        "idRel" : "principals/0057d22a-25e4-4286-90cc-10d44a216541",
+        "orders" : 0
+      }
+    }, {
+      "parentId" : "15edd9c1-accd-456d-8cc0-a645768c62c6",
+      "id" : "77a7138e-2a5a-443d-8470-7798ac3be1ef",
+      "text" : "法人办",
+      "expanded" : false,
+      "leaf" : true,
+      "extraAttributes" : {
+        "owner" : [ ],
+        "code" : "FRB",
+        "displayName" : "法人办",
+        "idRel" : "principals/77a7138e-2a5a-443d-8470-7798ac3be1ef",
+        "orders" : 0
+      }
+    }, {
+      "parentId" : "15edd9c1-accd-456d-8cc0-a645768c62c6",
+      "id" : "e18bb741-0acd-4b84-8c4c-10bf8c9f6d23",
+      "text" : "公基金管理中心",
+      "expanded" : false,
+      "leaf" : true,
+      "extraAttributes" : {
+        "owner" : [ ],
+        "code" : "GJJ",
+        "displayName" : "公基金管理中心",
+        "idRel" : "principals/e18bb741-0acd-4b84-8c4c-10bf8c9f6d23",
+        "orders" : 0
+      }
+    } ],
+    "extraAttributes" : {
+      "owner" : [ ],
+      "code" : "SZF",
+      "displayName" : "市政府",
+      "idRel" : "principals/15edd9c1-accd-456d-8cc0-a645768c62c6",
+      "orders" : 0
+    }
+  } ]
+}

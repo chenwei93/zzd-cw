@@ -1,0 +1,328 @@
+{
+  "id" : "root",
+  "text" : "根节点",
+  "expanded" : false,
+  "leaf" : false,
+  "children" : [ {
+    "parentId" : "root",
+    "id" : "3e1b816f-81e1-4911-9a4a-7b1ca8d9bcaf",
+    "text" : "实施应用分类",
+    "expanded" : false,
+    "leaf" : false,
+    "children" : [ {
+      "parentId" : "3e1b816f-81e1-4911-9a4a-7b1ca8d9bcaf",
+      "id" : "d0a6a863-4322-4aa5-8c07-9862e3797264",
+      "text" : "基础信息类",
+      "expanded" : false,
+      "leaf" : false,
+      "children" : [ {
+        "parentId" : "d0a6a863-4322-4aa5-8c07-9862e3797264",
+        "id" : "e064d0c4-d18c-447d-a582-b59bc39aed5b",
+        "text" : "人口信息资源库",
+        "expanded" : false,
+        "leaf" : true,
+        "extraAttributes" : {
+          "code" : "XXYA00",
+          "idRel" : "dictionaryItems/XXYA00",
+          "value" : "A00",
+          "desc" : null
+        }
+      }, {
+        "parentId" : "d0a6a863-4322-4aa5-8c07-9862e3797264",
+        "id" : "c64da161-3751-4db6-86d5-302a5a8ccfa4",
+        "text" : "法人单位信息资源库",
+        "expanded" : false,
+        "leaf" : false,
+        "children" : [ {
+          "parentId" : "c64da161-3751-4db6-86d5-302a5a8ccfa4",
+          "id" : "966dfaf9-84e2-46a3-b66f-4eb3e5130ed4",
+          "text" : "行政",
+          "expanded" : false,
+          "leaf" : true,
+          "extraAttributes" : {
+            "code" : "XXYFRYA00",
+            "idRel" : "dictionaryItems/XXYFRYA00",
+            "value" : "A00",
+            "desc" : null
+          }
+        }, {
+          "parentId" : "c64da161-3751-4db6-86d5-302a5a8ccfa4",
+          "id" : "a8c33558-c9fe-4cf0-b4e8-94d461838735",
+          "text" : "事业",
+          "expanded" : false,
+          "leaf" : true,
+          "extraAttributes" : {
+            "code" : "XXYFRYB00",
+            "idRel" : "dictionaryItems/XXYFRYB00",
+            "value" : "B00",
+            "desc" : null
+          }
+        }, {
+          "parentId" : "c64da161-3751-4db6-86d5-302a5a8ccfa4",
+          "id" : "c9a4b87d-894a-43f9-9de0-4569c02d0ded",
+          "text" : "企业",
+          "expanded" : false,
+          "leaf" : true,
+          "extraAttributes" : {
+            "code" : "XXYFRYC00",
+            "idRel" : "dictionaryItems/XXYFRYC00",
+            "value" : "C00",
+            "desc" : null
+          }
+        } ],
+        "extraAttributes" : {
+          "code" : "XXYFRY",
+          "idRel" : "dictionaryItems/XXYFRY",
+          "value" : "FRY",
+          "desc" : null
+        }
+      }, {
+        "parentId" : "d0a6a863-4322-4aa5-8c07-9862e3797264",
+        "id" : "7258b021-1369-4276-a956-6de8ff9d5965",
+        "text" : "空间地理信息资源库",
+        "expanded" : false,
+        "leaf" : true,
+        "extraAttributes" : {
+          "code" : "XXYD00",
+          "idRel" : "dictionaryItems/XXYD00",
+          "value" : "D00",
+          "desc" : null
+        }
+      } ],
+      "extraAttributes" : {
+        "code" : "XXY",
+        "idRel" : "dictionaryItems/XXY",
+        "value" : "XXY",
+        "desc" : null
+      }
+    }, {
+      "parentId" : "3e1b816f-81e1-4911-9a4a-7b1ca8d9bcaf",
+      "id" : "89842506-060e-4940-88db-49da992dd069",
+      "text" : "主题信息资源类",
+      "expanded" : false,
+      "leaf" : false,
+      "children" : [ {
+        "parentId" : "89842506-060e-4940-88db-49da992dd069",
+        "id" : "814694f5-6316-4e29-acb2-83905355a791",
+        "text" : "全民社会保障",
+        "expanded" : false,
+        "leaf" : false,
+        "children" : [ {
+          "parentId" : "814694f5-6316-4e29-acb2-83905355a791",
+          "id" : "46bee08b-b9da-4784-afc3-0a7991392fe0",
+          "text" : "社会保险",
+          "expanded" : false,
+          "leaf" : true,
+          "extraAttributes" : {
+            "code" : "ZTY00MSBA00",
+            "idRel" : "dictionaryItems/ZTY00MSBA00",
+            "value" : "A00",
+            "desc" : null
+          }
+        }, {
+          "parentId" : "814694f5-6316-4e29-acb2-83905355a791",
+          "id" : "5905df90-0ae9-42a0-a848-fe55c218fd78",
+          "text" : "社会救助",
+          "expanded" : false,
+          "leaf" : true,
+          "extraAttributes" : {
+            "code" : "ZTY00MSBB00",
+            "idRel" : "dictionaryItems/ZTY00MSBB00",
+            "value" : "B00",
+            "desc" : null
+          }
+        } ],
+        "extraAttributes" : {
+          "code" : "ZTY00MSB",
+          "idRel" : "dictionaryItems/ZTY00MSB",
+          "value" : "MSB",
+          "desc" : null
+        }
+      }, {
+        "parentId" : "89842506-060e-4940-88db-49da992dd069",
+        "id" : "35e6d361-aadb-465b-a01a-41f12d146925",
+        "text" : "市场价格监管",
+        "expanded" : false,
+        "leaf" : true,
+        "extraAttributes" : {
+          "code" : "ZTY00C00",
+          "idRel" : "dictionaryItems/ZTY00C00",
+          "value" : "C00",
+          "desc" : null
+        }
+      }, {
+        "parentId" : "89842506-060e-4940-88db-49da992dd069",
+        "id" : "8ac9cb46-236a-40c4-aa5e-59716574c75f",
+        "text" : "公共服务事项",
+        "expanded" : false,
+        "leaf" : false,
+        "children" : [ {
+          "parentId" : "8ac9cb46-236a-40c4-aa5e-59716574c75f",
+          "id" : "d0236171-ff19-45bc-8a0e-8c9e27504f01",
+          "text" : "行政许可审批",
+          "expanded" : false,
+          "leaf" : true,
+          "extraAttributes" : {
+            "code" : "ZTY00GFSA00",
+            "idRel" : "dictionaryItems/ZTY00GFSA00",
+            "value" : "A00",
+            "desc" : null
+          }
+        }, {
+          "parentId" : "8ac9cb46-236a-40c4-aa5e-59716574c75f",
+          "id" : "94758a5b-26aa-4389-b8cb-686686e56a92",
+          "text" : "便民服务事项",
+          "expanded" : false,
+          "leaf" : true,
+          "extraAttributes" : {
+            "code" : "ZTY00GFSB00",
+            "idRel" : "dictionaryItems/ZTY00GFSB00",
+            "value" : "B00",
+            "desc" : null
+          }
+        } ],
+        "extraAttributes" : {
+          "code" : "ZTY00GFS",
+          "idRel" : "dictionaryItems/ZTY00GFS",
+          "value" : "GFS",
+          "desc" : null
+        }
+      } ],
+      "extraAttributes" : {
+        "code" : "ZTY00",
+        "idRel" : "dictionaryItems/ZTY00",
+        "value" : "ZTY00",
+        "desc" : null
+      }
+    }, {
+      "parentId" : "3e1b816f-81e1-4911-9a4a-7b1ca8d9bcaf",
+      "id" : "a9893f0d-07c7-445e-b975-cd99eb9b4116",
+      "text" : "部门信息资源类",
+      "expanded" : false,
+      "leaf" : false,
+      "children" : [ {
+        "parentId" : "a9893f0d-07c7-445e-b975-cd99eb9b4116",
+        "id" : "451d917c-f887-4c95-ad0e-bd2e19c052e8",
+        "text" : "党中央",
+        "expanded" : false,
+        "leaf" : true,
+        "extraAttributes" : {
+          "code" : "BMYA00",
+          "idRel" : "dictionaryItems/BMYA00",
+          "value" : "A00",
+          "desc" : null
+        }
+      }, {
+        "parentId" : "a9893f0d-07c7-445e-b975-cd99eb9b4116",
+        "id" : "497b02a7-4498-45d6-93e4-aee8845c7732",
+        "text" : "全国人大委员会",
+        "expanded" : false,
+        "leaf" : true,
+        "extraAttributes" : {
+          "code" : "BMYB00",
+          "idRel" : "dictionaryItems/BMYB00",
+          "value" : "B00",
+          "desc" : null
+        }
+      }, {
+        "parentId" : "a9893f0d-07c7-445e-b975-cd99eb9b4116",
+        "id" : "46bed575-625f-4b6c-9480-a86e71196406",
+        "text" : "国务院",
+        "expanded" : false,
+        "leaf" : false,
+        "children" : [ {
+          "parentId" : "46bed575-625f-4b6c-9480-a86e71196406",
+          "id" : "10011d31-49f1-4786-8efa-3341f933718d",
+          "text" : "发改委",
+          "expanded" : false,
+          "leaf" : true,
+          "extraAttributes" : {
+            "code" : "BMYGWYA00",
+            "idRel" : "dictionaryItems/BMYGWYA00",
+            "value" : "A00",
+            "desc" : null
+          }
+        }, {
+          "parentId" : "46bed575-625f-4b6c-9480-a86e71196406",
+          "id" : "7fb6500c-b959-471a-811c-0ed86eaf2a61",
+          "text" : "财政部",
+          "expanded" : false,
+          "leaf" : true,
+          "extraAttributes" : {
+            "code" : "BMYGWYB00",
+            "idRel" : "dictionaryItems/BMYGWYB00",
+            "value" : "B00",
+            "desc" : null
+          }
+        } ],
+        "extraAttributes" : {
+          "code" : "BMYGWY",
+          "idRel" : "dictionaryItems/BMYGWY",
+          "value" : "GWY",
+          "desc" : null
+        }
+      }, {
+        "parentId" : "a9893f0d-07c7-445e-b975-cd99eb9b4116",
+        "id" : "91d6fc60-05fa-47ec-8b1c-01d1b6f93676",
+        "text" : "全国政协",
+        "expanded" : false,
+        "leaf" : true,
+        "extraAttributes" : {
+          "code" : "BMYC00",
+          "idRel" : "dictionaryItems/BMYC00",
+          "value" : "C00",
+          "desc" : null
+        }
+      }, {
+        "parentId" : "a9893f0d-07c7-445e-b975-cd99eb9b4116",
+        "id" : "cafc8c88-9489-4e54-be2d-715ecb4051e1",
+        "text" : "地方",
+        "expanded" : false,
+        "leaf" : false,
+        "children" : [ {
+          "parentId" : "cafc8c88-9489-4e54-be2d-715ecb4051e1",
+          "id" : "87cc1035-49de-4d39-b21d-f14a2d6fc141",
+          "text" : "北京市",
+          "expanded" : false,
+          "leaf" : true,
+          "extraAttributes" : {
+            "code" : "BMYDF0A00",
+            "idRel" : "dictionaryItems/BMYDF0A00",
+            "value" : "A00",
+            "desc" : null
+          }
+        }, {
+          "parentId" : "cafc8c88-9489-4e54-be2d-715ecb4051e1",
+          "id" : "16e82058-71d0-40c8-be94-32baee5ead85",
+          "text" : "河北省",
+          "expanded" : false,
+          "leaf" : true,
+          "extraAttributes" : {
+            "code" : "BMYDF0B00",
+            "idRel" : "dictionaryItems/BMYDF0B00",
+            "value" : "B00",
+            "desc" : null
+          }
+        } ],
+        "extraAttributes" : {
+          "code" : "BMYDF0",
+          "idRel" : "dictionaryItems/BMYDF0",
+          "value" : "DF0",
+          "desc" : null
+        }
+      } ],
+      "extraAttributes" : {
+        "code" : "BMY",
+        "idRel" : "dictionaryItems/BMY",
+        "value" : "BMY",
+        "desc" : null
+      }
+    } ],
+    "extraAttributes" : {
+      "code" : "CatalogSS",
+      "idRel" : "dictionaryCatalogs/CatalogSS",
+      "value" : "CatalogSS",
+      "desc" : null
+    }
+  } ]
+}

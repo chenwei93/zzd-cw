@@ -1,0 +1,32 @@
+{
+  "content": [{
+      "name": "数据库",
+      "code": "11001/A00034VG345",
+      "describtion": "空间数据成果以MapGis，ArcInfo E00、Coverage、Shape格式存储，规划附表数据库为DBF、Microsoft Access、Microsoft Word格式，规划文本以Microsoft Word，HTML两种格式存储，规划附图成果图件以MapGis格式存储，规划附表成果文件以Microsoft Word格式存储。自编代码字典为DBF格式"
+    },
+    {
+      "name": "图片",
+      "code": "11002/A00034VG345_1",
+      "describtion": "以MapGis，ArcInfo E00、Coverage、Shape格式存储，规划附表数据库为DBF、Microsoft Access、Microsoft Word格式，规划文本以Microsoft Word，HTML两种格式存储，规划附图成果图件以MapGis格式存储，规划附表成果文件以Microsoft Word格式存储。自编代码字典为DBF格式"
+    },
+    {
+      "name": "文档",
+      "code": "11003/A00034VG345_1",
+      "describtion": "规划文本以Microsoft Word，HTML两种格式存储，规划附图成果图件以MapGis格式存储，规划附表成果文件以Microsoft Word格式存储。自编代码字典为DBF格式"
+    },
+    {
+      "name": "音频",
+      "code": "11004/A00034VG345_1",
+      "describtion": "空间数据成果以MapGis，ArcInfo E00、Coverage、Shape格式存储"
+    },
+    {
+      "name": "视频",
+      "code": "11005/A00034VG345_1",
+      "describtion": "自编代码字典为DBF格式"
+    },
+    {
+      "name": "服务",
+      "code": "11006/A00034VG345_1",
+      "describtion": "规划附图成果图件以MapGis格式存储，规划附表成果文件以Microsoft Word格式存储。自编代码字典为DBF格式"
+    }]
+}

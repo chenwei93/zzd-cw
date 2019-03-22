@@ -1,0 +1,262 @@
+{
+  "text": ".",
+  "expanded": true,
+  "children": [
+    {
+      "name": "设备",
+      "code": "sb",
+      "expanded": true,
+      "children": [
+        {
+          "name": "服务器设备",
+          "code": "fwqsb",
+          "children": [
+            {
+              "name": "物理服务器设备",
+              "code": "wlfwqsb",
+              "leaf": true
+            },
+            {
+              "name": "虚拟机服务器",
+              "code": "xnfwq",
+              "leaf": true
+            }
+          ]
+        },
+        {
+          "name": "网络设备",
+          "code": "wlsb",
+          "children": [
+            {
+              "name": "核心交换机",
+              "code": "hxjhj",
+              "leaf": true
+            },
+            {
+              "name": "接入交换机",
+              "code": "jrjhj",
+              "leaf": true
+            },
+            {
+              "name": "负载均衡",
+              "code": "fzjh",
+              "leaf": true
+            }
+          ]
+        },
+        {
+          "name": "安全设备",
+          "code": "aqsb",
+          "children": [
+            {
+              "name": "防火墙",
+              "code": "fhq",
+              "leaf": true
+            },
+            {
+              "name": "堡垒机",
+              "code": "blj",
+              "leaf": true
+            },
+            {
+              "name": "WAF",
+              "code": "waf",
+              "leaf": true
+            },
+            {
+              "name": "准入",
+              "code": "zr",
+              "leaf": true
+            },
+            {
+              "name": "VPN",
+              "code": "vpn",
+              "leaf": true
+            },
+            {
+              "name": "日志服务器",
+              "code": "rzfwq",
+              "leaf": true
+            }
+          ]
+        },
+        {
+          "name": "存储设备",
+          "code": "cssb",
+          "expanded": true,
+          "children": [
+            {
+              "name": "SAN 存储",
+              "code": "sancs",
+              "leaf": true
+            },
+            {
+              "name": "SAN 交换机",
+              "code": "sanjhj",
+              "leaf": true
+            },
+            {
+              "name": "存储网关",
+              "code": "cswg",
+              "leaf": true
+            },
+            {
+              "name": "IPSAN",
+              "code": "ipsan",
+              "leaf": true
+            },
+            {
+              "name": "分布式存储 CSS",
+              "code": "fbscs",
+              "leaf": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "软件系统",
+      "code": "rjxt",
+      "expanded": true,
+      "children": [
+        {
+          "name": "运维系统",
+          "code": "ywxt",
+          "children": [
+            {
+              "name": "DNS",
+              "code": "dns",
+              "leaf": true
+            },
+            {
+              "name": "备份软件",
+              "code": "bfrj",
+              "leaf": true
+            },
+            {
+              "name": "可信计算",
+              "code": "kxjs",
+              "leaf": true
+            },
+            {
+              "name": "防病毒",
+              "code": "fbd",
+              "leaf": true
+            },
+            {
+              "name": "esight",
+              "code": "esight",
+              "leaf": true
+            },
+            {
+              "name": "ftp",
+              "code": "ftp",
+              "leaf": true
+            },
+            {
+              "name": "政务云平台",
+              "code": "zwypt",
+              "leaf": true
+            },
+            {
+              "name": "备份软件",
+              "code": "bfrj",
+              "leaf": true
+            },
+            {
+              "name": "日志采集",
+              "code": "rzcj",
+              "leaf": true
+            },
+            {
+              "name": "电话受理服务系统",
+              "code": "dhslfwxt",
+              "leaf": true
+            },
+            {
+              "name": "数据库性能分析和行为审计",
+              "code": "sjkxnfxhxwsj",
+              "leaf": true
+            },
+            {
+              "name": "信息安全风险管控",
+              "code": "xxaqfxjk",
+              "leaf": true
+            },
+            {
+              "name": "信息安全监控预警及处置服务平台",
+              "code": "xxaqjkyjjczfwpt",
+              "leaf": true
+            },
+            {
+              "name": "可信计算",
+              "code": "kxjs",
+              "leaf": true
+            }
+          ]
+        },
+        {
+          "name": "应用系统",
+          "code": "yyxt",
+          "children": [
+            {
+              "name": "数据架构体系",
+              "code": "sjjgtx",
+              "leaf": true
+            },
+            {
+              "name": "PAAS 平台",
+              "code": "paas",
+              "leaf": true
+            },
+            {
+              "name": "集约化网站群平台",
+              "code": "jyhwzqpt",
+              "leaf": true
+            },
+            {
+              "name": "统一身份认证系统",
+              "code": "tysfrzxt",
+              "leaf": true
+            },
+            {
+              "name": "数据交换平台",
+              "code": "sjjhpt",
+              "leaf": true
+            },
+            {
+              "name": "视频会议系统",
+              "code": "sphyxt",
+              "leaf": true
+            },
+            {
+              "name": "大数据平台",
+              "code": "dsjpt",
+              "leaf": true
+            },
+            {
+              "name": "数据开放平台",
+              "code": "sjkfpt",
+              "leaf": true
+            },
+            {
+              "name": "数据资源共享统一接口平台",
+              "code": "sjzygxtyjkpt",
+              "leaf": true
+            },
+            {
+              "name": "基础设施平台运行事件集中监控处置系统",
+              "code": "jcssptyxsjjzjkczxt",
+              "leaf": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "数字资产",
+      "code": "szzc",
+      "leaf": true
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "content": [
+    {
+      "name": "王石",
+      "code": "wangs",
+      "sex": "男",
+      "date": "19850101",
+      "telephone": "177********",
+      "email": "wangs@zzdit.com",
+      "zjtype":"edsfz",
+      "idcard":"3301**************"
+    },
+    {
+      "name": "莫智胜",
+      "code": "mozs",
+      "sex": "男",
+      "date": "19900101",
+      "telephone": "183********",
+      "email": "mozs@zzdit.com",
+      "zjtype":"edsfz",
+      "idcard":"3309**************"
+    },
+    {
+      "name": "陈薇",
+      "code": "chenw",
+      "sex": "女",
+      "date": "19930101",
+      "telephone": "135********",
+      "email": "chenwei@zzdit.com",
+      "zjtype":"edsfz",
+      "idcard":"3306**************"
+    },
+    {
+      "name": "方荣",
+      "code": "fangr",
+      "sex": "男",
+      "date": "19940101",
+      "telephone": "133********",
+      "email": "fangr@zzdit.com",
+      "zjtype":"edsfz",
+      "idcard":"3305**************"
+    }
+  ]
+}

@@ -1,0 +1,142 @@
+{
+  "links": [
+    {
+      "rel": "self",
+      "href": "http://node.zzdit.com/rbase/api/resourcePools{&sort}"
+    },
+    {
+      "rel": "profile",
+      "href": "http://node.zzdit.com/rbase/api/profile/resourcePools"
+    },
+    {
+      "rel": "search",
+      "href": "http://node.zzdit.com/rbase/api/resourcePools/search"
+    }
+  ],
+  "content": [
+    {
+      "id": "5aaf8083e543eb35f3e805d1",
+      "entityStatus": "Default",
+      "code": "WJCS",
+      "base": "/home/dcsp/dcsp/input",
+      "name": "文件测试",
+      "memo": null,
+      "monitorRule": null,
+      "enableWatched": false,
+      "pollingTimeMillis": 10000,
+      "allowFormat": "File",
+      "defaultOperations": [
+        "Download",
+        "View"
+      ],
+      "enableSearch": false,
+      "enableIndexer": true,
+      "autoCreateResource": true,
+      "rootPath": "/home/dcsp/dcsp/input",
+      "idRel": "fileResourcePools/5aaf8083e543eb35f3e805d1",
+      "content": [],
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://node.zzdit.com/rbase/api/fileResourcePools/5aaf8083e543eb35f3e805d1"
+        },
+        {
+          "rel": "fileResourcePool",
+          "href": "http://node.zzdit.com/rbase/api/fileResourcePools/5aaf8083e543eb35f3e805d1"
+        },
+        {
+          "rel": "resourceNode",
+          "href": "http://node.zzdit.com/rbase/api/fileResourcePools/5aaf8083e543eb35f3e805d1/resourceNode"
+        }
+      ]
+    },
+    {
+      "id": "5aaf8083e543eb35f3e805d2",
+      "entityStatus": "Default",
+      "code": "SJKCS",
+      "base": "test",
+      "name": "数据库测试",
+      "memo": null,
+      "monitorRule": null,
+      "enableWatched": true,
+      "pollingTimeMillis": 10000,
+      "allowFormat": "Db",
+      "defaultOperations": [
+        "Query"
+      ],
+      "enableSearch": false,
+      "enableIndexer": true,
+      "autoCreateResource": true,
+      "dbType": "Mysql",
+      "dbProperty": {
+        "password": "test@)!&",
+        "jdbcUrl": "jdbc:mysql://dcspserver:3306/test?useUnicode=true&characterEncoding=utf8&useSSL=false",
+        "username": "test"
+      },
+      "databaseName": "test",
+      "idRel": "dbResourcePools/5aaf8083e543eb35f3e805d2",
+      "content": [],
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://node.zzdit.com/rbase/api/dbResourcePools/5aaf8083e543eb35f3e805d2"
+        },
+        {
+          "rel": "dbResourcePool",
+          "href": "http://node.zzdit.com/rbase/api/dbResourcePools/5aaf8083e543eb35f3e805d2"
+        },
+        {
+          "rel": "resourceNode",
+          "href": "http://node.zzdit.com/rbase/api/dbResourcePools/5aaf8083e543eb35f3e805d2/resourceNode"
+        }
+      ]
+    },
+    {
+      "id": "5aaf8083e543eb35f3e805d3",
+      "entityStatus": "Default",
+      "code": "TJYS",
+      "base": "tjsx",
+      "name": "天津演示",
+      "memo": null,
+      "monitorRule": null,
+      "enableWatched": true,
+      "pollingTimeMillis": 10000,
+      "allowFormat": "Db",
+      "defaultOperations": [
+        "Query"
+      ],
+      "enableSearch": false,
+      "enableIndexer": true,
+      "autoCreateResource": true,
+      "dbType": "Mysql",
+      "dbProperty": {
+        "password": "test@)!&",
+        "jdbcUrl": "jdbc:mysql://dcspserver:3306/test?useUnicode=true&characterEncoding=utf8&useSSL=false",
+        "username": "test"
+      },
+      "databaseName": "tjsx",
+      "idRel": "dbResourcePools/5aaf8083e543eb35f3e805d3",
+      "content": [],
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://node.zzdit.com/rbase/api/dbResourcePools/5aaf8083e543eb35f3e805d3"
+        },
+        {
+          "rel": "dbResourcePool",
+          "href": "http://node.zzdit.com/rbase/api/dbResourcePools/5aaf8083e543eb35f3e805d3"
+        },
+        {
+          "rel": "resourceNode",
+          "href": "http://node.zzdit.com/rbase/api/dbResourcePools/5aaf8083e543eb35f3e805d3/resourceNode"
+        }
+      ]
+    }
+  ],
+  "page": {
+    "size": 25,
+    "totalElements": 3,
+    "totalPages": 1,
+    "number": 0
+  }
+}

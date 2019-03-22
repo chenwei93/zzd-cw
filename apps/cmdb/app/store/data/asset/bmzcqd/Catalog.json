@@ -1,0 +1,20 @@
+{
+  "content": [
+    {
+      "text": "资产类型",
+      "code": "assetType"
+    },
+    {
+      "text": "国标主题分类",
+      "code": "catalogGB"
+    },
+    {
+      "text": "行业分类",
+      "code": "catalogHY"
+    },
+    {
+      "text": "实施应用分类",
+      "code": "catalogSS"
+    }
+  ]
+}

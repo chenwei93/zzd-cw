@@ -1,0 +1,40 @@
+{
+  "content": [
+    {
+      "text": "事件类型",
+      "name": "event",
+      "code": "event"
+    },
+    {
+      "text": "问题类型",
+      "name": "question",
+      "code": "question"
+    },
+    {
+      "text": "审计类型",
+      "name": "audit",
+      "code": "audit"
+    },
+    {
+      "text": "值班类型",
+      "name": "attendance",
+      "code": "attendance"
+    },
+    {
+      "text": "巡检类型",
+      "name": "inspection",
+      "code": "inspection"
+
+    },
+    {
+      "text": "应急演练类型",
+      "name": "emergency",
+      "code": "emergency"
+    },
+    {
+      "text": "项目类型",
+      "name": "project",
+      "code": "project"
+    }
+  ]
+}

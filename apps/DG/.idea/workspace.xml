@@ -1,0 +1,877 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e184c13b-b482-4000-a67f-ebf30928d317" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../drdms/app/view/main/MainController.js" beforeDir="false" afterPath="$PROJECT_DIR$/../drdms/app/view/main/MainController.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../starter/bootstrap.json" beforeDir="false" afterPath="$PROJECT_DIR$/../starter/bootstrap.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../starter/bootstrap.jsonp" beforeDir="false" afterPath="$PROJECT_DIR$/../starter/bootstrap.jsonp" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="107499571">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="13" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.1" value="5" />
+          <entry key="project.open.time.11" value="1" />
+          <entry key="project.open.time.2" value="4" />
+          <entry key="project.open.time.29" value="1" />
+          <entry key="project.open.time.8" value="1" />
+          <entry key="project.opened" value="13" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="html" value="6" />
+          <entry key="js" value="303" />
+          <entry key="json" value="24" />
+          <entry key="log" value="1" />
+          <entry key="md" value="2" />
+          <entry key="png" value="2" />
+          <entry key="scss" value="5" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="HTML" value="6" />
+          <entry key="Image" value="2" />
+          <entry key="JSON" value="22" />
+          <entry key="JavaScript" value="303" />
+          <entry key="Markdown" value="2" />
+          <entry key="PLAIN_TEXT" value="1" />
+          <entry key="SCSS" value="5" />
+          <entry key="tsconfig" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="html" value="968" />
+          <entry key="js" value="23999" />
+          <entry key="json" value="335" />
+          <entry key="md" value="2" />
+          <entry key="txt" value="244" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="CSS" value="10" />
+          <entry key="HTML" value="958" />
+          <entry key="JSON" value="335" />
+          <entry key="JavaScript" value="23999" />
+          <entry key="Markdown" value="2" />
+          <entry key="PLAIN_TEXT" value="244" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="DG" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/view/roleconf/RoleConfForm.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="16" column="32" selection-start-line="16" selection-start-column="32" selection-end-line="16" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/view/roleconf/RoleConfShow.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="20">
+              <caret line="15" column="6" selection-start-line="15" selection-start-column="6" selection-end-line="15" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package.json" />
+        <option value="tsconfig.json" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>rt</find>
+      <find>menuTree</find>
+      <find>demo.css</find>
+      <find>'DG.base.ViewController',</find>
+      <find>ETL</find>
+      <find>localtion</find>
+      <find>bloodshow</find>
+      <find>roleconf</find>
+      <find>column</find>
+      <find>rown</find>
+      <find>select.j</find>
+      <find>bbar</find>
+      <find>combo</find>
+      <find>onRowDbClick</find>
+      <find>Ext.apply</find>
+      <find>&quot;page&quot;</find>
+      <find>onChooseEntry</find>
+      <find>vm.set('sTable'</find>
+      <find>/rbase</find>
+      <find>=&gt;</find>
+      <find>format</find>
+      <find>rolesName</find>
+      <find>numberfield</find>
+      <find>onRemoveOneRole</find>
+      <find>DG.view.roleconf.RoleConfShow</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>DG</replace>
+      <replace>location</replace>
+      <replace>roleconf</replace>
+      <replace>qreport</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/resources/Readme.md" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/app/store/data/package.json" />
+        <option value="$PROJECT_DIR$/app/view/bloodconf/detail/dist/demo.js" />
+        <option value="$PROJECT_DIR$/app.json" />
+        <option value="$PROJECT_DIR$/overrides/ux/ProjectAjax.js" />
+        <option value="$PROJECT_DIR$/overrides/ux/ProjectResultReader.js" />
+        <option value="$PROJECT_DIR$/overrides/ux/ProjectResultSetReader.js" />
+        <option value="$PROJECT_DIR$/app/view/bloodconf/BloodConfDetail.js" />
+        <option value="$PROJECT_DIR$/overrides/base/ViewController.js" />
+        <option value="$PROJECT_DIR$/app/view/qreport/ShowGrid.js" />
+        <option value="$PROJECT_DIR$/app/view/qreport/QReportController.js" />
+        <option value="$PROJECT_DIR$/app/view/roleconf/RoleConfAdd.js" />
+        <option value="$PROJECT_DIR$/app/store/MenuTree.js" />
+        <option value="$PROJECT_DIR$/app/store/data/BloodConf.json" />
+        <option value="$PROJECT_DIR$/app/store/data/tsconfig.json" />
+        <option value="$PROJECT_DIR$/app/store/data/BloodShow.json" />
+        <option value="$PROJECT_DIR$/app/view/roleconf/RoleConfFormModel.js" />
+        <option value="$PROJECT_DIR$/app/view/bloodconf/ConfPanel.js" />
+        <option value="$PROJECT_DIR$/app/view/bloodshow/BloodShow.js" />
+        <option value="$PROJECT_DIR$/app/view/bloodconf/detail/detail.html" />
+        <option value="$PROJECT_DIR$/app/view/bloodshow/BloodShowController.js" />
+        <option value="$PROJECT_DIR$/app/store/data/select.json" />
+        <option value="$PROJECT_DIR$/app/view/bloodconf/BloodConfModel.js" />
+        <option value="$PROJECT_DIR$/app/view/bloodshow/BloodShowModel.js" />
+        <option value="$PROJECT_DIR$/app/view/bloodconf/BloodConf.js" />
+        <option value="$PROJECT_DIR$/app/model/Resource.js" />
+        <option value="$PROJECT_DIR$/app/model/Base.js" />
+        <option value="$PROJECT_DIR$/app/view/main/MainWrap.js" />
+        <option value="$PROJECT_DIR$/app/view/roleconf/ChooseEntry.js" />
+        <option value="$PROJECT_DIR$/app/store/data/QReport.json" />
+        <option value="$PROJECT_DIR$/app/view/bloodconf/BloodConfController.js" />
+        <option value="$PROJECT_DIR$/app/Application.js" />
+        <option value="$PROJECT_DIR$/app/view/main/MainHeader.js" />
+        <option value="$PROJECT_DIR$/app/view/roleconf/RoleConfModel.js" />
+        <option value="$PROJECT_DIR$/app/view/roleconf/ChooseSql.js" />
+        <option value="$PROJECT_DIR$/app/view/roleconf/ChangeRoles.js" />
+        <option value="$PROJECT_DIR$/app/view/roleconf/entryGrid.js" />
+        <option value="$PROJECT_DIR$/app/view/roleconf/resultOutput.js" />
+        <option value="$PROJECT_DIR$/app/view/roleconf/compareRoles.js" />
+        <option value="$PROJECT_DIR$/app/view/qreport/QReportModel.js" />
+        <option value="$PROJECT_DIR$/app/view/qreport/QReport.js" />
+        <option value="$PROJECT_DIR$/app/view/roleconf/CustomizeRoles.js" />
+        <option value="$PROJECT_DIR$/app/view/roleconf/CleanRoles.js" />
+        <option value="$PROJECT_DIR$/app/view/roleconf/RoleConf.js" />
+        <option value="$PROJECT_DIR$/app/view/roleconf/RoleConfShowModel.js" />
+        <option value="$PROJECT_DIR$/app/view/roleconf/RoleConfShowController.js" />
+        <option value="$PROJECT_DIR$/app/view/roleconf/RoleConfShow.js" />
+        <option value="$PROJECT_DIR$/app/view/roleconf/RoleConfController.js" />
+        <option value="$PROJECT_DIR$/app/view/roleconf/RoleConfForm.js" />
+        <option value="$PROJECT_DIR$/app/view/roleconf/RoleConfFormController.js" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="262" />
+    <option name="y" value="84" />
+    <option name="width" value="1227" />
+    <option name="height" value="705" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>General</id>
+          </State>
+          <State>
+            <id>XPath</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>General</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="DG" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DG" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DG" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DG" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DG" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DG" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="model" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DG" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DG" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="store" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DG" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DG" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="view" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DG" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DG" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="view" type="462c0819:PsiDirectoryNode" />
+              <item name="qreport" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DG" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DG" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="view" type="462c0819:PsiDirectoryNode" />
+              <item name="roleconf" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="Settings.JavaScript" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app/view/roleconf" />
+      <recent name="$PROJECT_DIR$/app/model" />
+      <recent name="$PROJECT_DIR$/app/view/qreport" />
+      <recent name="$PROJECT_DIR$/resources" />
+      <recent name="$PROJECT_DIR$/app/view/bloodconf/detail/dist" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e184c13b-b482-4000-a67f-ebf30928d317" name="Default Changelist" comment="" />
+      <created>1540793911945</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1540793911945</updated>
+      <workItem from="1540793913397" duration="31663000" />
+      <workItem from="1540977109297" duration="5098000" />
+      <workItem from="1541054853070" duration="24000" />
+      <workItem from="1541056702858" duration="6449000" />
+      <workItem from="1545098886847" duration="12903000" />
+      <workItem from="1545119300212" duration="46624000" />
+      <workItem from="1545615647333" duration="41403000" />
+      <workItem from="1545967436293" duration="2496000" />
+      <workItem from="1545976257986" duration="187000" />
+      <workItem from="1545976813030" duration="15574000" />
+      <workItem from="1546391782585" duration="19697000" />
+      <workItem from="1546824049715" duration="3575000" />
+      <workItem from="1550716027703" duration="485000" />
+    </task>
+    <task id="LOCAL-00001" summary="添加数据治理(DG),用户管理(eledemo)">
+      <created>1540954681603</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1540954681603</updated>
+    </task>
+    <task id="LOCAL-00002" summary="添加规则管理，规则配置，质量报告">
+      <created>1545124641631</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1545124641631</updated>
+    </task>
+    <task id="LOCAL-00003" summary="修改血缘配置，血缘展示相关请求">
+      <created>1545210339370</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1545210339370</updated>
+    </task>
+    <task id="LOCAL-00004" summary="修改规则配置">
+      <created>1545281806728</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1545281806728</updated>
+    </task>
+    <task id="LOCAL-00005" summary="修改规则配置">
+      <created>1545297092925</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1545297092926</updated>
+    </task>
+    <task id="LOCAL-00006" summary="修改血缘配置，血缘展示">
+      <created>1545382833821</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1545382833821</updated>
+    </task>
+    <task id="LOCAL-00007" summary="修改血缘配置，血缘展示">
+      <created>1545642047054</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1545642047054</updated>
+    </task>
+    <task id="LOCAL-00008" summary="修改规则配置">
+      <created>1545728688025</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1545728688025</updated>
+    </task>
+    <task id="LOCAL-00009" summary="修改血缘配置">
+      <created>1545815550566</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1545815550566</updated>
+    </task>
+    <task id="LOCAL-00010" summary="DG 修改资源获取">
+      <created>1545899759750</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1545899759751</updated>
+    </task>
+    <task id="LOCAL-00011" summary="DG 修改前缀">
+      <created>1545977062364</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1545977062364</updated>
+    </task>
+    <task id="LOCAL-00012" summary="DG 1.完善规则配置选择数据库&#10;2.规则管理列表">
+      <created>1545988143963</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1545988143963</updated>
+    </task>
+    <task id="LOCAL-00013" summary="DG 1.完善规则配置保存&#10;2.规则管理列表删除功能">
+      <created>1546073118878</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1546073118878</updated>
+    </task>
+    <task id="LOCAL-00014" summary="DG 1.完善规则配置修改、详情">
+      <created>1546505866031</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1546505866031</updated>
+    </task>
+    <task id="LOCAL-00015" summary="DG 1.修改规则配置">
+      <created>1546585757903</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1546585757903</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="186178000" />
+  </component>
+  <component name="TodoView" selected-index="1">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="262" y="84" width="1227" height="705" extended-state="0" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.63278687" visible="true" weight="0.24792702" />
+      <window_info id="Structure" order="1" sideWeight="0.3672131" side_tool="true" weight="0.25373134" />
+      <window_info id="Favorites" order="2" sideWeight="0.12289562" side_tool="true" weight="0.19136807" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.48839137" visible="true" weight="0.110929854" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.492671" weight="0.21256039" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5116086" side_tool="true" visible="true" weight="0.110929854" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
+    <MESSAGE value="添加数据治理(DG),用户管理(eledemo)" />
+    <MESSAGE value="添加规则管理，规则配置，质量报告" />
+    <MESSAGE value="修改血缘配置，血缘展示相关请求" />
+    <MESSAGE value="修改血缘配置，血缘展示" />
+    <MESSAGE value="修改规则配置" />
+    <MESSAGE value="修改血缘配置" />
+    <MESSAGE value="DG 修改资源获取" />
+    <MESSAGE value="DG 修改前缀" />
+    <MESSAGE value="DG 1.完善规则配置选择数据库&#10;2.规则管理列表" />
+    <MESSAGE value="DG 1.完善规则配置保存&#10;2.规则管理列表删除功能" />
+    <MESSAGE value="DG 1.完善规则配置修改、详情" />
+    <MESSAGE value="DG 1.修改规则配置" />
+    <option name="LAST_COMMIT_MESSAGE" value="DG 1.修改规则配置" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/sass/var/all.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="29" lean-forward="true" selection-start-line="15" selection-start-column="29" selection-end-line="15" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sass/etc/all.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/overrides/ux/ProjectAjax.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="31" selection-start-column="11" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/overrides/ux/ProjectResultReader.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="39" selection-start-column="11" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/overrides/ux/ProjectResultSetReader.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="42" selection-start-column="11" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sass/example/render.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="129">
+          <caret line="434" column="15" selection-start-line="434" selection-start-column="15" selection-end-line="434" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/view/bloodconf/detail/dist/dagre-d3.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1081">
+          <caret line="3603" column="36" lean-forward="true" selection-start-line="3603" selection-start-column="36" selection-end-line="3603" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/7.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/logo1.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/overrides/base/ViewController.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="20" column="30" selection-start-line="20" selection-start-column="30" selection-end-line="20" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/view/qreport/QReportController.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="25" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/store/MenuTree.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="433">
+          <caret line="36" column="38" selection-start-line="36" selection-start-column="38" selection-end-line="36" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/view/qreport/ShowGrid.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="22" column="20" lean-forward="true" selection-start-line="22" selection-start-column="20" selection-end-line="22" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/store/data/BloodShow.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="166">
+          <caret line="13" column="5" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/view/roleconf/RoleConfFormModel.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="49" selection-start-column="11" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/view/bloodconf/detail/detail.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="214">
+          <caret line="168" lean-forward="true" selection-start-line="168" selection-end-line="168" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/view/bloodshow/BloodShow.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="244">
+          <caret line="43" column="14" lean-forward="true" selection-start-line="43" selection-start-column="14" selection-end-line="43" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/view/bloodshow/BloodShowController.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="31" column="13" lean-forward="true" selection-start-line="31" selection-start-column="13" selection-end-line="31" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/view/bloodconf/BloodConfDetail.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="3" lean-forward="true" selection-start-line="12" selection-start-column="3" selection-end-line="12" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/store/data/BloodConf.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2111">
+          <caret line="131" column="19" selection-start-line="131" selection-start-column="7" selection-end-line="131" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/store/data/select.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="11" column="21" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/view/bloodconf/ConfPanel.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="795">
+          <caret line="68" column="31" selection-start-line="68" selection-start-column="28" selection-end-line="68" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/model/Readme.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor />
+          <second_editor>
+            <markdownNavigatorState />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/view/main/MainWrap.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="21" column="8" selection-start-line="21" selection-start-column="8" selection-end-line="21" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/model/Base.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="27" lean-forward="true" selection-start-column="11" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/view/bloodconf/BloodConf.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="139">
+          <caret line="82" column="8" selection-start-line="82" selection-start-column="8" selection-end-line="82" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/model/Resource.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="31" selection-start-column="11" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/store/data/QReport.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="301">
+          <caret line="36" column="14" lean-forward="true" selection-start-line="36" selection-start-column="14" selection-end-line="36" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/view/bloodconf/BloodConfModel.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="31" column="18" lean-forward="true" selection-start-line="16" selection-start-column="16" selection-end-line="31" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/view/bloodconf/BloodConfController.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5389">
+          <caret line="317" column="38" selection-start-line="317" selection-start-column="38" selection-end-line="317" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Application.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-263">
+          <caret line="8" column="5" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/view/main/MainHeader.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="997">
+          <caret line="78" column="33" lean-forward="true" selection-start-line="78" selection-start-column="33" selection-end-line="78" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/view/roleconf/ChooseSql.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="148">
+          <caret line="11" column="6" lean-forward="true" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/view/roleconf/RoleConfModel.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="148">
+          <caret line="17" column="35" lean-forward="true" selection-start-line="17" selection-start-column="35" selection-end-line="17" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/view/roleconf/entryGrid.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="25" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/view/bloodshow/BloodShowModel.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="30" column="13" lean-forward="true" selection-start-line="11" selection-start-column="12" selection-end-line="30" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/view/qreport/QReportModel.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="314">
+          <caret line="25" column="36" selection-start-line="25" selection-start-column="36" selection-end-line="25" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/view/qreport/QReport.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="30" column="36" lean-forward="true" selection-start-line="30" selection-start-column="36" selection-end-line="30" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/view/roleconf/CleanRoles.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="424">
+          <caret line="80" column="6" lean-forward="true" selection-start-line="17" selection-start-column="4" selection-end-line="80" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/view/roleconf/ChangeRoles.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="4" selection-start-line="17" selection-start-column="4" selection-end-line="97" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/view/roleconf/resultOutput.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="283">
+          <caret line="45" column="32" lean-forward="true" selection-start-line="12" selection-start-column="13" selection-end-line="45" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/view/roleconf/RoleConfShowModel.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="35" selection-start-line="3" selection-start-column="22" selection-end-line="3" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/view/roleconf/RoleConf.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="40" selection-start-line="8" selection-start-column="40" selection-end-line="8" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/view/roleconf/RoleConfShowController.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="492">
+          <caret line="63" column="10" lean-forward="true" selection-start-line="12" selection-start-column="7" selection-end-line="63" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/view/roleconf/CustomizeRoles.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="10" column="8" selection-start-line="10" selection-start-column="8" selection-end-line="28" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/view/roleconf/compareRoles.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-448">
+          <caret line="10" column="28" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/view/roleconf/RoleConfController.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="279">
+          <caret line="98" column="20" selection-start-line="98" selection-start-column="12" selection-end-line="98" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/view/roleconf/RoleConfFormController.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="164">
+          <caret line="284" column="33" selection-start-line="284" selection-start-column="24" selection-end-line="284" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/view/roleconf/RoleConfForm.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="32" selection-start-line="16" selection-start-column="32" selection-end-line="16" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/view/roleconf/ChooseEntry.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1173">
+          <caret line="69" lean-forward="true" selection-start-line="69" selection-end-line="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/view/roleconf/RoleConfShow.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20">
+          <caret line="15" column="6" selection-start-line="15" selection-start-column="6" selection-end-line="15" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

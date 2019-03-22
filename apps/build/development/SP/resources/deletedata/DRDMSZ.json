@@ -1,0 +1,265 @@
+{
+  "title": "分布式目录管理系统（中心）",
+  "code": "DRDMSZ",
+  "iconCls": "x-fa fa-home",
+  "icon": "x-fa fa-home",
+  "rowCls": "nav-tree-badge nav-tree-badge-hot",
+  "url": "",
+  "checked": false,
+  "expanded": true,
+  "children": [
+    {
+      "title": "首页",
+      "icon": "x-fa fa-home",
+      "iconCls": "x-fa fa-home",
+      "rowCls": "nav-tree-badge nav-tree-badge-hot",
+      "url": "app-home",
+      "code": "app-home",
+      "checked": false,
+      "roles": "Deny",
+      "leaf": true
+    },
+    {
+      "title": "待处理目录",
+      "icon": "x-fa  fa-volume-down",
+      "url": "entry-pendingcenter",
+      "code": "entry-pendingcenter",
+      "checked": false,
+      "roles": "Allow",
+      "leaf": true
+    },
+    {
+      "title": "已发布目录",
+      "icon": "x-fa  fa-navicon",
+      "url": "entry-publishedcenter",
+      "code": "entry-publishedcenter",
+      "checked": false,
+      "roles": "Allow",
+      "leaf": true
+    },
+    {
+      "title": "变更目录",
+      "icon": "x-fa fa-list-alt",
+      "url": "entry-changelogcenter",
+      "code": "entry-changelogcenter",
+      "checked": false,
+      "roles": "Allow",
+      "leaf": true
+    },
+    {
+      "title": "目录管理",
+      "icon": "x-fa fa-table",
+      "url": "pageblank",
+      "code": "mlmgr",
+      "expanded": false,
+      "checked": false,
+      "selectable": false,
+      "roles": "Allow",
+      "children": [
+        {
+          "title": "手工编目",
+          "icon": "x-fa fa-pencil-square-o",
+          "url": "entry-edit",
+          "code": "entry-edit",
+          "checked": false,
+          "roles": "Allow",
+          "leaf": true
+        },
+        {
+          "title": "资源目录",
+          "icon": "x-fa fa-file",
+          "url": "entrydata",
+          "code": "entrydata",
+          "checked": false,
+          "roles": "Allow",
+          "leaf": true
+        },
+        {
+          "title": "资源清单",
+          "icon": "x-fa fa-align-justify",
+          "url": "entrydata-list",
+          "code": "entrydata-list",
+          "checked": false,
+          "roles": "Allow",
+          "leaf": true
+        },
+        {
+          "title": "目录查询",
+          "icon": "x-fa fa-search",
+          "url": "entry-search",
+          "code": "entry-search",
+          "roles": "Allow",
+          "checked": false,
+          "leaf": true
+        },
+        {
+          "title": "资源检索",
+          "icon": "x-fa fa-rss",
+          "code": "resource",
+          "url": "resource",
+          "checked": false,
+          "roles": "Allow",
+          "leaf": true
+        },
+        {
+          "title": "目录维护",
+          "icon": "x-fa fa-wrench",
+          "url": "entrywh-tab",
+          "code": "entrywh-tab",
+          "roles": "Allow",
+          "checked": false,
+          "leaf": true
+        },
+        {
+          "title": "目录分类",
+          "icon": "x-fa fa-list-ul",
+          "code": "entry-fl",
+          "url": "entry-fl",
+          "roles": "Allow",
+          "checked": false,
+          "leaf": true
+        }
+      ]
+    },
+    {
+      "title": "基础数据管理",
+      "icon": "x-fa fa-leanpub",
+      "url": "pageblank",
+      "code": "jcsjmgr",
+      "expanded": false,
+      "checked": false,
+      "roles": "Allow",
+      "selectable": false,
+      "children": [
+        {
+          "title": "国标主题分类",
+          "icon": "x-fa  fa-university",
+          "url": "catalogzt",
+          "code": "catalogzt",
+          "roles": "Allow",
+          "checked": false,
+          "leaf": true
+        },
+        {
+          "title": "实施应用分类",
+          "icon": "x-fa fa-delicious",
+          "url": "catalogss",
+          "code": "catalogss",
+          "roles": "Allow",
+          "checked": false,
+          "leaf": true
+        },
+        {
+          "title": "行业分类",
+          "icon": "x-fa fa-wrench",
+          "url": "cataloghy",
+          "code": "cataloghy",
+          "roles": "Allow",
+          "checked": false,
+          "leaf": true
+        },
+        {
+          "title": "数据字典",
+          "icon": "x-fa fa-cubes",
+          "url": "dictionary",
+          "code": "dictionary",
+          "checked": false,
+          "roles": "Allow",
+          "leaf": true
+        },
+        {
+          "title": "自定义标签",
+          "icon": "x-fa fa-tags",
+          "url": "keyword",
+          "code": "keyword",
+          "checked": false,
+          "roles": "Allow",
+          "leaf": true
+        }
+      ]
+    },
+    {
+      "title": "系统管理",
+      "code": "xtmgr",
+      "icon": "x-fa fa-gear",
+      "expanded": false,
+      "checked": false,
+      "roles": "Allow",
+      "selectable": false,
+      "children": [
+        {
+          "title": "人员管理",
+          "icon": "x-fa fa-female",
+          "url": "person",
+          "code": "person",
+          "roles": "Allow",
+          "checked": false,
+          "leaf": true
+        },
+        {
+          "title": "账户管理",
+          "icon": "x-fa fa-user",
+          "url": "account",
+          "code": "account",
+          "checked": false,
+          "roles": "Allow",
+          "leaf": true
+        },
+        {
+          "title": "角色管理",
+          "icon": "x-fa fa-users",
+          "url": "roles",
+          "code": "roles",
+          "roles": "Allow",
+          "checked": false,
+          "leaf": true
+        },
+        {
+          "title": "模块管理",
+          "icon": "x-fa fa-th-large",
+          "url": "modular",
+          "code": "modular",
+          "roles": "Allow",
+          "checked": false,
+          "leaf": true
+        },
+        {
+          "title": "菜单管理",
+          "icon": "x-fa fa-list-ul",
+          "url": "privilege",
+          "code": "privilege",
+          "checked": false,
+          "roles": "Allow",
+          "leaf": true
+        },
+        {
+          "title": "地区管理",
+          "icon": "x-fa fa-map-marker",
+          "url": "region",
+          "code": "region",
+          "roles": "Allow",
+          "checked": false,
+          "leaf": true
+        },
+        {
+          "title": "部门管理",
+          "icon": "x-fa fa-sitemap",
+          "url": "principal",
+          "code": "principal",
+          "checked": false,
+          "roles": "Allow",
+          "leaf": true
+        },
+        {
+          "title": "节点管理",
+          "icon": "x-fa fa-file-title",
+          "url": "realmnode",
+          "code": "realmnode",
+          "roles": "Deny",
+          "checked": false,
+          "leaf": true
+        }
+      ]
+    }
+  ]
+}

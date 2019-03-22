@@ -1,0 +1,190 @@
+<!doctype html>
+
+<meta charset="utf-8">
+<title>详细</title>
+
+<link rel="stylesheet" href="dist/demo.css">
+<script src="https://d3js.org/d3.v4.min.js" charset="utf-8"></script>
+<script src="dist/dagre-d3.js"></script>
+
+<style id="css">
+    /* This sets the color for "TK" nodes to a light blue green. */
+    g.type-TK > rect {
+        fill: #00ffd0;
+    }
+
+    text {
+        font-weight: 300;
+        font-family: "Helvetica Neue", Helvetica, Arial, sans-serf;
+        font-size: 14px;
+    }
+
+    .node rect {
+        stroke: #999;
+        fill: #fff;
+        stroke-width: 1.5px;
+    }
+
+    .node circle {
+        stroke: #333;
+        fill: #fff;
+        stroke-width: 1.5px;
+    }
+
+    .edgePath path {
+        stroke: #333;
+        stroke-width: 1.5px;
+    }
+
+    .mes {
+        height: 580px;
+        overflow: hidden;
+        float: left;
+        width: 230px;
+        margin-left: 10px;
+    }
+
+    .mes h2 {
+        border-bottom: 1px solid #2c3845;
+        margin-top: 2px;
+    }
+
+    .mes p {
+        padding: 0;
+        margin: 6px;
+    }
+
+    .mes .title {
+        font-weight: 600;
+    }
+
+    .mes .title span {
+        font-weight: 300;
+    }
+
+</style>
+
+<svg style="float: left;height: 580px;border: none;" id="svg-canvas" width=660></svg>
+<div class="mes">
+    <div>
+        <h2>数据项信息</h2>
+        <div>
+            <div>
+                <p class="title">数据项名称: <span>TradeCode21</span></p>
+
+            </div>
+
+            <div>
+                <p class="title">数据项类型: <span>String</span></p>
+
+            </div>
+        </div>
+
+        <div>
+            <p class="title">描述</p>
+            <p>这是一段描述描述描述描述描述描述，这是一段描述描述描述描述描述描述，这是一段描述描述描述描述描述描述</p>
+        </div>
+    </div>
+    <div>
+        <h2>所属数据表信息</h2>
+        <div>
+            <div>
+                <p class="title">数据表中文名: <span>数据表01</span></p>
+
+            </div>
+            <div>
+                <p class="title">数据表民称: <span>TradeCode21</span>
+                </p>
+            </div>
+        </div>
+
+        <div>
+            <p class="title">描述</p>
+            <p>这是一段描述描述描述描述描述描述，这是一段描述描述描述描述描述描述，这是一段描述描述描述描述描述描述</p>
+        </div>
+        <div>
+            <p class="title">其他数据项</p>
+            <p>数据表名称</p>
+            <p>TradeCode21</p>
+            <p>TradeCode21</p>
+            <p>TradeCode21</p>
+            <p>TradeCode21</p>
+        </div>
+    </div>
+
+</div>
+
+<script src="https://code.jquery.com/jquery-1.9.1.min.js"></script>
+
+<script id="js">
+    // Create the input graph
+    var g = new dagreD3.graphlib.Graph()
+        .setGraph({})
+        .setDefaultEdgeLabel(function () {
+            return {};
+        });
+
+    // Here we"re setting nodeclass, which is used by our custom drawNodes function
+    // below.
+    g.setNode(0, {label: "TOP", class: "type-TOP", shape: "circle"});
+    g.setNode(1, {label: "S", class: "type-S", shape: "circle"});
+    g.setNode(2, {label: "NP", class: "type-NP", shape: "circle"});
+    g.setNode(3, {label: "DT", class: "type-DT", shape: "circle"});
+    g.setNode(4, {label: "This", class: "type-TK", shape: "circle"});
+    g.setNode(5, {label: "VP", class: "type-VP", shape: "circle"});
+    g.setNode(6, {label: "VBZ", class: "type-VBZ", shape: "circle"});
+    g.setNode(7, {label: "is", class: "type-TK", shape: "circle"});
+    g.setNode(8, {label: "NP", class: "type-NP", shape: "circle"});
+    g.setNode(9, {label: "DT", class: "type-DT", shape: "circle"});
+    g.setNode(10, {label: "an", class: "type-TK", shape: "circle"});
+    g.setNode(11, {label: "NN", class: "type-NN", shape: "circle"});
+    g.setNode(12, {label: "example", class: "type-TK", shape: "circle"});
+    g.setNode(13, {label: ".", class: "type-.", shape: "circle"});
+    g.setNode(14, {label: "sentence", class: "type-TK", shape: "circle"});
+
+    g.nodes().forEach(function (v) {
+        var node = g.node(v);
+        // Round the corners of the nodes
+        node.rx = node.ry = 5;
+    });
+    g.graph().rankdir = "RL";
+    // Set up edges, no special attributes.
+    g.setEdge(3, 4);
+    g.setEdge(2, 3);
+    g.setEdge(1, 2);
+    g.setEdge(6, 7);
+    g.setEdge(5, 6);
+    g.setEdge(9, 10);
+    g.setEdge(8, 9);
+    g.setEdge(11, 12);
+    g.setEdge(8, 11);
+    g.setEdge(5, 8);
+    g.setEdge(1, 5);
+    g.setEdge(13, 14);
+    g.setEdge(1, 13);
+    g.setEdge(0, 1);
+
+    // Create the renderer
+    var render = new dagreD3.render();
+
+    // Set up an SVG group so that we can translate the final graph.
+    var svg = d3.select("svg"),
+        svgGroup = svg.append("g");
+
+    // Run the renderer. This is what draws the final graph.
+    render(d3.select("svg g"), g);
+
+    // Center the graph
+    var xCenterOffset = (svg.attr("width") - g.graph().width) / 2;
+    svgGroup.attr("transform", "translate(" + xCenterOffset + ", 20)");
+    svg.attr("height", g.graph().height + 40);
+
+    var node = $('.node');
+    //绑定点击事件
+    node.on('click', function () {
+        console.log(arguments);
+    });
+
+</script>
+
+<script src="dist/demo.js"></script>

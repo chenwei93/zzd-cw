@@ -1,0 +1,82 @@
+{
+  "content": [
+    {
+      "text": "网络区域",
+      "code": "wlqy"
+    },
+    { "text": "数据方式",
+      "code": "sjfs"
+    },
+    { "text": "设备类型",
+      "code": "sblx"
+    },
+    {
+      "text": "Format",
+      "code": "format"
+    },
+    {
+      "text": "ContentType",
+      "code": "contenttype"
+    },
+    {
+      "text": "共享类型",
+      "code": "gxlx"
+    },
+    {
+      "text": "共享平台方式",
+      "code": "gxptfs"
+    },
+    {
+      "text": "邮件或介质",
+      "code": "yjhjz"
+    },
+    {
+      "text": "共享方式分类",
+      "code": "gxfsfl"
+    },
+    {
+      "text": "更新周期",
+      "code": "gxzq"
+    },
+    {
+      "text": "开放类型",
+      "code": "kflx"
+    },
+    {
+      "text": "资源属性分类",
+      "code": "zysxfl"
+    },
+    {
+      "text": "涉密类型",
+      "code": "smlx"
+    },
+    {
+      "text": "服务类型",
+      "code": "fwlx"
+    },
+    {
+      "text": "电子文件",
+      "code": "dzwj"
+    },
+    {
+      "text": "电子表格",
+      "code": "dzbg"
+    },
+    {
+      "text": "图形图像",
+      "code": "txtx"
+    },
+    {
+      "text": "流媒体",
+      "code": "lmt"
+    },
+    {
+      "text": "自描述格式",
+      "code": "zmsgs"
+    },
+    {
+      "text": "信息资源格式分类",
+      "code": "xxzygsfl"
+    }
+  ]
+}

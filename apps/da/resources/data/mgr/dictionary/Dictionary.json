@@ -1,0 +1,19 @@
+{
+  "text": ".",
+  "children": [
+    {
+      "text": "共享方式",
+      "extraAttributes": {
+        "code": "gxfs"
+      },
+      "leaf": true
+    },
+    {
+      "text": "开放方式",
+      "extraAttributes": {
+        "code": "kffs"
+      },
+      "leaf": true
+    }
+  ]
+}

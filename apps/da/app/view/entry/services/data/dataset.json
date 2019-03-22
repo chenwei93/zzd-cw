@@ -1,0 +1,34 @@
+{
+  "content": [
+    {
+      "name": "id",
+      "title": "_ID",
+      "dataType": "string",
+      "dataLength": "10"
+    },
+    {
+      "name": "title",
+      "title": "标题",
+      "dataType": "string",
+      "dataLength": "20"
+    },
+    {
+      "name": "date",
+      "title": "日期",
+      "dataType": "date",
+      "dataLength": "20"
+    },
+    {
+      "name": "type",
+      "title": "类型",
+      "dataType": "string",
+      "dataLength": "19"
+    },
+    {
+      "name": "status",
+      "title": "状态",
+      "dataType": "string",
+      "dataLength": "20"
+    }
+  ]
+}

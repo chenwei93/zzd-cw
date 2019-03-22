@@ -1,0 +1,51 @@
+{
+  "pageNum": 1,
+  "pageSize": 15,
+  "size": 15,
+  "total": 3,
+  "pages": 1,
+  "list": [
+    {
+      "id": 1,
+      "name": "企业数据交换共享标称",
+      "description": "XXXXXXXXXXXXXXXXXXXXXXX",
+      "tableName": "tb_student",
+      "createDate": "2018-12-22",
+      "status": 0,
+      "jobType": 1,
+      "jobBeginTime": "2018-12-23 16:00:00",
+      "json": null,
+      "sqls": null,
+      "beginCreateTime": null,
+      "endCreateTime": null
+    },
+    {
+      "id": 2,
+      "name": "企业数据交换共享标称",
+      "description": "XXXXXXXXXXXXXXXXXXXXXXX",
+      "tableName": "tb_student",
+      "createDate": "2018-12-22",
+      "status": 0,
+      "jobType": 1,
+      "jobBeginTime": "2018-12-23 16:00:00",
+      "json": null,
+      "sqls": null,
+      "beginCreateTime": null,
+      "endCreateTime": null
+    },
+    {
+      "id": 3,
+      "name": "企业数据交换共享标称",
+      "description": "XXXXXXXXXXXXXXXXXXXXXXX",
+      "tableName": "tb_student",
+      "createDate": "2018-12-22",
+      "status": 0,
+      "jobType": 1,
+      "jobBeginTime": "2018-12-23 16:00:00",
+      "json": null,
+      "sqls": null,
+      "beginCreateTime": null,
+      "endCreateTime": null
+    }
+  ]
+}

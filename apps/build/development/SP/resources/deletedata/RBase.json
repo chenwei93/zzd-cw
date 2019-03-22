@@ -1,0 +1,60 @@
+{
+  "title": "节点资源管理系统",
+  "code": "RBase",
+  "icon": "x-fa fa-home",
+  "rowCls": "nav-tree-badge nav-tree-badge-hot",
+  "url": "",
+  "checked": false,
+  "expanded": true,
+  "children": [
+    {
+      "title": "首页",
+      "code": "apphome",
+      "icon": "x-fa fa-home",
+      "rowCls": "nav-tree-badge nav-tree-badge-hot",
+      "url": "app-home",
+      "checked": false,
+      "leaf": true
+    },
+    {
+      "title": "资源主机配置",
+      "code": "resourcepool",
+      "icon": "x-fa fa-laptop",
+      "url": "resourcepool",
+      "checked": false,
+      "leaf": true
+    },
+    {
+      "title": "自动编目配置",
+      "code": "resourcepool",
+      "icon": "x-fa fa-pie-chart",
+      "url": "resourcepool",
+      "checked": false,
+      "leaf": true
+    },
+    {
+      "title": "资源库管理",
+      "code": "resource",
+      "icon": "x-fa fa-database",
+      "url": "resource",
+      "checked": false,
+      "leaf": true
+    },
+    {
+      "title": "资源检索",
+      "code": "resourcesearch",
+      "icon": "x-fa fa-search-plus",
+      "url": "resourcesearch",
+      "checked": false,
+      "leaf": true
+    },
+    {
+      "title": "节点配置",
+      "code": "profile",
+      "icon": "x-fa fa-sitemap",
+      "url": "profile",
+      "checked": false,
+      "leaf": true
+    }
+  ]
+}

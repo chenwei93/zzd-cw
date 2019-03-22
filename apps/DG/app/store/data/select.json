@@ -1,0 +1,159 @@
+{
+  "content": [
+    {
+      "sTable": "数据目录",
+      "sName": "shujumulu",
+      "sColumn": "ID",
+      "xTable": "市房屋登记信息",
+      "xColumn": "人员",
+      "fields": [
+        {
+          "_class": "dcsp.fl.common.Field",
+          "name": "id",
+          "title": "id",
+          "alias": "id",
+          "dataType": "Numeric",
+          "dataLength": 11,
+          "notNull": true,
+          "require": false
+        },
+        {
+          "_class": "dcsp.fl.common.Field",
+          "name": "NAME",
+          "title": "车主姓名",
+          "dataType": "Text",
+          "dataLength": 255,
+          "notNull": false,
+          "require": false
+        },
+        {
+          "_class": "dcsp.fl.common.Field",
+          "name": "SFZH",
+          "title": "身份证号",
+          "dataType": "Text",
+          "dataLength": 255,
+          "notNull": false,
+          "require": false
+        },
+        {
+          "_class": "dcsp.fl.common.Field",
+          "name": "CPH",
+          "title": "车牌号",
+          "dataType": "Text",
+          "dataLength": 255,
+          "notNull": false,
+          "require": false
+        },
+        {
+          "_class": "dcsp.fl.common.Field",
+          "name": "CLPP",
+          "title": "车辆品牌",
+          "dataType": "Text",
+          "dataLength": 255,
+          "notNull": false,
+          "require": false
+        },
+        {
+          "_class": "dcsp.fl.common.Field",
+          "name": "YS",
+          "title": "颜色",
+          "dataType": "Text",
+          "dataLength": 255,
+          "notNull": false,
+          "require": false
+        },
+        {
+          "_class": "dcsp.fl.common.Field",
+          "name": "DJRQ",
+          "title": "登记日期",
+          "dataType": "Date",
+          "dataLength": 0,
+          "notNull": false,
+          "require": false
+        },
+        {
+          "_class": "dcsp.fl.common.Field",
+          "name": "GMRQ",
+          "title": "购买日期",
+          "dataType": "Date",
+          "dataLength": 0,
+          "notNull": false,
+          "require": false
+        }
+      ]
+    },
+    {
+      "sTable": "市房屋登记信息",
+      "sName": "shifangwudengjixinxi",
+      "sColumn": "标题",
+      "xTable": "市公司注册信息",
+      "xColumn": "资源格式",
+      "fields": [
+        {
+          "_class": "dcsp.fl.common.Field",
+          "name": "id",
+          "title": "_id",
+          "alias": "id",
+          "dataType": "Numeric",
+          "dataLength": 20,
+          "notNull": true,
+          "require": false
+        },
+        {
+          "_class": "dcsp.fl.common.Field",
+          "name": "sfzh",
+          "title": "身份证号",
+          "dataType": "Text",
+          "dataLength": 255,
+          "notNull": false,
+          "require": false
+        },
+        {
+          "_class": "dcsp.fl.common.Field",
+          "name": "xm",
+          "title": "姓名",
+          "dataType": "Text",
+          "dataLength": 255,
+          "notNull": false,
+          "require": false
+        },
+        {
+          "_class": "dcsp.fl.common.Field",
+          "name": "xb",
+          "title": "性别",
+          "dataType": "Text",
+          "dataLength": 255,
+          "notNull": false,
+          "require": false
+        },
+        {
+          "_class": "dcsp.fl.common.Field",
+          "name": "mz",
+          "title": "民族",
+          "dataType": "Text",
+          "dataLength": 255,
+          "notNull": false,
+          "require": false
+        },
+        {
+          "_class": "dcsp.fl.common.Field",
+          "name": "cbzt",
+          "title": "参保状态",
+          "dataType": "Text",
+          "dataLength": 255,
+          "notNull": false,
+          "require": false
+        },
+        {
+          "_class": "dcsp.fl.common.Field",
+          "name": "sccbrq",
+          "title": "首次参保日期",
+          "dataType": "Date",
+          "dataLength": 0,
+          "notNull": false,
+          "require": false
+        }
+      ]
+    }
+  ]
+}

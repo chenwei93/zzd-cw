@@ -1,0 +1,142 @@
+{
+  "links": [
+    {
+      "rel": "self",
+      "href": "http://node/rbase/api/resourcePools{&sort}"
+    },
+    {
+      "rel": "profile",
+      "href": "http://node/rbase/api/profile/resourcePools"
+    },
+    {
+      "rel": "search",
+      "href": "http://node/rbase/api/resourcePools/search"
+    }
+  ],
+  "content": [
+    {
+      "id": "5b11f82a9d4a604b304bfc82",
+      "entityStatus": "Default",
+      "code": "WJCS",
+      "base": "/home/dcsp/dcsp/input",
+      "name": "文件测试",
+      "memo": null,
+      "monitorRule": null,
+      "enableWatched": false,
+      "pollingTimeMillis": 10000,
+      "allowFormat": "File",
+      "defaultOperations": [
+        "Download",
+        "View"
+      ],
+      "enableSearch": false,
+      "enableIndexer": true,
+      "autoCreateResource": true,
+      "rootPath": "/home/dcsp/dcsp/input",
+      "idRel": "fileResourcePools/5b11f82a9d4a604b304bfc82",
+      "content": [],
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://node/rbase/api/fileResourcePools/5b11f82a9d4a604b304bfc82"
+        },
+        {
+          "rel": "fileResourcePool",
+          "href": "http://node/rbase/api/fileResourcePools/5b11f82a9d4a604b304bfc82"
+        },
+        {
+          "rel": "resourceNode",
+          "href": "http://node/rbase/api/fileResourcePools/5b11f82a9d4a604b304bfc82/resourceNode"
+        }
+      ]
+    },
+    {
+      "id": "5b11f82a9d4a604b304bfc83",
+      "entityStatus": "Default",
+      "code": "SJKCS",
+      "base": "test",
+      "name": "数据库测试",
+      "memo": null,
+      "monitorRule": null,
+      "enableWatched": false,
+      "pollingTimeMillis": 10000,
+      "allowFormat": "Db",
+      "defaultOperations": [
+        "Query"
+      ],
+      "enableSearch": false,
+      "enableIndexer": true,
+      "autoCreateResource": true,
+      "dbType": "Mysql",
+      "dbProperty": {
+        "password": "test@)!&",
+        "jdbcUrl": "jdbc:mysql://dcspserver:3306/test?useUnicode=true&characterEncoding=utf8&useSSL=false",
+        "username": "test"
+      },
+      "databaseName": "test",
+      "idRel": "dbResourcePools/5b11f82a9d4a604b304bfc83",
+      "content": [],
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://node/rbase/api/dbResourcePools/5b11f82a9d4a604b304bfc83"
+        },
+        {
+          "rel": "dbResourcePool",
+          "href": "http://node/rbase/api/dbResourcePools/5b11f82a9d4a604b304bfc83"
+        },
+        {
+          "rel": "resourceNode",
+          "href": "http://node/rbase/api/dbResourcePools/5b11f82a9d4a604b304bfc83/resourceNode"
+        }
+      ]
+    },
+    {
+      "id": "5b11f82a9d4a604b304bfc84",
+      "entityStatus": "Default",
+      "code": "HNCS",
+      "base": "tjsx",
+      "name": "海南测试",
+      "memo": null,
+      "monitorRule": null,
+      "enableWatched": true,
+      "pollingTimeMillis": 10000,
+      "allowFormat": "Db",
+      "defaultOperations": [
+        "Query"
+      ],
+      "enableSearch": false,
+      "enableIndexer": true,
+      "autoCreateResource": true,
+      "dbType": "Mysql",
+      "dbProperty": {
+        "password": "test@)!&",
+        "jdbcUrl": "jdbc:mysql://dcspserver:3306/test?useUnicode=true&characterEncoding=utf8&useSSL=false",
+        "username": "test"
+      },
+      "databaseName": "tjsx",
+      "idRel": "dbResourcePools/5b11f82a9d4a604b304bfc84",
+      "content": [],
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://node/rbase/api/dbResourcePools/5b11f82a9d4a604b304bfc84"
+        },
+        {
+          "rel": "dbResourcePool",
+          "href": "http://node/rbase/api/dbResourcePools/5b11f82a9d4a604b304bfc84"
+        },
+        {
+          "rel": "resourceNode",
+          "href": "http://node/rbase/api/dbResourcePools/5b11f82a9d4a604b304bfc84/resourceNode"
+        }
+      ]
+    }
+  ],
+  "page": {
+    "size": 25,
+    "totalElements": 3,
+    "totalPages": 1,
+    "number": 0
+  }
+}

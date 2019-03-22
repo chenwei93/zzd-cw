@@ -1,0 +1,552 @@
+{
+  "id": "root",
+  "text": "根节点",
+  "expanded": true,
+  "leaf": false,
+  "children": [
+    {
+      "parentId": "root",
+      "id": "af4940ca-bacc-46ea-8822-d52ee8d60c9f",
+      "text": "根Class",
+      "expanded": false,
+      "leaf": false,
+      "children": [
+        {
+          "parentId": "af4940ca-bacc-46ea-8822-d52ee8d60c9f",
+          "id": "zclx",
+          "text": "资产类型",
+          "expanded": false,
+          "leaf": true,
+          "extraAttributes": {
+            "dataType": "string",
+            "name": "zclx",
+            "fullName": "zichanleixing",
+            "memo": "资产类型",
+            "GB": true,
+            "shortTitle": "zclx",
+            "sample": "政务云资产"
+          }
+        },
+        {
+          "parentId": "af4940ca-bacc-46ea-8822-d52ee8d60c9f",
+          "id": "zcbm",
+          "text": "资产编码",
+          "expanded": false,
+          "leaf": true,
+          "extraAttributes": {
+            "dataType": "string",
+            "name": "zcbm",
+            "fullName": "zichanbianma",
+            "memo": "资产编码",
+            "GB": true,
+            "shortTitle": "zclx",
+            "sample": "A201809X-04"
+          }
+        },
+        {
+          "parentId": "af4940ca-bacc-46ea-8822-d52ee8d60c9f",
+          "id": "ssbm",
+          "text": "所属部门",
+          "expanded": false,
+          "leaf": true,
+          "extraAttributes": {
+            "dataType": "string",
+            "name": "ssbm",
+            "fullName": "suoshubumen",
+            "memo": "所属部门",
+            "GB": true,
+            "shortTitle": "ssbm",
+            "sample": "大数据中心"
+          }
+        },
+        {
+          "parentId": "af4940ca-bacc-46ea-8822-d52ee8d60c9f",
+          "id": "zcrksj",
+          "text": "资产入库时间",
+          "expanded": false,
+          "leaf": true,
+          "extraAttributes": {
+            "dataType": "string",
+            "name": "zcrksj",
+            "fullName": "zichanrukushijian",
+            "memo": "资产入库时间",
+            "GB": true,
+            "shortTitle": "zcrksj",
+            "sample": "2018-04-03"
+          }
+        },
+        {
+          "parentId": "af4940ca-bacc-46ea-8822-d52ee8d60c9f",
+          "id": "zczt",
+          "text": "资产状态",
+          "expanded": false,
+          "leaf": true,
+          "extraAttributes": {
+            "dataType": "string",
+            "name": "zczt",
+            "fullName": "zichanzhuangtai",
+            "memo": "资产状态",
+            "GB": true,
+            "shortTitle": "zczt",
+            "sample": "可用"
+          }
+        },
+        {
+          "parentId": "af4940ca-bacc-46ea-8822-d52ee8d60c9f",
+          "id": "ownerTitle",
+          "text": "信息资源名称",
+          "expanded": false,
+          "leaf": true,
+          "extraAttributes": {
+            "dataType": "Text",
+            "name": "ownerTitle",
+            "fullName": "resourceTitle",
+            "memo": "缩略描述政务信息资源内容的标题",
+            "GB": true,
+            "shortTitle": "resTitle",
+            "sample": "某市矿产资源规划数据库"
+          }
+        },
+        {
+          "parentId": "af4940ca-bacc-46ea-8822-d52ee8d60c9f",
+          "id": "pubDate",
+          "text": "信息资源发布日期",
+          "expanded": false,
+          "leaf": true,
+          "extraAttributes": {
+            "dataType": "Date",
+            "name": "pubDate",
+            "fullName": "dateOfPublication",
+            "memo": "政务信息资源提供方发布共享政务信息资源的日期",
+            "GB": true,
+            "shortTitle": "pubDate",
+            "sample": "2004-02-11"
+          }
+        },
+        {
+          "parentId": "af4940ca-bacc-46ea-8822-d52ee8d60c9f",
+          "id": "abstracts",
+          "text": "信息资源摘要",
+          "expanded": false,
+          "leaf": true,
+          "extraAttributes": {
+            "dataType": "Text",
+            "name": "abstracts",
+            "fullName": "abstract",
+            "memo": "对资源内容进行概要说明的文字",
+            "GB": true,
+            "shortTitle": "abstract",
+            "sample": "××市矿产资源规划数据库”包含了××市矿产资源总体规划（2000-2010年）的信息，共21个矿产资源规划专题图层、9个基础地理信息图层、4个基础地质信息图层、14个规划附表和4个规划文档，规划图件所有点、线、面图形元素都按《矿产资源规划数据库标准（试行稿）》建立了相应的属性。空间数据成果以MapGis，ArcInfo E00、Coverage、Shape格式存储，规划附表数据库为DBF、Microsoft Access、Microsoft Word格式，规划文本以Microsoft Word，HTML两种格式存储，规划附图成果图件以MapGis格式存储，规划附表成果文件以Microsoft Word格式存储。自编代码字典为DBF格式。"
+          }
+        },
+        {
+          "parentId": "af4940ca-bacc-46ea-8822-d52ee8d60c9f",
+          "id": "onLineSrc",
+          "text": "在线资源链接地址",
+          "expanded": false,
+          "leaf": true,
+          "extraAttributes": {
+            "dataType": "Text",
+            "name": "onLineSrc",
+            "fullName": "online",
+            "memo": "可以获取共享政务信息资源的网络地址",
+            "GB": true,
+            "shortTitle": "onLineSrc",
+            "sample": "http://www.bjgtfgj.gov.cn"
+          }
+        },
+        {
+          "parentId": "af4940ca-bacc-46ea-8822-d52ee8d60c9f",
+          "id": "resId",
+          "text": "信息资源标识符",
+          "expanded": false,
+          "leaf": true,
+          "extraAttributes": {
+            "dataType": "Text",
+            "name": "resId",
+            "fullName": "resourceID",
+            "memo": "政务信息资源的唯一不变的标识编码",
+            "GB": true,
+            "shortTitle": "resID",
+            "sample": "11000/A00034VG345"
+          }
+        },
+        {
+          "parentId": "af4940ca-bacc-46ea-8822-d52ee8d60c9f",
+          "id": "mdDateUpd",
+          "text": "元数据更新日期",
+          "expanded": false,
+          "leaf": true,
+          "extraAttributes": {
+            "dataType": "Date",
+            "name": "mdDateUpd",
+            "fullName": "metadatadateUpdate",
+            "memo": "更新元数据的日期",
+            "GB": true,
+            "shortTitle": "mdDateUpd",
+            "sample": "2005-05-12"
+          }
+        },
+        {
+          "parentId": "af4940ca-bacc-46ea-8822-d52ee8d60c9f",
+          "id": "mdId",
+          "text": "元数据标识符",
+          "expanded": false,
+          "leaf": true,
+          "extraAttributes": {
+            "dataType": "Text",
+            "name": "mdId",
+            "fullName": "metadataIdentifier",
+            "memo": "元数据的唯一标识",
+            "GB": true,
+            "shortTitle": "mdId",
+            "sample": "metadata_ 9660512"
+          }
+        },
+        {
+          "parentId": "af4940ca-bacc-46ea-8822-d52ee8d60c9f",
+          "id": "format",
+          "text": "信息资源格式",
+          "expanded": false,
+          "leaf": true,
+          "extraAttributes": {
+            "dataType": "Directory",
+            "name": "format",
+            "fullName": "",
+            "memo": "信息资源的存在方式（可多选）。信息资源提供方 应尽可能提供可机读的电子格式及相关软件版本信息，如只有 纸质介质，应尽量提供电子扫描格式。电子格式的信息资源， 可采用但不限于：电子文件的存储格式为 OFD、wps、xml、 txt、doc、docx、html、pdf、ppt 等；电子表格的存储格式为 et、xls、xlsx等；数据库类的存储格式为 Dm、KingbaseES、 access、dbf、dbase、sysbase、oracle、sqlserver、db2 等，同 时需明确具体的数据库表结构定义（可细化至“信息项信息” 元数据中）；图形图像类的存储格式为 jpg、gif、bmp等；流 媒体类的存储格式为 swf、rm、mpg 等；自描述格式，由提供 方提出其特殊行业领域的通用格式，如气象部门采用的“表格 驱动码”格式。",
+            "GB": true,
+            "shortTitle": "",
+            "sample": ""
+          }
+        },
+        {
+          "parentId": "af4940ca-bacc-46ea-8822-d52ee8d60c9f",
+          "id": "reference",
+          "text": "关联资源代码",
+          "expanded": false,
+          "leaf": true,
+          "extraAttributes": {
+            "dataType": "Text",
+            "name": "reference",
+            "fullName": "",
+            "memo": "：如该信息资源同属于其他资源分类，需标注其他资 源分类或其他政务部门编制的该信息资源代码。 ",
+            "GB": true,
+            "shortTitle": "",
+            "sample": ""
+          }
+        },
+        {
+          "parentId": "af4940ca-bacc-46ea-8822-d52ee8d60c9f",
+          "id": "203f635e-671b-45bf-815b-7e020b5d1c8a",
+          "text": "信息资源提供方",
+          "expanded": false,
+          "leaf": false,
+          "children": [
+            {
+              "parentId": "203f635e-671b-45bf-815b-7e020b5d1c8a",
+              "id": "rpOrgName",
+              "text": "信息资源提供单位",
+              "expanded": false,
+              "leaf": true,
+              "extraAttributes": {
+                "dataType": "Text",
+                "name": "rpOrgName",
+                "fullName": "organisationName",
+                "memo": "提供政务信息资源的单位名称",
+                "GB": true,
+                "shortTitle": "rpOrgNam",
+                "sample": "××市国土资源和房屋管理局"
+              }
+            },
+            {
+              "parentId": "203f635e-671b-45bf-815b-7e020b5d1c8a",
+              "id": "cntAdd",
+              "text": "信息资源提供方地址",
+              "expanded": false,
+              "leaf": true,
+              "extraAttributes": {
+                "dataType": "Text",
+                "name": "cntAdd",
+                "fullName": "address",
+                "memo": "资源提供单位的物理联系地址",
+                "GB": true,
+                "shortTitle": "cntAdd",
+                "sample": "××市××区××大街××号"
+              }
+            }
+          ],
+          "extraAttributes": {
+            "dataType": "Composite",
+            "name": "IdPoC",
+            "fullName": null,
+            "GB": false,
+            "shortTitle": null
+          }
+        },
+        {
+          "parentId": "af4940ca-bacc-46ea-8822-d52ee8d60c9f",
+          "id": "4e41fee3-86c3-4d4d-a648-6cb50f22bd9e",
+          "text": "关键字说明",
+          "expanded": false,
+          "leaf": false,
+          "children": [
+            {
+              "parentId": "4e41fee3-86c3-4d4d-a648-6cb50f22bd9e",
+              "id": "keyword",
+              "text": "关键字",
+              "expanded": false,
+              "leaf": true,
+              "extraAttributes": {
+                "dataType": "Directory",
+                "name": "keyword",
+                "fullName": "keyword",
+                "memo": "用于概括共享政务信息资源主要内容的通用词、形式化词或短语",
+                "GB": true,
+                "shortTitle": "keyword",
+                "sample": "矿产资源"
+              }
+            },
+            {
+              "parentId": "4e41fee3-86c3-4d4d-a648-6cb50f22bd9e",
+              "id": "thesaName",
+              "text": "词典名称",
+              "expanded": false,
+              "leaf": true,
+              "extraAttributes": {
+                "dataType": "Text",
+                "name": "thesaName",
+                "fullName": "thesaurusName",
+                "memo": "关键字所属的专业关键字词典的名称",
+                "GB": true,
+                "shortTitle": "thesaName",
+                "sample": "矿产资源"
+              }
+            }
+          ],
+          "extraAttributes": {
+            "dataType": "Composite",
+            "name": "DescKeys",
+            "fullName": null,
+            "GB": false,
+            "shortTitle": null
+          }
+        },
+        {
+          "parentId": "af4940ca-bacc-46ea-8822-d52ee8d60c9f",
+          "id": "a5bfc41c-ca19-4a2d-b294-235e73b34d96",
+          "text": "服务信息",
+          "expanded": false,
+          "leaf": false,
+          "children": [
+            {
+              "parentId": "a5bfc41c-ca19-4a2d-b294-235e73b34d96",
+              "id": "serviceURL",
+              "text": "服务地址",
+              "expanded": false,
+              "leaf": true,
+              "extraAttributes": {
+                "dataType": "Text",
+                "name": "serviceURL",
+                "fullName": "serviceURL",
+                "memo": "可以访问服务的网络地址",
+                "GB": true,
+                "shortTitle": "servURL",
+                "sample": "http:// 192.168.0.3:8080/climateservice"
+              }
+            },
+            {
+              "parentId": "a5bfc41c-ca19-4a2d-b294-235e73b34d96",
+              "id": "servType",
+              "text": "服务类型",
+              "expanded": false,
+              "leaf": true,
+              "extraAttributes": {
+                "dataType": "Directory",
+                "name": "servType",
+                "fullName": "serviceType",
+                "memo": "服务所属的类型",
+                "GB": true,
+                "shortTitle": "servType",
+                "sample": "目录服务"
+              }
+            }
+          ],
+          "extraAttributes": {
+            "dataType": "Composite",
+            "name": "ServInfo",
+            "fullName": null,
+            "GB": false,
+            "shortTitle": null
+          }
+        },
+        {
+          "parentId": "af4940ca-bacc-46ea-8822-d52ee8d60c9f",
+          "id": "862ce0d1-368a-479c-88cf-25a43222b074",
+          "text": "元数据维护方",
+          "expanded": false,
+          "leaf": false,
+          "children": [
+            {
+              "parentId": "862ce0d1-368a-479c-88cf-25a43222b074",
+              "id": "rpOrgCenter",
+              "text": "元数据联系单位",
+              "expanded": false,
+              "leaf": true,
+              "extraAttributes": {
+                "dataType": "Text",
+                "name": "rpOrgCenter",
+                "fullName": "organisationName",
+                "memo": "负责单位名称",
+                "GB": true,
+                "shortTitle": "rpOrgName",
+                "sample": "××市××局"
+              }
+            },
+            {
+              "parentId": "862ce0d1-368a-479c-88cf-25a43222b074",
+              "id": "cntAddCenter",
+              "text": "元数据维护方地址",
+              "expanded": false,
+              "leaf": true,
+              "extraAttributes": {
+                "dataType": "Text",
+                "name": "cntAddCenter",
+                "fullName": "address",
+                "memo": "与元数据联系人或联系单位联系的物理地址",
+                "GB": true,
+                "shortTitle": "cntAdd",
+                "sample": "中国××省××市××区××街××号"
+              }
+            }
+          ],
+          "extraAttributes": {
+            "dataType": "Composite",
+            "name": "MdContact",
+            "fullName": null,
+            "GB": false,
+            "shortTitle": null
+          }
+        },
+        {
+          "parentId": "af4940ca-bacc-46ea-8822-d52ee8d60c9f",
+          "id": "0892f266-b64d-4644-ab8e-03981daa40d5",
+          "text": "共享属性",
+          "expanded": false,
+          "leaf": false,
+          "children": [
+            {
+              "parentId": "0892f266-b64d-4644-ab8e-03981daa40d5",
+              "id": "GXLX",
+              "text": "共享类型",
+              "expanded": false,
+              "leaf": true,
+              "extraAttributes": {
+                "dataType": "Directory",
+                "name": "GXLX",
+                "fullName": "",
+                "memo": "根据《政务信息资源共享管理暂行办法》的规定， 政务信息资源的共享类型包括：无条件共享、有条件共享、不 予共享三类。值域范围对应共享类型排序分别为 1、2、3。 数据类型：数值型。 ",
+                "GB": true,
+                "shortTitle": "",
+                "sample": ""
+              }
+            },
+            {
+              "parentId": "0892f266-b64d-4644-ab8e-03981daa40d5",
+              "id": "extraGXTJ",
+              "text": "共享条件",
+              "expanded": false,
+              "leaf": true,
+              "extraAttributes": {
+                "dataType": "Text",
+                "name": "extraGXTJ",
+                "fullName": "",
+                "memo": "不同共享类型的政务信息资源的共享条件。 数据类型：字符型。 ",
+                "GB": true,
+                "shortTitle": "",
+                "sample": ""
+              }
+            },
+            {
+              "parentId": "0892f266-b64d-4644-ab8e-03981daa40d5",
+              "id": "GXFS",
+              "text": "共享方式",
+              "expanded": false,
+              "leaf": true,
+              "extraAttributes": {
+                "dataType": "Directory",
+                "name": "GXFS",
+                "fullName": "",
+                "memo": "获取信息资源的方式。原则上通过共享平台方式获 取；确因条件所限可采用其他方式，如邮件、拷盘、介质交换 （纸质报表、电子文档等）等方式。",
+                "GB": true,
+                "shortTitle": "",
+                "sample": ""
+              }
+            }
+          ],
+          "extraAttributes": {
+            "dataType": "Composite",
+            "name": "GXLX_group",
+            "fullName": null,
+            "GB": false,
+            "shortTitle": null
+          }
+        },
+        {
+          "parentId": "af4940ca-bacc-46ea-8822-d52ee8d60c9f",
+          "id": "ec796d48-83e5-417b-baf4-12d0e1936b7b",
+          "text": ".开放属性",
+          "expanded": false,
+          "leaf": false,
+          "children": [
+            {
+              "parentId": "ec796d48-83e5-417b-baf4-12d0e1936b7b",
+              "id": "KFLX",
+              "text": "是否向社会开放",
+              "expanded": false,
+              "leaf": true,
+              "extraAttributes": {
+                "dataType": "Directory",
+                "name": "KFLX",
+                "fullName": "",
+                "memo": "信息资源面向社会开放的属性，包括“是”和“否”， 对应取值分别为 1 和 0。",
+                "GB": true,
+                "shortTitle": "",
+                "sample": ""
+              }
+            },
+            {
+              "parentId": "ec796d48-83e5-417b-baf4-12d0e1936b7b",
+              "id": "extraKFTJ",
+              "text": "开放条件",
+              "expanded": false,
+              "leaf": true,
+              "extraAttributes": {
+                "dataType": "Text",
+                "name": "extraKFTJ",
+                "fullName": "",
+                "memo": "对向社会开放资源的条件描述。当“是否向社会开 放”取值为 1 时，描述开放条件。",
+                "GB": true,
+                "shortTitle": "",
+                "sample": ""
+              }
+            }
+          ],
+          "extraAttributes": {
+            "dataType": "Composite",
+            "name": "KFLX_group",
+            "fullName": null,
+            "GB": false,
+            "shortTitle": null
+          }
+        }
+      ],
+      "extraAttributes": {
+        "dataType": "Composite",
+        "name": "rootName",
+        "fullName": null,
+        "GB": false,
+        "shortTitle": null
+      }
+    }
+  ]
+}

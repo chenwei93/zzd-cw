@@ -1,0 +1,824 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a0de85fd-acb3-46ba-9d19-443b20caf910" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../sp" beforeDir="false" afterPath="$PROJECT_DIR$/../sp" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="1286584400">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="1847361070">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.6" value="1" />
+          <entry key="project.opened" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="js" value="111" />
+          <entry key="json" value="5" />
+          <entry key="scss" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JSON" value="4" />
+          <entry key="JavaScript" value="111" />
+          <entry key="SCSS" value="2" />
+          <entry key="tsconfig" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="js" value="4899" />
+          <entry key="json" value="146" />
+          <entry key="txt" value="130" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JSON" value="146" />
+          <entry key="JavaScript" value="4899" />
+          <entry key="PLAIN_TEXT" value="130" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/view/gzt/zhgzt/ZhgztE.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="143">
+              <caret line="42" column="8" selection-start-line="42" selection-start-column="8" selection-end-line="42" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/view/gzt/zhgzt/ZhgztM.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="219">
+              <caret line="41" column="49" selection-start-line="41" selection-start-column="49" selection-end-line="41" selection-end-column="49" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/view/gzt/zhgzt/ZhgztS.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="288">
+              <caret line="41" column="49" selection-start-line="41" selection-start-column="49" selection-end-line="41" selection-end-column="49" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/view/gzt/zhgzt/Zhgzt.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="731">
+              <caret line="43" column="49" selection-start-line="43" selection-end-line="43" selection-end-column="49" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/store/Module.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="184">
+              <caret line="29" column="3" lean-forward="true" selection-start-line="29" selection-start-column="3" selection-end-line="29" selection-end-column="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/view/da/worktask/WorkTaskTypeController.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="326">
+              <caret line="53" column="33" lean-forward="true" selection-start-line="53" selection-start-column="33" selection-end-line="53" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="tsconfig.json" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>fieldLa</find>
+      <find>displayfield</find>
+      <find>rowdb</find>
+      <find>listeners</find>
+      <find>form.pan</find>
+      <find>viewModel</find>
+      <find>保存</find>
+      <find>tree.Panel</find>
+      <find>rowdblclick</find>
+      <find>PUT</find>
+      <find>combo</find>
+      <find>0 0px 15px 15px</find>
+      <find>DA.view.main.MainC</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/app/view/entry/entrywh/EntryWHSController.js" />
+        <option value="$PROJECT_DIR$/app/view/mgr/resourcenode/ResourceNodeModel.js" />
+        <option value="$PROJECT_DIR$/app/view/main/MainController.js" />
+        <option value="$PROJECT_DIR$/app/view/dataservice/entry/EntryPendingCenter.js" />
+        <option value="$PROJECT_DIR$/resources/data/da/worktask/WorkTaskType.json" />
+        <option value="$PROJECT_DIR$/app/view/da/worktask/WorkTaskTypeModel.js" />
+        <option value="$PROJECT_DIR$/app/view/da/worktask/WorkTaskTypeSHOW.js" />
+        <option value="$PROJECT_DIR$/app/view/da/worktask/WorkTaskTypeShow.js" />
+        <option value="$PROJECT_DIR$/app/view/da/worktask/ChooseMenu.js" />
+        <option value="$PROJECT_DIR$/app/view/da/worktask/WorkTaskModel.js" />
+        <option value="$PROJECT_DIR$/app/view/da/worktask/WorkTaskInitiate.js" />
+        <option value="$PROJECT_DIR$/app/view/da/worktask/orderTemple.js" />
+        <option value="$PROJECT_DIR$/app/view/da/worktask/TimeLine.js" />
+        <option value="$PROJECT_DIR$/app/view/da/worktask/WorkTaskController.js" />
+        <option value="$PROJECT_DIR$/app/view/da/worktask/OrderTemple.js" />
+        <option value="$PROJECT_DIR$/app/view/da/worktask/WorkTaskDeal.js" />
+        <option value="$PROJECT_DIR$/sass/src/view/da/worktask/TimeLine.scss" />
+        <option value="$PROJECT_DIR$/app/view/da/worktask/WorkTaskEdit.js" />
+        <option value="$PROJECT_DIR$/app/view/da/worktask/WorkTaskType.js" />
+        <option value="$PROJECT_DIR$/app/view/da/worktask/WorkTaskTypeEdit.js" />
+        <option value="$PROJECT_DIR$/app/view/da/worktask/WorkTaskTypeController.js" />
+        <option value="$PROJECT_DIR$/app/store/ModuleMenuDa.js" />
+        <option value="$PROJECT_DIR$/app/view/da/worktask/WorkTask.js" />
+        <option value="$PROJECT_DIR$/app/view/main/Main.js" />
+        <option value="$PROJECT_DIR$/app/view/gzt/zhgzt/Tzgrid.js" />
+        <option value="$PROJECT_DIR$/app/view/gzt/zhgzt/Dbgrid.js" />
+        <option value="$PROJECT_DIR$/app/view/gzt/zhgzt/Zhgzt.js" />
+        <option value="$PROJECT_DIR$/app/view/gzt/zhgzt/ZhgztE.js" />
+        <option value="$PROJECT_DIR$/app/view/gzt/zhgzt/ZhgztM.js" />
+        <option value="$PROJECT_DIR$/app/view/gzt/zhgzt/ZhgztS.js" />
+        <option value="$PROJECT_DIR$/app/store/Module.js" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <annotation-enable>false</annotation-enable>
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/ext/classic/classic/package.json" />
+      <path value="$PROJECT_DIR$/ext/classic/locale/package.json" />
+      <path value="$PROJECT_DIR$/ext/classic/theme-aria/package.json" />
+      <path value="$PROJECT_DIR$/ext/classic/theme-base/package.json" />
+      <path value="$PROJECT_DIR$/ext/classic/theme-classic-sandbox/package.json" />
+      <path value="$PROJECT_DIR$/ext/classic/theme-classic/package.json" />
+      <path value="$PROJECT_DIR$/ext/classic/theme-crisp-touch/package.json" />
+      <path value="$PROJECT_DIR$/ext/classic/theme-crisp/package.json" />
+      <path value="$PROJECT_DIR$/ext/classic/theme-gray/package.json" />
+      <path value="$PROJECT_DIR$/ext/classic/theme-neptune-touch/package.json" />
+      <path value="$PROJECT_DIR$/ext/classic/theme-neptune/package.json" />
+      <path value="$PROJECT_DIR$/ext/classic/theme-neutral/package.json" />
+      <path value="$PROJECT_DIR$/ext/classic/theme-triton/package.json" />
+      <path value="$PROJECT_DIR$/ext/classic/touch-sizing/package.json" />
+      <path value="$PROJECT_DIR$/ext/modern/modern/package.json" />
+      <path value="$PROJECT_DIR$/ext/modern/theme-base/package.json" />
+      <path value="$PROJECT_DIR$/ext/modern/theme-blackberry/package.json" />
+      <path value="$PROJECT_DIR$/ext/modern/theme-cupertino/package.json" />
+      <path value="$PROJECT_DIR$/ext/modern/theme-device-base/package.json" />
+      <path value="$PROJECT_DIR$/ext/modern/theme-ios/package.json" />
+      <path value="$PROJECT_DIR$/ext/modern/theme-material/package.json" />
+      <path value="$PROJECT_DIR$/ext/modern/theme-mountainview/package.json" />
+      <path value="$PROJECT_DIR$/ext/modern/theme-neptune/package.json" />
+      <path value="$PROJECT_DIR$/ext/modern/theme-triton/package.json" />
+      <path value="$PROJECT_DIR$/ext/modern/theme-windows/package.json" />
+      <path value="$PROJECT_DIR$/ext/package.json" />
+      <path value="$PROJECT_DIR$/ext/packages/amf/package.json" />
+      <path value="$PROJECT_DIR$/ext/packages/charts/package.json" />
+      <path value="$PROJECT_DIR$/ext/packages/core/package.json" />
+      <path value="$PROJECT_DIR$/ext/packages/font-awesome/package.json" />
+      <path value="$PROJECT_DIR$/ext/packages/font-ext/package.json" />
+      <path value="$PROJECT_DIR$/ext/packages/font-ios/package.json" />
+      <path value="$PROJECT_DIR$/ext/packages/font-pictos/package.json" />
+      <path value="$PROJECT_DIR$/ext/packages/google/package.json" />
+      <path value="$PROJECT_DIR$/ext/packages/legacy/package.json" />
+      <path value="$PROJECT_DIR$/ext/packages/soap/package.json" />
+      <path value="$PROJECT_DIR$/ext/packages/ux/package.json" />
+    </packageJsonPaths>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="195" />
+    <option name="y" value="42" />
+    <option name="width" value="1261" />
+    <option name="height" value="707" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>General</id>
+          </State>
+          <State>
+            <id>XPath</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>General</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="da" type="b2602c69:ProjectViewProjectNode" />
+              <item name="da" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="da" type="b2602c69:ProjectViewProjectNode" />
+              <item name="da" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="da" type="b2602c69:ProjectViewProjectNode" />
+              <item name="da" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="store" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="da" type="b2602c69:ProjectViewProjectNode" />
+              <item name="da" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="view" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="da" type="b2602c69:ProjectViewProjectNode" />
+              <item name="da" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="view" type="462c0819:PsiDirectoryNode" />
+              <item name="da" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="da" type="b2602c69:ProjectViewProjectNode" />
+              <item name="da" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="view" type="462c0819:PsiDirectoryNode" />
+              <item name="da" type="462c0819:PsiDirectoryNode" />
+              <item name="worktask" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="da" type="b2602c69:ProjectViewProjectNode" />
+              <item name="da" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="da" type="b2602c69:ProjectViewProjectNode" />
+              <item name="da" type="462c0819:PsiDirectoryNode" />
+              <item name="sass" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
+    <property name="SearchEverywhereHistoryKey" value="{&#9;null&#9;null" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="Settings.JavaScript" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/resources" />
+      <recent name="$PROJECT_DIR$/sass/src/view/da/worktask" />
+      <recent name="$PROJECT_DIR$/app/view/da/worktask" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a0de85fd-acb3-46ba-9d19-443b20caf910" name="Default Changelist" comment="" />
+      <created>1552375037902</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1552375037902</updated>
+      <workItem from="1552375039490" duration="690000" />
+      <workItem from="1552527483840" duration="8480000" />
+      <workItem from="1552872478749" duration="53108000" />
+    </task>
+    <task id="LOCAL-00001" summary="da 添加工作任务类型管理&#10;&#10;&#10;（da-worktask-worktasktype）">
+      <created>1552979719867</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1552979719867</updated>
+    </task>
+    <task id="LOCAL-00002" summary="da 添加工作任务管理（未完成）&#10;&#10;&#10;（da-worktask-worktask）">
+      <created>1553073429836</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1553073429836</updated>
+    </task>
+    <task id="LOCAL-00003" summary="da 1.修改工作任务管理&#10;2.修改工作任务类型管理（上下级节点选择、启用）">
+      <created>1553245574256</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1553245574256</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="62278000" />
+  </component>
+  <component name="TodoView" selected-index="2">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="195" y="42" width="1261" height="707" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.35" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.4983871" weight="0.35447153" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.6379032" visible="true" weight="0.2406504" />
+      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.49758065" weight="0.40487805" />
+      <window_info active="true" anchor="bottom" id="Event Log" order="10" sideWeight="0.3620968" side_tool="true" visible="true" weight="0.2406504" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="da 添加工作任务类型管理&#10;&#10;&#10;（da-worktask-worktasktype）" />
+    <MESSAGE value="da 添加工作任务管理（未完成）&#10;&#10;&#10;（da-worktask-worktask）" />
+    <MESSAGE value="da 1.修改工作任务管理&#10;2.修改工作任务类型管理（上下级节点选择、启用）" />
+    <option name="LAST_COMMIT_MESSAGE" value="da 1.修改工作任务管理&#10;2.修改工作任务类型管理（上下级节点选择、启用）" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/app/view/entry/entrywh/EntryWHSController.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="136" column="46" lean-forward="true" selection-start-line="136" selection-start-column="46" selection-end-line="136" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/view/mgr/resourcenode/ResourceNodeModel.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="11" selection-start-line="22" selection-start-column="11" selection-end-line="22" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/view/da/consult/assetcensus/AssetCensus.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="2" selection-start-line="1" selection-start-column="2" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/view/dataservice/entry/EntryPendingCenterController.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="17" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/view/dataservice/entry/EntryPendingCenter.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="528">
+          <caret line="144" column="22" selection-start-line="144" selection-start-column="22" selection-end-line="144" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/view/da/worktask/WorkTaskTypeModel.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="15" column="61" selection-start-line="15" selection-start-column="61" selection-end-line="15" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/data/da/worktask/WorkTaskType.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="31" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/view/da/worktask/WorkTaskTypeShow.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="8" lean-forward="true" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/view/da/worktask/ChooseMenu.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="30" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/view/da/worktask/WorkTaskModel.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="45" selection-start-column="32" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/view/da/worktask/TimeLine.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="16" column="28" selection-start-line="16" selection-start-column="28" selection-end-line="16" selection-end-column="28" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#tpl#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#tpl#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#div#0;n#div#0;n#tpl#0;n#div#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/view/da/worktask/OrderTemple.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="25" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/view/da/worktask/WorkTaskController.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="327">
+          <caret line="28" column="24" selection-start-line="28" selection-start-column="24" selection-end-line="28" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sass/src/view/da/worktask/TimeLine.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="381">
+          <caret line="34" column="30" selection-start-line="34" selection-start-column="30" selection-end-line="34" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/view/da/worktask/WorkTaskEdit.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="12" lean-forward="true" selection-start-line="18" selection-start-column="12" selection-end-line="18" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/view/dataservice/entrydata/EntryDataBase.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2131" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/view/dataservice/entrydata/EntryDataDetails.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/view/dataservice/entrydata/EntryDataShow.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3076" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/view/dataservice/entrydata/EntryDataExt.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="249">
+          <caret line="76" column="12" lean-forward="true" selection-start-line="76" selection-start-column="12" selection-end-line="76" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/view/dataservice/entryedit/EntryEdit.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-799" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/view/dataservice/entryedit/EntryEditFormExt.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-556" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/view/dataservice/entryedit/EntryEditPanelWizard.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/view/dataservice/entryedit/EntryEditFormBase.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="142">
+          <caret line="83" column="42" selection-start-line="83" selection-start-column="37" selection-end-line="83" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/view/dataservice/entryedit/EntryEditController.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="458">
+          <caret line="150" column="11" lean-forward="true" selection-start-line="133" selection-start-column="8" selection-end-line="150" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/view/da/worktask/WorkTaskTypeEdit.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="35" column="29" lean-forward="true" selection-start-line="35" selection-start-column="29" selection-end-line="35" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/store/ModuleMenuDa.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="134">
+          <caret line="23" column="26" selection-start-line="23" selection-start-column="26" selection-end-line="23" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/view/da/worktask/WorkTaskInitiate.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/view/da/worktask/WorkTask.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="6" selection-start-line="13" selection-start-column="6" selection-end-line="13" selection-end-column="6" />
+          <folding>
+            <element signature="e#744#1087#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/view/da/worktask/WorkTaskDeal.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="612">
+          <caret line="36" column="24" selection-start-line="36" selection-start-column="24" selection-end-line="36" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/view/da/worktask/WorkTaskType.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1343">
+          <caret line="79" column="8" selection-start-line="79" selection-start-column="8" selection-end-line="79" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Application.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="6" selection-start-line="15" selection-start-column="6" selection-end-line="15" selection-end-column="6" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/view/main/MainController.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="42" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/view/main/MainHeader.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="37" selection-start-line="3" selection-start-column="11" selection-end-line="3" selection-end-column="37" />
+          <folding>
+            <element signature="n#style#0;n#h2#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#h2#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/view/main/MainLoader.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="37" selection-start-line="3" selection-start-column="11" selection-end-line="3" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/view/main/MainMenu.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="35" selection-start-line="3" selection-start-column="11" selection-end-line="3" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/view/main/MainModel.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="36" selection-start-line="3" selection-start-column="11" selection-end-line="3" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/view/main/MainNav.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="34" lean-forward="true" selection-start-line="3" selection-start-column="11" selection-end-line="3" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/view/gzt/zhgzt/ZhgztModel.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/view/main/Main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="32" lean-forward="true" selection-start-line="13" selection-start-column="32" selection-end-line="13" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/view/gzt/zhgzt/ContactsController.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/view/gzt/zhgzt/Contacts.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="56" selection-start-line="5" selection-start-column="56" selection-end-line="5" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/view/gzt/zhgzt/Tzgrid.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="40" column="18" selection-start-line="27" selection-start-column="15" selection-end-line="40" selection-end-column="18" />
+          <folding>
+            <element signature="n#style#0;n#em#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/view/gzt/zhgzt/Dbgrid.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="397">
+          <caret line="37" column="18" selection-start-line="28" selection-start-column="10" selection-end-line="37" selection-end-column="18" />
+          <folding>
+            <element signature="n#style#0;n#em#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/view/gzt/zhgzt/Zcjs.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="25" column="3" selection-start-line="25" selection-start-column="3" selection-end-line="25" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/view/gzt/zhgzt/ZhgztE.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="143">
+          <caret line="42" column="8" selection-start-line="42" selection-start-column="8" selection-end-line="42" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/view/gzt/zhgzt/ZhgztM.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="219">
+          <caret line="41" column="49" selection-start-line="41" selection-start-column="49" selection-end-line="41" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/view/gzt/zhgzt/ZhgztS.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="41" column="49" selection-start-line="41" selection-start-column="49" selection-end-line="41" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/view/gzt/zhgzt/Zhgzt.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="731">
+          <caret line="43" column="49" selection-start-line="43" selection-end-line="43" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/store/Module.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="29" column="3" lean-forward="true" selection-start-line="29" selection-start-column="3" selection-end-line="29" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/view/da/worktask/WorkTaskTypeController.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="326">
+          <caret line="53" column="33" lean-forward="true" selection-start-line="53" selection-start-column="33" selection-end-line="53" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

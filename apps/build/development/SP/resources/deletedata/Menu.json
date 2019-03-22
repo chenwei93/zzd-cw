@@ -1,0 +1,641 @@
+{
+  "expanded": true,
+  "children": [
+    {
+      "text": "分布式目录管理系统（中心）",
+      "iconCls": "x-fa fa-home",
+      "rowCls": "nav-tree-badge nav-tree-badge-hot",
+      "viewType": "",
+      "center": true,
+      "role": "all",
+      "checked": false,
+      "expanded": true,
+      "children": [
+        {
+          "text": "首页",
+          "iconCls": "x-fa fa-home",
+          "rowCls": "nav-tree-badge nav-tree-badge-hot",
+          "viewType": "app-home",
+          "center": true,
+          "role": "all",
+          "checked": false,
+          "leaf": true
+        },
+        {
+          "text": "待处理目录",
+          "iconCls": "x-fa  fa-volume-down",
+          "viewType": "entry-pendingcenter",
+          "center": true,
+          "role": "all",
+          "checked": false,
+          "leaf": true
+        },
+        {
+          "text": "已发布目录",
+          "iconCls": "x-fa  fa-navicon",
+          "viewType": "entry-publishedcenter",
+          "center": true,
+          "checked": false,
+          "role": "all",
+          "leaf": true
+        },
+        {
+          "text": "变更目录",
+          "iconCls": "x-fa fa-list-alt",
+          "viewType": "entry-changelogcenter",
+          "center": true,
+          "role": "all",
+          "checked": false,
+          "leaf": true
+        },
+        {
+          "text": "目录管理",
+          "iconCls": "x-fa fa-table",
+          "viewType": "pageblank",
+          "expanded": false,
+          "role": "all",
+          "checked": false,
+          "center": "all",
+          "selectable": false,
+          "children": [
+            {
+              "text": "手工编目",
+              "iconCls": "x-fa fa-pencil-square-o",
+              "viewType": "entry-edit",
+              "center": "all",
+              "checked": false,
+              "role": "all",
+              "leaf": true
+            },
+            {
+              "text": "资源目录",
+              "iconCls": "x-fa fa-file",
+              "viewType": "entrydata",
+              "center": "all",
+              "checked": false,
+              "role": "all",
+              "leaf": true
+            },
+            {
+              "text": "资源清单",
+              "iconCls": "x-fa fa-align-justify",
+              "viewType": "entrydata-list",
+              "center": "all",
+              "role": "all",
+              "checked": false,
+              "leaf": true
+            },
+            {
+              "text": "目录查询",
+              "iconCls": "x-fa fa-search",
+              "viewType": "entry-search",
+              "center": "all",
+              "role": "all",
+              "checked": false,
+              "leaf": true
+            },
+            {
+              "text": "资源检索",
+              "iconCls": "x-fa fa-rss",
+              "viewType": "resource",
+              "center": "all",
+              "checked": false,
+              "role": "all",
+              "leaf": true
+            },
+            {
+              "text": "目录维护",
+              "iconCls": "x-fa fa-wrench",
+              "viewType": "entrywh-tab",
+              "center": "all",
+              "role": "all",
+              "checked": false,
+              "leaf": true
+            },
+            {
+              "text": "目录分类",
+              "iconCls": "x-fa fa-list-ul",
+              "viewType": "entry-fl",
+              "center": "all",
+              "role": "all",
+              "checked": false,
+              "leaf": true
+            }
+          ]
+        },
+        {
+          "text": "基础数据管理",
+          "iconCls": "x-fa fa-leanpub",
+          "viewType": "pageblank",
+          "expanded": false,
+          "center": true,
+          "checked": false,
+          "role": "all",
+          "selectable": false,
+          "children": [
+            {
+              "text": "国标主题分类",
+              "iconCls": "x-fa  fa-university",
+              "viewType": "catalogzt",
+              "center": true,
+              "role": "all",
+              "checked": false,
+              "leaf": true
+            },
+            {
+              "text": "实施应用分类",
+              "iconCls": "x-fa fa-delicious",
+              "viewType": "catalogss",
+              "center": true,
+              "role": "all",
+              "checked": false,
+              "leaf": true
+            },
+            {
+              "text": "行业分类",
+              "iconCls": "x-fa fa-wrench",
+              "viewType": "cataloghy",
+              "center": true,
+              "role": "all",
+              "checked": false,
+              "leaf": true
+            },
+            {
+              "text": "数据字典",
+              "iconCls": "x-fa fa-cubes",
+              "viewType": "dictionary",
+              "center": true,
+              "checked": false,
+              "role": "all",
+              "leaf": true
+            },
+            {
+              "text": "自定义标签",
+              "iconCls": "x-fa fa-tags",
+              "viewType": "keyword",
+              "center": true,
+              "checked": false,
+              "role": "all",
+              "leaf": true
+            }
+          ]
+        },
+        {
+          "text": "系统管理",
+          "iconCls": "x-fa fa-gear",
+          "expanded": false,
+          "center": "all",
+          "checked": false,
+          "role": "all",
+          "selectable": false,
+          "children": [
+            {
+              "text": "人员管理",
+              "iconCls": "x-fa fa-female",
+              "viewType": "person",
+              "center": "all",
+              "role": "all",
+              "checked": false,
+              "leaf": true
+            },
+            {
+              "text": "账户管理",
+              "iconCls": "x-fa fa-user",
+              "viewType": "account",
+              "center": "all",
+              "checked": false,
+              "role": "all",
+              "leaf": true
+            },
+            {
+              "text": "角色管理",
+              "iconCls": "x-fa fa-users",
+              "viewType": "roles",
+              "center": "all",
+              "role": "all",
+              "checked": false,
+              "leaf": true
+            },
+            {
+              "text": "模块管理",
+              "iconCls": "x-fa fa-th-large",
+              "viewType": "modular",
+              "center": "all",
+              "role": "all",
+              "checked": false,
+              "leaf": true
+            },
+            {
+              "text": "菜单管理",
+              "iconCls": "x-fa fa-list-ul",
+              "viewType": "privilege",
+              "center": "all",
+              "checked": false,
+              "role": "all",
+              "leaf": true
+            },
+            {
+              "text": "地区管理",
+              "iconCls": "x-fa fa-map-marker",
+              "viewType": "region",
+              "center": "all",
+              "role": "all",
+              "checked": false,
+              "leaf": true
+            },
+            {
+              "text": "部门管理",
+              "iconCls": "x-fa fa-sitemap",
+              "viewType": "principal",
+              "center": "all",
+              "checked": false,
+              "role": "all",
+              "leaf": true
+            },
+            {
+              "text": "节点管理",
+              "iconCls": "x-fa fa-file-text",
+              "viewType": "realmnode",
+              "center": "all",
+              "role": "all",
+              "checked": false,
+              "leaf": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "分布式目录管理系统（部门）",
+      "iconCls": "x-fa fa-home",
+      "rowCls": "nav-tree-badge nav-tree-badge-hot",
+      "viewType": "",
+      "center": true,
+      "role": "all",
+      "checked": false,
+      "expanded": true,
+      "children": [
+        {
+          "text": "首页",
+          "iconCls": "x-fa fa-home",
+          "rowCls": "nav-tree-badge nav-tree-badge-hot",
+          "viewType": "app-homenode",
+          "center": false,
+          "role": "all",
+          "checked": false,
+          "leaf": true
+        },
+        {
+          "text": "待处理目录",
+          "iconCls": "x-fa  fa-volume-down",
+          "viewType": "entry-pendingnode",
+          "center": false,
+          "checked": false,
+          "role": "all",
+          "leaf": true
+        },
+        {
+          "text": "已处理目录",
+          "iconCls": "x-fa  fa-navicon",
+          "viewType": "entry-publishednode",
+          "center": false,
+          "role": "all",
+          "checked": false,
+          "leaf": true
+        },
+        {
+          "text": "变更目录",
+          "iconCls": "x-fa fa-list-alt",
+          "viewType": "entry-changelog",
+          "center": true,
+          "role": "all",
+          "checked": false,
+          "leaf": true
+        },
+        {
+          "text": "目录管理",
+          "iconCls": "x-fa fa-table",
+          "viewType": "pageblank",
+          "expanded": false,
+          "role": "all",
+          "checked": false,
+          "center": "all",
+          "selectable": false,
+          "children": [
+            {
+              "text": "手工编目",
+              "iconCls": "x-fa fa-pencil-square-o",
+              "viewType": "entry-edit",
+              "center": "all",
+              "checked": false,
+              "role": "all",
+              "leaf": true
+            },
+            {
+              "text": "资源目录",
+              "iconCls": "x-fa fa-file",
+              "viewType": "entrydata",
+              "center": "all",
+              "checked": false,
+              "role": "all",
+              "leaf": true
+            },
+            {
+              "text": "资源清单",
+              "iconCls": "x-fa fa-align-justify",
+              "viewType": "entrydata-list",
+              "center": "all",
+              "role": "all",
+              "checked": false,
+              "leaf": true
+            },
+            {
+              "text": "目录查询",
+              "iconCls": "x-fa fa-search",
+              "viewType": "entry-search",
+              "center": "all",
+              "role": "all",
+              "checked": false,
+              "leaf": true
+            },
+            {
+              "text": "资源检索",
+              "iconCls": "x-fa fa-rss",
+              "viewType": "resource",
+              "center": "all",
+              "checked": false,
+              "role": "all",
+              "leaf": true
+            },
+            {
+              "text": "目录维护",
+              "iconCls": "x-fa fa-wrench",
+              "viewType": "entrywh-tab",
+              "center": "all",
+              "role": "all",
+              "checked": false,
+              "leaf": true
+            },
+            {
+              "text": "目录分类",
+              "iconCls": "x-fa fa-list-ul",
+              "viewType": "entry-fl",
+              "center": "all",
+              "role": "all",
+              "checked": false,
+              "leaf": true
+            }
+          ]
+        },
+        {
+          "text": "系统管理",
+          "iconCls": "x-fa fa-gear",
+          "expanded": false,
+          "center": "all",
+          "checked": false,
+          "role": "all",
+          "selectable": false,
+          "children": [
+            {
+              "text": "人员管理",
+              "iconCls": "x-fa fa-female",
+              "viewType": "person",
+              "center": "all",
+              "role": "all",
+              "checked": false,
+              "leaf": true
+            },
+            {
+              "text": "账户管理",
+              "iconCls": "x-fa fa-user",
+              "viewType": "account",
+              "center": "all",
+              "checked": false,
+              "role": "all",
+              "leaf": true
+            },
+            {
+              "text": "角色管理",
+              "iconCls": "x-fa fa-users",
+              "viewType": "roles",
+              "center": "all",
+              "role": "all",
+              "checked": false,
+              "leaf": true
+            },
+            {
+              "text": "模块管理",
+              "iconCls": "x-fa fa-th-large",
+              "viewType": "modular",
+              "center": "all",
+              "role": "all",
+              "checked": false,
+              "leaf": true
+            },
+            {
+              "text": "菜单管理",
+              "iconCls": "x-fa fa-list-ul",
+              "viewType": "privilege",
+              "center": "all",
+              "checked": false,
+              "role": "all",
+              "leaf": true
+            },
+            {
+              "text": "地区管理",
+              "iconCls": "x-fa fa-map-marker",
+              "viewType": "region",
+              "center": "all",
+              "role": "all",
+              "checked": false,
+              "leaf": true
+            },
+            {
+              "text": "部门管理",
+              "iconCls": "x-fa fa-sitemap",
+              "viewType": "principal",
+              "center": "all",
+              "checked": false,
+              "role": "all",
+              "leaf": true
+            },
+            {
+              "text": "节点管理",
+              "iconCls": "x-fa fa-file-text",
+              "viewType": "realmnode",
+              "center": "all",
+              "role": "all",
+              "checked": false,
+              "leaf": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "数据服务管理平台",
+      "iconCls": "x-fa fa-home",
+      "rowCls": "nav-tree-badge nav-tree-badge-hot",
+      "viewType": "",
+      "center": true,
+      "checked": false,
+      "role": "all",
+      "expanded": true,
+      "children": [
+        {
+          "text": "首页",
+          "iconCls": "x-fa fa-home",
+          "rowCls": "nav-tree-badge nav-tree-badge-hot",
+          "viewType": "app-homenode",
+          "center": false,
+          "role": "all",
+          "checked": false,
+          "leaf": true
+        },
+        {
+          "text": "服务管理",
+          "iconCls": "x-fa fa-server",
+          "viewType": "pageblank",
+          "expanded": false,
+          "role": "all",
+          "checked": false,
+          "center": "all",
+          "selectable": false,
+          "children": [
+            {
+              "text": "自定义服务",
+              "iconCls": "x-fa fa-pencil-square-o",
+              "viewType": "services",
+              "center": "all",
+              "checked": false,
+              "role": "all",
+              "leaf": true
+            },
+            {
+              "text": "服务维护",
+              "iconCls": "x-fa fa-wrench",
+              "viewType": "servicewh",
+              "center": "all",
+              "checked": false,
+              "role": "all",
+              "leaf": true
+            },
+            {
+              "text": "基础服务清单",
+              "iconCls": "x-fa fa-align-justify",
+              "viewType": "service",
+              "center": "all",
+              "role": "all",
+              "checked": false,
+              "leaf": true
+            }
+          ]
+        },
+        {
+          "text": "应用管理",
+          "iconCls": "x-fa fa-th-large",
+          "expanded": false,
+          "center": "all",
+          "checked": false,
+          "role": "all",
+          "selectable": false,
+          "children": [
+            {
+              "text": "新增应用",
+              "iconCls": "x-fa fa-plus-square-o",
+              "viewType": "application-add",
+              "center": "all",
+              "role": "all",
+              "checked": false,
+              "leaf": true
+            },
+            {
+              "text": "应用维护",
+              "iconCls": "x-fa fa-gear",
+              "viewType": "application",
+              "center": "all",
+              "checked": false,
+              "role": "all",
+              "leaf": true
+            }
+          ]
+        },{
+          "text": "平台管理",
+          "iconCls": "x-fa fa-desktop",
+          "viewType": "profile",
+          "center": "all",
+          "checked": false,
+          "role": "all",
+          "leaf": true
+        }
+      ]
+    },
+    {
+      "text": "节点资源管理系统",
+      "iconCls": "x-fa fa-home",
+      "rowCls": "nav-tree-badge nav-tree-badge-hot",
+      "viewType": "",
+      "center": true,
+      "role": "all",
+      "expanded": true,
+      "checked": false,
+      "children": [
+        {
+          "text": "首页",
+          "iconCls": "x-fa fa-home",
+          "rowCls": "nav-tree-badge nav-tree-badge-hot",
+          "viewType": "app-home",
+          "center": true,
+          "role": "all",
+          "checked": false,
+          "leaf": true
+        },
+        {
+          "text": "资源主机配置",
+          "iconCls": "x-fa fa-laptop",
+          "viewType": "resourcepool",
+          "center": false,
+          "role": "all",
+          "checked": false,
+          "leaf": true
+        },
+        {
+          "text": "自动编目配置",
+          "iconCls": "x-fa fa-pie-chart",
+          "viewType": "resourcepool",
+          "center": false,
+          "role": "all",
+          "checked": false,
+          "leaf": true
+        },
+        {
+          "text": "资源库管理",
+          "iconCls": "x-fa  fa-database",
+          "viewType": "resource",
+          "center": true,
+          "role": "all",
+          "checked": false,
+          "leaf": true
+        },
+        {
+          "text": "资源检索",
+          "iconCls": "x-fa  fa-search-plus",
+          "viewType": "resourcesearch",
+          "center": false,
+          "checked": false,
+          "role": "all",
+          "leaf": true
+        },
+        {
+          "text": "节点配置",
+          "iconCls": "x-fa  fa-square",
+          "viewType": "profile",
+          "center": true,
+          "checked": false,
+          "role": "all",
+          "leaf": true
+        }
+      ]
+    }
+  ]
+}

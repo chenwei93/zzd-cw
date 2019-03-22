@@ -1,0 +1,533 @@
+{
+  "text": "政务云资产",
+  "id": "yzy",
+  "expanded": true,
+  "type": "rjfw",
+  "code": "yzy",
+  "des": "政务云资产",
+  "inherit": [
+    "zc"
+  ],
+  "dataset": [
+    {
+      "text": "网络区域",
+      "code": "wlqy",
+      "type": "string",
+      "show_type": "combo",
+      "percent": 0.5,
+      "store": [
+        {
+          "showname": "资源共享区（外网）",
+          "value": "zygxqw"
+        },
+        {
+          "showname": "公众服务区（外网）",
+          "value": "gzfwqw"
+        },
+        {
+          "showname": " 资源共享区（内网）",
+          "value": "zygxqn"
+        },
+        {
+          "showname": "公众服务区（内网）",
+          "value": "gzfwqn"
+        }
+      ]
+    }
+  ],
+  "children": [
+    {
+      "text": "服务器设备",
+      "id": "yzy_fwq",
+      "code": "fwq",
+      "des": "这是服务器设备",
+      "type": "rjfw",
+      "inherit": [
+        "yzy"
+      ],
+      "dataset": [
+        {
+          "text": "CPU内核数",
+          "code": "y_lxr",
+          "type": "string",
+          "show_type": "combo",
+          "store": [
+            {
+              "showname": "1",
+              "value": "1"
+            },
+            {
+              "showname": "2",
+              "value": "2"
+            },
+            {
+              "showname": "4",
+              "value": "4"
+            },
+            {
+              "showname": "8",
+              "value": "8"
+            },
+            {
+              "showname": "12",
+              "value": "12"
+            },
+            {
+              "showname": "16",
+              "value": "16"
+            },
+            {
+              "showname": "32",
+              "value": "32"
+            }
+          ],
+          "percent": 0.5
+        },
+        {
+          "text": "CPU主频",
+          "code": "y_zp",
+          "type": "string",
+          "show_type": "combo",
+          "store": [
+            {
+              "showname": "2.4GHz",
+              "value": "2.4GHz"
+            },
+            {
+              "showname": "3.2GHz",
+              "value": "3.2GHz"
+            },
+            {
+              "showname": "3.4GHz",
+              "value": "3.4GHz"
+            },
+            {
+              "showname": "4.5GHz",
+              "value": "4.5GHz"
+            }
+          ],
+          "percent": 0.5
+        },
+        {
+          "text": "CPU一级缓存",
+          "code": "y_yjhc",
+          "type": "string",
+          "show_type": "combo",
+          "store": [
+            {
+              "showname": "128M",
+              "value": "128M"
+            },
+            {
+              "showname": "256M",
+              "value": "256M"
+            },
+            {
+              "showname": "512M",
+              "value": "512M"
+            }
+          ],
+          "percent": 0.5
+        },
+        {
+          "text": "内存大小",
+          "code": "y_dx",
+          "type": "number",
+          "show_type": "numberfield",
+          "percent": 0.5
+        },
+        {
+          "text": "内存传输类型",
+          "code": "y_zslx",
+          "type": "string",
+          "show_type": "combo",
+          "store": [
+            {
+              "showname": "2.4GHz",
+              "value": "2.4GHz"
+            },
+            {
+              "showname": "3.2GHz",
+              "value": "3.2GHz"
+            },
+            {
+              "showname": "3.4GHz",
+              "value": "3.4GHz"
+            },
+            {
+              "showname": "4.5GHz",
+              "value": "4.5GHz"
+            }
+          ],
+          "percent": 0.5
+        },
+        {
+          "text": "内存频率",
+          "code": "y_pl",
+          "type": "string",
+          "show_type": "combo",
+          "store": [
+            {
+              "showname": "2600MHz",
+              "value": "2600MHz"
+            },
+            {
+              "showname": "3200MHz",
+              "value": "3200MHz"
+            },
+            {
+              "showname": "3000MHz",
+              "value": "3000MHz"
+            },
+            {
+              "showname": "2800MHz",
+              "value": "2800MHz"
+            },
+            {
+              "showname": "2400MHz",
+              "value": "2400MHz"
+            }
+          ],
+          "percent": 0.5
+        },
+        {
+          "text": "存储个数",
+          "code": "y_gs",
+          "type": "number",
+          "show_type": "numberfield",
+          "percent": 0.5
+        },
+        {
+          "text": "存储容量",
+          "code": "y_rl",
+          "type": "string",
+          "show_type": "combo",
+          "store": [
+            {
+              "showname": "256G",
+              "value": "256G"
+            },
+            {
+              "showname": "512G",
+              "value": "512G"
+            },
+            {
+              "showname": "1T",
+              "value": "1T"
+            },
+            {
+              "showname": "2T",
+              "value": "2T"
+            },
+            {
+              "showname": "4T",
+              "value": "4T"
+            }
+          ],
+          "percent": 0.5
+        },
+        {
+          "text": "存储缓存",
+          "code": "y_hc",
+          "type": "string",
+          "show_type": "combo",
+          "store": [
+            {
+              "showname": "64M",
+              "value": "64M"
+            },
+            {
+              "showname": "128M",
+              "value": "128M"
+            },
+            {
+              "showname": "256M",
+              "value": "256M"
+            },
+            {
+              "showname": "512M",
+              "value": "512M"
+            }
+          ],
+          "percent": 0.5
+        },
+        {
+          "text": "接口类型",
+          "code": "y_jklx",
+          "type": "string",
+          "show_type": "combo",
+          "store": [
+            {
+              "showname": "SATA",
+              "value": "SATA"
+            },
+            {
+              "showname": "PCI-E",
+              "value": "PCI-E"
+            },
+            {
+              "showname": "SAS",
+              "value": "SAS"
+            }
+          ],
+          "percent": 0.5
+        },
+        {
+          "text": "带宽",
+          "code": "y_kd",
+          "type": "string",
+          "show_type": "combo",
+          "store": [
+            {
+              "showname": "1M",
+              "value": "1M"
+            },
+            {
+              "showname": "10M",
+              "value": "10M"
+            },
+            {
+              "showname": "100M",
+              "value": "100M"
+            },
+            {
+              "showname": "1G",
+              "value": "1G"
+            }
+          ],
+          "percent": 0.5
+        },
+        {
+          "text": "公网带宽",
+          "code": "y_gsdk",
+          "type": "number",
+          "show_type": "numberfield",
+          "percent": 0.5
+        }
+      ],
+      "expanded": true,
+      "children": [
+        {
+          "text": "物理服务器设备",
+          "id": "yzy_io",
+          "code": "io",
+          "des": "这是物理服务器设备",
+          "type": "rjfw",
+          "inherit": [
+            "yzy"
+          ],
+          "dataset": [],
+          "leaf": true
+        },
+        {
+          "text": "虚拟服务器",
+          "id": "yzy_cpu",
+          "code": "cpu",
+          "des": "这是虚拟服务器",
+          "type": "rjfw",
+          "inherit": [
+            "yzy"
+          ],
+          "dataset": [],
+          "leaf": true
+        }
+      ]
+    },
+    {
+      "text": "网络设备",
+      "id": "yzy_cc",
+      "code": "cc",
+      "des": "这是网络设备",
+      "type": "rjfw",
+      "inherit": [
+        "yzy"
+      ],
+      "dataset": [],
+      "children": [
+        {
+          "text": "核心交换机",
+          "id": "yzy_hxjhj",
+          "code": "hxjhj",
+          "des": "这是核心交换机",
+          "type": "rjfw",
+          "inherit": [
+            "yzy"
+          ],
+          "dataset": [],
+          "leaf": true
+        },
+        {
+          "text": "负载均衡",
+          "id": "yzy_fzjh",
+          "code": "fzjh",
+          "des": "这是负载均衡",
+          "type": "rjfw",
+          "inherit": [
+            "yzy"
+          ],
+          "dataset": [],
+          "leaf": true
+        }
+      ]
+    },
+    {
+      "text": "安全设备",
+      "id": "yzy_aq",
+      "code": "aq",
+      "des": "这是安全设备",
+      "type": "rjfw",
+      "inherit": [
+        "yzy"
+      ],
+      "dataset": [],
+      "children": [
+        {
+          "text": "防火墙",
+          "id": "yzy_fhq",
+          "code": "fhq",
+          "des": "这是防火墙",
+          "type": "rjfw",
+          "inherit": [
+            "yzy"
+          ],
+          "dataset": [],
+          "leaf": true
+        },
+        {
+          "text": "堡垒机",
+          "id": "yzy_blj",
+          "code": "blj",
+          "des": "这是负载均衡",
+          "type": "rjfw",
+          "inherit": [
+            "yzy"
+          ],
+          "dataset": [],
+          "leaf": true
+        },
+        {
+          "text": "WAF",
+          "id": "yzy_waf",
+          "code": "waf",
+          "des": "这是WAF",
+          "type": "rjfw",
+          "inherit": [
+            "yzy"
+          ],
+          "dataset": [],
+          "leaf": true
+        },
+        {
+          "text": "准入",
+          "id": "yzy_zr",
+          "code": "zr",
+          "des": "这是准入",
+          "type": "rjfw",
+          "inherit": [
+            "yzy"
+          ],
+          "dataset": [],
+          "leaf": true
+        },
+        {
+          "text": "VPN",
+          "id": "yzy_vpn",
+          "code": "vpn",
+          "des": "这是VPN",
+          "type": "rjfw",
+          "inherit": [
+            "yzy"
+          ],
+          "dataset": [],
+          "leaf": true
+        },
+        {
+          "text": "日志服务器",
+          "id": "yzy_rzfwq",
+          "code": "rzfwq",
+          "des": "这是日志服务器",
+          "type": "rjfw",
+          "inherit": [
+            "yzy"
+          ],
+          "dataset": [],
+          "leaf": true
+        }
+      ]
+    },
+    {
+      "text": "存储设备",
+      "id": "yzy_ccsb",
+      "code": "ccsb",
+      "des": "这是存储设备",
+      "type": "rjfw",
+      "inherit": [
+        "yzy"
+      ],
+      "dataset": [],
+      "expanded": true,
+      "children": [
+        {
+          "text": "SAN存储",
+          "id": "yzy_san",
+          "code": "san",
+          "des": "这是SAN存储",
+          "type": "rjfw",
+          "inherit": [
+            "yzy"
+          ],
+          "dataset": [],
+          "leaf": true
+        },
+        {
+          "text": "SAN 交换机",
+          "id": "yzy_sanjhj",
+          "code": "sanjhj",
+          "des": "这是SAN 交换机",
+          "type": "rjfw",
+          "inherit": [
+            "yzy"
+          ],
+          "dataset": [],
+          "leaf": true
+        },
+        {
+          "text": "存储网关",
+          "id": "yzy_ccwg",
+          "code": "ccwg",
+          "des": "这是存储网关",
+          "type": "rjfw",
+          "inherit": [
+            "yzy"
+          ],
+          "dataset": [],
+          "leaf": true
+        },
+        {
+          "text": "IPSAN",
+          "id": "yzy_IPSAN",
+          "code": "IPSAN",
+          "des": "这是IPSAN",
+          "type": "rjfw",
+          "inherit": [
+            "yzy"
+          ],
+          "dataset": [],
+          "leaf": true
+        },
+        {
+          "text": "分布式存储CSS",
+          "id": "yzy_fbscccss",
+          "code": "fbscccss",
+          "des": "这是分布式存储CSS",
+          "type": "rjfw",
+          "inherit": [
+            "yzy"
+          ],
+          "dataset": [],
+          "leaf": true
+        }
+      ]
+    }
+  ]
+}

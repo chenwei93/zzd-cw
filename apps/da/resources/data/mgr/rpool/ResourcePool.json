@@ -1,0 +1,20 @@
+{
+  "content": [
+    {
+      "id": "1",
+      "name": "测试资源池1",
+      "code": "testRpool1",
+      "base": "test",
+      "pollingTimeMillis": "10000",
+      "allowFormat": "Db"
+    },
+    {
+      "id": "2",
+      "name": "测试资源池2",
+      "code": "testRpool2",
+      "base": "test",
+      "pollingTimeMillis": "10000",
+      "allowFormat": "File"
+    }
+  ]
+}

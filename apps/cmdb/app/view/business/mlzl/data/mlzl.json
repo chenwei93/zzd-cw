@@ -1,0 +1,476 @@
+{
+  "content": [
+    {
+      "zc_type": "基础设施",
+      "type": "服务器设备",
+      "name": "物理服务器设备",
+      "factory": "华为",
+      "number": "60",
+      "total": "60",
+      "available": "20",
+      "access": "5"
+    },
+    {
+      "zc_type": "",
+      "type": "",
+      "name": "物理服务器设备",
+      "factory": "曙光",
+      "code":"sg",
+      "number": "2",
+      "total": "2",
+      "available": "0",
+      "access": "1"
+    },
+    {
+      "zc_type": "",
+      "type": "",
+      "name": "虚拟服务器",
+      "factory": "虚拟化",
+      "number": "1500",
+      "total": "1500",
+      "available": "500",
+      "access": "100"
+    },
+    {
+      "zc_type": "",
+      "type": "",
+      "name": "虚拟服务器",
+      "factory": "openstack",
+      "number": "500",
+      "total": "500",
+      "available": "300",
+      "access": "50"
+    },
+    {
+      "zc_type": "",
+      "type": "网络设备",
+      "name": "核心交换机",
+      "factory": "华为",
+      "number": "4",
+      "total": "4",
+      "available": "4",
+      "access": "10"
+    },
+    {
+      "zc_type": "",
+      "type": "",
+      "name": "核心交换机",
+      "factory": "华为",
+      "number": "14",
+      "total": "14",
+      "available": "15",
+      "access": "500"
+    },
+    {
+      "zc_type": "",
+      "type": "",
+      "name": "负载均衡",
+      "factory": "radware",
+      "number": "4",
+      "total": "4",
+      "available": "4",
+      "access": "100"
+    },
+    {
+      "zc_type": "",
+      "type": "安全设备",
+      "name": "防火墙",
+      "factory": "华为",
+      "number": "4",
+      "total": "4",
+      "available": "4",
+      "access": "10"
+    },
+    {
+      "zc_type": "",
+      "type": "",
+      "name": "防火墙",
+      "factory": "天融信",
+      "number": "4",
+      "total": "4",
+      "available": "4",
+      "access": "10"
+    },
+    {
+      "zc_type": "",
+      "type": "",
+      "name": "防火墙",
+      "factory": "绿盟",
+      "number": "2",
+      "total": "2",
+      "available": "2",
+      "access": "5"
+    },
+    {
+      "zc_type": "",
+      "type": "",
+      "name": "堡垒机",
+      "factory": "绿盟",
+      "number": "1",
+      "total": "1",
+      "available": "1",
+      "access": "2"
+    },
+    {
+      "zc_type": "",
+      "type": "",
+      "name": "WAF",
+      "factory": "绿盟",
+      "number": "2",
+      "total": "2",
+      "available": "2",
+      "access": "1"
+    },
+    {
+      "zc_type": "",
+      "type": "",
+      "name": "准入",
+      "factory": "ACK",
+      "number": "1",
+      "total": "1",
+      "available": "1",
+      "access": "1"
+    },
+    {
+      "zc_type": "",
+      "type": "",
+      "name": "VPN",
+      "factory": "绿盟",
+      "number": "1",
+      "total": "1",
+      "available": "1",
+      "access": "1"
+    },
+    {
+      "zc_type": "",
+      "type": "",
+      "name": "日志服务器",
+      "factory": "",
+      "number": "1",
+      "total": "1",
+      "available": "1",
+      "access": "5"
+    },
+    {
+      "zc_type": "",
+      "type": "存储设备",
+      "name": "SAN 存储",
+      "factory": "华为",
+      "code": "san",
+      "number": "4",
+      "total": "500",
+      "available": "100",
+      "access": "3"
+    },
+    {
+      "zc_type": "",
+      "type": "",
+      "name": "SAN 交换机",
+      "factory": "华为",
+      "number": "8",
+      "total": "8",
+      "available": "0",
+      "access": "4"
+    },
+    {
+      "zc_type": "",
+      "type": "",
+      "name": "存储网关",
+      "factory": "华为",
+      "number": "2",
+      "total": "2",
+      "available": "2",
+      "access": "16"
+    },
+    {
+      "zc_type": "",
+      "type": "",
+      "name": "IPSAN",
+      "factory": "宏衫",
+      "number": "11",
+      "total": "1000",
+      "available": "500",
+      "access": "10"
+    },
+    {
+      "zc_type": "",
+      "type": "",
+      "name": "分布式存储 CSS",
+      "factory": "华为",
+      "number": "1",
+      "total": "300",
+      "available": "200",
+      "access": "5"
+    },
+    {
+      "zc_type": "软件系统",
+      "type": "运维系统",
+      "name": "DNS",
+      "factory": "",
+      "number": "1",
+      "total": "100",
+      "available": "50",
+      "access": "50"
+    },
+    {
+      "zc_type": "",
+      "type": "",
+      "name": "备份软件",
+      "factory": "Commvault1",
+      "number": "1",
+      "total": "50",
+      "available": "40",
+      "access": "5"
+    },
+    {
+      "zc_type": "",
+      "type": "",
+      "name": "备份软件",
+      "factory": "华为",
+      "number": "2",
+      "total": "100",
+      "available": "10",
+      "access": "2"
+    },
+    {
+      "zc_type": "",
+      "type": "",
+      "name": "可信计算",
+      "factory": "",
+      "number": "2",
+      "total": "2",
+      "available": "2",
+      "access": "5"
+    },
+    {
+      "zc_type": "",
+      "type": "",
+      "name": "防病毒",
+      "factory": "瑞星",
+      "number": "1",
+      "total": "100",
+      "available": "80",
+      "access": "1"
+    },
+    {
+      "zc_type": "基础设施",
+      "type": "服务器设备",
+      "name": "物理服务器设备",
+      "factory": "华为",
+      "number": "60",
+      "total": "60",
+      "available": "20",
+      "access": "5"
+    },
+    {
+      "zc_type": "",
+      "type": "",
+      "name": "esight",
+      "factory": "华为",
+      "number": "1",
+      "total": "1",
+      "available": "1",
+      "access": "1"
+    },
+    {
+      "zc_type": "",
+      "type": "",
+      "name": "补丁升级",
+      "factory": "微软 wsus1",
+      "number": "1",
+      "total": "",
+      "available": "",
+      "access": "10"
+    },
+    {
+      "zc_type": "",
+      "type": "",
+      "name": "补丁升级",
+      "factory": "自建 yum 源",
+      "number": "1",
+      "total": "",
+      "available": "",
+      "access": "15"
+    },
+    {
+      "zc_type": "",
+      "type": "",
+      "name": "ftp",
+      "factory": "FileZilla",
+      "number": "3",
+      "total": "",
+      "available": "",
+      "access": "8"
+    },
+    {
+      "zc_type": "",
+      "type": "",
+      "name": "政务云平台",
+      "factory": "华为",
+      "number": "1",
+      "total": "1000",
+      "available": "800",
+      "access": "100"
+    },
+    {
+      "zc_type": "",
+      "type": "",
+      "name": "日志采集",
+      "factory": "",
+      "number": "1",
+      "total": "",
+      "available": "",
+      "access": "1000"
+    },
+    {
+      "zc_type": "",
+      "type": "",
+      "name": "电话受理服务系统",
+      "factory": "",
+      "number": "1",
+      "total": "",
+      "available": "",
+      "access": "2"
+    },
+    {
+      "zc_type": "",
+      "type": "",
+      "name": "数据库性能分析和行为审计",
+      "factory": "",
+      "number": "1",
+      "total": "",
+      "available": "",
+      "access": "1"
+    },
+    {
+      "zc_type": "",
+      "type": "",
+      "name": "信息安全风险管控",
+      "factory": "",
+      "number": "1",
+      "total": "",
+      "available": "",
+      "access": "1"
+    },
+    {
+      "zc_type": "",
+      "type": "",
+      "name": "信息安全监控预警及处置服务平台",
+      "factory": "东软",
+      "number": "1",
+      "total": "",
+      "available": "",
+      "access": "1"
+    },
+    {
+      "zc_type": "",
+      "type": "",
+      "name": "可信计算",
+      "factory": "",
+      "number": "1",
+      "total": "",
+      "available": "",
+      "access": "1"
+    },
+    {
+      "zc_type": "",
+      "type": "应用系统",
+      "name": "数据架构体系",
+      "factory": "",
+      "number": "1",
+      "total": "100",
+      "available": "50",
+      "access": "50"
+    },
+    {
+      "zc_type": "",
+      "type": "",
+      "name": "PAAS 平台",
+      "factory": "",
+      "number": "1",
+      "total": "100",
+      "available": "80",
+      "access": "20"
+    },
+    {
+      "zc_type": "",
+      "type": "",
+      "name": "集约化网站群平台",
+      "factory": "",
+      "number": "1",
+      "total": "50",
+      "available": "20",
+      "access": "30"
+    },
+    {
+      "zc_type": "",
+      "type": "",
+      "name": "统一身份认证系统",
+      "factory": "",
+      "number": "1",
+      "total": "10000",
+      "available": "5000",
+      "access": "5000"
+    },
+    {
+      "zc_type": "",
+      "type": "",
+      "name": "数据交换平台",
+      "factory": "",
+      "number": "1",
+      "total": "60",
+      "available": "40",
+      "access": "30"
+    },
+    {
+      "zc_type": "",
+      "type": "",
+      "name": "视频会议系统",
+      "factory": "",
+      "number": "1",
+      "total": "100",
+      "available": "40",
+      "access": "60"
+    },
+    {
+      "zc_type": "",
+      "type": "",
+      "name": "大数据平台",
+      "factory": "",
+      "number": "1",
+      "total": "100",
+      "available": "90",
+      "access": "10"
+    },
+    {
+      "zc_type": "",
+      "type": "",
+      "name": "数据开放平台",
+      "factory": "",
+      "number": "1",
+      "total": "60",
+      "available": "30",
+      "access": "30"
+    },
+    {
+      "zc_type": "",
+      "type": "",
+      "name": "数据资源共享统一接口平台",
+      "factory": "",
+      "number": "1",
+      "total": "",
+      "available": "",
+      "access": "1000"
+    },
+    {
+      "zc_type": "",
+      "type": "",
+      "name": "基础设施平台运行事件集中监控处置系统",
+      "factory": "",
+      "number": "1",
+      "total": "",
+      "available": "",
+      "access": "1"
+    }
+  ]
+}

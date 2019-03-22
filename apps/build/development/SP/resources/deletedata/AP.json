@@ -1,0 +1,89 @@
+{
+  "title": "数据服务管理平台",
+  "code": "AP",
+  "icon": "x-fa fa-home",
+  "rowCls": "nav-tree-badge nav-tree-badge-hot",
+  "url": "",
+  "checked": false,
+  "expanded": true,
+  "children": [
+    {
+      "title": "首页",
+      "code": "app-homenode",
+      "icon": "x-fa fa-home",
+      "rowCls": "nav-tree-badge nav-tree-badge-hot",
+      "url": "app-homenode",
+      "checked": false,
+      "leaf": true
+    },
+    {
+      "title": "服务管理",
+      "code": "servicemgr",
+      "icon": "x-fa fa-server",
+      "url": "pageblank",
+      "expanded": false,
+      "checked": false,
+      "selectable": false,
+      "children": [
+        {
+          "title": "自定义服务",
+          "code": "services",
+          "icon": "x-fa fa-pencil-square-o",
+          "url": "services",
+          "checked": false,
+          "leaf": true
+        },
+        {
+          "title": "服务维护",
+          "code": "servicewh",
+          "icon": "x-fa fa-wrench",
+          "url": "servicewh",
+          "checked": false,
+          "leaf": true
+        },
+        {
+          "title": "基础服务清单",
+          "code": "service",
+          "icon": "x-fa fa-align-justify",
+          "url": "service",
+          "checked": false,
+          "leaf": true
+        }
+      ]
+    },
+    {
+      "title": "应用管理",
+      "code":"appmgr",
+      "icon": "x-fa fa-th-large",
+      "expanded": false,
+      "checked": false,
+      "selectable": false,
+      "children": [
+        {
+          "title": "新增应用",
+          "code": "application-add",
+          "icon": "x-fa fa-plus-square-o",
+          "url": "application-add",
+          "checked": false,
+          "leaf": true
+        },
+        {
+          "title": "应用维护",
+          "code": "application",
+          "icon": "x-fa fa-gear",
+          "url": "application",
+          "checked": false,
+          "leaf": true
+        }
+      ]
+    },
+    {
+      "title": "平台管理",
+      "code": "profile",
+      "icon": "x-fa fa-desktop",
+      "url": "profile",
+      "checked": false,
+      "leaf": true
+    }
+  ]
+}

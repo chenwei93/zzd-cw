@@ -1,0 +1,45 @@
+{
+  "id": "154d1324-c539-4fad-87f0-8112a7836400",
+  "entityStatus": "Default",
+  "resId": "121000201803200006",
+  "createTime": 1521512171576,
+  "extraAttributes": {
+    "ownerDB": {
+      "name": "ownerDB",
+      "title": "来源数据库 ",
+      "dataType": "Text",
+      "dataTypeAlias": "ObjectAttribute",
+      "dataLength": 0,
+      "notNull": false,
+      "require": false,
+      "attributes": {
+        "description": "最大出现次数为 1"
+      }
+    },
+    "YSYSJ": {
+      "name": "YSYSJ",
+      "title": "演示元数据",
+      "dataType": "Directory",
+      "dataTypeAlias": "ObjectAttribute",
+      "dataLength": 0,
+      "notNull": false,
+      "require": true,
+      "attributes": {
+        "valueRangeReference": "GXLX"
+      }
+    },
+    "ownerApp": {
+      "name": "ownerApp",
+      "title": "来源系统",
+      "dataType": "Text",
+      "dataTypeAlias": "ObjectAttribute",
+      "dataLength": 0,
+      "notNull": false,
+      "require": true,
+      "attributes": {
+        "description": "最大出现次数为 1"
+      }
+    }
+  },
+  "idRel": "entryDatas/154d1324-c539-4fad-87f0-8112a7836400"
+}

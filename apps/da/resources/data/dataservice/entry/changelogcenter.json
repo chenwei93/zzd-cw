@@ -1,0 +1,32 @@
+{
+  "content": [
+    {
+      "resTitle": "人口基本信息查询",
+      "changeType": "结构变化",
+      "updateTime": "2019-1-1",
+      "jd": "民政局",
+      "confirm": false
+    },
+    {
+      "resTitle": "人口基本信息查询",
+      "changeType": "内容变化",
+      "updateTime": "2019-2-1",
+      "jd": "民政局",
+      "confirm": false
+    },
+    {
+      "resTitle": "法人基本信息查询",
+      "changeType": "结构变化",
+      "updateTime": "2018-11-16",
+      "jd": "公安局",
+      "confirm": true
+    },
+    {
+      "resTitle": "法人基本信息查询",
+      "changeType": "内容变化",
+      "updateTime": "2018-12-21",
+      "jd": "公安局",
+      "confirm": true
+    }
+  ]
+}

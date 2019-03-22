@@ -1,0 +1,63 @@
+{
+  "content": [
+    {
+      "type": "存储设备",
+      "name": "SAN 存储",
+      "factory": "华为",
+      "xh": "OceanStor 5300 V3",
+      "sbh": "NBDataCenter_Dev_SAN_001",
+      "zpe": "100",
+      "yfppe": "100",
+      "sype": "0",
+      "sspe": "100",
+      "sykj": "0",
+      "zh": "1",
+      "status":"green"
+    },
+    {
+      "type": "存储设备",
+      "name": "SAN 存储",
+      "factory": "华为",
+      "xh": "OceanStor 5300 V3",
+      "sbh": "NBDataCenter_Dev_SAN_002",
+      "zpe": "200",
+      "yfppe": "100",
+      "sype": "100",
+      "sspe": "50",
+      "sykj": "150",
+      "zh": "2",
+      "status":"green"
+
+    },
+    {
+      "type": "存储设备",
+      "name": "SAN 存储",
+      "factory": "华为",
+      "xh": "OceanStor 5300 V3",
+      "sbh": "NBDataCenter_Dev_SAN_002",
+      "zpe": "100",
+      "yfppe": "100",
+      "sype": "0",
+      "sspe": "80",
+      "sykj": "20",
+      "zh": "1",
+      "status":"yellow"
+
+    },
+    {
+      "type": "存储设备",
+      "name": "SAN 存储",
+      "factory": "华为",
+      "xh": "OceanStor 5300 V3",
+      "sbh": "NBDataCenter_Dev_SAN_002",
+      "zpe": "100",
+      "yfppe": "0",
+      "sype": "100",
+      "sspe": "0",
+      "sykj": "100",
+      "zh": "3",
+      "status":"red"
+
+    }
+  ]
+}

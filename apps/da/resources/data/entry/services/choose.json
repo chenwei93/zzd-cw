@@ -1,0 +1,1247 @@
+{
+  "content": [
+    {
+      "id": "54138521-a2f8-4897-9db4-64fee6829212",
+      "entityStatus": "Default",
+      "type": null,
+      "format": "Db",
+      "entityName": null,
+      "entityTitle": null,
+      "resId": null,
+      "entityKey": "SJKCS:test:FWDJXXB",
+      "title": "房屋登记信息(演示)",
+      "summary": null,
+      "version": {
+        "prefix": "Resource",
+        "major": 1,
+        "minor": 0,
+        "micro": 0,
+        "tag": null,
+        "createTime": "2018-06-14T09:10:18.176+0000",
+        "author": null
+      },
+      "generateTime": null,
+      "lastUpdateTime": "2018-06-14T09:10:18.176+0000",
+      "creator": null,
+      "description": {
+        "createTime": null,
+        "updateTime": null,
+        "name": "FWDJXXB",
+        "size": 16384,
+        "total": 11
+      },
+      "locator": {
+        "poolCode": "SJKCS",
+        "path": "test",
+        "name": "FWDJXXB"
+      },
+      "metadata": {
+        "fields": {
+          "_class": "dcsp.fl.common.Fields",
+          "items": [
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "ID",
+              "title": "id",
+              "alias": "id",
+              "dataType": "Numeric",
+              "dataLength": 11,
+              "notNull": true,
+              "require": false
+            },
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "SYRNAME",
+              "title": "所有人姓名",
+              "dataType": "Text",
+              "dataLength": 255,
+              "notNull": false,
+              "require": false
+            },
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "SFZH",
+              "title": "身份证号",
+              "dataType": "Text",
+              "dataLength": 255,
+              "notNull": false,
+              "require": false
+            },
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "DZ",
+              "title": "地址",
+              "dataType": "Text",
+              "dataLength": 255,
+              "notNull": false,
+              "require": false
+            },
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "MJ",
+              "title": "面积",
+              "dataType": "Text",
+              "dataLength": 255,
+              "notNull": false,
+              "require": false
+            },
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "GMRQ",
+              "title": "购买日期",
+              "dataType": "Date",
+              "dataLength": 0,
+              "notNull": false,
+              "require": false
+            },
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "DJRQ",
+              "title": "登记日期",
+              "dataType": "Date",
+              "dataLength": 0,
+              "notNull": false,
+              "require": false
+            },
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "GYRNAME",
+              "title": "共有人姓名",
+              "dataType": "Text",
+              "dataLength": 255,
+              "notNull": false,
+              "require": false
+            },
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "CQLX",
+              "title": "产权类型",
+              "dataType": "Text",
+              "dataLength": 255,
+              "notNull": false,
+              "require": false
+            },
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "FWLX",
+              "title": "房屋类型",
+              "dataType": "Text",
+              "dataLength": 255,
+              "notNull": false,
+              "require": false
+            }
+          ]
+        },
+        "createTime": "2018-06-14T09:10:18.176+0000",
+        "updateTime": "2018-06-14T09:10:18.176+0000",
+        "digest": "F4MBr6NRRlyh3quJiy0Gzg==",
+        "empty": false
+      },
+      "changeTypes": null,
+      "tags": null,
+      "extraAttributes": null,
+      "idRel": "resources/54138521-a2f8-4897-9db4-64fee6829212"
+    },
+    {
+      "id": "7307f636-365e-499e-879f-e51b39ebf1c0",
+      "entityStatus": "Default",
+      "type": null,
+      "format": "Db",
+      "entityName": null,
+      "entityTitle": null,
+      "resId": null,
+      "entityKey": "SJKCS:test:news",
+      "title": "数据目录新闻",
+      "summary": null,
+      "version": {
+        "prefix": "Resource",
+        "major": 1,
+        "minor": 0,
+        "micro": 0,
+        "tag": null,
+        "createTime": "2018-06-14T09:10:18.176+0000",
+        "author": null
+      },
+      "generateTime": null,
+      "lastUpdateTime": "2018-06-14T09:10:18.176+0000",
+      "creator": null,
+      "description": {
+        "createTime": null,
+        "updateTime": null,
+        "name": "news",
+        "size": 1589248,
+        "total": 129
+      },
+      "locator": {
+        "poolCode": "SJKCS",
+        "path": "test",
+        "name": "news"
+      },
+      "metadata": {
+        "fields": {
+          "_class": "dcsp.fl.common.Fields",
+          "items": [
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "id",
+              "title": "_id",
+              "alias": "id",
+              "dataType": "Numeric",
+              "dataLength": 20,
+              "notNull": true,
+              "require": false
+            },
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "code",
+              "title": "_code",
+              "dataType": "Text",
+              "dataLength": 255,
+              "notNull": false,
+              "require": false
+            },
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "fetch_time",
+              "title": "_fetch_time",
+              "dataType": "Date",
+              "dataLength": 0,
+              "notNull": false,
+              "require": false
+            },
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "source",
+              "title": "_source",
+              "dataType": "Text",
+              "dataLength": 255,
+              "notNull": false,
+              "require": false
+            },
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "source_url",
+              "title": "_source_url",
+              "dataType": "Text",
+              "dataLength": 255,
+              "notNull": false,
+              "require": false
+            },
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "title",
+              "title": "_title",
+              "dataType": "Text",
+              "dataLength": 255,
+              "notNull": false,
+              "require": false
+            },
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "description",
+              "title": "_description",
+              "dataType": "Text",
+              "dataLength": 255,
+              "notNull": false,
+              "require": false
+            },
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "key2_",
+              "title": "_key2_",
+              "dataType": "Text",
+              "dataLength": 255,
+              "notNull": false,
+              "require": false
+            },
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "owner",
+              "title": "_owner",
+              "dataType": "Text",
+              "dataLength": 255,
+              "notNull": false,
+              "require": false
+            },
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "publish_time",
+              "title": "_publish_time",
+              "dataType": "Date",
+              "dataLength": 0,
+              "notNull": false,
+              "require": false
+            },
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "region",
+              "title": "_region",
+              "dataType": "Text",
+              "dataLength": 255,
+              "notNull": false,
+              "require": false
+            },
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "topic",
+              "title": "_topic",
+              "dataType": "Text",
+              "dataLength": 255,
+              "notNull": false,
+              "require": false
+            },
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "update_time",
+              "title": "_update_time",
+              "dataType": "Date",
+              "dataLength": 0,
+              "notNull": false,
+              "require": false
+            },
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "content",
+              "title": "_content",
+              "dataType": "Text",
+              "dataLength": 0,
+              "notNull": false,
+              "require": false
+            }
+          ]
+        },
+        "createTime": "2018-06-14T09:10:18.176+0000",
+        "updateTime": "2018-06-14T09:10:18.176+0000",
+        "digest": "Mz5B5dBMExeB9KxcIsbdJQ==",
+        "empty": false
+      },
+      "changeTypes": null,
+      "tags": null,
+      "extraAttributes": null,
+      "idRel": "resources/7307f636-365e-499e-879f-e51b39ebf1c0"
+    },
+    {
+      "id": "7b30e325-d07d-4aaa-a69e-87e105a536cb",
+      "entityStatus": "Default",
+      "type": "Dataset",
+      "format": "Db",
+      "entityName": null,
+      "entityTitle": null,
+      "resId": "1ji4zrzaepdmh",
+      "entityKey": "SJKCS:test:TB_1H7LF52N216WO",
+      "title": "市公交企业基本信息",
+      "summary": " 提供市公交企业基本信息，包括企业名称、电话、地址、企业状态等信息。 ",
+      "version": {
+        "prefix": "Resource",
+        "major": 1,
+        "minor": 0,
+        "micro": 0,
+        "tag": null,
+        "createTime": "2018-06-15T06:50:23.088+0000",
+        "author": null
+      },
+      "generateTime": null,
+      "lastUpdateTime": "2018-06-15T06:50:23.088+0000",
+      "creator": null,
+      "description": {
+        "createTime": null,
+        "updateTime": null,
+        "name": "TB_1H7LF52N216WO",
+        "size": 16384,
+        "total": 31
+      },
+      "locator": {
+        "poolCode": "SJKCS",
+        "path": "test",
+        "name": "TB_1H7LF52N216WO"
+      },
+      "metadata": {
+        "fields": {
+          "_class": "dcsp.fl.common.Fields",
+          "items": [
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "id",
+              "title": "id",
+              "alias": "id",
+              "dataType": "Numeric",
+              "dataLength": 11,
+              "notNull": true,
+              "require": false
+            },
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "QYMC",
+              "title": "企业名称",
+              "dataType": "Text",
+              "dataLength": 255,
+              "notNull": false,
+              "require": false
+            },
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "DH",
+              "title": "电话",
+              "dataType": "Text",
+              "dataLength": 255,
+              "notNull": false,
+              "require": false
+            },
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "DZ",
+              "title": "地址",
+              "dataType": "Text",
+              "dataLength": 255,
+              "notNull": false,
+              "require": false
+            },
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "QYZT",
+              "title": "企业状态",
+              "dataType": "Text",
+              "dataLength": 255,
+              "notNull": false,
+              "require": false
+            }
+          ]
+        },
+        "createTime": "2018-06-15T06:50:23.088+0000",
+        "updateTime": "2018-06-15T06:50:23.088+0000",
+        "digest": "6pi30ElfVKRpTC+oQ3MIvQ==",
+        "empty": false
+      },
+      "changeTypes": [
+        "Created"
+      ],
+      "tags": null,
+      "extraAttributes": {
+        "catalog": "交通运输、仓储和邮政业",
+        "department": "交通运输局"
+      },
+      "idRel": "resources/7b30e325-d07d-4aaa-a69e-87e105a536cb"
+    },
+    {
+      "id": "cd591254-3143-4455-8530-f3cfd33b2d3b",
+      "entityStatus": "Default",
+      "type": "Dataset",
+      "format": "Db",
+      "entityName": null,
+      "entityTitle": null,
+      "resId": "tofmepxk0uw1",
+      "entityKey": "SJKCS:test:TB_1H7GD4B48NSQB",
+      "title": "市水资源费征收标准信息",
+      "summary": " 提供市水资源费征收标准信息，包括执行时间、类型、执行标准、批文号、适用范围等信息。 ",
+      "version": {
+        "prefix": "Resource",
+        "major": 1,
+        "minor": 0,
+        "micro": 0,
+        "tag": null,
+        "createTime": "2018-06-15T06:50:23.103+0000",
+        "author": null
+      },
+      "generateTime": null,
+      "lastUpdateTime": "2018-06-15T06:50:23.104+0000",
+      "creator": null,
+      "description": {
+        "createTime": null,
+        "updateTime": null,
+        "name": "TB_1H7GD4B48NSQB",
+        "size": 16384,
+        "total": 11
+      },
+      "locator": {
+        "poolCode": "SJKCS",
+        "path": "test",
+        "name": "TB_1H7GD4B48NSQB"
+      },
+      "metadata": {
+        "fields": {
+          "_class": "dcsp.fl.common.Fields",
+          "items": [
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "id",
+              "title": "id",
+              "alias": "id",
+              "dataType": "Numeric",
+              "dataLength": 11,
+              "notNull": true,
+              "require": false
+            },
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "ZXSJ",
+              "title": "执行时间",
+              "dataType": "Text",
+              "dataLength": 255,
+              "notNull": false,
+              "require": false
+            },
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "ZXBZ",
+              "title": "执行标准",
+              "dataType": "Text",
+              "dataLength": 255,
+              "notNull": false,
+              "require": false
+            },
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "PWH",
+              "title": "批文号",
+              "dataType": "Text",
+              "dataLength": 255,
+              "notNull": false,
+              "require": false
+            },
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "SYFW",
+              "title": "适用范围",
+              "dataType": "Text",
+              "dataLength": 255,
+              "notNull": false,
+              "require": false
+            },
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "LX",
+              "title": "类型",
+              "dataType": "Text",
+              "dataLength": 255,
+              "notNull": false,
+              "require": false
+            }
+          ]
+        },
+        "createTime": "2018-06-15T06:50:23.103+0000",
+        "updateTime": "2018-06-15T06:50:23.103+0000",
+        "digest": "D1wwluQ6E0mdb7tU1jt/uQ==",
+        "empty": false
+      },
+      "changeTypes": [
+        "Created"
+      ],
+      "tags": null,
+      "extraAttributes": {
+        "catalog": "居民服务、修理和其他服务业",
+        "department": "水务局"
+      },
+      "idRel": "resources/cd591254-3143-4455-8530-f3cfd33b2d3b"
+    },
+    {
+      "id": "3677daf0-111b-4b99-83b7-a6c013efea3a",
+      "entityStatus": "Default",
+      "type": "Dataset",
+      "format": "Db",
+      "entityName": null,
+      "entityTitle": null,
+      "resId": "to7d105mz04h",
+      "entityKey": "SJKCS:test:TB_1H7LX4WFJGDIB",
+      "title": "市上市公司名录信息",
+      "summary": " 提供市上市公司名录信息，包括公司名称、证券简称、证券代码、证券部电话、证券部传真、公司网站等信息。 ",
+      "version": {
+        "prefix": "Resource",
+        "major": 1,
+        "minor": 0,
+        "micro": 0,
+        "tag": null,
+        "createTime": "2018-06-15T06:50:23.113+0000",
+        "author": null
+      },
+      "generateTime": null,
+      "lastUpdateTime": "2018-06-15T06:50:23.113+0000",
+      "creator": null,
+      "description": {
+        "createTime": null,
+        "updateTime": null,
+        "name": "TB_1H7LX4WFJGDIB",
+        "size": 16384,
+        "total": 25
+      },
+      "locator": {
+        "poolCode": "SJKCS",
+        "path": "test",
+        "name": "TB_1H7LX4WFJGDIB"
+      },
+      "metadata": {
+        "fields": {
+          "_class": "dcsp.fl.common.Fields",
+          "items": [
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "id",
+              "title": "id",
+              "alias": "id",
+              "dataType": "Numeric",
+              "dataLength": 11,
+              "notNull": true,
+              "require": false
+            },
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "GSMC",
+              "title": "公司名称",
+              "dataType": "Text",
+              "dataLength": 255,
+              "notNull": false,
+              "require": false
+            },
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "ZQJC",
+              "title": "证券简称",
+              "dataType": "Text",
+              "dataLength": 255,
+              "notNull": false,
+              "require": false
+            },
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "ZQDM",
+              "title": "证券代码",
+              "dataType": "Text",
+              "dataLength": 255,
+              "notNull": false,
+              "require": false
+            },
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "ZQBDH",
+              "title": "证券部电话",
+              "dataType": "Text",
+              "dataLength": 255,
+              "notNull": false,
+              "require": false
+            },
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "ZQBCZ",
+              "title": "证券部传真",
+              "dataType": "Text",
+              "dataLength": 255,
+              "notNull": false,
+              "require": false
+            },
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "GSWZ",
+              "title": "公司网站",
+              "dataType": "Text",
+              "dataLength": 255,
+              "notNull": false,
+              "require": false
+            }
+          ]
+        },
+        "createTime": "2018-06-15T06:50:23.113+0000",
+        "updateTime": "2018-06-15T06:50:23.113+0000",
+        "digest": "jfR2WYOi/mRsPKBGZK2uQw==",
+        "empty": false
+      },
+      "changeTypes": [
+        "Created"
+      ],
+      "tags": null,
+      "extraAttributes": {
+        "catalog": "金融业",
+        "department": "金融工作办公室"
+      },
+      "idRel": "resources/3677daf0-111b-4b99-83b7-a6c013efea3a"
+    },
+    {
+      "id": "ed807d54-5931-4d56-833d-27d94eb14206",
+      "entityStatus": "Default",
+      "type": "Dataset",
+      "format": "Db",
+      "entityName": null,
+      "entityTitle": null,
+      "resId": "1h7opapsffejq",
+      "entityKey": "SJKCS:test:TB_1H7LFZJNCXXRR",
+      "title": "市建筑从业单位行政处罚信息",
+      "summary": " 提供市建筑从业单位行政处罚信息，包括处罚对象、处罚内容、处罚事由、处罚种类、处罚依据、处罚结果、处罚日期、结案日期等信息。 ",
+      "version": {
+        "prefix": "Resource",
+        "major": 1,
+        "minor": 0,
+        "micro": 0,
+        "tag": null,
+        "createTime": "2018-06-15T06:50:23.132+0000",
+        "author": null
+      },
+      "generateTime": null,
+      "lastUpdateTime": "2018-06-15T06:50:23.133+0000",
+      "creator": null,
+      "description": {
+        "createTime": null,
+        "updateTime": null,
+        "name": "TB_1H7LFZJNCXXRR",
+        "size": 65536,
+        "total": 102
+      },
+      "locator": {
+        "poolCode": "SJKCS",
+        "path": "test",
+        "name": "TB_1H7LFZJNCXXRR"
+      },
+      "metadata": {
+        "fields": {
+          "_class": "dcsp.fl.common.Fields",
+          "items": [
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "id",
+              "title": "id",
+              "alias": "id",
+              "dataType": "Numeric",
+              "dataLength": 11,
+              "notNull": true,
+              "require": false
+            },
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "CFDX",
+              "title": "处罚对象",
+              "dataType": "Text",
+              "dataLength": 255,
+              "notNull": false,
+              "require": false
+            },
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "CFNR",
+              "title": "处罚内容",
+              "dataType": "Text",
+              "dataLength": 255,
+              "notNull": false,
+              "require": false
+            },
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "CFSY",
+              "title": "处罚事由",
+              "dataType": "Text",
+              "dataLength": 255,
+              "notNull": false,
+              "require": false
+            },
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "CFZL",
+              "title": "处罚种类",
+              "dataType": "Text",
+              "dataLength": 255,
+              "notNull": false,
+              "require": false
+            },
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "CFYJ",
+              "title": "处罚依据",
+              "dataType": "Text",
+              "dataLength": 255,
+              "notNull": false,
+              "require": false
+            },
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "CFJG",
+              "title": "处罚结果",
+              "dataType": "Text",
+              "dataLength": 255,
+              "notNull": false,
+              "require": false
+            },
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "CFRQ",
+              "title": "处罚日期",
+              "dataType": "Text",
+              "dataLength": 255,
+              "notNull": false,
+              "require": false
+            },
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "JARQ",
+              "title": "结案日期",
+              "dataType": "Text",
+              "dataLength": 255,
+              "notNull": false,
+              "require": false
+            }
+          ]
+        },
+        "createTime": "2018-06-15T06:50:23.132+0000",
+        "updateTime": "2018-06-15T06:50:23.132+0000",
+        "digest": "MkfuZWtR/z7b06wfAC0BZw==",
+        "empty": false
+      },
+      "changeTypes": [
+        "Created"
+      ],
+      "tags": null,
+      "extraAttributes": {
+        "catalog": "建筑业",
+        "department": "城乡建设委员会"
+      },
+      "idRel": "resources/ed807d54-5931-4d56-833d-27d94eb14206"
+    },
+    {
+      "id": "124fdad0-1ed0-4c3b-8709-692ed6ff231f",
+      "entityStatus": "Default",
+      "type": "Dataset",
+      "format": "Db",
+      "entityName": null,
+      "entityTitle": null,
+      "resId": "uruo7tv2hlk5",
+      "entityKey": "SJKCS:test:TB_1H7GEOFHY719W",
+      "title": "市城镇非私营单位职工平均工资统计信息",
+      "summary": " 提供市城镇非私营单位职工平均工资统计信息，包括年份、全市职工、市区职工、全市国有单位职工、市区国有单位职工、全市集体单位职工、市区集体单位职工等信息。 ",
+      "version": {
+        "prefix": "Resource",
+        "major": 1,
+        "minor": 0,
+        "micro": 0,
+        "tag": null,
+        "createTime": "2018-06-15T06:50:23.145+0000",
+        "author": null
+      },
+      "generateTime": null,
+      "lastUpdateTime": "2018-06-15T06:50:23.145+0000",
+      "creator": null,
+      "description": {
+        "createTime": null,
+        "updateTime": null,
+        "name": "TB_1H7GEOFHY719W",
+        "size": 16384,
+        "total": 37
+      },
+      "locator": {
+        "poolCode": "SJKCS",
+        "path": "test",
+        "name": "TB_1H7GEOFHY719W"
+      },
+      "metadata": {
+        "fields": {
+          "_class": "dcsp.fl.common.Fields",
+          "items": [
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "id",
+              "title": "id",
+              "alias": "id",
+              "dataType": "Numeric",
+              "dataLength": 11,
+              "notNull": true,
+              "require": false
+            },
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "nf",
+              "title": "年份",
+              "dataType": "Text",
+              "dataLength": 255,
+              "notNull": false,
+              "require": false
+            },
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "qszg",
+              "title": "全市职工",
+              "dataType": "Text",
+              "dataLength": 255,
+              "notNull": false,
+              "require": false
+            },
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "qqzg",
+              "title": "市区职工",
+              "dataType": "Text",
+              "dataLength": 255,
+              "notNull": false,
+              "require": false
+            },
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "qsgydwzg",
+              "title": "全市国有单位职工",
+              "dataType": "Text",
+              "dataLength": 255,
+              "notNull": false,
+              "require": false
+            },
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "sqgydwzg",
+              "title": "市区国有单位职工",
+              "dataType": "Text",
+              "dataLength": 255,
+              "notNull": false,
+              "require": false
+            },
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "qsjtdwzg",
+              "title": "全市集体单位职工",
+              "dataType": "Text",
+              "dataLength": 255,
+              "notNull": false,
+              "require": false
+            },
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "sqjtdwzg",
+              "title": "市区集体单位职工",
+              "dataType": "Text",
+              "dataLength": 255,
+              "notNull": false,
+              "require": false
+            }
+          ]
+        },
+        "createTime": "2018-06-15T06:50:23.145+0000",
+        "updateTime": "2018-06-15T06:50:23.145+0000",
+        "digest": "1lcuAqQkX6+ufbHsQT/0tw==",
+        "empty": false
+      },
+      "changeTypes": [
+        "Created"
+      ],
+      "tags": null,
+      "extraAttributes": {
+        "catalog": "经济建设",
+        "department": "统计局"
+      },
+      "idRel": "resources/124fdad0-1ed0-4c3b-8709-692ed6ff231f"
+    },
+    {
+      "id": "ec6be416-d483-445c-b9f2-dd46948c8026",
+      "entityStatus": "Default",
+      "type": "Dataset",
+      "format": "Db",
+      "entityName": null,
+      "entityTitle": null,
+      "resId": "qe9vk9y0s57p",
+      "entityKey": "SJKCS:test:TB_1H7O8JDSLVV3Q",
+      "title": "市从业人员违法违章列入行业“黑名单”人员信息",
+      "summary": " 提供市从业人员违法违章列入行业“黑名单”人员信息，包括姓名,单位,从业资格证号,驾驶/身份证号,违章事实,禁止从业期限至何年,备注等信息 ",
+      "version": {
+        "prefix": "Resource",
+        "major": 1,
+        "minor": 0,
+        "micro": 0,
+        "tag": null,
+        "createTime": "2018-06-15T06:50:23.156+0000",
+        "author": null
+      },
+      "generateTime": null,
+      "lastUpdateTime": "2018-06-15T06:50:23.156+0000",
+      "creator": null,
+      "description": {
+        "createTime": null,
+        "updateTime": null,
+        "name": "TB_1H7O8JDSLVV3Q",
+        "size": 16384,
+        "total": 25
+      },
+      "locator": {
+        "poolCode": "SJKCS",
+        "path": "test",
+        "name": "TB_1H7O8JDSLVV3Q"
+      },
+      "metadata": {
+        "fields": {
+          "_class": "dcsp.fl.common.Fields",
+          "items": [
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "id",
+              "title": "id",
+              "alias": "id",
+              "dataType": "Numeric",
+              "dataLength": 11,
+              "notNull": true,
+              "require": false
+            },
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "XM",
+              "title": "姓名",
+              "dataType": "Text",
+              "dataLength": 255,
+              "notNull": false,
+              "require": false
+            },
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "DW",
+              "title": "单位",
+              "dataType": "Text",
+              "dataLength": 255,
+              "notNull": false,
+              "require": false
+            },
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "CYZGH",
+              "title": "从业资格证号",
+              "dataType": "Text",
+              "dataLength": 255,
+              "notNull": false,
+              "require": false
+            },
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "JSSFZH",
+              "title": "驾驶/身份证号",
+              "dataType": "Text",
+              "dataLength": 255,
+              "notNull": false,
+              "require": false
+            },
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "WZSS",
+              "title": "违章事实",
+              "dataType": "Text",
+              "dataLength": 255,
+              "notNull": false,
+              "require": false
+            },
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "JINZHIQ",
+              "title": "禁止从业期限至何年",
+              "dataType": "Text",
+              "dataLength": 255,
+              "notNull": false,
+              "require": false
+            },
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "BZ",
+              "title": "备注",
+              "dataType": "Text",
+              "dataLength": 255,
+              "notNull": false,
+              "require": false
+            }
+          ]
+        },
+        "createTime": "2018-06-15T06:50:23.156+0000",
+        "updateTime": "2018-06-15T06:50:23.156+0000",
+        "digest": "paPi9HboB72j31uX+n8HOQ==",
+        "empty": false
+      },
+      "changeTypes": [
+        "Created"
+      ],
+      "tags": null,
+      "extraAttributes": {
+        "catalog": "交通运输、仓储和邮政业",
+        "department": "交通运输局"
+      },
+      "idRel": "resources/ec6be416-d483-445c-b9f2-dd46948c8026"
+    },
+    {
+      "id": "20bfc416-e461-4899-8eae-4bcde01baa41",
+      "entityStatus": "Default",
+      "type": "Dataset",
+      "format": "Db",
+      "entityName": null,
+      "entityTitle": null,
+      "resId": "u7wu5kd0acti",
+      "entityKey": "SJKCS:test:TB_1H7FTN1UVXA2C",
+      "title": "市建筑业企业综合信用评价基本信息",
+      "summary": " 提供市建筑业企业综合信用评价基本信息，包括企业名称、信用等级、年度等信息。 ",
+      "version": {
+        "prefix": "Resource",
+        "major": 1,
+        "minor": 0,
+        "micro": 0,
+        "tag": null,
+        "createTime": "2018-06-15T06:50:23.168+0000",
+        "author": null
+      },
+      "generateTime": null,
+      "lastUpdateTime": "2018-06-15T06:50:23.168+0000",
+      "creator": null,
+      "description": {
+        "createTime": null,
+        "updateTime": null,
+        "name": "TB_1H7FTN1UVXA2C",
+        "size": 16384,
+        "total": 104
+      },
+      "locator": {
+        "poolCode": "SJKCS",
+        "path": "test",
+        "name": "TB_1H7FTN1UVXA2C"
+      },
+      "metadata": {
+        "fields": {
+          "_class": "dcsp.fl.common.Fields",
+          "items": [
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "id",
+              "title": "id",
+              "alias": "id",
+              "dataType": "Numeric",
+              "dataLength": 11,
+              "notNull": true,
+              "require": false
+            },
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "QYMC",
+              "title": "企业名称",
+              "dataType": "Text",
+              "dataLength": 255,
+              "notNull": false,
+              "require": false
+            },
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "ZHXY",
+              "title": "信用等级",
+              "dataType": "Text",
+              "dataLength": 255,
+              "notNull": false,
+              "require": false
+            },
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "ND",
+              "title": "年度",
+              "dataType": "Text",
+              "dataLength": 255,
+              "notNull": false,
+              "require": false
+            }
+          ]
+        },
+        "createTime": "2018-06-15T06:50:23.168+0000",
+        "updateTime": "2018-06-15T06:50:23.168+0000",
+        "digest": "8k7JSepBJCEEq7+3qEcJzg==",
+        "empty": false
+      },
+      "changeTypes": [
+        "Created"
+      ],
+      "tags": null,
+      "extraAttributes": {
+        "catalog": "建筑业",
+        "department": "城乡建设委员会"
+      },
+      "idRel": "resources/20bfc416-e461-4899-8eae-4bcde01baa41"
+    },
+    {
+      "id": "fbdc6aae-95fd-46fd-a00b-b9d045b73aa6",
+      "entityStatus": "Default",
+      "type": "Dataset",
+      "format": "Db",
+      "entityName": null,
+      "entityTitle": null,
+      "resId": "rlapk1eu0oqf",
+      "entityKey": "SJKCS:test:TB_1H7GCQNSPNL84",
+      "title": "市低收入住房困难家庭配租摇号结果汇总信息",
+      "summary": " 提供市低收入住房困难家庭配租摇号结果汇总信息，包括年份、姓名、房间号等信息。 ",
+      "version": {
+        "prefix": "Resource",
+        "major": 1,
+        "minor": 0,
+        "micro": 0,
+        "tag": null,
+        "createTime": "2018-06-15T06:50:23.180+0000",
+        "author": null
+      },
+      "generateTime": null,
+      "lastUpdateTime": "2018-06-15T06:50:23.180+0000",
+      "creator": null,
+      "description": {
+        "createTime": null,
+        "updateTime": null,
+        "name": "TB_1H7GCQNSPNL84",
+        "size": 16384,
+        "total": 109
+      },
+      "locator": {
+        "poolCode": "SJKCS",
+        "path": "test",
+        "name": "TB_1H7GCQNSPNL84"
+      },
+      "metadata": {
+        "fields": {
+          "_class": "dcsp.fl.common.Fields",
+          "items": [
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "id",
+              "title": "id",
+              "alias": "id",
+              "dataType": "Numeric",
+              "dataLength": 11,
+              "notNull": true,
+              "require": false
+            },
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "NF",
+              "title": "年份",
+              "dataType": "Text",
+              "dataLength": 255,
+              "notNull": false,
+              "require": false
+            },
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "M",
+              "title": "姓名",
+              "dataType": "Text",
+              "dataLength": 255,
+              "notNull": false,
+              "require": false
+            },
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "FJH",
+              "title": "房间号",
+              "dataType": "Text",
+              "dataLength": 255,
+              "notNull": false,
+              "require": false
+            }
+          ]
+        },
+        "createTime": "2018-06-15T06:50:23.180+0000",
+        "updateTime": "2018-06-15T06:50:23.180+0000",
+        "digest": "nawRvCPplS7x8siGaxjSrQ==",
+        "empty": false
+      },
+      "changeTypes": [
+        "Created"
+      ],
+      "tags": null,
+      "extraAttributes": {
+        "catalog": "房地产业",
+        "department": "住房保障和房产管理局"
+      },
+      "idRel": "resources/fbdc6aae-95fd-46fd-a00b-b9d045b73aa6"
+    }
+  ],
+  "totalElements": 11,
+  "last": false,
+  "totalPages": 2,
+  "first": true,
+  "sort": null,
+  "numberOfElements": 10,
+  "size": 10,
+  "number": 0
+}

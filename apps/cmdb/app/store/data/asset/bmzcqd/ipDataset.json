@@ -1,0 +1,58 @@
+{
+  "content": [
+    {
+      "title": "名称",
+      "code": "title",
+      "xtype": "textfield"
+    },{
+       "title": "网络域",
+      "code": "networkDomain",
+      "xtype": "textfield"
+    },{
+       "title": "IP地址",
+      "code": "ip",
+      "xtype": "textfield"
+    },{
+       "title": "子网掩码",
+      "code": "subnetMask",
+      "xtype": "textfield"
+    },{
+       "title": "设备类型",
+      "code": "ciType",
+      "xtype": "textfield",
+      "ex":[
+        {
+          "name": "路由器",
+          "value": "Router"
+        },{
+            "name": "交换机",
+          "value": "Switch"
+        },{
+            "name": "防火墙",
+          "value": "Firewall"
+        },{
+            "name": "负载均衡",
+          "value": "LoadBalancer"
+        },{
+            "name": "PC服务器",
+          "value": "PCServer"
+        },{
+            "name": "虚拟机",
+          "value": "VM"
+        },{
+            "name": "未知",
+          "value": "Unknown"
+
+      }]
+    },{
+       "title": "名称",
+      "code": "name",
+      "xtype": "textfield"
+    },{
+       "title": "名称",
+      "code": "name",
+      "xtype": "textfield"
+
+    }
+  ]
+}

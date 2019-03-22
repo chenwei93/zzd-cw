@@ -1,0 +1,452 @@
+{
+  "links": [
+    {
+      "rel": "first",
+      "href": "http://59.212.146.110/rbase/api/queryLoggers?page=0&size=20&sort=end,desc"
+    },
+    {
+      "rel": "self",
+      "href": "http://59.212.146.110/rbase/api/queryLoggers"
+    },
+    {
+      "rel": "next",
+      "href": "http://59.212.146.110/rbase/api/queryLoggers?page=1&size=20&sort=end,desc"
+    },
+    {
+      "rel": "last",
+      "href": "http://59.212.146.110/rbase/api/queryLoggers?page=912&size=20&sort=end,desc"
+    },
+    {
+      "rel": "profile",
+      "href": "http://59.212.146.110/rbase/api/profile/queryLoggers"
+    }
+  ],
+  "content": [
+    {
+      "id": "5b1786e3d5921c3c84c6ec74",
+      "sql": "select Id,Name,Model,Unit,MasterialType,Creator,CreateTime,UseStatus,Sync_Time from dbo.FZJZ_T_MASTERIALINFO where Unit = '床 and 张'  and  1=1 ",
+      "params": "{dcsp.projection=[Id,Name,Model,Unit,MasterialType,Creator,CreateTime,UseStatus,Sync_Time], field.Unit=[${Unit}], Unit=[床 and 张], qualified=[ENTITY]}",
+      "failureMsg": "错误错误错误",
+      "success": false,
+      "start": "2018-06-06T07:01:55.218+0000",
+      "end": "2018-06-06T07:01:55.250+0000",
+      "period": 0,
+      "content": [],
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://59.212.146.110/rbase/api/queryLoggers/5b1786e3d5921c3c84c6ec74"
+        },
+        {
+          "rel": "queryLogger",
+          "href": "http://59.212.146.110/rbase/api/queryLoggers/5b1786e3d5921c3c84c6ec74"
+        }
+      ]
+    },
+    {
+      "id": "5b1786a3d5921c3c84c6ec73",
+      "sql": "select Id,Name,Model,Unit,MasterialType,Creator,CreateTime,UseStatus,Sync_Time from dbo.FZJZ_T_MASTERIALINFO where Unit = '床'  and  1=1 ",
+      "params": "{dcsp.projection=[Id,Name,Model,Unit,MasterialType,Creator,CreateTime,UseStatus,Sync_Time], field.Unit=[${Unit}], Unit=[床], qualified=[ENTITY]}",
+      "failureMsg": null,
+      "success": true,
+      "start": "2018-06-06T07:00:51.089+0000",
+      "end": "2018-06-06T07:00:51.124+0000",
+      "period": 0,
+      "content": [],
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://59.212.146.110/rbase/api/queryLoggers/5b1786a3d5921c3c84c6ec73"
+        },
+        {
+          "rel": "queryLogger",
+          "href": "http://59.212.146.110/rbase/api/queryLoggers/5b1786a3d5921c3c84c6ec73"
+        }
+      ]
+    },
+    {
+      "id": "5b175bcfd5921c3c84c6ec72",
+      "sql": "select JT_DM,JT_JTLQZ_HM,JT_JTSQYY_MS,JT_KHYH_MC,JT_KHYH_ZH,RY_GMSFZ_HM,RY_YHZGX_DM,RY_LDNL_DM,RY_LB_DM,RY_XM,RY_GZXZ_DM,RY_YSR_JR,RY_DW_MC,RY_GZDWXZ_DM,JT_JDSH_R_MC,JT_JDSH_RQ,JT_SP_R_MC,JT_QXSP_RQ,JT_YBZ_JR,JT_JZFS_DM,JT_DBJ_JR,ZJ_FF_RQ,ZJ_JLLX_DM,ZJ_JL_RQ,ZJ_JL_JR,ZJ_JLSY_JR,DATA_CREATE_TIME,DATA_UPDATE_TIME,DATA_SOURCE_NAME,DATA_SOURCE_CODE,DATA_STATUS_CODE,DATA_STATUS_NAME,IS_ACTION,CREATETIME,DEFAULTTIME,FLAG,JT_LB_DM,RY_ZPYY_DM from dbo.FDM_F_DBDXJBXX where  RY_GMSFZ_HM in ('110221197510111617','220621196712131416') and  1=1 ",
+      "params": "{dcsp.projection=[JT_DM,JT_JTLQZ_HM,JT_JTSQYY_MS,JT_KHYH_MC,JT_KHYH_ZH,RY_GMSFZ_HM,RY_YHZGX_DM,RY_LDNL_DM,RY_LB_DM,RY_XM,RY_GZXZ_DM,RY_YSR_JR,RY_DW_MC,RY_GZDWXZ_DM,JT_JDSH_R_MC,JT_JDSH_RQ,JT_SP_R_MC,JT_QXSP_RQ,JT_YBZ_JR,JT_JZFS_DM,JT_DBJ_JR,ZJ_FF_RQ,ZJ_JLLX_DM,ZJ_JL_RQ,ZJ_JL_JR,ZJ_JLSY_JR,DATA_CREATE_TIME,DATA_UPDATE_TIME,DATA_SOURCE_NAME,DATA_SOURCE_CODE,DATA_STATUS_CODE,DATA_STATUS_NAME,IS_ACTION,CREATETIME,DEFAULTTIME,FLAG,JT_LB_DM,RY_ZPYY_DM], field.RY_GMSFZ_HM=[sql({} in (${p1}))], p1=['110221197510111617','220621196712131416'], qualified=[ENTITY]}",
+      "failureMsg": null,
+      "success": true,
+      "start": "2018-06-06T03:58:07.641+0000",
+      "end": "2018-06-06T03:58:07.669+0000",
+      "period": 0,
+      "content": [],
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://59.212.146.110/rbase/api/queryLoggers/5b175bcfd5921c3c84c6ec72"
+        },
+        {
+          "rel": "queryLogger",
+          "href": "http://59.212.146.110/rbase/api/queryLoggers/5b175bcfd5921c3c84c6ec72"
+        }
+      ]
+    },
+    {
+      "id": "5b175bcfd5921c3c84c6ec71",
+      "sql": "select JT_DM,JT_JTLQZ_HM,JT_JTSQYY_MS,JT_KHYH_MC,JT_KHYH_ZH,RY_GMSFZ_HM,RY_YHZGX_DM,RY_LDNL_DM,RY_LB_DM,RY_XM,RY_GZXZ_DM,RY_YSR_JR,RY_DW_MC,RY_GZDWXZ_DM,JT_JDSH_R_MC,JT_JDSH_RQ,JT_SP_R_MC,JT_QXSP_RQ,JT_YBZ_JR,JT_JZFS_DM,JT_DBJ_JR,ZJ_FF_RQ,ZJ_JLLX_DM,ZJ_JL_RQ,ZJ_JL_JR,ZJ_JLSY_JR,DATA_CREATE_TIME,DATA_UPDATE_TIME,DATA_SOURCE_NAME,DATA_SOURCE_CODE,DATA_STATUS_CODE,DATA_STATUS_NAME,IS_ACTION,CREATETIME,DEFAULTTIME,FLAG,JT_LB_DM,RY_ZPYY_DM from dbo.FDM_F_DBDXJBXX where  RY_GMSFZ_HM in ('110221197510111617','220621196712131416') and  1=1 ",
+      "params": "{dcsp.projection=[JT_DM,JT_JTLQZ_HM,JT_JTSQYY_MS,JT_KHYH_MC,JT_KHYH_ZH,RY_GMSFZ_HM,RY_YHZGX_DM,RY_LDNL_DM,RY_LB_DM,RY_XM,RY_GZXZ_DM,RY_YSR_JR,RY_DW_MC,RY_GZDWXZ_DM,JT_JDSH_R_MC,JT_JDSH_RQ,JT_SP_R_MC,JT_QXSP_RQ,JT_YBZ_JR,JT_JZFS_DM,JT_DBJ_JR,ZJ_FF_RQ,ZJ_JLLX_DM,ZJ_JL_RQ,ZJ_JL_JR,ZJ_JLSY_JR,DATA_CREATE_TIME,DATA_UPDATE_TIME,DATA_SOURCE_NAME,DATA_SOURCE_CODE,DATA_STATUS_CODE,DATA_STATUS_NAME,IS_ACTION,CREATETIME,DEFAULTTIME,FLAG,JT_LB_DM,RY_ZPYY_DM], field.RY_GMSFZ_HM=[sql({} in (${p1}))], p1=['110221197510111617','220621196712131416'], qualified=[ENTITY]}",
+      "failureMsg": null,
+      "success": true,
+      "start": "2018-06-06T03:58:07.644+0000",
+      "end": "2018-06-06T03:58:07.664+0000",
+      "period": 0,
+      "content": [],
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://59.212.146.110/rbase/api/queryLoggers/5b175bcfd5921c3c84c6ec71"
+        },
+        {
+          "rel": "queryLogger",
+          "href": "http://59.212.146.110/rbase/api/queryLoggers/5b175bcfd5921c3c84c6ec71"
+        }
+      ]
+    },
+    {
+      "id": "5b175bcfd5921c3c84c6ec70",
+      "sql": "select JT_DM,JT_JTLQZ_HM,JT_JTSQYY_MS,JT_KHYH_MC,JT_KHYH_ZH,RY_GMSFZ_HM,RY_YHZGX_DM,RY_LDNL_DM,RY_LB_DM,RY_XM,RY_GZXZ_DM,RY_YSR_JR,RY_DW_MC,RY_GZDWXZ_DM,JT_JDSH_R_MC,JT_JDSH_RQ,JT_SP_R_MC,JT_QXSP_RQ,JT_YBZ_JR,JT_JZFS_DM,JT_DBJ_JR,ZJ_FF_RQ,ZJ_JLLX_DM,ZJ_JL_RQ,ZJ_JL_JR,ZJ_JLSY_JR,DATA_CREATE_TIME,DATA_UPDATE_TIME,DATA_SOURCE_NAME,DATA_SOURCE_CODE,DATA_STATUS_CODE,DATA_STATUS_NAME,IS_ACTION,CREATETIME,DEFAULTTIME,FLAG,JT_LB_DM,RY_ZPYY_DM from dbo.FDM_F_DBDXJBXX where  RY_GMSFZ_HM in ('110221197510111617','220621196712131416') and  1=1 ",
+      "params": "{dcsp.projection=[JT_DM,JT_JTLQZ_HM,JT_JTSQYY_MS,JT_KHYH_MC,JT_KHYH_ZH,RY_GMSFZ_HM,RY_YHZGX_DM,RY_LDNL_DM,RY_LB_DM,RY_XM,RY_GZXZ_DM,RY_YSR_JR,RY_DW_MC,RY_GZDWXZ_DM,JT_JDSH_R_MC,JT_JDSH_RQ,JT_SP_R_MC,JT_QXSP_RQ,JT_YBZ_JR,JT_JZFS_DM,JT_DBJ_JR,ZJ_FF_RQ,ZJ_JLLX_DM,ZJ_JL_RQ,ZJ_JL_JR,ZJ_JLSY_JR,DATA_CREATE_TIME,DATA_UPDATE_TIME,DATA_SOURCE_NAME,DATA_SOURCE_CODE,DATA_STATUS_CODE,DATA_STATUS_NAME,IS_ACTION,CREATETIME,DEFAULTTIME,FLAG,JT_LB_DM,RY_ZPYY_DM], field.RY_GMSFZ_HM=[sql({} in (${p1}))], p1=['110221197510111617','220621196712131416'], qualified=[ENTITY]}",
+      "failureMsg": null,
+      "success": true,
+      "start": "2018-06-06T03:58:07.623+0000",
+      "end": "2018-06-06T03:58:07.659+0000",
+      "period": 0,
+      "content": [],
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://59.212.146.110/rbase/api/queryLoggers/5b175bcfd5921c3c84c6ec70"
+        },
+        {
+          "rel": "queryLogger",
+          "href": "http://59.212.146.110/rbase/api/queryLoggers/5b175bcfd5921c3c84c6ec70"
+        }
+      ]
+    },
+    {
+      "id": "5b175bcfd5921c3c84c6ec6f",
+      "sql": "select JT_DM,JT_JTLQZ_HM,JT_JTSQYY_MS,JT_KHYH_MC,JT_KHYH_ZH,RY_GMSFZ_HM,RY_YHZGX_DM,RY_LDNL_DM,RY_LB_DM,RY_XM,RY_GZXZ_DM,RY_YSR_JR,RY_DW_MC,RY_GZDWXZ_DM,JT_JDSH_R_MC,JT_JDSH_RQ,JT_SP_R_MC,JT_QXSP_RQ,JT_YBZ_JR,JT_JZFS_DM,JT_DBJ_JR,ZJ_FF_RQ,ZJ_JLLX_DM,ZJ_JL_RQ,ZJ_JL_JR,ZJ_JLSY_JR,DATA_CREATE_TIME,DATA_UPDATE_TIME,DATA_SOURCE_NAME,DATA_SOURCE_CODE,DATA_STATUS_CODE,DATA_STATUS_NAME,IS_ACTION,CREATETIME,DEFAULTTIME,FLAG,JT_LB_DM,RY_ZPYY_DM from dbo.FDM_F_DBDXJBXX where  RY_GMSFZ_HM in ('110221197510111617','220621196712131416') and  1=1 ",
+      "params": "{dcsp.projection=[JT_DM,JT_JTLQZ_HM,JT_JTSQYY_MS,JT_KHYH_MC,JT_KHYH_ZH,RY_GMSFZ_HM,RY_YHZGX_DM,RY_LDNL_DM,RY_LB_DM,RY_XM,RY_GZXZ_DM,RY_YSR_JR,RY_DW_MC,RY_GZDWXZ_DM,JT_JDSH_R_MC,JT_JDSH_RQ,JT_SP_R_MC,JT_QXSP_RQ,JT_YBZ_JR,JT_JZFS_DM,JT_DBJ_JR,ZJ_FF_RQ,ZJ_JLLX_DM,ZJ_JL_RQ,ZJ_JL_JR,ZJ_JLSY_JR,DATA_CREATE_TIME,DATA_UPDATE_TIME,DATA_SOURCE_NAME,DATA_SOURCE_CODE,DATA_STATUS_CODE,DATA_STATUS_NAME,IS_ACTION,CREATETIME,DEFAULTTIME,FLAG,JT_LB_DM,RY_ZPYY_DM], field.RY_GMSFZ_HM=[sql({} in (${p1}))], p1=['110221197510111617','220621196712131416'], qualified=[ENTITY]}",
+      "failureMsg": null,
+      "success": true,
+      "start": "2018-06-06T03:58:07.628+0000",
+      "end": "2018-06-06T03:58:07.653+0000",
+      "period": 0,
+      "content": [],
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://59.212.146.110/rbase/api/queryLoggers/5b175bcfd5921c3c84c6ec6f"
+        },
+        {
+          "rel": "queryLogger",
+          "href": "http://59.212.146.110/rbase/api/queryLoggers/5b175bcfd5921c3c84c6ec6f"
+        }
+      ]
+    },
+    {
+      "id": "5b175bcfd5921c3c84c6ec6e",
+      "sql": "select JT_DM,JT_JTLQZ_HM,JT_JTSQYY_MS,JT_KHYH_MC,JT_KHYH_ZH,RY_GMSFZ_HM,RY_YHZGX_DM,RY_LDNL_DM,RY_LB_DM,RY_XM,RY_GZXZ_DM,RY_YSR_JR,RY_DW_MC,RY_GZDWXZ_DM,JT_JDSH_R_MC,JT_JDSH_RQ,JT_SP_R_MC,JT_QXSP_RQ,JT_YBZ_JR,JT_JZFS_DM,JT_DBJ_JR,ZJ_FF_RQ,ZJ_JLLX_DM,ZJ_JL_RQ,ZJ_JL_JR,ZJ_JLSY_JR,DATA_CREATE_TIME,DATA_UPDATE_TIME,DATA_SOURCE_NAME,DATA_SOURCE_CODE,DATA_STATUS_CODE,DATA_STATUS_NAME,IS_ACTION,CREATETIME,DEFAULTTIME,FLAG,JT_LB_DM,RY_ZPYY_DM from dbo.FDM_F_DBDXJBXX where  RY_GMSFZ_HM in ('110221197510111617','220621196712131416') and  1=1 ",
+      "params": "{dcsp.projection=[JT_DM,JT_JTLQZ_HM,JT_JTSQYY_MS,JT_KHYH_MC,JT_KHYH_ZH,RY_GMSFZ_HM,RY_YHZGX_DM,RY_LDNL_DM,RY_LB_DM,RY_XM,RY_GZXZ_DM,RY_YSR_JR,RY_DW_MC,RY_GZDWXZ_DM,JT_JDSH_R_MC,JT_JDSH_RQ,JT_SP_R_MC,JT_QXSP_RQ,JT_YBZ_JR,JT_JZFS_DM,JT_DBJ_JR,ZJ_FF_RQ,ZJ_JLLX_DM,ZJ_JL_RQ,ZJ_JL_JR,ZJ_JLSY_JR,DATA_CREATE_TIME,DATA_UPDATE_TIME,DATA_SOURCE_NAME,DATA_SOURCE_CODE,DATA_STATUS_CODE,DATA_STATUS_NAME,IS_ACTION,CREATETIME,DEFAULTTIME,FLAG,JT_LB_DM,RY_ZPYY_DM], field.RY_GMSFZ_HM=[sql({} in (${p1}))], p1=['110221197510111617','220621196712131416'], qualified=[ENTITY]}",
+      "failureMsg": null,
+      "success": true,
+      "start": "2018-06-06T03:58:07.635+0000",
+      "end": "2018-06-06T03:58:07.648+0000",
+      "period": 0,
+      "content": [],
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://59.212.146.110/rbase/api/queryLoggers/5b175bcfd5921c3c84c6ec6e"
+        },
+        {
+          "rel": "queryLogger",
+          "href": "http://59.212.146.110/rbase/api/queryLoggers/5b175bcfd5921c3c84c6ec6e"
+        }
+      ]
+    },
+    {
+      "id": "5b175bcfd5921c3c84c6ec6d",
+      "sql": "select JT_DM,JT_JTLQZ_HM,JT_JTSQYY_MS,JT_KHYH_MC,JT_KHYH_ZH,RY_GMSFZ_HM,RY_YHZGX_DM,RY_LDNL_DM,RY_LB_DM,RY_XM,RY_GZXZ_DM,RY_YSR_JR,RY_DW_MC,RY_GZDWXZ_DM,JT_JDSH_R_MC,JT_JDSH_RQ,JT_SP_R_MC,JT_QXSP_RQ,JT_YBZ_JR,JT_JZFS_DM,JT_DBJ_JR,ZJ_FF_RQ,ZJ_JLLX_DM,ZJ_JL_RQ,ZJ_JL_JR,ZJ_JLSY_JR,DATA_CREATE_TIME,DATA_UPDATE_TIME,DATA_SOURCE_NAME,DATA_SOURCE_CODE,DATA_STATUS_CODE,DATA_STATUS_NAME,IS_ACTION,CREATETIME,DEFAULTTIME,FLAG,JT_LB_DM,RY_ZPYY_DM from dbo.FDM_F_DBDXJBXX where  RY_GMSFZ_HM in ('110221197510111617','220621196712131416') and  1=1 ",
+      "params": "{dcsp.projection=[JT_DM,JT_JTLQZ_HM,JT_JTSQYY_MS,JT_KHYH_MC,JT_KHYH_ZH,RY_GMSFZ_HM,RY_YHZGX_DM,RY_LDNL_DM,RY_LB_DM,RY_XM,RY_GZXZ_DM,RY_YSR_JR,RY_DW_MC,RY_GZDWXZ_DM,JT_JDSH_R_MC,JT_JDSH_RQ,JT_SP_R_MC,JT_QXSP_RQ,JT_YBZ_JR,JT_JZFS_DM,JT_DBJ_JR,ZJ_FF_RQ,ZJ_JLLX_DM,ZJ_JL_RQ,ZJ_JL_JR,ZJ_JLSY_JR,DATA_CREATE_TIME,DATA_UPDATE_TIME,DATA_SOURCE_NAME,DATA_SOURCE_CODE,DATA_STATUS_CODE,DATA_STATUS_NAME,IS_ACTION,CREATETIME,DEFAULTTIME,FLAG,JT_LB_DM,RY_ZPYY_DM], field.RY_GMSFZ_HM=[sql({} in (${p1}))], p1=['110221197510111617','220621196712131416'], qualified=[ENTITY]}",
+      "failureMsg": null,
+      "success": true,
+      "start": "2018-06-06T03:58:07.607+0000",
+      "end": "2018-06-06T03:58:07.643+0000",
+      "period": 0,
+      "content": [],
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://59.212.146.110/rbase/api/queryLoggers/5b175bcfd5921c3c84c6ec6d"
+        },
+        {
+          "rel": "queryLogger",
+          "href": "http://59.212.146.110/rbase/api/queryLoggers/5b175bcfd5921c3c84c6ec6d"
+        }
+      ]
+    },
+    {
+      "id": "5b175bcfd5921c3c84c6ec6c",
+      "sql": "select JT_DM,JT_JTLQZ_HM,JT_JTSQYY_MS,JT_KHYH_MC,JT_KHYH_ZH,RY_GMSFZ_HM,RY_YHZGX_DM,RY_LDNL_DM,RY_LB_DM,RY_XM,RY_GZXZ_DM,RY_YSR_JR,RY_DW_MC,RY_GZDWXZ_DM,JT_JDSH_R_MC,JT_JDSH_RQ,JT_SP_R_MC,JT_QXSP_RQ,JT_YBZ_JR,JT_JZFS_DM,JT_DBJ_JR,ZJ_FF_RQ,ZJ_JLLX_DM,ZJ_JL_RQ,ZJ_JL_JR,ZJ_JLSY_JR,DATA_CREATE_TIME,DATA_UPDATE_TIME,DATA_SOURCE_NAME,DATA_SOURCE_CODE,DATA_STATUS_CODE,DATA_STATUS_NAME,IS_ACTION,CREATETIME,DEFAULTTIME,FLAG,JT_LB_DM,RY_ZPYY_DM from dbo.FDM_F_DBDXJBXX where  RY_GMSFZ_HM in ('110221197510111617','220621196712131416') and  1=1 ",
+      "params": "{dcsp.projection=[JT_DM,JT_JTLQZ_HM,JT_JTSQYY_MS,JT_KHYH_MC,JT_KHYH_ZH,RY_GMSFZ_HM,RY_YHZGX_DM,RY_LDNL_DM,RY_LB_DM,RY_XM,RY_GZXZ_DM,RY_YSR_JR,RY_DW_MC,RY_GZDWXZ_DM,JT_JDSH_R_MC,JT_JDSH_RQ,JT_SP_R_MC,JT_QXSP_RQ,JT_YBZ_JR,JT_JZFS_DM,JT_DBJ_JR,ZJ_FF_RQ,ZJ_JLLX_DM,ZJ_JL_RQ,ZJ_JL_JR,ZJ_JLSY_JR,DATA_CREATE_TIME,DATA_UPDATE_TIME,DATA_SOURCE_NAME,DATA_SOURCE_CODE,DATA_STATUS_CODE,DATA_STATUS_NAME,IS_ACTION,CREATETIME,DEFAULTTIME,FLAG,JT_LB_DM,RY_ZPYY_DM], field.RY_GMSFZ_HM=[sql({} in (${p1}))], p1=['110221197510111617','220621196712131416'], qualified=[ENTITY]}",
+      "failureMsg": null,
+      "success": true,
+      "start": "2018-06-06T03:58:07.612+0000",
+      "end": "2018-06-06T03:58:07.640+0000",
+      "period": 0,
+      "content": [],
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://59.212.146.110/rbase/api/queryLoggers/5b175bcfd5921c3c84c6ec6c"
+        },
+        {
+          "rel": "queryLogger",
+          "href": "http://59.212.146.110/rbase/api/queryLoggers/5b175bcfd5921c3c84c6ec6c"
+        }
+      ]
+    },
+    {
+      "id": "5b175bcfd5921c3c84c6ec6b",
+      "sql": "select JT_DM,JT_JTLQZ_HM,JT_JTSQYY_MS,JT_KHYH_MC,JT_KHYH_ZH,RY_GMSFZ_HM,RY_YHZGX_DM,RY_LDNL_DM,RY_LB_DM,RY_XM,RY_GZXZ_DM,RY_YSR_JR,RY_DW_MC,RY_GZDWXZ_DM,JT_JDSH_R_MC,JT_JDSH_RQ,JT_SP_R_MC,JT_QXSP_RQ,JT_YBZ_JR,JT_JZFS_DM,JT_DBJ_JR,ZJ_FF_RQ,ZJ_JLLX_DM,ZJ_JL_RQ,ZJ_JL_JR,ZJ_JLSY_JR,DATA_CREATE_TIME,DATA_UPDATE_TIME,DATA_SOURCE_NAME,DATA_SOURCE_CODE,DATA_STATUS_CODE,DATA_STATUS_NAME,IS_ACTION,CREATETIME,DEFAULTTIME,FLAG,JT_LB_DM,RY_ZPYY_DM from dbo.FDM_F_DBDXJBXX where  RY_GMSFZ_HM in ('110221197510111617','220621196712131416') and  1=1 ",
+      "params": "{dcsp.projection=[JT_DM,JT_JTLQZ_HM,JT_JTSQYY_MS,JT_KHYH_MC,JT_KHYH_ZH,RY_GMSFZ_HM,RY_YHZGX_DM,RY_LDNL_DM,RY_LB_DM,RY_XM,RY_GZXZ_DM,RY_YSR_JR,RY_DW_MC,RY_GZDWXZ_DM,JT_JDSH_R_MC,JT_JDSH_RQ,JT_SP_R_MC,JT_QXSP_RQ,JT_YBZ_JR,JT_JZFS_DM,JT_DBJ_JR,ZJ_FF_RQ,ZJ_JLLX_DM,ZJ_JL_RQ,ZJ_JL_JR,ZJ_JLSY_JR,DATA_CREATE_TIME,DATA_UPDATE_TIME,DATA_SOURCE_NAME,DATA_SOURCE_CODE,DATA_STATUS_CODE,DATA_STATUS_NAME,IS_ACTION,CREATETIME,DEFAULTTIME,FLAG,JT_LB_DM,RY_ZPYY_DM], field.RY_GMSFZ_HM=[sql({} in (${p1}))], p1=['110221197510111617','220621196712131416'], qualified=[ENTITY]}",
+      "failureMsg": null,
+      "success": true,
+      "start": "2018-06-06T03:58:07.618+0000",
+      "end": "2018-06-06T03:58:07.634+0000",
+      "period": 0,
+      "content": [],
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://59.212.146.110/rbase/api/queryLoggers/5b175bcfd5921c3c84c6ec6b"
+        },
+        {
+          "rel": "queryLogger",
+          "href": "http://59.212.146.110/rbase/api/queryLoggers/5b175bcfd5921c3c84c6ec6b"
+        }
+      ]
+    },
+    {
+      "id": "5b175bcfd5921c3c84c6ec6a",
+      "sql": "select JT_DM,JT_JTLQZ_HM,JT_JTSQYY_MS,JT_KHYH_MC,JT_KHYH_ZH,RY_GMSFZ_HM,RY_YHZGX_DM,RY_LDNL_DM,RY_LB_DM,RY_XM,RY_GZXZ_DM,RY_YSR_JR,RY_DW_MC,RY_GZDWXZ_DM,JT_JDSH_R_MC,JT_JDSH_RQ,JT_SP_R_MC,JT_QXSP_RQ,JT_YBZ_JR,JT_JZFS_DM,JT_DBJ_JR,ZJ_FF_RQ,ZJ_JLLX_DM,ZJ_JL_RQ,ZJ_JL_JR,ZJ_JLSY_JR,DATA_CREATE_TIME,DATA_UPDATE_TIME,DATA_SOURCE_NAME,DATA_SOURCE_CODE,DATA_STATUS_CODE,DATA_STATUS_NAME,IS_ACTION,CREATETIME,DEFAULTTIME,FLAG,JT_LB_DM,RY_ZPYY_DM from dbo.FDM_F_DBDXJBXX where  RY_GMSFZ_HM in ('110221197510111617','220621196712131416') and  1=1 ",
+      "params": "{dcsp.projection=[JT_DM,JT_JTLQZ_HM,JT_JTSQYY_MS,JT_KHYH_MC,JT_KHYH_ZH,RY_GMSFZ_HM,RY_YHZGX_DM,RY_LDNL_DM,RY_LB_DM,RY_XM,RY_GZXZ_DM,RY_YSR_JR,RY_DW_MC,RY_GZDWXZ_DM,JT_JDSH_R_MC,JT_JDSH_RQ,JT_SP_R_MC,JT_QXSP_RQ,JT_YBZ_JR,JT_JZFS_DM,JT_DBJ_JR,ZJ_FF_RQ,ZJ_JLLX_DM,ZJ_JL_RQ,ZJ_JL_JR,ZJ_JLSY_JR,DATA_CREATE_TIME,DATA_UPDATE_TIME,DATA_SOURCE_NAME,DATA_SOURCE_CODE,DATA_STATUS_CODE,DATA_STATUS_NAME,IS_ACTION,CREATETIME,DEFAULTTIME,FLAG,JT_LB_DM,RY_ZPYY_DM], field.RY_GMSFZ_HM=[sql({} in (${p1}))], p1=['110221197510111617','220621196712131416'], qualified=[ENTITY]}",
+      "failureMsg": null,
+      "success": true,
+      "start": "2018-06-06T03:58:07.590+0000",
+      "end": "2018-06-06T03:58:07.627+0000",
+      "period": 0,
+      "content": [],
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://59.212.146.110/rbase/api/queryLoggers/5b175bcfd5921c3c84c6ec6a"
+        },
+        {
+          "rel": "queryLogger",
+          "href": "http://59.212.146.110/rbase/api/queryLoggers/5b175bcfd5921c3c84c6ec6a"
+        }
+      ]
+    },
+    {
+      "id": "5b175bcfd5921c3c84c6ec69",
+      "sql": "select JT_DM,JT_JTLQZ_HM,JT_JTSQYY_MS,JT_KHYH_MC,JT_KHYH_ZH,RY_GMSFZ_HM,RY_YHZGX_DM,RY_LDNL_DM,RY_LB_DM,RY_XM,RY_GZXZ_DM,RY_YSR_JR,RY_DW_MC,RY_GZDWXZ_DM,JT_JDSH_R_MC,JT_JDSH_RQ,JT_SP_R_MC,JT_QXSP_RQ,JT_YBZ_JR,JT_JZFS_DM,JT_DBJ_JR,ZJ_FF_RQ,ZJ_JLLX_DM,ZJ_JL_RQ,ZJ_JL_JR,ZJ_JLSY_JR,DATA_CREATE_TIME,DATA_UPDATE_TIME,DATA_SOURCE_NAME,DATA_SOURCE_CODE,DATA_STATUS_CODE,DATA_STATUS_NAME,IS_ACTION,CREATETIME,DEFAULTTIME,FLAG,JT_LB_DM,RY_ZPYY_DM from dbo.FDM_F_DBDXJBXX where  RY_GMSFZ_HM in ('110221197510111617','220621196712131416') and  1=1 ",
+      "params": "{dcsp.projection=[JT_DM,JT_JTLQZ_HM,JT_JTSQYY_MS,JT_KHYH_MC,JT_KHYH_ZH,RY_GMSFZ_HM,RY_YHZGX_DM,RY_LDNL_DM,RY_LB_DM,RY_XM,RY_GZXZ_DM,RY_YSR_JR,RY_DW_MC,RY_GZDWXZ_DM,JT_JDSH_R_MC,JT_JDSH_RQ,JT_SP_R_MC,JT_QXSP_RQ,JT_YBZ_JR,JT_JZFS_DM,JT_DBJ_JR,ZJ_FF_RQ,ZJ_JLLX_DM,ZJ_JL_RQ,ZJ_JL_JR,ZJ_JLSY_JR,DATA_CREATE_TIME,DATA_UPDATE_TIME,DATA_SOURCE_NAME,DATA_SOURCE_CODE,DATA_STATUS_CODE,DATA_STATUS_NAME,IS_ACTION,CREATETIME,DEFAULTTIME,FLAG,JT_LB_DM,RY_ZPYY_DM], field.RY_GMSFZ_HM=[sql({} in (${p1}))], p1=['110221197510111617','220621196712131416'], qualified=[ENTITY]}",
+      "failureMsg": null,
+      "success": true,
+      "start": "2018-06-06T03:58:07.597+0000",
+      "end": "2018-06-06T03:58:07.622+0000",
+      "period": 0,
+      "content": [],
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://59.212.146.110/rbase/api/queryLoggers/5b175bcfd5921c3c84c6ec69"
+        },
+        {
+          "rel": "queryLogger",
+          "href": "http://59.212.146.110/rbase/api/queryLoggers/5b175bcfd5921c3c84c6ec69"
+        }
+      ]
+    },
+    {
+      "id": "5b175bcfd5921c3c84c6ec68",
+      "sql": "select JT_DM,JT_JTLQZ_HM,JT_JTSQYY_MS,JT_KHYH_MC,JT_KHYH_ZH,RY_GMSFZ_HM,RY_YHZGX_DM,RY_LDNL_DM,RY_LB_DM,RY_XM,RY_GZXZ_DM,RY_YSR_JR,RY_DW_MC,RY_GZDWXZ_DM,JT_JDSH_R_MC,JT_JDSH_RQ,JT_SP_R_MC,JT_QXSP_RQ,JT_YBZ_JR,JT_JZFS_DM,JT_DBJ_JR,ZJ_FF_RQ,ZJ_JLLX_DM,ZJ_JL_RQ,ZJ_JL_JR,ZJ_JLSY_JR,DATA_CREATE_TIME,DATA_UPDATE_TIME,DATA_SOURCE_NAME,DATA_SOURCE_CODE,DATA_STATUS_CODE,DATA_STATUS_NAME,IS_ACTION,CREATETIME,DEFAULTTIME,FLAG,JT_LB_DM,RY_ZPYY_DM from dbo.FDM_F_DBDXJBXX where  RY_GMSFZ_HM in ('110221197510111617','220621196712131416') and  1=1 ",
+      "params": "{dcsp.projection=[JT_DM,JT_JTLQZ_HM,JT_JTSQYY_MS,JT_KHYH_MC,JT_KHYH_ZH,RY_GMSFZ_HM,RY_YHZGX_DM,RY_LDNL_DM,RY_LB_DM,RY_XM,RY_GZXZ_DM,RY_YSR_JR,RY_DW_MC,RY_GZDWXZ_DM,JT_JDSH_R_MC,JT_JDSH_RQ,JT_SP_R_MC,JT_QXSP_RQ,JT_YBZ_JR,JT_JZFS_DM,JT_DBJ_JR,ZJ_FF_RQ,ZJ_JLLX_DM,ZJ_JL_RQ,ZJ_JL_JR,ZJ_JLSY_JR,DATA_CREATE_TIME,DATA_UPDATE_TIME,DATA_SOURCE_NAME,DATA_SOURCE_CODE,DATA_STATUS_CODE,DATA_STATUS_NAME,IS_ACTION,CREATETIME,DEFAULTTIME,FLAG,JT_LB_DM,RY_ZPYY_DM], field.RY_GMSFZ_HM=[sql({} in (${p1}))], p1=['110221197510111617','220621196712131416'], qualified=[ENTITY]}",
+      "failureMsg": null,
+      "success": true,
+      "start": "2018-06-06T03:58:07.602+0000",
+      "end": "2018-06-06T03:58:07.617+0000",
+      "period": 0,
+      "content": [],
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://59.212.146.110/rbase/api/queryLoggers/5b175bcfd5921c3c84c6ec68"
+        },
+        {
+          "rel": "queryLogger",
+          "href": "http://59.212.146.110/rbase/api/queryLoggers/5b175bcfd5921c3c84c6ec68"
+        }
+      ]
+    },
+    {
+      "id": "5b175bcfd5921c3c84c6ec67",
+      "sql": "select JT_DM,JT_JTLQZ_HM,JT_JTSQYY_MS,JT_KHYH_MC,JT_KHYH_ZH,RY_GMSFZ_HM,RY_YHZGX_DM,RY_LDNL_DM,RY_LB_DM,RY_XM,RY_GZXZ_DM,RY_YSR_JR,RY_DW_MC,RY_GZDWXZ_DM,JT_JDSH_R_MC,JT_JDSH_RQ,JT_SP_R_MC,JT_QXSP_RQ,JT_YBZ_JR,JT_JZFS_DM,JT_DBJ_JR,ZJ_FF_RQ,ZJ_JLLX_DM,ZJ_JL_RQ,ZJ_JL_JR,ZJ_JLSY_JR,DATA_CREATE_TIME,DATA_UPDATE_TIME,DATA_SOURCE_NAME,DATA_SOURCE_CODE,DATA_STATUS_CODE,DATA_STATUS_NAME,IS_ACTION,CREATETIME,DEFAULTTIME,FLAG,JT_LB_DM,RY_ZPYY_DM from dbo.FDM_F_DBDXJBXX where  RY_GMSFZ_HM in ('110221197510111617','220621196712131416') and  1=1 ",
+      "params": "{dcsp.projection=[JT_DM,JT_JTLQZ_HM,JT_JTSQYY_MS,JT_KHYH_MC,JT_KHYH_ZH,RY_GMSFZ_HM,RY_YHZGX_DM,RY_LDNL_DM,RY_LB_DM,RY_XM,RY_GZXZ_DM,RY_YSR_JR,RY_DW_MC,RY_GZDWXZ_DM,JT_JDSH_R_MC,JT_JDSH_RQ,JT_SP_R_MC,JT_QXSP_RQ,JT_YBZ_JR,JT_JZFS_DM,JT_DBJ_JR,ZJ_FF_RQ,ZJ_JLLX_DM,ZJ_JL_RQ,ZJ_JL_JR,ZJ_JLSY_JR,DATA_CREATE_TIME,DATA_UPDATE_TIME,DATA_SOURCE_NAME,DATA_SOURCE_CODE,DATA_STATUS_CODE,DATA_STATUS_NAME,IS_ACTION,CREATETIME,DEFAULTTIME,FLAG,JT_LB_DM,RY_ZPYY_DM], field.RY_GMSFZ_HM=[sql({} in (${p1}))], p1=['110221197510111617','220621196712131416'], qualified=[ENTITY]}",
+      "failureMsg": null,
+      "success": true,
+      "start": "2018-06-06T03:58:07.576+0000",
+      "end": "2018-06-06T03:58:07.611+0000",
+      "period": 0,
+      "content": [],
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://59.212.146.110/rbase/api/queryLoggers/5b175bcfd5921c3c84c6ec67"
+        },
+        {
+          "rel": "queryLogger",
+          "href": "http://59.212.146.110/rbase/api/queryLoggers/5b175bcfd5921c3c84c6ec67"
+        }
+      ]
+    },
+    {
+      "id": "5b175bcfd5921c3c84c6ec66",
+      "sql": "select JT_DM,JT_JTLQZ_HM,JT_JTSQYY_MS,JT_KHYH_MC,JT_KHYH_ZH,RY_GMSFZ_HM,RY_YHZGX_DM,RY_LDNL_DM,RY_LB_DM,RY_XM,RY_GZXZ_DM,RY_YSR_JR,RY_DW_MC,RY_GZDWXZ_DM,JT_JDSH_R_MC,JT_JDSH_RQ,JT_SP_R_MC,JT_QXSP_RQ,JT_YBZ_JR,JT_JZFS_DM,JT_DBJ_JR,ZJ_FF_RQ,ZJ_JLLX_DM,ZJ_JL_RQ,ZJ_JL_JR,ZJ_JLSY_JR,DATA_CREATE_TIME,DATA_UPDATE_TIME,DATA_SOURCE_NAME,DATA_SOURCE_CODE,DATA_STATUS_CODE,DATA_STATUS_NAME,IS_ACTION,CREATETIME,DEFAULTTIME,FLAG,JT_LB_DM,RY_ZPYY_DM from dbo.FDM_F_DBDXJBXX where  RY_GMSFZ_HM in ('110221197510111617','220621196712131416') and  1=1 ",
+      "params": "{dcsp.projection=[JT_DM,JT_JTLQZ_HM,JT_JTSQYY_MS,JT_KHYH_MC,JT_KHYH_ZH,RY_GMSFZ_HM,RY_YHZGX_DM,RY_LDNL_DM,RY_LB_DM,RY_XM,RY_GZXZ_DM,RY_YSR_JR,RY_DW_MC,RY_GZDWXZ_DM,JT_JDSH_R_MC,JT_JDSH_RQ,JT_SP_R_MC,JT_QXSP_RQ,JT_YBZ_JR,JT_JZFS_DM,JT_DBJ_JR,ZJ_FF_RQ,ZJ_JLLX_DM,ZJ_JL_RQ,ZJ_JL_JR,ZJ_JLSY_JR,DATA_CREATE_TIME,DATA_UPDATE_TIME,DATA_SOURCE_NAME,DATA_SOURCE_CODE,DATA_STATUS_CODE,DATA_STATUS_NAME,IS_ACTION,CREATETIME,DEFAULTTIME,FLAG,JT_LB_DM,RY_ZPYY_DM], field.RY_GMSFZ_HM=[sql({} in (${p1}))], p1=['110221197510111617','220621196712131416'], qualified=[ENTITY]}",
+      "failureMsg": null,
+      "success": true,
+      "start": "2018-06-06T03:58:07.582+0000",
+      "end": "2018-06-06T03:58:07.606+0000",
+      "period": 0,
+      "content": [],
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://59.212.146.110/rbase/api/queryLoggers/5b175bcfd5921c3c84c6ec66"
+        },
+        {
+          "rel": "queryLogger",
+          "href": "http://59.212.146.110/rbase/api/queryLoggers/5b175bcfd5921c3c84c6ec66"
+        }
+      ]
+    },
+    {
+      "id": "5b175bcfd5921c3c84c6ec65",
+      "sql": "select JT_DM,JT_JTLQZ_HM,JT_JTSQYY_MS,JT_KHYH_MC,JT_KHYH_ZH,RY_GMSFZ_HM,RY_YHZGX_DM,RY_LDNL_DM,RY_LB_DM,RY_XM,RY_GZXZ_DM,RY_YSR_JR,RY_DW_MC,RY_GZDWXZ_DM,JT_JDSH_R_MC,JT_JDSH_RQ,JT_SP_R_MC,JT_QXSP_RQ,JT_YBZ_JR,JT_JZFS_DM,JT_DBJ_JR,ZJ_FF_RQ,ZJ_JLLX_DM,ZJ_JL_RQ,ZJ_JL_JR,ZJ_JLSY_JR,DATA_CREATE_TIME,DATA_UPDATE_TIME,DATA_SOURCE_NAME,DATA_SOURCE_CODE,DATA_STATUS_CODE,DATA_STATUS_NAME,IS_ACTION,CREATETIME,DEFAULTTIME,FLAG,JT_LB_DM,RY_ZPYY_DM from dbo.FDM_F_DBDXJBXX where  RY_GMSFZ_HM in ('110221197510111617','220621196712131416') and  1=1 ",
+      "params": "{dcsp.projection=[JT_DM,JT_JTLQZ_HM,JT_JTSQYY_MS,JT_KHYH_MC,JT_KHYH_ZH,RY_GMSFZ_HM,RY_YHZGX_DM,RY_LDNL_DM,RY_LB_DM,RY_XM,RY_GZXZ_DM,RY_YSR_JR,RY_DW_MC,RY_GZDWXZ_DM,JT_JDSH_R_MC,JT_JDSH_RQ,JT_SP_R_MC,JT_QXSP_RQ,JT_YBZ_JR,JT_JZFS_DM,JT_DBJ_JR,ZJ_FF_RQ,ZJ_JLLX_DM,ZJ_JL_RQ,ZJ_JL_JR,ZJ_JLSY_JR,DATA_CREATE_TIME,DATA_UPDATE_TIME,DATA_SOURCE_NAME,DATA_SOURCE_CODE,DATA_STATUS_CODE,DATA_STATUS_NAME,IS_ACTION,CREATETIME,DEFAULTTIME,FLAG,JT_LB_DM,RY_ZPYY_DM], field.RY_GMSFZ_HM=[sql({} in (${p1}))], p1=['110221197510111617','220621196712131416'], qualified=[ENTITY]}",
+      "failureMsg": null,
+      "success": true,
+      "start": "2018-06-06T03:58:07.587+0000",
+      "end": "2018-06-06T03:58:07.601+0000",
+      "period": 0,
+      "content": [],
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://59.212.146.110/rbase/api/queryLoggers/5b175bcfd5921c3c84c6ec65"
+        },
+        {
+          "rel": "queryLogger",
+          "href": "http://59.212.146.110/rbase/api/queryLoggers/5b175bcfd5921c3c84c6ec65"
+        }
+      ]
+    },
+    {
+      "id": "5b175bcfd5921c3c84c6ec64",
+      "sql": "select JT_DM,JT_JTLQZ_HM,JT_JTSQYY_MS,JT_KHYH_MC,JT_KHYH_ZH,RY_GMSFZ_HM,RY_YHZGX_DM,RY_LDNL_DM,RY_LB_DM,RY_XM,RY_GZXZ_DM,RY_YSR_JR,RY_DW_MC,RY_GZDWXZ_DM,JT_JDSH_R_MC,JT_JDSH_RQ,JT_SP_R_MC,JT_QXSP_RQ,JT_YBZ_JR,JT_JZFS_DM,JT_DBJ_JR,ZJ_FF_RQ,ZJ_JLLX_DM,ZJ_JL_RQ,ZJ_JL_JR,ZJ_JLSY_JR,DATA_CREATE_TIME,DATA_UPDATE_TIME,DATA_SOURCE_NAME,DATA_SOURCE_CODE,DATA_STATUS_CODE,DATA_STATUS_NAME,IS_ACTION,CREATETIME,DEFAULTTIME,FLAG,JT_LB_DM,RY_ZPYY_DM from dbo.FDM_F_DBDXJBXX where  RY_GMSFZ_HM in ('110221197510111617','220621196712131416') and  1=1 ",
+      "params": "{dcsp.projection=[JT_DM,JT_JTLQZ_HM,JT_JTSQYY_MS,JT_KHYH_MC,JT_KHYH_ZH,RY_GMSFZ_HM,RY_YHZGX_DM,RY_LDNL_DM,RY_LB_DM,RY_XM,RY_GZXZ_DM,RY_YSR_JR,RY_DW_MC,RY_GZDWXZ_DM,JT_JDSH_R_MC,JT_JDSH_RQ,JT_SP_R_MC,JT_QXSP_RQ,JT_YBZ_JR,JT_JZFS_DM,JT_DBJ_JR,ZJ_FF_RQ,ZJ_JLLX_DM,ZJ_JL_RQ,ZJ_JL_JR,ZJ_JLSY_JR,DATA_CREATE_TIME,DATA_UPDATE_TIME,DATA_SOURCE_NAME,DATA_SOURCE_CODE,DATA_STATUS_CODE,DATA_STATUS_NAME,IS_ACTION,CREATETIME,DEFAULTTIME,FLAG,JT_LB_DM,RY_ZPYY_DM], field.RY_GMSFZ_HM=[sql({} in (${p1}))], p1=['110221197510111617','220621196712131416'], qualified=[ENTITY]}",
+      "failureMsg": null,
+      "success": true,
+      "start": "2018-06-06T03:58:07.559+0000",
+      "end": "2018-06-06T03:58:07.596+0000",
+      "period": 0,
+      "content": [],
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://59.212.146.110/rbase/api/queryLoggers/5b175bcfd5921c3c84c6ec64"
+        },
+        {
+          "rel": "queryLogger",
+          "href": "http://59.212.146.110/rbase/api/queryLoggers/5b175bcfd5921c3c84c6ec64"
+        }
+      ]
+    },
+    {
+      "id": "5b175bcfd5921c3c84c6ec63",
+      "sql": "select JT_DM,JT_JTLQZ_HM,JT_JTSQYY_MS,JT_KHYH_MC,JT_KHYH_ZH,RY_GMSFZ_HM,RY_YHZGX_DM,RY_LDNL_DM,RY_LB_DM,RY_XM,RY_GZXZ_DM,RY_YSR_JR,RY_DW_MC,RY_GZDWXZ_DM,JT_JDSH_R_MC,JT_JDSH_RQ,JT_SP_R_MC,JT_QXSP_RQ,JT_YBZ_JR,JT_JZFS_DM,JT_DBJ_JR,ZJ_FF_RQ,ZJ_JLLX_DM,ZJ_JL_RQ,ZJ_JL_JR,ZJ_JLSY_JR,DATA_CREATE_TIME,DATA_UPDATE_TIME,DATA_SOURCE_NAME,DATA_SOURCE_CODE,DATA_STATUS_CODE,DATA_STATUS_NAME,IS_ACTION,CREATETIME,DEFAULTTIME,FLAG,JT_LB_DM,RY_ZPYY_DM from dbo.FDM_F_DBDXJBXX where  RY_GMSFZ_HM in ('110221197510111617','220621196712131416') and  1=1 ",
+      "params": "{dcsp.projection=[JT_DM,JT_JTLQZ_HM,JT_JTSQYY_MS,JT_KHYH_MC,JT_KHYH_ZH,RY_GMSFZ_HM,RY_YHZGX_DM,RY_LDNL_DM,RY_LB_DM,RY_XM,RY_GZXZ_DM,RY_YSR_JR,RY_DW_MC,RY_GZDWXZ_DM,JT_JDSH_R_MC,JT_JDSH_RQ,JT_SP_R_MC,JT_QXSP_RQ,JT_YBZ_JR,JT_JZFS_DM,JT_DBJ_JR,ZJ_FF_RQ,ZJ_JLLX_DM,ZJ_JL_RQ,ZJ_JL_JR,ZJ_JLSY_JR,DATA_CREATE_TIME,DATA_UPDATE_TIME,DATA_SOURCE_NAME,DATA_SOURCE_CODE,DATA_STATUS_CODE,DATA_STATUS_NAME,IS_ACTION,CREATETIME,DEFAULTTIME,FLAG,JT_LB_DM,RY_ZPYY_DM], field.RY_GMSFZ_HM=[sql({} in (${p1}))], p1=['110221197510111617','220621196712131416'], qualified=[ENTITY]}",
+      "failureMsg": null,
+      "success": true,
+      "start": "2018-06-06T03:58:07.564+0000",
+      "end": "2018-06-06T03:58:07.589+0000",
+      "period": 0,
+      "content": [],
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://59.212.146.110/rbase/api/queryLoggers/5b175bcfd5921c3c84c6ec63"
+        },
+        {
+          "rel": "queryLogger",
+          "href": "http://59.212.146.110/rbase/api/queryLoggers/5b175bcfd5921c3c84c6ec63"
+        }
+      ]
+    },
+    {
+      "id": "5b175bcfd5921c3c84c6ec62",
+      "sql": "select JT_DM,JT_JTLQZ_HM,JT_JTSQYY_MS,JT_KHYH_MC,JT_KHYH_ZH,RY_GMSFZ_HM,RY_YHZGX_DM,RY_LDNL_DM,RY_LB_DM,RY_XM,RY_GZXZ_DM,RY_YSR_JR,RY_DW_MC,RY_GZDWXZ_DM,JT_JDSH_R_MC,JT_JDSH_RQ,JT_SP_R_MC,JT_QXSP_RQ,JT_YBZ_JR,JT_JZFS_DM,JT_DBJ_JR,ZJ_FF_RQ,ZJ_JLLX_DM,ZJ_JL_RQ,ZJ_JL_JR,ZJ_JLSY_JR,DATA_CREATE_TIME,DATA_UPDATE_TIME,DATA_SOURCE_NAME,DATA_SOURCE_CODE,DATA_STATUS_CODE,DATA_STATUS_NAME,IS_ACTION,CREATETIME,DEFAULTTIME,FLAG,JT_LB_DM,RY_ZPYY_DM from dbo.FDM_F_DBDXJBXX where  RY_GMSFZ_HM in ('110221197510111617','220621196712131416') and  1=1 ",
+      "params": "{dcsp.projection=[JT_DM,JT_JTLQZ_HM,JT_JTSQYY_MS,JT_KHYH_MC,JT_KHYH_ZH,RY_GMSFZ_HM,RY_YHZGX_DM,RY_LDNL_DM,RY_LB_DM,RY_XM,RY_GZXZ_DM,RY_YSR_JR,RY_DW_MC,RY_GZDWXZ_DM,JT_JDSH_R_MC,JT_JDSH_RQ,JT_SP_R_MC,JT_QXSP_RQ,JT_YBZ_JR,JT_JZFS_DM,JT_DBJ_JR,ZJ_FF_RQ,ZJ_JLLX_DM,ZJ_JL_RQ,ZJ_JL_JR,ZJ_JLSY_JR,DATA_CREATE_TIME,DATA_UPDATE_TIME,DATA_SOURCE_NAME,DATA_SOURCE_CODE,DATA_STATUS_CODE,DATA_STATUS_NAME,IS_ACTION,CREATETIME,DEFAULTTIME,FLAG,JT_LB_DM,RY_ZPYY_DM], field.RY_GMSFZ_HM=[sql({} in (${p1}))], p1=['110221197510111617','220621196712131416'], qualified=[ENTITY]}",
+      "failureMsg": null,
+      "success": true,
+      "start": "2018-06-06T03:58:07.569+0000",
+      "end": "2018-06-06T03:58:07.586+0000",
+      "period": 0,
+      "content": [],
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://59.212.146.110/rbase/api/queryLoggers/5b175bcfd5921c3c84c6ec62"
+        },
+        {
+          "rel": "queryLogger",
+          "href": "http://59.212.146.110/rbase/api/queryLoggers/5b175bcfd5921c3c84c6ec62"
+        }
+      ]
+    },
+    {
+      "id": "5b175bcfd5921c3c84c6ec61",
+      "sql": "select JT_DM,JT_JTLQZ_HM,JT_JTSQYY_MS,JT_KHYH_MC,JT_KHYH_ZH,RY_GMSFZ_HM,RY_YHZGX_DM,RY_LDNL_DM,RY_LB_DM,RY_XM,RY_GZXZ_DM,RY_YSR_JR,RY_DW_MC,RY_GZDWXZ_DM,JT_JDSH_R_MC,JT_JDSH_RQ,JT_SP_R_MC,JT_QXSP_RQ,JT_YBZ_JR,JT_JZFS_DM,JT_DBJ_JR,ZJ_FF_RQ,ZJ_JLLX_DM,ZJ_JL_RQ,ZJ_JL_JR,ZJ_JLSY_JR,DATA_CREATE_TIME,DATA_UPDATE_TIME,DATA_SOURCE_NAME,DATA_SOURCE_CODE,DATA_STATUS_CODE,DATA_STATUS_NAME,IS_ACTION,CREATETIME,DEFAULTTIME,FLAG,JT_LB_DM,RY_ZPYY_DM from dbo.FDM_F_DBDXJBXX where  RY_GMSFZ_HM in ('110221197510111617','220621196712131416') and  1=1 ",
+      "params": "{dcsp.projection=[JT_DM,JT_JTLQZ_HM,JT_JTSQYY_MS,JT_KHYH_MC,JT_KHYH_ZH,RY_GMSFZ_HM,RY_YHZGX_DM,RY_LDNL_DM,RY_LB_DM,RY_XM,RY_GZXZ_DM,RY_YSR_JR,RY_DW_MC,RY_GZDWXZ_DM,JT_JDSH_R_MC,JT_JDSH_RQ,JT_SP_R_MC,JT_QXSP_RQ,JT_YBZ_JR,JT_JZFS_DM,JT_DBJ_JR,ZJ_FF_RQ,ZJ_JLLX_DM,ZJ_JL_RQ,ZJ_JL_JR,ZJ_JLSY_JR,DATA_CREATE_TIME,DATA_UPDATE_TIME,DATA_SOURCE_NAME,DATA_SOURCE_CODE,DATA_STATUS_CODE,DATA_STATUS_NAME,IS_ACTION,CREATETIME,DEFAULTTIME,FLAG,JT_LB_DM,RY_ZPYY_DM], field.RY_GMSFZ_HM=[sql({} in (${p1}))], p1=['110221197510111617','220621196712131416'], qualified=[ENTITY]}",
+      "failureMsg": null,
+      "success": true,
+      "start": "2018-06-06T03:58:07.542+0000",
+      "end": "2018-06-06T03:58:07.581+0000",
+      "period": 0,
+      "content": [],
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://59.212.146.110/rbase/api/queryLoggers/5b175bcfd5921c3c84c6ec61"
+        },
+        {
+          "rel": "queryLogger",
+          "href": "http://59.212.146.110/rbase/api/queryLoggers/5b175bcfd5921c3c84c6ec61"
+        }
+      ]
+    }
+  ],
+  "page": {
+    "size": 20,
+    "totalElements": 18252,
+    "totalPages": 913,
+    "number": 0
+  }
+}

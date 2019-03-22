@@ -1,0 +1,24 @@
+{
+  "content": [
+    {
+      "title": "分布式目录管理系统（中心）",
+      "name": "DRDMSZ",
+      "realmType":"Center"
+    },
+    {
+      "title": "分布式目录管理系统（部门）",
+      "name": "DRDMSB",
+      "realmType":"Node"
+    },
+    {
+      "title": "数据服务管理平台",
+      "name": "AP",
+      "realmType":"Center"
+    },
+    {
+      "title": "节点资源管理系统",
+      "name": "RBase",
+      "realmType":"Node"
+    }
+  ]
+}

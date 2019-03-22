@@ -1,0 +1,40 @@
+{
+  "content": [
+    {
+      "dir_name": "标准目录",
+      "dir_num": "001",
+      "ver_field": "00001",
+      "update": "2012-09-09",
+      "updatelimit": "(无)",
+      "updaterate": "(无)",
+      "meta_item": "(无)"
+    },
+    {
+      "dir_name": "基础数据目录",
+      "dir_num": "002",
+      "update": "2015-09-09",
+      "updatelimit": "(无)",
+      "updaterate": "(无)",
+      "ver_field": "00002",
+      "meta_item": "(无)"
+    },
+    {
+      "dir_name": "主题数据目录",
+      "dir_num": "003",
+      "update": "2012-02-09",
+      "updatelimit": "(无)",
+      "updaterate": "(无)",
+      "ver_field": "00003",
+      "meta_item": "(无)"
+    },
+    {
+      "dir_name": "部门数据目录",
+      "dir_num": "004",
+      "update": "2017-11-23",
+      "updatelimit": "2017-11-25",
+      "updaterate": "每三天一次",
+      "ver_field": "00004",
+      "meta_item": "2"
+    }
+  ]
+}

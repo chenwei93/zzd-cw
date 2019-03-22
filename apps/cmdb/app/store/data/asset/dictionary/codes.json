@@ -1,0 +1,1173 @@
+{
+  "id": "root",
+  "text": "根节点",
+  "expanded": false,
+  "leaf": false,
+  "children": [
+    {
+      "parentId": "root",
+      "id": "4fb713a5-2b77-4e03-ad53-fb229f23c770",
+      "text": "Format",
+      "expanded": false,
+      "leaf": false,
+      "children": [
+        {
+          "parentId": "4fb713a5-2b77-4e03-ad53-fb229f23c770",
+          "id": "b08294b8-fa7f-4c7d-9c9c-de5fba6f823f",
+          "text": "未知",
+          "expanded": false,
+          "leaf": true,
+          "extraAttributes": {
+            "code": "Unknown",
+            "idRel": "dictionaryItems/Unknown",
+            "value": "Unknown",
+            "desc": null
+          }
+        },
+        {
+          "parentId": "4fb713a5-2b77-4e03-ad53-fb229f23c770",
+          "id": "2fb3521c-e5b1-4d51-99f9-fde4537abcbd",
+          "text": "文件",
+          "expanded": false,
+          "leaf": true,
+          "extraAttributes": {
+            "code": "File",
+            "idRel": "dictionaryItems/File",
+            "value": "File",
+            "desc": null
+          }
+        },
+        {
+          "parentId": "4fb713a5-2b77-4e03-ad53-fb229f23c770",
+          "id": "8c9fe7c1-0d58-4673-8510-05c225f341f9",
+          "text": "数据库",
+          "expanded": false,
+          "leaf": true,
+          "extraAttributes": {
+            "code": "Db",
+            "idRel": "dictionaryItems/Db",
+            "value": "Db",
+            "desc": null
+          }
+        },
+        {
+          "parentId": "4fb713a5-2b77-4e03-ad53-fb229f23c770",
+          "id": "c67b0251-801a-418c-ba09-f05aa19d27a1",
+          "text": "HDFS",
+          "expanded": false,
+          "leaf": true,
+          "extraAttributes": {
+            "code": "Hdfs",
+            "idRel": "dictionaryItems/Hdfs",
+            "value": "Hdfs",
+            "desc": null
+          }
+        },
+        {
+          "parentId": "4fb713a5-2b77-4e03-ad53-fb229f23c770",
+          "id": "e82e514b-88d6-42da-9dec-3fe7ad3ed37d",
+          "text": "服务",
+          "expanded": false,
+          "leaf": true,
+          "extraAttributes": {
+            "code": "Service",
+            "idRel": "dictionaryItems/Service",
+            "value": "Service",
+            "desc": null
+          }
+        },
+        {
+          "parentId": "4fb713a5-2b77-4e03-ad53-fb229f23c770",
+          "id": "70a13064-145c-40fa-a47e-1c9a6a45bed8",
+          "text": "元数据定义",
+          "expanded": false,
+          "leaf": true,
+          "extraAttributes": {
+            "code": "Metadata",
+            "idRel": "dictionaryItems/Metadata",
+            "value": "Metadata",
+            "desc": null
+          }
+        }
+      ],
+      "extraAttributes": {
+        "code": "Format",
+        "idRel": "dictionaryCatalogs/Format",
+        "value": "Format",
+        "desc": null
+      }
+    },
+    {
+      "parentId": "root",
+      "id": "e6ee356a-2a74-4c51-8911-3f487e2b82c8",
+      "text": "ContentType",
+      "expanded": false,
+      "leaf": false,
+      "children": [
+        {
+          "parentId": "e6ee356a-2a74-4c51-8911-3f487e2b82c8",
+          "id": "7d9f62cd-1edf-4af4-bbf2-041dea08e915",
+          "text": "未知",
+          "expanded": false,
+          "leaf": true,
+          "extraAttributes": {
+            "code": "UnKnown",
+            "idRel": "dictionaryItems/UnKnown",
+            "value": "UnKnown",
+            "desc": null
+          }
+        },
+        {
+          "parentId": "e6ee356a-2a74-4c51-8911-3f487e2b82c8",
+          "id": "cf112625-0b75-4db9-a4d2-e502b73b584e",
+          "text": "文档",
+          "expanded": false,
+          "leaf": true,
+          "extraAttributes": {
+            "code": "Document",
+            "idRel": "dictionaryItems/Document",
+            "value": "Document",
+            "desc": null
+          }
+        },
+        {
+          "parentId": "e6ee356a-2a74-4c51-8911-3f487e2b82c8",
+          "id": "452c4b3d-be77-4de5-ba85-1f79da15735b",
+          "text": "数据库表",
+          "expanded": false,
+          "leaf": true,
+          "extraAttributes": {
+            "code": "Dataset",
+            "idRel": "dictionaryItems/Dataset",
+            "value": "Dataset",
+            "desc": null
+          }
+        },
+        {
+          "parentId": "e6ee356a-2a74-4c51-8911-3f487e2b82c8",
+          "id": "e64437f5-7082-4988-b45d-5ac86f6c8cdb",
+          "text": "数据库视图",
+          "expanded": false,
+          "leaf": true,
+          "extraAttributes": {
+            "code": "View",
+            "idRel": "dictionaryItems/View",
+            "value": "View",
+            "desc": null
+          }
+        },
+        {
+          "parentId": "e6ee356a-2a74-4c51-8911-3f487e2b82c8",
+          "id": "e19f974f-c29d-4fad-ad95-a4f78f7403cc",
+          "text": "图片",
+          "expanded": false,
+          "leaf": true,
+          "extraAttributes": {
+            "code": "Picture",
+            "idRel": "dictionaryItems/Picture",
+            "value": "Picture",
+            "desc": null
+          }
+        },
+        {
+          "parentId": "e6ee356a-2a74-4c51-8911-3f487e2b82c8",
+          "id": "ebdfb7e2-c54b-4074-80ed-f62e4aee7733",
+          "text": "音频",
+          "expanded": false,
+          "leaf": true,
+          "extraAttributes": {
+            "code": "Audio",
+            "idRel": "dictionaryItems/Audio",
+            "value": "Audio",
+            "desc": null
+          }
+        },
+        {
+          "parentId": "e6ee356a-2a74-4c51-8911-3f487e2b82c8",
+          "id": "5ba8573c-c569-485d-9687-1edfef09876e",
+          "text": "视频",
+          "expanded": false,
+          "leaf": true,
+          "extraAttributes": {
+            "code": "Video",
+            "idRel": "dictionaryItems/Video",
+            "value": "Video",
+            "desc": null
+          }
+        },
+        {
+          "parentId": "e6ee356a-2a74-4c51-8911-3f487e2b82c8",
+          "id": "75caf52d-e14b-4b29-b2da-bb832e140530",
+          "text": "GIS数据",
+          "expanded": false,
+          "leaf": true,
+          "extraAttributes": {
+            "code": "Gis",
+            "idRel": "dictionaryItems/Gis",
+            "value": "Gis",
+            "desc": null
+          }
+        },
+        {
+          "parentId": "e6ee356a-2a74-4c51-8911-3f487e2b82c8",
+          "id": "1eecb88b-9951-4728-b14c-b0825e277bc6",
+          "text": "文件报告",
+          "expanded": false,
+          "leaf": true,
+          "extraAttributes": {
+            "code": "File",
+            "idRel": "dictionaryItems/File",
+            "value": "File",
+            "desc": null
+          }
+        },
+        {
+          "parentId": "e6ee356a-2a74-4c51-8911-3f487e2b82c8",
+          "id": "c3696a14-7b56-45fb-b996-8dbcd9cbc2ed",
+          "text": "接口",
+          "expanded": false,
+          "leaf": true,
+          "extraAttributes": {
+            "code": "Service",
+            "idRel": "dictionaryItems/Service",
+            "value": "Service",
+            "desc": null
+          }
+        },
+        {
+          "parentId": "e6ee356a-2a74-4c51-8911-3f487e2b82c8",
+          "id": "7e7341b5-e305-432e-9f12-604863556882",
+          "text": "应用",
+          "expanded": false,
+          "leaf": true,
+          "extraAttributes": {
+            "code": "Application",
+            "idRel": "dictionaryItems/Application",
+            "value": "Application",
+            "desc": null
+          }
+        }
+      ],
+      "extraAttributes": {
+        "code": "ContentType",
+        "idRel": "dictionaryCatalogs/ContentType",
+        "value": "ContentType",
+        "desc": null
+      }
+    },
+    {
+      "parentId": "root",
+      "id": "7104576a-7ee4-496c-b90e-e40e19278f9d",
+      "text": "共享类型",
+      "expanded": false,
+      "leaf": false,
+      "children": [
+        {
+          "parentId": "7104576a-7ee4-496c-b90e-e40e19278f9d",
+          "id": "fe2ddcfb-81b7-4f50-96c1-65e708aa1626",
+          "text": "有条件共享",
+          "expanded": false,
+          "leaf": true,
+          "extraAttributes": {
+            "code": "YTJGX",
+            "idRel": "dictionaryItems/YTJGX",
+            "value": "YTJGX",
+            "desc": null
+          }
+        },
+        {
+          "parentId": "7104576a-7ee4-496c-b90e-e40e19278f9d",
+          "id": "453c432f-a7f1-4d14-a9e0-bcb7f5178565",
+          "text": "无条件共享",
+          "expanded": false,
+          "leaf": true,
+          "extraAttributes": {
+            "code": "WTJGX",
+            "idRel": "dictionaryItems/WTJGX",
+            "value": "WTJGX",
+            "desc": null
+          }
+        },
+        {
+          "parentId": "7104576a-7ee4-496c-b90e-e40e19278f9d",
+          "id": "e458e640-6f85-4e5e-8fd2-e99e09d37333",
+          "text": "不予共享",
+          "expanded": false,
+          "leaf": true,
+          "extraAttributes": {
+            "code": "BYGX",
+            "idRel": "dictionaryItems/BYGX",
+            "value": "BYGX",
+            "desc": null
+          }
+        }
+      ],
+      "extraAttributes": {
+        "code": "GXLX",
+        "idRel": "dictionaryCatalogs/GXLX",
+        "value": "GXLX",
+        "desc": null
+      }
+    },
+    {
+      "parentId": "root",
+      "id": "8e9af220-1570-4b8a-8fbd-1d42b4032fa5",
+      "text": "共享平台方式",
+      "expanded": false,
+      "leaf": false,
+      "children": [
+        {
+          "parentId": "8e9af220-1570-4b8a-8fbd-1d42b4032fa5",
+          "id": "45cc25e7-be0a-431b-b1da-2028547fe0f0",
+          "text": "接口",
+          "expanded": false,
+          "leaf": true,
+          "extraAttributes": {
+            "code": "PT",
+            "idRel": "dictionaryItems/PT",
+            "value": "PT",
+            "desc": null
+          }
+        },
+        {
+          "parentId": "8e9af220-1570-4b8a-8fbd-1d42b4032fa5",
+          "id": "0c641e5f-fe79-47b7-93ca-3b5b6768eea3",
+          "text": "数据库",
+          "expanded": false,
+          "leaf": true,
+          "extraAttributes": {
+            "code": "DZ",
+            "idRel": "dictionaryItems/DZ",
+            "value": "DZ",
+            "desc": null
+          }
+        },
+        {
+          "parentId": "8e9af220-1570-4b8a-8fbd-1d42b4032fa5",
+          "id": "f1071b23-bbe5-4042-b0dc-0c1ad6df1e77",
+          "text": "文件",
+          "expanded": false,
+          "leaf": true,
+          "extraAttributes": {
+            "code": "FDZ",
+            "idRel": "dictionaryItems/FDZ",
+            "value": "FDZ",
+            "desc": null
+          }
+        }
+      ],
+      "extraAttributes": {
+        "code": "GXFS",
+        "idRel": "dictionaryCatalogs/GXFS",
+        "value": "GXFS",
+        "desc": null
+      }
+    },
+    {
+      "parentId": "root",
+      "id": "03aa2df3-8560-4533-b1b6-62a3e92e4e4c",
+      "text": "邮件或介质",
+      "expanded": false,
+      "leaf": false,
+      "children": [
+        {
+          "parentId": "03aa2df3-8560-4533-b1b6-62a3e92e4e4c",
+          "id": "b9ec7628-2deb-4d5e-ac8a-fc68d1b5bcda",
+          "text": "无",
+          "expanded": false,
+          "leaf": true,
+          "extraAttributes": {
+            "code": "WU",
+            "idRel": "dictionaryItems/WU",
+            "value": "WU",
+            "desc": null
+          }
+        }
+      ],
+      "extraAttributes": {
+        "code": "SS_YJHJZ",
+        "idRel": "dictionaryCatalogs/SS_YJHJZ",
+        "value": "SS_YJHJZ",
+        "desc": null
+      }
+    },
+    {
+      "parentId": "root",
+      "id": "9d011009-b747-4c52-8469-37674f8bb64b",
+      "text": "共享方式分类",
+      "expanded": false,
+      "leaf": false,
+      "children": [
+        {
+          "parentId": "9d011009-b747-4c52-8469-37674f8bb64b",
+          "id": "a6219b6e-9233-4570-9f04-7d0a05ae67f3",
+          "text": "共享平台方式",
+          "expanded": false,
+          "leaf": true,
+          "extraAttributes": {
+            "code": "GXPT",
+            "idRel": "dictionaryItems/GXPT",
+            "value": "GXPT",
+            "desc": null
+          }
+        },
+        {
+          "parentId": "9d011009-b747-4c52-8469-37674f8bb64b",
+          "id": "97dfdfca-7154-4f1a-a8af-50fd27793977",
+          "text": "邮件或介质",
+          "expanded": false,
+          "leaf": true,
+          "extraAttributes": {
+            "code": "YJYJZ",
+            "idRel": "dictionaryItems/YJYJZ",
+            "value": "YJYJZ",
+            "desc": null
+          }
+        }
+      ],
+      "extraAttributes": {
+        "code": "SS_GXFSFL",
+        "idRel": "dictionaryCatalogs/SS_GXFSFL",
+        "value": "SS_GXFSFL",
+        "desc": null
+      }
+    },
+    {
+      "parentId": "root",
+      "id": "9e58106c-364e-4329-8023-4ef75f1f1fef",
+      "text": "更新周期",
+      "expanded": false,
+      "leaf": false,
+      "children": [
+        {
+          "parentId": "9e58106c-364e-4329-8023-4ef75f1f1fef",
+          "id": "a935c556-8903-4308-89dd-79cbdee286b0",
+          "text": "实时",
+          "expanded": false,
+          "leaf": true,
+          "extraAttributes": {
+            "code": "REAL",
+            "idRel": "dictionaryItems/REAL",
+            "value": "REAL",
+            "desc": null
+          }
+        },
+        {
+          "parentId": "9e58106c-364e-4329-8023-4ef75f1f1fef",
+          "id": "910b5c53-a671-41c3-913a-870fc1d5480e",
+          "text": "每日",
+          "expanded": false,
+          "leaf": true,
+          "extraAttributes": {
+            "code": "DAY",
+            "idRel": "dictionaryItems/DAY",
+            "value": "DAY",
+            "desc": null
+          }
+        },
+        {
+          "parentId": "9e58106c-364e-4329-8023-4ef75f1f1fef",
+          "id": "e5662782-bc9c-45fc-b85b-c56424483615",
+          "text": "每周",
+          "expanded": false,
+          "leaf": true,
+          "extraAttributes": {
+            "code": "WEEK",
+            "idRel": "dictionaryItems/WEEK",
+            "value": "WEEK",
+            "desc": null
+          }
+        },
+        {
+          "parentId": "9e58106c-364e-4329-8023-4ef75f1f1fef",
+          "id": "f7a22cb1-a4e5-460d-ab75-1596ba5969ad",
+          "text": "每月",
+          "expanded": false,
+          "leaf": true,
+          "extraAttributes": {
+            "code": "MOUTH",
+            "idRel": "dictionaryItems/MOUTH",
+            "value": "MOUTH",
+            "desc": null
+          }
+        },
+        {
+          "parentId": "9e58106c-364e-4329-8023-4ef75f1f1fef",
+          "id": "b8d616ea-0f9b-48cd-b508-626d598bb69e",
+          "text": "每季度",
+          "expanded": false,
+          "leaf": true,
+          "extraAttributes": {
+            "code": "3M",
+            "idRel": "dictionaryItems/3M",
+            "value": "3M",
+            "desc": null
+          }
+        },
+        {
+          "parentId": "9e58106c-364e-4329-8023-4ef75f1f1fef",
+          "id": "31e504b6-af07-4cc6-aee5-f52795117cbe",
+          "text": "每年",
+          "expanded": false,
+          "leaf": true,
+          "extraAttributes": {
+            "code": "YEAR",
+            "idRel": "dictionaryItems/YEAR",
+            "value": "YEAR",
+            "desc": null
+          }
+        }
+      ],
+      "extraAttributes": {
+        "code": "GXZQ",
+        "idRel": "dictionaryCatalogs/GXZQ",
+        "value": "GXZQ",
+        "desc": null
+      }
+    },
+    {
+      "parentId": "root",
+      "id": "2a580f29-217e-4274-99ee-dff874868063",
+      "text": "开放类型",
+      "expanded": false,
+      "leaf": false,
+      "children": [
+        {
+          "parentId": "2a580f29-217e-4274-99ee-dff874868063",
+          "id": "190705f2-c012-4680-9301-81bf8c11a679",
+          "text": "向社会开放",
+          "expanded": false,
+          "leaf": true,
+          "extraAttributes": {
+            "code": "YES",
+            "idRel": "dictionaryItems/YES",
+            "value": "YES",
+            "desc": null
+          }
+        },
+        {
+          "parentId": "2a580f29-217e-4274-99ee-dff874868063",
+          "id": "a452cd63-a597-4734-8049-829bff9b878a",
+          "text": "不向社会开放",
+          "expanded": false,
+          "leaf": true,
+          "extraAttributes": {
+            "code": "NO",
+            "idRel": "dictionaryItems/NO",
+            "value": "NO",
+            "desc": null
+          }
+        }
+      ],
+      "extraAttributes": {
+        "code": "KFLX",
+        "idRel": "dictionaryCatalogs/KFLX",
+        "value": "KFLX",
+        "desc": null
+      }
+    },
+    {
+      "parentId": "root",
+      "id": "059415c4-ffaa-4274-8ca1-27aa34843186",
+      "text": "资源属性分类",
+      "expanded": false,
+      "leaf": false,
+      "children": [
+        {
+          "parentId": "059415c4-ffaa-4274-8ca1-27aa34843186",
+          "id": "f6ca2422-9218-46b0-beb4-aa55c9671178",
+          "text": "基础信息资源",
+          "expanded": false,
+          "leaf": true,
+          "extraAttributes": {
+            "code": "JC",
+            "idRel": "dictionaryItems/JC",
+            "value": "JC",
+            "desc": null
+          }
+        },
+        {
+          "parentId": "059415c4-ffaa-4274-8ca1-27aa34843186",
+          "id": "c65412e0-3750-4ce4-8e14-ed240f97d030",
+          "text": "主题信息资源",
+          "expanded": false,
+          "leaf": true,
+          "extraAttributes": {
+            "code": "ZT",
+            "idRel": "dictionaryItems/ZT",
+            "value": "ZT",
+            "desc": null
+          }
+        },
+        {
+          "parentId": "059415c4-ffaa-4274-8ca1-27aa34843186",
+          "id": "77522c4d-6cc2-4445-989c-331fb6498500",
+          "text": "部门信息资源",
+          "expanded": false,
+          "leaf": true,
+          "extraAttributes": {
+            "code": "BM",
+            "idRel": "dictionaryItems/BM",
+            "value": "BM",
+            "desc": null
+          }
+        }
+      ],
+      "extraAttributes": {
+        "code": "bizType",
+        "idRel": "dictionaryCatalogs/bizType",
+        "value": "bizType",
+        "desc": null
+      }
+    },
+    {
+      "parentId": "root",
+      "id": "beb24e8b-2dda-4acc-a371-5a2ae5c115e6",
+      "text": "涉密类型",
+      "expanded": false,
+      "leaf": false,
+      "children": [
+        {
+          "parentId": "beb24e8b-2dda-4acc-a371-5a2ae5c115e6",
+          "id": "f3f60d77-b5f4-47b7-aca9-3c61a42712c9",
+          "text": "涉密政务信息资源目录",
+          "expanded": false,
+          "leaf": true,
+          "extraAttributes": {
+            "code": "SM",
+            "idRel": "dictionaryItems/SM",
+            "value": "SM",
+            "desc": null
+          }
+        },
+        {
+          "parentId": "beb24e8b-2dda-4acc-a371-5a2ae5c115e6",
+          "id": "fb38ebd2-8c61-407c-99b2-57ec24fe733a",
+          "text": "非涉密政务信息资源目录",
+          "expanded": false,
+          "leaf": true,
+          "extraAttributes": {
+            "code": "FSM",
+            "idRel": "dictionaryItems/FSM",
+            "value": "FSM",
+            "desc": null
+          }
+        }
+      ],
+      "extraAttributes": {
+        "code": "SMLX",
+        "idRel": "dictionaryCatalogs/SMLX",
+        "value": "SMLX",
+        "desc": null
+      }
+    },
+    {
+      "parentId": "root",
+      "id": "d3347993-56b7-429d-a7b1-8606d9bee190",
+      "text": "服务类型",
+      "expanded": false,
+      "leaf": false,
+      "children": [
+        {
+          "parentId": "d3347993-56b7-429d-a7b1-8606d9bee190",
+          "id": "af155e97-fb6e-475c-942a-c3e58c7def03",
+          "text": "REST",
+          "expanded": false,
+          "leaf": true,
+          "extraAttributes": {
+            "code": "REST",
+            "idRel": "dictionaryItems/REST",
+            "value": "REST",
+            "desc": null
+          }
+        },
+        {
+          "parentId": "d3347993-56b7-429d-a7b1-8606d9bee190",
+          "id": "94a9f5e7-19cb-46fd-8b7f-50131a9c3289",
+          "text": "WS",
+          "expanded": false,
+          "leaf": true,
+          "extraAttributes": {
+            "code": "WS",
+            "idRel": "dictionaryItems/WS",
+            "value": "WS",
+            "desc": null
+          }
+        }
+      ],
+      "extraAttributes": {
+        "code": "serviceType",
+        "idRel": "dictionaryCatalogs/serviceType",
+        "value": "serviceType",
+        "desc": null
+      }
+    },
+    {
+      "parentId": "root",
+      "id": "57f8419b-a513-4a15-9718-455ef781bbf6",
+      "text": "电子文件",
+      "expanded": false,
+      "leaf": false,
+      "children": [
+        {
+          "parentId": "57f8419b-a513-4a15-9718-455ef781bbf6",
+          "id": "4d1f18ca-28ad-422c-8bdd-705b3a086fad",
+          "text": "doc",
+          "expanded": false,
+          "leaf": true,
+          "extraAttributes": {
+            "code": "DOC",
+            "idRel": "dictionaryItems/DOC",
+            "value": "DOC",
+            "desc": null
+          }
+        },
+        {
+          "parentId": "57f8419b-a513-4a15-9718-455ef781bbf6",
+          "id": "89318c13-c371-4de0-a23c-cb4cbb62c160",
+          "text": "docx",
+          "expanded": false,
+          "leaf": true,
+          "extraAttributes": {
+            "code": "DOCX",
+            "idRel": "dictionaryItems/DOCX",
+            "value": "DOCX",
+            "desc": null
+          }
+        },
+        {
+          "parentId": "57f8419b-a513-4a15-9718-455ef781bbf6",
+          "id": "7b441c9b-ab83-47d9-ba82-2f8c9b7c3191",
+          "text": "html",
+          "expanded": false,
+          "leaf": true,
+          "extraAttributes": {
+            "code": "HTML",
+            "idRel": "dictionaryItems/HTML",
+            "value": "HTML",
+            "desc": null
+          }
+        },
+        {
+          "parentId": "57f8419b-a513-4a15-9718-455ef781bbf6",
+          "id": "30142805-6178-4072-96ac-3d38e59f0c8a",
+          "text": "OFD",
+          "expanded": false,
+          "leaf": true,
+          "extraAttributes": {
+            "code": "OFD",
+            "idRel": "dictionaryItems/OFD",
+            "value": "OFD",
+            "desc": null
+          }
+        },
+        {
+          "parentId": "57f8419b-a513-4a15-9718-455ef781bbf6",
+          "id": "fe90716b-789f-4b6b-8a4c-fef2d17b12f4",
+          "text": "pdf",
+          "expanded": false,
+          "leaf": true,
+          "extraAttributes": {
+            "code": "PDF",
+            "idRel": "dictionaryItems/PDF",
+            "value": "PDF",
+            "desc": null
+          }
+        },
+        {
+          "parentId": "57f8419b-a513-4a15-9718-455ef781bbf6",
+          "id": "32f42208-6b66-403f-8d5f-5835d4a979a1",
+          "text": "ppt",
+          "expanded": false,
+          "leaf": true,
+          "extraAttributes": {
+            "code": "PPT",
+            "idRel": "dictionaryItems/PPT",
+            "value": "PPT",
+            "desc": null
+          }
+        },
+        {
+          "parentId": "57f8419b-a513-4a15-9718-455ef781bbf6",
+          "id": "75df49a0-e1b3-47bc-b755-310608f719fd",
+          "text": "txt",
+          "expanded": false,
+          "leaf": true,
+          "extraAttributes": {
+            "code": "TXT",
+            "idRel": "dictionaryItems/TXT",
+            "value": "TXT",
+            "desc": null
+          }
+        },
+        {
+          "parentId": "57f8419b-a513-4a15-9718-455ef781bbf6",
+          "id": "ae29ef66-bf3f-44c9-95fe-a9ae45c3f207",
+          "text": "wps",
+          "expanded": false,
+          "leaf": true,
+          "extraAttributes": {
+            "code": "WPS",
+            "idRel": "dictionaryItems/WPS",
+            "value": "WPS",
+            "desc": null
+          }
+        },
+        {
+          "parentId": "57f8419b-a513-4a15-9718-455ef781bbf6",
+          "id": "d0547ba0-6402-4a62-90de-d42e63973fe5",
+          "text": "xml",
+          "expanded": false,
+          "leaf": true,
+          "extraAttributes": {
+            "code": "XML",
+            "idRel": "dictionaryItems/XML",
+            "value": "XML",
+            "desc": null
+          }
+        },
+        {
+          "parentId": "57f8419b-a513-4a15-9718-455ef781bbf6",
+          "id": "dcab79bb-944d-402a-8d81-5426f99c3b22",
+          "text": "其他",
+          "expanded": false,
+          "leaf": true,
+          "extraAttributes": {
+            "code": "QT",
+            "idRel": "dictionaryItems/QT",
+            "value": "QT",
+            "desc": null
+          }
+        }
+      ],
+      "extraAttributes": {
+        "code": "SS_DZWJ",
+        "idRel": "dictionaryCatalogs/SS_DZWJ",
+        "value": "SS_DZWJ",
+        "desc": null
+      }
+    },
+    {
+      "parentId": "root",
+      "id": "984ab361-e600-41c9-bae6-8f6b589fa7ed",
+      "text": "电子表格",
+      "expanded": false,
+      "leaf": false,
+      "children": [
+        {
+          "parentId": "984ab361-e600-41c9-bae6-8f6b589fa7ed",
+          "id": "b367e255-abe6-4aba-b442-a3c38d95cdd8",
+          "text": "et",
+          "expanded": false,
+          "leaf": true,
+          "extraAttributes": {
+            "code": "ET",
+            "idRel": "dictionaryItems/ET",
+            "value": "ET",
+            "desc": null
+          }
+        },
+        {
+          "parentId": "984ab361-e600-41c9-bae6-8f6b589fa7ed",
+          "id": "82c688bc-ba05-4cbf-9403-6f85eb6d1f23",
+          "text": "xls",
+          "expanded": false,
+          "leaf": true,
+          "extraAttributes": {
+            "code": "XLS",
+            "idRel": "dictionaryItems/XLS",
+            "value": "XLS",
+            "desc": null
+          }
+        },
+        {
+          "parentId": "984ab361-e600-41c9-bae6-8f6b589fa7ed",
+          "id": "bc1bab46-617d-4013-adc2-a743a2fa2e98",
+          "text": "xlsx",
+          "expanded": false,
+          "leaf": true,
+          "extraAttributes": {
+            "code": "XLSX",
+            "idRel": "dictionaryItems/XLSX",
+            "value": "XLSX",
+            "desc": null
+          }
+        },
+        {
+          "parentId": "984ab361-e600-41c9-bae6-8f6b589fa7ed",
+          "id": "ae52fad8-869e-4928-afd0-23c3a8eb44c6",
+          "text": "其他",
+          "expanded": false,
+          "leaf": true,
+          "extraAttributes": {
+            "code": "QT",
+            "idRel": "dictionaryItems/QT",
+            "value": "QT",
+            "desc": null
+          }
+        }
+      ],
+      "extraAttributes": {
+        "code": "SS_DZBG",
+        "idRel": "dictionaryCatalogs/SS_DZBG",
+        "value": "SS_DZBG",
+        "desc": null
+      }
+    },
+    {
+      "parentId": "root",
+      "id": "9193a19d-2558-4c60-90f1-06ecd243f7d7",
+      "text": "图形图像",
+      "expanded": false,
+      "leaf": false,
+      "children": [
+        {
+          "parentId": "9193a19d-2558-4c60-90f1-06ecd243f7d7",
+          "id": "62d7dee0-2aea-4ae9-a6f3-f3ff20591194",
+          "text": "bmp",
+          "expanded": false,
+          "leaf": true,
+          "extraAttributes": {
+            "code": "BMP",
+            "idRel": "dictionaryItems/BMP",
+            "value": "BMP",
+            "desc": null
+          }
+        },
+        {
+          "parentId": "9193a19d-2558-4c60-90f1-06ecd243f7d7",
+          "id": "81902441-03ef-49c4-96c1-bb136c5dc3f5",
+          "text": "gif",
+          "expanded": false,
+          "leaf": true,
+          "extraAttributes": {
+            "code": "GIF",
+            "idRel": "dictionaryItems/GIF",
+            "value": "GIF",
+            "desc": null
+          }
+        },
+        {
+          "parentId": "9193a19d-2558-4c60-90f1-06ecd243f7d7",
+          "id": "38781ca3-7ef1-4ab6-9c7a-aa3ec1e33137",
+          "text": "jpg",
+          "expanded": false,
+          "leaf": true,
+          "extraAttributes": {
+            "code": "JPG",
+            "idRel": "dictionaryItems/JPG",
+            "value": "JPG",
+            "desc": null
+          }
+        },
+        {
+          "parentId": "9193a19d-2558-4c60-90f1-06ecd243f7d7",
+          "id": "0570b7d4-f307-4dfe-8a2d-c64abdbb0974",
+          "text": "其他",
+          "expanded": false,
+          "leaf": true,
+          "extraAttributes": {
+            "code": "QT",
+            "idRel": "dictionaryItems/QT",
+            "value": "QT",
+            "desc": null
+          }
+        }
+      ],
+      "extraAttributes": {
+        "code": "SS_TXTX",
+        "idRel": "dictionaryCatalogs/SS_TXTX",
+        "value": "SS_TXTX",
+        "desc": null
+      }
+    },
+    {
+      "parentId": "root",
+      "id": "78b53a90-3b69-467d-9b6d-2939d0fecb14",
+      "text": "流媒体",
+      "expanded": false,
+      "leaf": false,
+      "children": [
+        {
+          "parentId": "78b53a90-3b69-467d-9b6d-2939d0fecb14",
+          "id": "be56ecb6-5b0c-4cf0-9b42-69ed33cccbc2",
+          "text": "mpg",
+          "expanded": false,
+          "leaf": true,
+          "extraAttributes": {
+            "code": "MPG",
+            "idRel": "dictionaryItems/MPG",
+            "value": "MPG",
+            "desc": null
+          }
+        },
+        {
+          "parentId": "78b53a90-3b69-467d-9b6d-2939d0fecb14",
+          "id": "f95eb966-2283-47f1-9612-938dc4e44c75",
+          "text": "rm",
+          "expanded": false,
+          "leaf": true,
+          "extraAttributes": {
+            "code": "RM",
+            "idRel": "dictionaryItems/RM",
+            "value": "RM",
+            "desc": null
+          }
+        },
+        {
+          "parentId": "78b53a90-3b69-467d-9b6d-2939d0fecb14",
+          "id": "b1f13d76-cbe5-4a49-9f65-c8116f45998d",
+          "text": "swf",
+          "expanded": false,
+          "leaf": true,
+          "extraAttributes": {
+            "code": "SWF",
+            "idRel": "dictionaryItems/SWF",
+            "value": "SWF",
+            "desc": null
+          }
+        },
+        {
+          "parentId": "78b53a90-3b69-467d-9b6d-2939d0fecb14",
+          "id": "967072e6-1271-4be5-9051-ffab9b1f8673",
+          "text": "其他",
+          "expanded": false,
+          "leaf": true,
+          "extraAttributes": {
+            "code": "QT",
+            "idRel": "dictionaryItems/QT",
+            "value": "QT",
+            "desc": null
+          }
+        }
+      ],
+      "extraAttributes": {
+        "code": "SS_LMT",
+        "idRel": "dictionaryCatalogs/SS_LMT",
+        "value": "SS_LMT",
+        "desc": null
+      }
+    },
+    {
+      "parentId": "root",
+      "id": "28631b7f-02e7-42bb-a68d-b074080f962f",
+      "text": "自描述格式",
+      "expanded": false,
+      "leaf": false,
+      "children": [
+        {
+          "parentId": "28631b7f-02e7-42bb-a68d-b074080f962f",
+          "id": "21210b86-86c7-4b38-b69b-264499a2571a",
+          "text": "表格驱动码",
+          "expanded": false,
+          "leaf": true,
+          "extraAttributes": {
+            "code": "BGQDM",
+            "idRel": "dictionaryItems/BGQDM",
+            "value": "BGQDM",
+            "desc": null
+          }
+        },
+        {
+          "parentId": "28631b7f-02e7-42bb-a68d-b074080f962f",
+          "id": "b1caafd6-77d2-418b-b170-6090f943854b",
+          "text": "其他",
+          "expanded": false,
+          "leaf": true,
+          "extraAttributes": {
+            "code": "QT",
+            "idRel": "dictionaryItems/QT",
+            "value": "QT",
+            "desc": null
+          }
+        }
+      ],
+      "extraAttributes": {
+        "code": "SS_MSGS",
+        "idRel": "dictionaryCatalogs/SS_MSGS",
+        "value": "SS_MSGS",
+        "desc": null
+      }
+    },
+    {
+      "parentId": "root",
+      "id": "a25dde33-0a89-4a15-a0c3-a8cf95bacc63",
+      "text": "信息资源格式分类",
+      "expanded": false,
+      "leaf": false,
+      "children": [
+        {
+          "parentId": "a25dde33-0a89-4a15-a0c3-a8cf95bacc63",
+          "id": "26a6324c-e85a-4b15-93c9-47511c1958ec",
+          "text": "电子文件",
+          "expanded": false,
+          "leaf": true,
+          "extraAttributes": {
+            "code": "DZBG",
+            "idRel": "dictionaryItems/DZBG",
+            "value": "DZBG",
+            "desc": null
+          }
+        },
+        {
+          "parentId": "a25dde33-0a89-4a15-a0c3-a8cf95bacc63",
+          "id": "e42951de-2942-42dd-9a71-3c5df78df37f",
+          "text": "电子表格",
+          "expanded": false,
+          "leaf": true,
+          "extraAttributes": {
+            "code": "DZBG",
+            "idRel": "dictionaryItems/DZBG",
+            "value": "DZBG",
+            "desc": null
+          }
+        },
+        {
+          "parentId": "a25dde33-0a89-4a15-a0c3-a8cf95bacc63",
+          "id": "fc6d103e-de7c-4ef1-8835-e3f7e33129bd",
+          "text": "图形图像",
+          "expanded": false,
+          "leaf": true,
+          "extraAttributes": {
+            "code": "TXTX",
+            "idRel": "dictionaryItems/TXTX",
+            "value": "TXTX",
+            "desc": null
+          }
+        },
+        {
+          "parentId": "a25dde33-0a89-4a15-a0c3-a8cf95bacc63",
+          "id": "41e67e39-8c13-4969-9474-5917abb6f481",
+          "text": "流媒体",
+          "expanded": false,
+          "leaf": true,
+          "extraAttributes": {
+            "code": "LMT",
+            "idRel": "dictionaryItems/LMT",
+            "value": "LMT",
+            "desc": null
+          }
+        },
+        {
+          "parentId": "a25dde33-0a89-4a15-a0c3-a8cf95bacc63",
+          "id": "624f0eae-8c0e-47cc-acad-5d283ece4ed2",
+          "text": "自描述格式",
+          "expanded": false,
+          "leaf": true,
+          "extraAttributes": {
+            "code": "MSGS",
+            "idRel": "dictionaryItems/MSGS",
+            "value": "MSGS",
+            "desc": null
+          }
+        }
+      ],
+      "extraAttributes": {
+        "code": "SS_ZYGSFL",
+        "idRel": "dictionaryCatalogs/SS_ZYGSFL",
+        "value": "SS_ZYGSFL",
+        "desc": null
+      }
+    }
+  ]
+}

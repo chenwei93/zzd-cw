@@ -1,0 +1,80 @@
+{
+  "id": "root",
+  "text": "根节点",
+  "expanded": true,
+  "leaf": false,
+  "children": [
+    {
+      "id": "zwyzc",
+      "text": "政务云资产",
+      "expanded": false,
+      "leaf": true,
+      "extraAttributes": {
+        "code": "zwyzc",
+        "idRel": "dictionaryItems/zwyzc",
+        "value": "zwyzc",
+        "desc": "政务云资产"
+      }
+    },
+    {
+      "id": "rjfwzc",
+      "text": "软件服务资产",
+      "expanded": false,
+      "leaf": true,
+      "extraAttributes": {
+        "code": "rjfwzc",
+        "idRel": "dictionaryItems/rjfwzc",
+        "value": "zwyzc",
+        "desc": "软件服务资产"
+      }
+    },
+    {
+      "id": "sjzc",
+      "text": "数据资产",
+      "expanded": false,
+      "leaf": true,
+      "extraAttributes": {
+        "code": "sjzc",
+        "idRel": "dictionaryItems/sjzc",
+        "value": "sjzc",
+        "desc": "数据资产"
+      }
+    },
+    {
+      "id": "jkzc",
+      "text": "接口资产",
+      "expanded": false,
+      "leaf": true,
+      "extraAttributes": {
+        "code": "jkzc",
+        "idRel": "dictionaryItems/jkzc",
+        "value": "jkzc",
+        "desc": "接口资产"
+      }
+    },
+    {
+      "id": "sbzc",
+      "text": "设备资产",
+      "expanded": false,
+      "leaf": true,
+      "extraAttributes": {
+        "code": "sbzc",
+        "idRel": "dictionaryItems/sbzc",
+        "value": "sbzc",
+        "desc": "设备资产"
+      }
+    },
+    {
+      "id": "jcsjzc",
+      "text": "基础数据资产",
+      "expanded": false,
+      "leaf": true,
+      "extraAttributes": {
+        "code": "jcsjzc",
+        "idRel": "dictionaryItems/jcsjzc",
+        "value": "jcsjzc",
+        "desc": "基础数据资产"
+      }
+    }
+  ]
+}

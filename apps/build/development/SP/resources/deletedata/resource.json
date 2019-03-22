@@ -1,0 +1,3654 @@
+{
+  "content": [
+    {
+      "id": "64d5fd2b-c8f5-444c-bd7c-37aac36873f8",
+      "entityStatus": "Default",
+      "type": "Dataset",
+      "format": "Db",
+      "resId": "2110019000201806020000",
+      "entityKey": "HNCS:TJSX:CLXXB_COPY",
+      "title": "车辆登记信息(演示)",
+      "summary": null,
+      "version": {
+        "prefix": "Resource",
+        "major": 1,
+        "minor": 0,
+        "micro": 0,
+        "tag": null,
+        "createTime": "2018-06-02T01:53:58.460+0000",
+        "author": null
+      },
+      "generateTime": null,
+      "lastUpdateTime": "2018-06-02T01:53:58.906+0000",
+      "creator": null,
+      "description": {
+        "createTime": null,
+        "updateTime": null,
+        "name": "CLXXB_copy",
+        "size": 16384,
+        "total": 0
+      },
+      "locator": {
+        "poolCode": "HNCS",
+        "path": "tjsx",
+        "name": "CLXXB_copy"
+      },
+      "metadata": {
+        "fields": {
+          "_class": "dcsp.fl.common.Fields",
+          "items": [
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "ID",
+              "title": "id",
+              "alias": "id",
+              "dataType": "Numeric",
+              "dataLength": 11,
+              "notNull": true,
+              "require": false
+            },
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "NAME",
+              "title": "车主姓名",
+              "dataType": "Text",
+              "dataLength": 255,
+              "notNull": false,
+              "require": false
+            },
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "SFZH",
+              "title": "身份证号",
+              "dataType": "Text",
+              "dataLength": 255,
+              "notNull": false,
+              "require": false
+            },
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "CPH",
+              "title": "车牌号",
+              "dataType": "Text",
+              "dataLength": 255,
+              "notNull": false,
+              "require": false
+            },
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "CLPP",
+              "title": "车辆品牌",
+              "dataType": "Text",
+              "dataLength": 255,
+              "notNull": false,
+              "require": false
+            },
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "YS",
+              "title": "颜色",
+              "dataType": "Text",
+              "dataLength": 255,
+              "notNull": false,
+              "require": false
+            },
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "DJRQ",
+              "title": "登记日期",
+              "dataType": "Date",
+              "dataLength": 0,
+              "notNull": false,
+              "require": false
+            },
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "GMRQ",
+              "title": "购买日期",
+              "dataType": "Date",
+              "dataLength": 0,
+              "notNull": false,
+              "require": false
+            }
+          ]
+        },
+        "createTime": "2018-06-02T01:53:58.460+0000",
+        "updateTime": "2018-06-02T01:53:58.460+0000",
+        "digest": "ubGywhvGKrV7hu6++3Cs5A==",
+        "empty": false
+      },
+      "changeTypes": [
+        "Created"
+      ],
+      "tags": null,
+      "extraAttributes": null,
+      "idRel": "resources/64d5fd2b-c8f5-444c-bd7c-37aac36873f8"
+    },
+    {
+      "id": "c153ba2e-16b9-40e4-ad27-1bfcf6e2a223",
+      "entityStatus": "Default",
+      "type": "Dataset",
+      "format": "Db",
+      "resId": "2110019000201806020001",
+      "entityKey": "HNCS:TJSX:GAJCLDJX",
+      "title": "公安局车辆登记信息",
+      "summary": null,
+      "version": {
+        "prefix": "Resource",
+        "major": 1,
+        "minor": 0,
+        "micro": 0,
+        "tag": null,
+        "createTime": "2018-06-02T01:53:58.947+0000",
+        "author": null
+      },
+      "generateTime": null,
+      "lastUpdateTime": "2018-06-02T01:53:58.967+0000",
+      "creator": null,
+      "description": {
+        "createTime": null,
+        "updateTime": null,
+        "name": "gajcldjx",
+        "size": 16384,
+        "total": 4
+      },
+      "locator": {
+        "poolCode": "HNCS",
+        "path": "tjsx",
+        "name": "gajcldjx"
+      },
+      "metadata": {
+        "fields": {
+          "_class": "dcsp.fl.common.Fields",
+          "items": [
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "id",
+              "title": "_id",
+              "alias": "id",
+              "dataType": "Numeric",
+              "dataLength": 20,
+              "notNull": true,
+              "require": false
+            },
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "cph",
+              "title": "车牌号",
+              "dataType": "Text",
+              "dataLength": 255,
+              "notNull": false,
+              "require": false
+            },
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "spqydm",
+              "title": "上牌区域代码",
+              "dataType": "Text",
+              "dataLength": 255,
+              "notNull": false,
+              "require": false
+            },
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "cllx",
+              "title": "车辆类型",
+              "dataType": "Text",
+              "dataLength": 255,
+              "notNull": false,
+              "require": false
+            },
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "hzrs",
+              "title": "荷载人数",
+              "dataType": "Numeric",
+              "dataLength": 20,
+              "notNull": false,
+              "require": false
+            },
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "cjh",
+              "title": "车架号",
+              "dataType": "Text",
+              "dataLength": 255,
+              "notNull": false,
+              "require": false
+            },
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "fdjh",
+              "title": "发动机号",
+              "dataType": "Text",
+              "dataLength": 255,
+              "notNull": false,
+              "require": false
+            },
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "ys",
+              "title": "颜色",
+              "dataType": "Text",
+              "dataLength": 255,
+              "notNull": false,
+              "require": false
+            },
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "pp",
+              "title": "品牌",
+              "dataType": "Text",
+              "dataLength": 255,
+              "notNull": false,
+              "require": false
+            },
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "sprq",
+              "title": "上牌日期",
+              "dataType": "Date",
+              "dataLength": 0,
+              "notNull": false,
+              "require": false
+            },
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "czxm",
+              "title": "车主姓名",
+              "dataType": "Text",
+              "dataLength": 255,
+              "notNull": false,
+              "require": false
+            },
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "czsfzhm",
+              "title": "车主身份证号码",
+              "dataType": "Text",
+              "dataLength": 255,
+              "notNull": false,
+              "require": false
+            }
+          ]
+        },
+        "createTime": "2018-06-02T01:53:58.947+0000",
+        "updateTime": "2018-06-02T01:53:58.947+0000",
+        "digest": "cVdbjpzGDMSa4QosyBML6Q==",
+        "empty": false
+      },
+      "changeTypes": [
+        "Created"
+      ],
+      "tags": null,
+      "extraAttributes": null,
+      "idRel": "resources/c153ba2e-16b9-40e4-ad27-1bfcf6e2a223"
+    },
+    {
+      "id": "978a17f8-65d3-4795-94b1-c32cf18b70c3",
+      "entityStatus": "Default",
+      "type": "Dataset",
+      "format": "Db",
+      "resId": "2110019000201806020002",
+      "entityKey": "HNCS:TJSX:CLXXB_OK",
+      "title": "车辆登记信息(演示)",
+      "summary": null,
+      "version": {
+        "prefix": "Resource",
+        "major": 1,
+        "minor": 0,
+        "micro": 0,
+        "tag": null,
+        "createTime": "2018-06-02T01:53:58.988+0000",
+        "author": null
+      },
+      "generateTime": null,
+      "lastUpdateTime": "2018-06-02T01:53:59.000+0000",
+      "creator": null,
+      "description": {
+        "createTime": null,
+        "updateTime": null,
+        "name": "CLXXB_OK",
+        "size": 16384,
+        "total": 10
+      },
+      "locator": {
+        "poolCode": "HNCS",
+        "path": "tjsx",
+        "name": "CLXXB_OK"
+      },
+      "metadata": {
+        "fields": {
+          "_class": "dcsp.fl.common.Fields",
+          "items": [
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "ID",
+              "title": "id",
+              "alias": "id",
+              "dataType": "Numeric",
+              "dataLength": 11,
+              "notNull": true,
+              "require": false
+            },
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "NAME",
+              "title": "车主姓名",
+              "dataType": "Text",
+              "dataLength": 255,
+              "notNull": false,
+              "require": false
+            },
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "SFZH",
+              "title": "身份证号",
+              "dataType": "Text",
+              "dataLength": 255,
+              "notNull": false,
+              "require": false
+            },
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "CPH",
+              "title": "车牌号",
+              "dataType": "Text",
+              "dataLength": 255,
+              "notNull": false,
+              "require": false
+            },
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "CLPP",
+              "title": "车辆品牌",
+              "dataType": "Text",
+              "dataLength": 255,
+              "notNull": false,
+              "require": false
+            },
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "YS",
+              "title": "颜色",
+              "dataType": "Text",
+              "dataLength": 255,
+              "notNull": false,
+              "require": false
+            },
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "DJRQ",
+              "title": "登记日期",
+              "dataType": "Date",
+              "dataLength": 0,
+              "notNull": false,
+              "require": false
+            },
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "GMRQ",
+              "title": "购买日期",
+              "dataType": "Date",
+              "dataLength": 0,
+              "notNull": false,
+              "require": false
+            }
+          ]
+        },
+        "createTime": "2018-06-02T01:53:58.988+0000",
+        "updateTime": "2018-06-02T01:53:58.988+0000",
+        "digest": "ubGywhvGKrV7hu6++3Cs5A==",
+        "empty": false
+      },
+      "changeTypes": [
+        "Created"
+      ],
+      "tags": null,
+      "extraAttributes": null,
+      "idRel": "resources/978a17f8-65d3-4795-94b1-c32cf18b70c3"
+    },
+    {
+      "id": "8a1ff669-f27f-4fa3-9e73-35a50ced0057",
+      "entityStatus": "Default",
+      "type": "Dataset",
+      "format": "Db",
+      "resId": "2110019000201806020003",
+      "entityKey": "HNCS:TJSX:JMXXB",
+      "title": "居民登记信息(演示)",
+      "summary": null,
+      "version": {
+        "prefix": "Resource",
+        "major": 1,
+        "minor": 0,
+        "micro": 0,
+        "tag": null,
+        "createTime": "2018-06-02T01:53:59.007+0000",
+        "author": null
+      },
+      "generateTime": null,
+      "lastUpdateTime": "2018-06-02T01:53:59.019+0000",
+      "creator": null,
+      "description": {
+        "createTime": null,
+        "updateTime": null,
+        "name": "JMXXB",
+        "size": 16384,
+        "total": 5
+      },
+      "locator": {
+        "poolCode": "HNCS",
+        "path": "tjsx",
+        "name": "JMXXB"
+      },
+      "metadata": {
+        "fields": {
+          "_class": "dcsp.fl.common.Fields",
+          "items": [
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "ID",
+              "title": "id",
+              "alias": "id",
+              "dataType": "Numeric",
+              "dataLength": 11,
+              "notNull": true,
+              "require": false
+            },
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "NAME",
+              "title": "姓名",
+              "dataType": "Text",
+              "dataLength": 255,
+              "notNull": false,
+              "require": false
+            },
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "SEX",
+              "title": "性别",
+              "dataType": "Text",
+              "dataLength": 255,
+              "notNull": false,
+              "require": false
+            },
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "SFZH",
+              "title": "身份证号",
+              "dataType": "Text",
+              "dataLength": 255,
+              "notNull": false,
+              "require": false
+            },
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "LXSJ",
+              "title": "联系手机",
+              "dataType": "Text",
+              "dataLength": 255,
+              "notNull": false,
+              "require": false
+            },
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "AGE",
+              "title": "年龄",
+              "dataType": "Numeric",
+              "dataLength": 11,
+              "notNull": false,
+              "require": false
+            },
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "DZ",
+              "title": "住址",
+              "dataType": "Text",
+              "dataLength": 255,
+              "notNull": false,
+              "require": false
+            }
+          ]
+        },
+        "createTime": "2018-06-02T01:53:59.007+0000",
+        "updateTime": "2018-06-02T01:53:59.007+0000",
+        "digest": "dIiCuBOGBEhDhvxems/bFQ==",
+        "empty": false
+      },
+      "changeTypes": [
+        "Created"
+      ],
+      "tags": null,
+      "extraAttributes": null,
+      "idRel": "resources/8a1ff669-f27f-4fa3-9e73-35a50ced0057"
+    },
+    {
+      "id": "cc6c691b-deed-445b-b1e9-265690fbc173",
+      "entityStatus": "Default",
+      "type": "Dataset",
+      "format": "Db",
+      "resId": "2110019000201806020004",
+      "entityKey": "HNCS:TJSX:GOV_ATTACHMENT",
+      "title": "政务服务事项申请材料信息",
+      "summary": null,
+      "version": {
+        "prefix": "Resource",
+        "major": 1,
+        "minor": 0,
+        "micro": 0,
+        "tag": null,
+        "createTime": "2018-06-02T01:53:59.023+0000",
+        "author": null
+      },
+      "generateTime": null,
+      "lastUpdateTime": "2018-06-02T01:53:59.031+0000",
+      "creator": null,
+      "description": {
+        "createTime": null,
+        "updateTime": null,
+        "name": "GOV_ATTACHMENT",
+        "size": 311296,
+        "total": 1552
+      },
+      "locator": {
+        "poolCode": "HNCS",
+        "path": "tjsx",
+        "name": "GOV_ATTACHMENT"
+      },
+      "metadata": {
+        "fields": {
+          "_class": "dcsp.fl.common.Fields",
+          "items": [
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "ID",
+              "title": "主键",
+              "dataType": "Numeric",
+              "dataLength": 0,
+              "notNull": true,
+              "require": false
+            },
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "POWER_ITEM",
+              "title": "事项id",
+              "dataType": "Numeric",
+              "dataLength": 0,
+              "notNull": false,
+              "require": false
+            },
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "ATTACH_NAME",
+              "title": "材料名称",
+              "dataType": "Text",
+              "dataLength": 200,
+              "notNull": false,
+              "require": false
+            },
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "ATTACH_CODE",
+              "title": "材料编码",
+              "dataType": "Text",
+              "dataLength": 60,
+              "notNull": false,
+              "require": false
+            },
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "ATTACH_TYPE",
+              "title": "材料类别",
+              "dataType": "Text",
+              "dataLength": 50,
+              "notNull": false,
+              "require": false
+            },
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "QUANTITY",
+              "title": "收取份数",
+              "dataType": "Numeric",
+              "dataLength": 0,
+              "notNull": false,
+              "require": false
+            },
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "ISMUST",
+              "title": "是否必须",
+              "dataType": "Text",
+              "dataLength": 1,
+              "notNull": false,
+              "require": false
+            },
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "REMARK",
+              "title": "收件说明",
+              "dataType": "Text",
+              "dataLength": 500,
+              "notNull": false,
+              "require": false
+            },
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "CREATETIME",
+              "title": "创建时间",
+              "dataType": "Date",
+              "dataLength": 0,
+              "notNull": false,
+              "require": false
+            },
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "ISBACK",
+              "title": "是否退件",
+              "dataType": "Text",
+              "dataLength": 1,
+              "notNull": false,
+              "require": false
+            },
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "ATTACH_MATERIAL",
+              "title": "材料材质",
+              "dataType": "Text",
+              "dataLength": 100,
+              "notNull": false,
+              "require": false
+            },
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "ATTACH_CATEGORY",
+              "title": "材料种类",
+              "dataType": "Text",
+              "dataLength": 50,
+              "notNull": false,
+              "require": false
+            },
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "NODECODE",
+              "title": "使用环节",
+              "dataType": "Text",
+              "dataLength": 50,
+              "notNull": false,
+              "require": false
+            },
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "USEDEPARTMENT",
+              "title": "流转部门",
+              "dataType": "Text",
+              "dataLength": 500,
+              "notNull": false,
+              "require": false
+            },
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "USEDEPARTMENTIDS",
+              "title": "流转部门IDS",
+              "dataType": "Text",
+              "dataLength": 500,
+              "notNull": false,
+              "require": false
+            },
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "ATTACH_ORDER",
+              "title": "材料序号",
+              "dataType": "Numeric",
+              "dataLength": 0,
+              "notNull": false,
+              "require": false
+            }
+          ]
+        },
+        "createTime": "2018-06-02T01:53:59.023+0000",
+        "updateTime": "2018-06-02T01:53:59.023+0000",
+        "digest": "Sa03uzQrjGUj5G0LZAa+iA==",
+        "empty": false
+      },
+      "changeTypes": [
+        "Created"
+      ],
+      "tags": null,
+      "extraAttributes": null,
+      "idRel": "resources/cc6c691b-deed-445b-b1e9-265690fbc173"
+    },
+    {
+      "id": "d05ef14a-254d-4589-be89-ca24f975afa8",
+      "entityStatus": "Default",
+      "type": "Dataset",
+      "format": "Db",
+      "resId": "2110019000201806020005",
+      "entityKey": "HNCS:TJSX:CLXXB",
+      "title": "车辆登记信息(演示)",
+      "summary": null,
+      "version": {
+        "prefix": "Resource",
+        "major": 1,
+        "minor": 0,
+        "micro": 0,
+        "tag": null,
+        "createTime": "2018-06-02T01:53:59.039+0000",
+        "author": null
+      },
+      "generateTime": null,
+      "lastUpdateTime": "2018-06-02T01:53:59.049+0000",
+      "creator": null,
+      "description": {
+        "createTime": null,
+        "updateTime": null,
+        "name": "CLXXB",
+        "size": 16384,
+        "total": 10
+      },
+      "locator": {
+        "poolCode": "HNCS",
+        "path": "tjsx",
+        "name": "CLXXB"
+      },
+      "metadata": {
+        "fields": {
+          "_class": "dcsp.fl.common.Fields",
+          "items": [
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "ID",
+              "title": "id",
+              "alias": "id",
+              "dataType": "Numeric",
+              "dataLength": 11,
+              "notNull": true,
+              "require": false
+            },
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "NAME",
+              "title": "车主姓名",
+              "dataType": "Text",
+              "dataLength": 255,
+              "notNull": false,
+              "require": false
+            },
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "SFZH",
+              "title": "身份证号",
+              "dataType": "Text",
+              "dataLength": 255,
+              "notNull": false,
+              "require": false
+            },
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "CPH",
+              "title": "车牌号",
+              "dataType": "Text",
+              "dataLength": 255,
+              "notNull": false,
+              "require": false
+            },
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "CLPP",
+              "title": "车辆品牌",
+              "dataType": "Text",
+              "dataLength": 255,
+              "notNull": false,
+              "require": false
+            },
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "YS",
+              "title": "颜色",
+              "dataType": "Text",
+              "dataLength": 255,
+              "notNull": false,
+              "require": false
+            },
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "DJRQ",
+              "title": "登记日期",
+              "dataType": "Date",
+              "dataLength": 0,
+              "notNull": false,
+              "require": false
+            },
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "GMRQ",
+              "title": "购买日期",
+              "dataType": "Date",
+              "dataLength": 0,
+              "notNull": false,
+              "require": false
+            }
+          ]
+        },
+        "createTime": "2018-06-02T01:53:59.039+0000",
+        "updateTime": "2018-06-02T01:53:59.039+0000",
+        "digest": "ubGywhvGKrV7hu6++3Cs5A==",
+        "empty": false
+      },
+      "changeTypes": [
+        "Created"
+      ],
+      "tags": null,
+      "extraAttributes": null,
+      "idRel": "resources/d05ef14a-254d-4589-be89-ca24f975afa8"
+    },
+    {
+      "id": "c21ef42c-0f57-42d6-813b-3d56b018347f",
+      "entityStatus": "Default",
+      "type": "Dataset",
+      "format": "Db",
+      "resId": "2110019000201806020006",
+      "entityKey": "HNCS:TJSX:SYS_UPLOADFILE",
+      "title": "系统附件表",
+      "summary": null,
+      "version": {
+        "prefix": "Resource",
+        "major": 1,
+        "minor": 0,
+        "micro": 0,
+        "tag": null,
+        "createTime": "2018-06-02T01:53:59.066+0000",
+        "author": null
+      },
+      "generateTime": null,
+      "lastUpdateTime": "2018-06-02T01:53:59.086+0000",
+      "creator": null,
+      "description": {
+        "createTime": null,
+        "updateTime": null,
+        "name": "SYS_UPLOADFILE",
+        "size": 131072,
+        "total": 513
+      },
+      "locator": {
+        "poolCode": "HNCS",
+        "path": "tjsx",
+        "name": "SYS_UPLOADFILE"
+      },
+      "metadata": {
+        "fields": {
+          "_class": "dcsp.fl.common.Fields",
+          "items": [
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "ID",
+              "title": "主键",
+              "alias": "id",
+              "dataType": "Numeric",
+              "dataLength": 0,
+              "notNull": true,
+              "require": false
+            },
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "APPCODE",
+              "title": "应用程序",
+              "dataType": "Text",
+              "dataLength": 20,
+              "notNull": false,
+              "require": false
+            },
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "FILE_NAME2",
+              "title": "文件名",
+              "dataType": "Text",
+              "dataLength": 200,
+              "notNull": false,
+              "require": false
+            },
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "FILE_SAVENAME",
+              "title": "文件保存名",
+              "dataType": "Text",
+              "dataLength": 200,
+              "notNull": false,
+              "require": false
+            },
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "FILE_TYPE",
+              "title": "文件类型",
+              "dataType": "Text",
+              "dataLength": 50,
+              "notNull": false,
+              "require": false
+            },
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "FILE_CODE",
+              "title": "文件编码",
+              "dataType": "Text",
+              "dataLength": 50,
+              "notNull": false,
+              "require": false
+            },
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "RESOURCEID",
+              "title": "资源编号",
+              "dataType": "Numeric",
+              "dataLength": 0,
+              "notNull": false,
+              "require": false
+            },
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "UCCODE",
+              "title": "用户登录名",
+              "dataType": "Text",
+              "dataLength": 20,
+              "notNull": false,
+              "require": false
+            },
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "ISVALID",
+              "title": "是否有效",
+              "dataType": "Text",
+              "dataLength": 1,
+              "notNull": false,
+              "require": false
+            },
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "CREATE_TIME",
+              "title": "创建时间",
+              "dataType": "Date",
+              "dataLength": 0,
+              "notNull": false,
+              "require": false
+            },
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "CREATE_BY",
+              "title": "实际用户名",
+              "dataType": "Text",
+              "dataLength": 50,
+              "notNull": false,
+              "require": false
+            },
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "LAST_MODIFY_TIME",
+              "title": "最后修改时间",
+              "dataType": "Date",
+              "dataLength": 0,
+              "notNull": false,
+              "require": false
+            },
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "LAST_MODIFY_BY",
+              "title": "最后修改人",
+              "dataType": "Text",
+              "dataLength": 50,
+              "notNull": false,
+              "require": false
+            },
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "VERSIONID",
+              "title": "版本号",
+              "dataType": "Numeric",
+              "dataLength": 0,
+              "notNull": false,
+              "require": false
+            },
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "REMARK",
+              "title": "备注",
+              "dataType": "Text",
+              "dataLength": 200,
+              "notNull": false,
+              "require": false
+            },
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "FIELDBAKCFG",
+              "title": "保留字段配置",
+              "dataType": "Text",
+              "dataLength": 200,
+              "notNull": false,
+              "require": false
+            },
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "FIELDBAK1",
+              "title": "保留字段1",
+              "dataType": "Text",
+              "dataLength": 200,
+              "notNull": false,
+              "require": false
+            },
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "FIELDBAK2",
+              "title": "保留字段2",
+              "dataType": "Text",
+              "dataLength": 200,
+              "notNull": false,
+              "require": false
+            },
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "FIELDBAK3",
+              "title": "保留字段3",
+              "dataType": "Text",
+              "dataLength": 200,
+              "notNull": false,
+              "require": false
+            },
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "POWERID",
+              "title": "对应事项编号（事项附件）",
+              "dataType": "Numeric",
+              "dataLength": 0,
+              "notNull": false,
+              "require": false
+            }
+          ]
+        },
+        "createTime": "2018-06-02T01:53:59.066+0000",
+        "updateTime": "2018-06-02T01:53:59.066+0000",
+        "digest": "BMT7tasrZcqymawCqV9eCw==",
+        "empty": false
+      },
+      "changeTypes": [
+        "Created"
+      ],
+      "tags": null,
+      "extraAttributes": null,
+      "idRel": "resources/c21ef42c-0f57-42d6-813b-3d56b018347f"
+    },
+    {
+      "id": "84714859-1648-4bea-96f4-8d4b06a8e725",
+      "entityStatus": "Default",
+      "type": "Dataset",
+      "format": "Db",
+      "resId": "2110019000201806020007",
+      "entityKey": "HNCS:TJSX:CLXXB_TEST",
+      "title": "车辆登记信息(演示)",
+      "summary": null,
+      "version": {
+        "prefix": "Resource",
+        "major": 1,
+        "minor": 0,
+        "micro": 0,
+        "tag": null,
+        "createTime": "2018-06-02T01:53:59.103+0000",
+        "author": null
+      },
+      "generateTime": null,
+      "lastUpdateTime": "2018-06-02T01:53:59.111+0000",
+      "creator": null,
+      "description": {
+        "createTime": null,
+        "updateTime": null,
+        "name": "CLXXB_TEST",
+        "size": 16384,
+        "total": 10
+      },
+      "locator": {
+        "poolCode": "HNCS",
+        "path": "tjsx",
+        "name": "CLXXB_TEST"
+      },
+      "metadata": {
+        "fields": {
+          "_class": "dcsp.fl.common.Fields",
+          "items": [
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "ID",
+              "title": "id",
+              "alias": "id",
+              "dataType": "Numeric",
+              "dataLength": 11,
+              "notNull": true,
+              "require": false
+            },
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "NAME",
+              "title": "车主姓名",
+              "dataType": "Text",
+              "dataLength": 255,
+              "notNull": false,
+              "require": false
+            },
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "SFZH",
+              "title": "身份证号",
+              "dataType": "Text",
+              "dataLength": 255,
+              "notNull": false,
+              "require": false
+            },
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "CPH",
+              "title": "车牌号",
+              "dataType": "Text",
+              "dataLength": 255,
+              "notNull": false,
+              "require": false
+            },
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "CLPP",
+              "title": "车辆品牌",
+              "dataType": "Text",
+              "dataLength": 255,
+              "notNull": false,
+              "require": false
+            },
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "YS",
+              "title": "颜色",
+              "dataType": "Text",
+              "dataLength": 255,
+              "notNull": false,
+              "require": false
+            },
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "DJRQ",
+              "title": "登记日期",
+              "dataType": "Date",
+              "dataLength": 0,
+              "notNull": false,
+              "require": false
+            },
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "GMRQ",
+              "title": "购买日期",
+              "dataType": "Date",
+              "dataLength": 0,
+              "notNull": false,
+              "require": false
+            }
+          ]
+        },
+        "createTime": "2018-06-02T01:53:59.103+0000",
+        "updateTime": "2018-06-02T01:53:59.103+0000",
+        "digest": "ubGywhvGKrV7hu6++3Cs5A==",
+        "empty": false
+      },
+      "changeTypes": [
+        "Created"
+      ],
+      "tags": null,
+      "extraAttributes": null,
+      "idRel": "resources/84714859-1648-4bea-96f4-8d4b06a8e725"
+    },
+    {
+      "id": "5dc07dfb-2b8e-4ae0-8b6e-ffe406460d36",
+      "entityStatus": "Default",
+      "type": "Dataset",
+      "format": "Db",
+      "resId": "2110019000201806020008",
+      "entityKey": "HNCS:TJSX:CLXXB_COPY6",
+      "title": "车辆登记信息(演示)",
+      "summary": null,
+      "version": {
+        "prefix": "Resource",
+        "major": 1,
+        "minor": 0,
+        "micro": 0,
+        "tag": null,
+        "createTime": "2018-06-02T01:53:59.123+0000",
+        "author": null
+      },
+      "generateTime": null,
+      "lastUpdateTime": "2018-06-02T01:53:59.130+0000",
+      "creator": null,
+      "description": {
+        "createTime": null,
+        "updateTime": null,
+        "name": "CLXXB_copy6",
+        "size": 16384,
+        "total": 0
+      },
+      "locator": {
+        "poolCode": "HNCS",
+        "path": "tjsx",
+        "name": "CLXXB_copy6"
+      },
+      "metadata": {
+        "fields": {
+          "_class": "dcsp.fl.common.Fields",
+          "items": [
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "ID",
+              "title": "id",
+              "alias": "id",
+              "dataType": "Numeric",
+              "dataLength": 11,
+              "notNull": true,
+              "require": false
+            },
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "NAME",
+              "title": "车主姓名",
+              "dataType": "Text",
+              "dataLength": 255,
+              "notNull": false,
+              "require": false
+            },
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "SFZH",
+              "title": "身份证号",
+              "dataType": "Text",
+              "dataLength": 255,
+              "notNull": false,
+              "require": false
+            },
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "CPH",
+              "title": "车牌号",
+              "dataType": "Text",
+              "dataLength": 255,
+              "notNull": false,
+              "require": false
+            },
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "CLPP",
+              "title": "车辆品牌",
+              "dataType": "Text",
+              "dataLength": 255,
+              "notNull": false,
+              "require": false
+            },
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "YS",
+              "title": "颜色",
+              "dataType": "Text",
+              "dataLength": 255,
+              "notNull": false,
+              "require": false
+            },
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "DJRQ",
+              "title": "登记日期",
+              "dataType": "Date",
+              "dataLength": 0,
+              "notNull": false,
+              "require": false
+            },
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "GMRQ",
+              "title": "购买日期",
+              "dataType": "Date",
+              "dataLength": 0,
+              "notNull": false,
+              "require": false
+            }
+          ]
+        },
+        "createTime": "2018-06-02T01:53:59.123+0000",
+        "updateTime": "2018-06-02T01:53:59.123+0000",
+        "digest": "ubGywhvGKrV7hu6++3Cs5A==",
+        "empty": false
+      },
+      "changeTypes": [
+        "Created"
+      ],
+      "tags": null,
+      "extraAttributes": null,
+      "idRel": "resources/5dc07dfb-2b8e-4ae0-8b6e-ffe406460d36"
+    },
+    {
+      "id": "10d56b90-6c7a-4a67-9d5f-2d1c12502b22",
+      "entityStatus": "Default",
+      "type": "Dataset",
+      "format": "Db",
+      "resId": "2110019000201806020009",
+      "entityKey": "HNCS:TJSX:GAJHJJCX",
+      "title": "公安局户籍基础信息",
+      "summary": null,
+      "version": {
+        "prefix": "Resource",
+        "major": 1,
+        "minor": 0,
+        "micro": 0,
+        "tag": null,
+        "createTime": "2018-06-02T01:53:59.133+0000",
+        "author": null
+      },
+      "generateTime": null,
+      "lastUpdateTime": "2018-06-02T01:53:59.145+0000",
+      "creator": null,
+      "description": {
+        "createTime": null,
+        "updateTime": null,
+        "name": "gajhjjcx",
+        "size": 16384,
+        "total": 6
+      },
+      "locator": {
+        "poolCode": "HNCS",
+        "path": "tjsx",
+        "name": "gajhjjcx"
+      },
+      "metadata": {
+        "fields": {
+          "_class": "dcsp.fl.common.Fields",
+          "items": [
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "id",
+              "title": "_id",
+              "alias": "id",
+              "dataType": "Numeric",
+              "dataLength": 20,
+              "notNull": true,
+              "require": false
+            },
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "huhao",
+              "title": "户号",
+              "dataType": "Text",
+              "dataLength": 255,
+              "notNull": false,
+              "require": false
+            },
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "yhzgx",
+              "title": "与户主关系",
+              "dataType": "Text",
+              "dataLength": 255,
+              "notNull": false,
+              "require": false
+            },
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "xm",
+              "title": "姓名",
+              "dataType": "Text",
+              "dataLength": 255,
+              "notNull": false,
+              "require": false
+            },
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "sfzhm",
+              "title": "身份证号码",
+              "dataType": "Text",
+              "dataLength": 255,
+              "notNull": false,
+              "require": false
+            },
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "xb",
+              "title": "性别",
+              "dataType": "Text",
+              "dataLength": 255,
+              "notNull": false,
+              "require": false
+            },
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "mz",
+              "title": "民族",
+              "dataType": "Text",
+              "dataLength": 255,
+              "notNull": false,
+              "require": false
+            },
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "csrq",
+              "title": "出生日期",
+              "dataType": "Date",
+              "dataLength": 0,
+              "notNull": false,
+              "require": false
+            },
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "hjdz",
+              "title": "户籍地址",
+              "dataType": "Text",
+              "dataLength": 255,
+              "notNull": false,
+              "require": false
+            },
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "test",
+              "title": "附件",
+              "dataType": "Lob",
+              "dataLength": 0,
+              "notNull": false,
+              "require": false
+            }
+          ]
+        },
+        "createTime": "2018-06-02T01:53:59.133+0000",
+        "updateTime": "2018-06-02T01:53:59.133+0000",
+        "digest": "byZgVFvfNRQqb0xmSanTZw==",
+        "empty": false
+      },
+      "changeTypes": [
+        "Created"
+      ],
+      "tags": null,
+      "extraAttributes": null,
+      "idRel": "resources/10d56b90-6c7a-4a67-9d5f-2d1c12502b22"
+    },
+    {
+      "id": "c235b2e9-aaff-48ee-bcdc-05948137ae6e",
+      "entityStatus": "Default",
+      "type": "Dataset",
+      "format": "Db",
+      "resId": "2110019000201806020010",
+      "entityKey": "HNCS:TJSX:GAJHJJCX_XXXX",
+      "title": "公安局户籍基础信息",
+      "summary": null,
+      "version": {
+        "prefix": "Resource",
+        "major": 1,
+        "minor": 0,
+        "micro": 0,
+        "tag": null,
+        "createTime": "2018-06-02T01:53:59.148+0000",
+        "author": null
+      },
+      "generateTime": null,
+      "lastUpdateTime": "2018-06-02T01:53:59.156+0000",
+      "creator": null,
+      "description": {
+        "createTime": null,
+        "updateTime": null,
+        "name": "gajhjjcx_xxxx",
+        "size": 16384,
+        "total": 7
+      },
+      "locator": {
+        "poolCode": "HNCS",
+        "path": "tjsx",
+        "name": "gajhjjcx_xxxx"
+      },
+      "metadata": {
+        "fields": {
+          "_class": "dcsp.fl.common.Fields",
+          "items": [
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "id",
+              "title": "_id",
+              "alias": "id",
+              "dataType": "Numeric",
+              "dataLength": 20,
+              "notNull": true,
+              "require": false
+            },
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "huhao",
+              "title": "户号",
+              "dataType": "Text",
+              "dataLength": 255,
+              "notNull": false,
+              "require": false
+            },
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "yhzgx",
+              "title": "与户主关系",
+              "dataType": "Text",
+              "dataLength": 255,
+              "notNull": false,
+              "require": false
+            },
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "xm",
+              "title": "姓名",
+              "dataType": "Text",
+              "dataLength": 255,
+              "notNull": false,
+              "require": false
+            },
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "sfzhm",
+              "title": "身份证号码",
+              "dataType": "Text",
+              "dataLength": 255,
+              "notNull": false,
+              "require": false
+            },
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "xb",
+              "title": "性别",
+              "dataType": "Text",
+              "dataLength": 255,
+              "notNull": false,
+              "require": false
+            },
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "mz",
+              "title": "民族",
+              "dataType": "Text",
+              "dataLength": 255,
+              "notNull": false,
+              "require": false
+            },
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "csrq",
+              "title": "出生日期",
+              "dataType": "Date",
+              "dataLength": 0,
+              "notNull": false,
+              "require": false
+            },
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "hjdz",
+              "title": "户籍地址",
+              "dataType": "Text",
+              "dataLength": 255,
+              "notNull": false,
+              "require": false
+            },
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "test",
+              "title": "附件",
+              "dataType": "Lob",
+              "dataLength": 0,
+              "notNull": false,
+              "require": false
+            }
+          ]
+        },
+        "createTime": "2018-06-02T01:53:59.148+0000",
+        "updateTime": "2018-06-02T01:53:59.148+0000",
+        "digest": "byZgVFvfNRQqb0xmSanTZw==",
+        "empty": false
+      },
+      "changeTypes": [
+        "Created"
+      ],
+      "tags": null,
+      "extraAttributes": null,
+      "idRel": "resources/c235b2e9-aaff-48ee-bcdc-05948137ae6e"
+    },
+    {
+      "id": "c48150f7-508f-4084-997a-050f500010cf",
+      "entityStatus": "Default",
+      "type": "Dataset",
+      "format": "Db",
+      "resId": "2110019000201806020011",
+      "entityKey": "HNCS:TJSX:RSJSBCBJFX",
+      "title": "人社局社保参保缴费信息",
+      "summary": null,
+      "version": {
+        "prefix": "Resource",
+        "major": 1,
+        "minor": 0,
+        "micro": 0,
+        "tag": null,
+        "createTime": "2018-06-02T01:53:59.159+0000",
+        "author": null
+      },
+      "generateTime": null,
+      "lastUpdateTime": "2018-06-02T01:53:59.167+0000",
+      "creator": null,
+      "description": {
+        "createTime": null,
+        "updateTime": null,
+        "name": "rsjsbcbjfx",
+        "size": 16384,
+        "total": 37
+      },
+      "locator": {
+        "poolCode": "HNCS",
+        "path": "tjsx",
+        "name": "rsjsbcbjfx"
+      },
+      "metadata": {
+        "fields": {
+          "_class": "dcsp.fl.common.Fields",
+          "items": [
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "id",
+              "title": "_id",
+              "alias": "id",
+              "dataType": "Numeric",
+              "dataLength": 20,
+              "notNull": true,
+              "require": false
+            },
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "sbcbzh",
+              "title": "社保参保账号",
+              "dataType": "Text",
+              "dataLength": 255,
+              "notNull": false,
+              "require": false
+            },
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "jfdw",
+              "title": "缴费单位",
+              "dataType": "Text",
+              "dataLength": 255,
+              "notNull": false,
+              "require": false
+            },
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "sblx",
+              "title": "社保类型",
+              "dataType": "Text",
+              "dataLength": 255,
+              "notNull": false,
+              "require": false
+            },
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "jfjc",
+              "title": "缴费基础",
+              "dataType": "Numeric",
+              "dataLength": 200,
+              "notNull": false,
+              "require": false
+            },
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "jfje",
+              "title": "缴费金额",
+              "dataType": "Numeric",
+              "dataLength": 200,
+              "notNull": false,
+              "require": false
+            },
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "jfrq",
+              "title": "缴费日期",
+              "dataType": "Date",
+              "dataLength": 0,
+              "notNull": false,
+              "require": false
+            }
+          ]
+        },
+        "createTime": "2018-06-02T01:53:59.159+0000",
+        "updateTime": "2018-06-02T01:53:59.159+0000",
+        "digest": "2fG1IxEuLlwpJ3W+x9hcEg==",
+        "empty": false
+      },
+      "changeTypes": [
+        "Created"
+      ],
+      "tags": null,
+      "extraAttributes": null,
+      "idRel": "resources/c48150f7-508f-4084-997a-050f500010cf"
+    },
+    {
+      "id": "d41cabbc-979f-466b-9f6b-ac73f757f1fb",
+      "entityStatus": "Default",
+      "type": "Dataset",
+      "format": "Db",
+      "resId": "2110019000201806020012",
+      "entityKey": "HNCS:TJSX:GOV_PUBLICHANDY",
+      "title": "政务服务事项信息",
+      "summary": null,
+      "version": {
+        "prefix": "Resource",
+        "major": 1,
+        "minor": 0,
+        "micro": 0,
+        "tag": null,
+        "createTime": "2018-06-02T01:53:59.170+0000",
+        "author": null
+      },
+      "generateTime": null,
+      "lastUpdateTime": "2018-06-02T01:53:59.177+0000",
+      "creator": null,
+      "description": {
+        "createTime": null,
+        "updateTime": null,
+        "name": "GOV_PUBLICHANDY",
+        "size": 4734976,
+        "total": 1069
+      },
+      "locator": {
+        "poolCode": "HNCS",
+        "path": "tjsx",
+        "name": "GOV_PUBLICHANDY"
+      },
+      "metadata": {
+        "fields": {
+          "_class": "dcsp.fl.common.Fields",
+          "items": [
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "ID",
+              "title": "主键",
+              "alias": "id",
+              "dataType": "Numeric",
+              "dataLength": 0,
+              "notNull": true,
+              "require": false
+            },
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "NAME",
+              "title": "事项名称",
+              "dataType": "Text",
+              "dataLength": 1000,
+              "notNull": false,
+              "require": false
+            },
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "CODE",
+              "title": "事项编码",
+              "dataType": "Text",
+              "dataLength": 255,
+              "notNull": false,
+              "require": false
+            },
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "VERSION",
+              "title": "当前版本",
+              "dataType": "Text",
+              "dataLength": 510,
+              "notNull": false,
+              "require": false
+            },
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "POWER_TYPE",
+              "title": "事项类型",
+              "dataType": "Text",
+              "dataLength": 510,
+              "notNull": false,
+              "require": false
+            },
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "SERVICE_MAIN",
+              "title": "办理主体GB",
+              "dataType": "Text",
+              "dataLength": 100,
+              "notNull": false,
+              "require": false
+            },
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "OWNER_DEPT",
+              "title": "办理部门简码",
+              "dataType": "Text",
+              "dataLength": 100,
+              "notNull": false,
+              "require": false
+            },
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "POWER_DOTYPE",
+              "title": "办件类型",
+              "dataType": "Text",
+              "dataLength": 10,
+              "notNull": false,
+              "require": false
+            },
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "POWER_DOPROPERTY",
+              "title": "办件属性",
+              "dataType": "Text",
+              "dataLength": 10,
+              "notNull": false,
+              "require": false
+            },
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "POWER_APPROVE_LEVEL",
+              "title": "审批级别",
+              "dataType": "Numeric",
+              "dataLength": 0,
+              "notNull": false,
+              "require": false
+            },
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "POWER_APPROVE_TYPE",
+              "title": "审批方式",
+              "dataType": "Numeric",
+              "dataLength": 0,
+              "notNull": false,
+              "require": false
+            },
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "SERVICE_OBJECT",
+              "title": "服务对象",
+              "dataType": "Text",
+              "dataLength": 0,
+              "notNull": false,
+              "require": false
+            },
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "SERVICE_CONTENT",
+              "title": "服务内容",
+              "dataType": "Text",
+              "dataLength": 0,
+              "notNull": false,
+              "require": false
+            },
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "SERVICE_PLACE",
+              "title": "办理地点",
+              "dataType": "Text",
+              "dataLength": 500,
+              "notNull": false,
+              "require": false
+            },
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "CONTACT_PHONE",
+              "title": "联系电话",
+              "dataType": "Text",
+              "dataLength": 200,
+              "notNull": false,
+              "require": false
+            },
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "PROCESS_TIME",
+              "title": "承诺时限",
+              "dataType": "Numeric",
+              "dataLength": 0,
+              "notNull": false,
+              "require": false
+            },
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "LEGAL_TIME",
+              "title": "法定时限",
+              "dataType": "Numeric",
+              "dataLength": 0,
+              "notNull": false,
+              "require": false
+            },
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "SERVICE_HREF",
+              "title": "在线办理链接",
+              "dataType": "Text",
+              "dataLength": 200,
+              "notNull": false,
+              "require": false
+            },
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "ISSUPERVISE",
+              "title": "是否监察",
+              "dataType": "Text",
+              "dataLength": 1,
+              "notNull": false,
+              "require": false
+            },
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "MONITOR_PHONE",
+              "title": "监督电话",
+              "dataType": "Text",
+              "dataLength": 50,
+              "notNull": false,
+              "require": false
+            },
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "MONITOR_ACTOR",
+              "title": "监察人",
+              "dataType": "Text",
+              "dataLength": 50,
+              "notNull": false,
+              "require": false
+            },
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "SERVICE_COST",
+              "title": "收费金额",
+              "dataType": "Text",
+              "dataLength": 0,
+              "notNull": false,
+              "require": false
+            },
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "ISFREE",
+              "title": "是否收费",
+              "dataType": "Text",
+              "dataLength": 1,
+              "notNull": false,
+              "require": false
+            },
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "RULE",
+              "title": "监察规则",
+              "dataType": "Numeric",
+              "dataLength": 0,
+              "notNull": false,
+              "require": false
+            },
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "COST_REASON",
+              "title": "收费依据",
+              "dataType": "Text",
+              "dataLength": 0,
+              "notNull": false,
+              "require": false
+            },
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "NODENUMBER",
+              "title": "节点数",
+              "dataType": "Numeric",
+              "dataLength": 0,
+              "notNull": false,
+              "require": false
+            },
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "ISPUBLIC",
+              "title": "是否公开",
+              "dataType": "Text",
+              "dataLength": 1,
+              "notNull": false,
+              "require": false
+            },
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "UPDATE_DATE",
+              "title": "更新日期",
+              "dataType": "Date",
+              "dataLength": 0,
+              "notNull": false,
+              "require": false
+            },
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "ISHISTORY",
+              "title": "是否历史事项",
+              "dataType": "Text",
+              "dataLength": 1,
+              "notNull": false,
+              "require": false
+            },
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "STATUS",
+              "title": "状态",
+              "dataType": "Text",
+              "dataLength": 510,
+              "notNull": false,
+              "require": false
+            },
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "GBCODE",
+              "title": "国标事项编码",
+              "dataType": "Text",
+              "dataLength": 20,
+              "notNull": false,
+              "require": false
+            },
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "GB_TYPE",
+              "title": "国标事项类型",
+              "dataType": "Text",
+              "dataLength": 510,
+              "notNull": false,
+              "require": false
+            },
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "GB_TYPENAME",
+              "title": "国标事项类型名称",
+              "dataType": "Text",
+              "dataLength": 510,
+              "notNull": false,
+              "require": false
+            },
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "POWER_AREA_CODE",
+              "title": "区域编码",
+              "dataType": "Text",
+              "dataLength": 510,
+              "notNull": false,
+              "require": false
+            },
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "POWER_AREA_NAME",
+              "title": "区域名称",
+              "dataType": "Text",
+              "dataLength": 510,
+              "notNull": false,
+              "require": false
+            },
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "VERSION_NUMBER",
+              "title": "版本数字",
+              "dataType": "Numeric",
+              "dataLength": 0,
+              "notNull": false,
+              "require": false
+            },
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "ISGB",
+              "title": "是否遵循国标",
+              "dataType": "Text",
+              "dataLength": 1,
+              "notNull": false,
+              "require": false
+            },
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "LOGTYPE",
+              "title": "日志类型",
+              "dataType": "Text",
+              "dataLength": 50,
+              "notNull": false,
+              "require": false
+            },
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "XMLCONFIG",
+              "title": "内部流程图XLM配置",
+              "dataType": "Text",
+              "dataLength": 0,
+              "notNull": false,
+              "require": false
+            },
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "XMLCONFIGTMP",
+              "title": "外部流程图XLM配置",
+              "dataType": "Text",
+              "dataLength": 0,
+              "notNull": false,
+              "require": false
+            },
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "PDID",
+              "title": "_PDID",
+              "dataType": "Text",
+              "dataLength": 100,
+              "notNull": false,
+              "require": false
+            },
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "PDKEY",
+              "title": "_PDKEY",
+              "dataType": "Text",
+              "dataLength": 255,
+              "notNull": false,
+              "require": false
+            },
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "JBPMXML",
+              "title": "_JBPMXML",
+              "dataType": "Text",
+              "dataLength": 0,
+              "notNull": false,
+              "require": false
+            },
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "JBPMIMAGE",
+              "title": "_JBPMIMAGE",
+              "dataType": "Lob",
+              "dataLength": 0,
+              "notNull": false,
+              "require": false
+            },
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "FILENAME",
+              "title": "_FILENAME",
+              "dataType": "Text",
+              "dataLength": 100,
+              "notNull": false,
+              "require": false
+            },
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "FLOWCODE",
+              "title": "_FLOWCODE",
+              "dataType": "Text",
+              "dataLength": 255,
+              "notNull": false,
+              "require": false
+            },
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "FLOWBGIMG",
+              "title": "_FLOWBGIMG",
+              "dataType": "Text",
+              "dataLength": 200,
+              "notNull": false,
+              "require": false
+            },
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "URL2",
+              "title": "_URL2",
+              "dataType": "Text",
+              "dataLength": 200,
+              "notNull": false,
+              "require": false
+            },
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "URLPARAMETERS",
+              "title": "_URLPARAMETERS",
+              "dataType": "Text",
+              "dataLength": 100,
+              "notNull": false,
+              "require": false
+            },
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "URLCLASSNAME",
+              "title": "_URLCLASSNAME",
+              "dataType": "Text",
+              "dataLength": 100,
+              "notNull": false,
+              "require": false
+            },
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "SHOWURL",
+              "title": "_SHOWURL",
+              "dataType": "Text",
+              "dataLength": 50,
+              "notNull": false,
+              "require": false
+            },
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "SHOWURLPARAMETERS",
+              "title": "_SHOWURLPARAMETERS",
+              "dataType": "Text",
+              "dataLength": 50,
+              "notNull": false,
+              "require": false
+            },
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "SHOWURLCLASSNAME",
+              "title": "_SHOWURLCLASSNAME",
+              "dataType": "Text",
+              "dataLength": 50,
+              "notNull": false,
+              "require": false
+            },
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "SHTYPE",
+              "title": "_SHTYPE",
+              "dataType": "Text",
+              "dataLength": 20,
+              "notNull": false,
+              "require": false
+            },
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "SHFLOWCONTENT",
+              "title": "_SHFLOWCONTENT",
+              "dataType": "Text",
+              "dataLength": 200,
+              "notNull": false,
+              "require": false
+            },
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "CURRNODE",
+              "title": "_CURRNODE",
+              "dataType": "Text",
+              "dataLength": 10,
+              "notNull": false,
+              "require": false
+            },
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "PRENODE",
+              "title": "_PRENODE",
+              "dataType": "Text",
+              "dataLength": 10,
+              "notNull": false,
+              "require": false
+            },
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "NEXTNODE",
+              "title": "_NEXTNODE",
+              "dataType": "Text",
+              "dataLength": 10,
+              "notNull": false,
+              "require": false
+            },
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "SHTYPE1",
+              "title": "审核类型",
+              "dataType": "Text",
+              "dataLength": 20,
+              "notNull": false,
+              "require": false
+            },
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "SHFLOWCONTENT1",
+              "title": "审核流程",
+              "dataType": "Text",
+              "dataLength": 200,
+              "notNull": false,
+              "require": false
+            },
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "CURRNODE1",
+              "title": "当前节点",
+              "dataType": "Text",
+              "dataLength": 10,
+              "notNull": false,
+              "require": false
+            },
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "PRENODE1",
+              "title": "前置节点",
+              "dataType": "Text",
+              "dataLength": 10,
+              "notNull": false,
+              "require": false
+            },
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "NEXTNODE1",
+              "title": "后续节点",
+              "dataType": "Text",
+              "dataLength": 10,
+              "notNull": false,
+              "require": false
+            },
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "STATUS1",
+              "title": "流程节点状态",
+              "dataType": "Text",
+              "dataLength": 510,
+              "notNull": false,
+              "require": false
+            },
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "CREATE_TIME",
+              "title": "创建时间",
+              "dataType": "Date",
+              "dataLength": 0,
+              "notNull": false,
+              "require": false
+            },
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "CREATE_BY",
+              "title": "创建人",
+              "dataType": "Text",
+              "dataLength": 50,
+              "notNull": false,
+              "require": false
+            },
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "LAST_MODIFY_TIME",
+              "title": "修改时间",
+              "dataType": "Date",
+              "dataLength": 0,
+              "notNull": false,
+              "require": false
+            },
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "LAST_MODIFY_BY",
+              "title": "修改人",
+              "dataType": "Text",
+              "dataLength": 50,
+              "notNull": false,
+              "require": false
+            },
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "VERSIONID",
+              "title": "版本号码",
+              "dataType": "Numeric",
+              "dataLength": 0,
+              "notNull": false,
+              "require": false
+            },
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "POWERITEM",
+              "title": "事项对应国标名称",
+              "dataType": "Text",
+              "dataLength": 500,
+              "notNull": false,
+              "require": false
+            },
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "AREA_DEPT",
+              "title": "办理部门",
+              "dataType": "Text",
+              "dataLength": 100,
+              "notNull": false,
+              "require": false
+            },
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "AREA_DEPTCS",
+              "title": "办理处室",
+              "dataType": "Text",
+              "dataLength": 255,
+              "notNull": false,
+              "require": false
+            },
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "AREA_DEPT_NAME",
+              "title": "办理部门名称",
+              "dataType": "Text",
+              "dataLength": 500,
+              "notNull": false,
+              "require": false
+            },
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "AREA_DEPTCS_NAME",
+              "title": "办理处室名称",
+              "dataType": "Text",
+              "dataLength": 500,
+              "notNull": false,
+              "require": false
+            },
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "PROCESS_DES",
+              "title": "承诺时间",
+              "dataType": "Text",
+              "dataLength": 500,
+              "notNull": false,
+              "require": false
+            },
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "LEGAL_DES",
+              "title": "法定时间",
+              "dataType": "Text",
+              "dataLength": 500,
+              "notNull": false,
+              "require": false
+            },
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "ERROR",
+              "title": "异常",
+              "dataType": "Numeric",
+              "dataLength": 0,
+              "notNull": false,
+              "require": false
+            },
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "FLAG",
+              "title": "事项状态：0-失效；1-有效",
+              "dataType": "Text",
+              "dataLength": 1,
+              "notNull": false,
+              "require": false
+            },
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "FLOWBGIMGTMP",
+              "title": "外部流程图",
+              "dataType": "Text",
+              "dataLength": 255,
+              "notNull": false,
+              "require": false
+            },
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "GBSHENGCODE",
+              "title": "_GBSHENGCODE",
+              "dataType": "Text",
+              "dataLength": 40,
+              "notNull": false,
+              "require": false
+            },
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "JFYJ",
+              "title": "给付依据",
+              "dataType": "Text",
+              "dataLength": 255,
+              "notNull": false,
+              "require": false
+            },
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "JFXM",
+              "title": "给付项目",
+              "dataType": "Text",
+              "dataLength": 0,
+              "notNull": false,
+              "require": false
+            },
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "CFZL",
+              "title": "处罚种类",
+              "dataType": "Text",
+              "dataLength": 255,
+              "notNull": false,
+              "require": false
+            },
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "CLGZ",
+              "title": "处罚规则",
+              "dataType": "Text",
+              "dataLength": 0,
+              "notNull": false,
+              "require": false
+            },
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "TASKID",
+              "title": "_TASKID",
+              "dataType": "Numeric",
+              "dataLength": 0,
+              "notNull": false,
+              "require": false
+            },
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "TASKNAME",
+              "title": "_TASKNAME",
+              "dataType": "Text",
+              "dataLength": 510,
+              "notNull": false,
+              "require": false
+            },
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "TASKID1",
+              "title": "任务ID",
+              "dataType": "Numeric",
+              "dataLength": 0,
+              "notNull": false,
+              "require": false
+            },
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "TASKNAME1",
+              "title": "任务名称",
+              "dataType": "Text",
+              "dataLength": 510,
+              "notNull": false,
+              "require": false
+            },
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "OWNERDEPTXG",
+              "title": "相关办理主体",
+              "dataType": "Text",
+              "dataLength": 300,
+              "notNull": false,
+              "require": false
+            },
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "DEPEND",
+              "title": "行使依据",
+              "dataType": "Text",
+              "dataLength": 0,
+              "notNull": false,
+              "require": false
+            },
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "SLTJ",
+              "title": "受理条件",
+              "dataType": "Text",
+              "dataLength": 0,
+              "notNull": false,
+              "require": false
+            },
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "BSBG",
+              "title": "办事表格",
+              "dataType": "Text",
+              "dataLength": 0,
+              "notNull": false,
+              "require": false
+            },
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "GUIDE",
+              "title": "办事指南",
+              "dataType": "Text",
+              "dataLength": 0,
+              "notNull": false,
+              "require": false
+            },
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "DATUM",
+              "title": "_DATUM",
+              "dataType": "Text",
+              "dataLength": 0,
+              "notNull": false,
+              "require": false
+            },
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "QUESTION",
+              "title": "常见问题解答",
+              "dataType": "Text",
+              "dataLength": 0,
+              "notNull": false,
+              "require": false
+            },
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "POWERITEMSHENG",
+              "title": "_POWERITEMSHENG",
+              "dataType": "Text",
+              "dataLength": 200,
+              "notNull": false,
+              "require": false
+            },
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "SHENGCODE",
+              "title": "_SHENGCODE",
+              "dataType": "Text",
+              "dataLength": 255,
+              "notNull": false,
+              "require": false
+            },
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "SHENG_ID",
+              "title": "_SHENG_ID",
+              "dataType": "Numeric",
+              "dataLength": 0,
+              "notNull": false,
+              "require": false
+            },
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "OPENTIME",
+              "title": "_OPENTIME",
+              "dataType": "Date",
+              "dataLength": 0,
+              "notNull": false,
+              "require": false
+            },
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "OPENRANGE",
+              "title": "_OPENRANGE",
+              "dataType": "Text",
+              "dataLength": 255,
+              "notNull": false,
+              "require": false
+            },
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "OPENFORM",
+              "title": "_OPENFORM",
+              "dataType": "Text",
+              "dataLength": 255,
+              "notNull": false,
+              "require": false
+            },
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "OPENTIME1",
+              "title": "_OPENTIME1",
+              "dataType": "Text",
+              "dataLength": 255,
+              "notNull": false,
+              "require": false
+            },
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "CITIZENSWORK",
+              "title": "市民办事",
+              "dataType": "Text",
+              "dataLength": 255,
+              "notNull": false,
+              "require": false
+            },
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "ENTERPRISESERVICE",
+              "title": "企业办事",
+              "dataType": "Text",
+              "dataLength": 255,
+              "notNull": false,
+              "require": false
+            },
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "IMPORTANTFIELD",
+              "title": "重点领域",
+              "dataType": "Text",
+              "dataLength": 255,
+              "notNull": false,
+              "require": false
+            },
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "GREENCHANNEL",
+              "title": "绿色通道",
+              "dataType": "Text",
+              "dataLength": 255,
+              "notNull": false,
+              "require": false
+            },
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "APPLYFORTYPE",
+              "title": "申请类型",
+              "dataType": "Text",
+              "dataLength": 255,
+              "notNull": false,
+              "require": false
+            },
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "SERVICE_PLACE_TMP",
+              "title": "_SERVICE_PLACE_TMP",
+              "dataType": "Text",
+              "dataLength": 500,
+              "notNull": false,
+              "require": false
+            },
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "POWERITEM_PROPERTY",
+              "title": "事项属性",
+              "dataType": "Text",
+              "dataLength": 10,
+              "notNull": false,
+              "require": false
+            },
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "ISHANGUP",
+              "title": "_ISHANGUP",
+              "dataType": "Numeric",
+              "dataLength": 0,
+              "notNull": false,
+              "require": false
+            },
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "ZX_NAME",
+              "title": "_ZX_NAME",
+              "dataType": "Text",
+              "dataLength": 1000,
+              "notNull": false,
+              "require": false
+            },
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "ZYSMZYSX",
+              "title": "_ZYSMZYSX",
+              "dataType": "Text",
+              "dataLength": 200,
+              "notNull": false,
+              "require": false
+            },
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "ZXNAME",
+              "title": "_ZXNAME",
+              "dataType": "Text",
+              "dataLength": 200,
+              "notNull": false,
+              "require": false
+            },
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "ZTFL",
+              "title": "_ZTFL",
+              "dataType": "Text",
+              "dataLength": 200,
+              "notNull": false,
+              "require": false
+            },
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "YXZT",
+              "title": "_YXZT",
+              "dataType": "Text",
+              "dataLength": 20,
+              "notNull": false,
+              "require": false
+            },
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "YXX",
+              "title": "_YXX",
+              "dataType": "Text",
+              "dataLength": 20,
+              "notNull": false,
+              "require": false
+            },
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "XZX",
+              "title": "_XZX",
+              "dataType": "Text",
+              "dataLength": 20,
+              "notNull": false,
+              "require": false
+            },
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "XZSPZXDTSJ",
+              "title": "_XZSPZXDTSJ",
+              "dataType": "Text",
+              "dataLength": 20,
+              "notNull": false,
+              "require": false
+            },
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "XZSPZXDTDZ",
+              "title": "_XZSPZXDTDZ",
+              "dataType": "Text",
+              "dataLength": 20,
+              "notNull": false,
+              "require": false
+            },
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "WSZXWZ",
+              "title": "_WSZXWZ",
+              "dataType": "Text",
+              "dataLength": 20,
+              "notNull": false,
+              "require": false
+            },
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "WSSBWZ",
+              "title": "_WSSBWZ",
+              "dataType": "Text",
+              "dataLength": 20,
+              "notNull": false,
+              "require": false
+            },
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "TDZT",
+              "title": "_TDZT",
+              "dataType": "Text",
+              "dataLength": 20,
+              "notNull": false,
+              "require": false
+            },
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "SXRQ",
+              "title": "_SXRQ",
+              "dataType": "Text",
+              "dataLength": 20,
+              "notNull": false,
+              "require": false
+            }
+          ]
+        },
+        "createTime": "2018-06-02T01:53:59.170+0000",
+        "updateTime": "2018-06-02T01:53:59.170+0000",
+        "digest": "mHX8hQ8DUwVmZH93+metgg==",
+        "empty": false
+      },
+      "changeTypes": [
+        "Created"
+      ],
+      "tags": null,
+      "extraAttributes": null,
+      "idRel": "resources/d41cabbc-979f-466b-9f6b-ac73f757f1fb"
+    },
+    {
+      "id": "35185b12-0095-4cb5-8610-74849c83e99f",
+      "entityStatus": "Default",
+      "type": "Dataset",
+      "format": "Db",
+      "resId": "2110019000201806020013",
+      "entityKey": "HNCS:TJSX:CLXXB_TEST2",
+      "title": "车辆登记信息(演示)",
+      "summary": null,
+      "version": {
+        "prefix": "Resource",
+        "major": 1,
+        "minor": 0,
+        "micro": 0,
+        "tag": null,
+        "createTime": "2018-06-02T01:53:59.184+0000",
+        "author": null
+      },
+      "generateTime": null,
+      "lastUpdateTime": "2018-06-02T01:53:59.195+0000",
+      "creator": null,
+      "description": {
+        "createTime": null,
+        "updateTime": null,
+        "name": "CLXXB_TEST2",
+        "size": 16384,
+        "total": 10
+      },
+      "locator": {
+        "poolCode": "HNCS",
+        "path": "tjsx",
+        "name": "CLXXB_TEST2"
+      },
+      "metadata": {
+        "fields": {
+          "_class": "dcsp.fl.common.Fields",
+          "items": [
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "ID",
+              "title": "id",
+              "alias": "id",
+              "dataType": "Numeric",
+              "dataLength": 11,
+              "notNull": true,
+              "require": false
+            },
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "NAME",
+              "title": "车主姓名",
+              "dataType": "Text",
+              "dataLength": 255,
+              "notNull": false,
+              "require": false
+            },
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "SFZH",
+              "title": "身份证号",
+              "dataType": "Text",
+              "dataLength": 255,
+              "notNull": false,
+              "require": false
+            },
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "CPH",
+              "title": "车牌号",
+              "dataType": "Text",
+              "dataLength": 255,
+              "notNull": false,
+              "require": false
+            },
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "CLPP",
+              "title": "车辆品牌",
+              "dataType": "Text",
+              "dataLength": 255,
+              "notNull": false,
+              "require": false
+            },
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "YS",
+              "title": "颜色",
+              "dataType": "Text",
+              "dataLength": 255,
+              "notNull": false,
+              "require": false
+            },
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "DJRQ",
+              "title": "登记日期",
+              "dataType": "Date",
+              "dataLength": 0,
+              "notNull": false,
+              "require": false
+            },
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "GMRQ",
+              "title": "购买日期",
+              "dataType": "Date",
+              "dataLength": 0,
+              "notNull": false,
+              "require": false
+            }
+          ]
+        },
+        "createTime": "2018-06-02T01:53:59.184+0000",
+        "updateTime": "2018-06-02T01:53:59.184+0000",
+        "digest": "ubGywhvGKrV7hu6++3Cs5A==",
+        "empty": false
+      },
+      "changeTypes": [
+        "Created"
+      ],
+      "tags": null,
+      "extraAttributes": null,
+      "idRel": "resources/35185b12-0095-4cb5-8610-74849c83e99f"
+    },
+    {
+      "id": "01267526-b285-4ea8-b0e4-3706da74d1cc",
+      "entityStatus": "Default",
+      "type": "Dataset",
+      "format": "Db",
+      "resId": "2110019000201806020014",
+      "entityKey": "HNCS:TJSX:XXX",
+      "title": "_XXX",
+      "summary": null,
+      "version": {
+        "prefix": "Resource",
+        "major": 1,
+        "minor": 0,
+        "micro": 0,
+        "tag": null,
+        "createTime": "2018-06-02T01:53:59.198+0000",
+        "author": null
+      },
+      "generateTime": null,
+      "lastUpdateTime": "2018-06-02T01:53:59.203+0000",
+      "creator": null,
+      "description": {
+        "createTime": null,
+        "updateTime": null,
+        "name": "XXX",
+        "size": 16384,
+        "total": 2
+      },
+      "locator": {
+        "poolCode": "HNCS",
+        "path": "tjsx",
+        "name": "XXX"
+      },
+      "metadata": {
+        "fields": {
+          "_class": "dcsp.fl.common.Fields",
+          "items": [
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "id",
+              "title": "_id",
+              "alias": "id",
+              "dataType": "Numeric",
+              "dataLength": 11,
+              "notNull": true,
+              "require": false
+            },
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "xxxx",
+              "title": "_xxxx",
+              "dataType": "Numeric",
+              "dataLength": 11,
+              "notNull": false,
+              "require": false
+            }
+          ]
+        },
+        "createTime": "2018-06-02T01:53:59.198+0000",
+        "updateTime": "2018-06-02T01:53:59.198+0000",
+        "digest": "k8u9YuMcaWofdEHEdmOUJw==",
+        "empty": false
+      },
+      "changeTypes": [
+        "Created"
+      ],
+      "tags": null,
+      "extraAttributes": null,
+      "idRel": "resources/01267526-b285-4ea8-b0e4-3706da74d1cc"
+    },
+    {
+      "id": "3034845b-b207-4d95-a3af-638c693fc51a",
+      "entityStatus": "Default",
+      "type": "Dataset",
+      "format": "Db",
+      "resId": "2110019000201806020015",
+      "entityKey": "HNCS:TJSX:GAJHJJCX_888",
+      "title": "公安局户籍基础信息",
+      "summary": null,
+      "version": {
+        "prefix": "Resource",
+        "major": 1,
+        "minor": 0,
+        "micro": 0,
+        "tag": null,
+        "createTime": "2018-06-02T01:53:59.206+0000",
+        "author": null
+      },
+      "generateTime": null,
+      "lastUpdateTime": "2018-06-02T01:53:59.212+0000",
+      "creator": null,
+      "description": {
+        "createTime": null,
+        "updateTime": null,
+        "name": "gajhjjcx_888",
+        "size": 16384,
+        "total": 0
+      },
+      "locator": {
+        "poolCode": "HNCS",
+        "path": "tjsx",
+        "name": "gajhjjcx_888"
+      },
+      "metadata": {
+        "fields": {
+          "_class": "dcsp.fl.common.Fields",
+          "items": [
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "id",
+              "title": "_id",
+              "alias": "id",
+              "dataType": "Numeric",
+              "dataLength": 20,
+              "notNull": true,
+              "require": false
+            },
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "huhao",
+              "title": "户号",
+              "dataType": "Text",
+              "dataLength": 255,
+              "notNull": false,
+              "require": false
+            },
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "yhzgx",
+              "title": "与户主关系",
+              "dataType": "Text",
+              "dataLength": 255,
+              "notNull": false,
+              "require": false
+            },
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "xm",
+              "title": "姓名",
+              "dataType": "Text",
+              "dataLength": 255,
+              "notNull": false,
+              "require": false
+            },
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "sfzhm",
+              "title": "身份证号码",
+              "dataType": "Text",
+              "dataLength": 255,
+              "notNull": false,
+              "require": false
+            },
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "xb",
+              "title": "性别",
+              "dataType": "Text",
+              "dataLength": 255,
+              "notNull": false,
+              "require": false
+            },
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "mz",
+              "title": "民族",
+              "dataType": "Text",
+              "dataLength": 255,
+              "notNull": false,
+              "require": false
+            },
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "csrq",
+              "title": "出生日期",
+              "dataType": "Date",
+              "dataLength": 0,
+              "notNull": false,
+              "require": false
+            },
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "hjdz",
+              "title": "户籍地址",
+              "dataType": "Text",
+              "dataLength": 255,
+              "notNull": false,
+              "require": false
+            },
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "test",
+              "title": "附件",
+              "dataType": "Lob",
+              "dataLength": 0,
+              "notNull": false,
+              "require": false
+            }
+          ]
+        },
+        "createTime": "2018-06-02T01:53:59.206+0000",
+        "updateTime": "2018-06-02T01:53:59.206+0000",
+        "digest": "byZgVFvfNRQqb0xmSanTZw==",
+        "empty": false
+      },
+      "changeTypes": [
+        "Created"
+      ],
+      "tags": null,
+      "extraAttributes": null,
+      "idRel": "resources/3034845b-b207-4d95-a3af-638c693fc51a"
+    },
+    {
+      "id": "e2a7c28c-fc57-41f5-9734-329bf532678d",
+      "entityStatus": "Default",
+      "type": "Dataset",
+      "format": "Db",
+      "resId": "2110019000201806020016",
+      "entityKey": "HNCS:TJSX:GTJBDCDJX",
+      "title": "国土局不动产登记信息",
+      "summary": null,
+      "version": {
+        "prefix": "Resource",
+        "major": 1,
+        "minor": 0,
+        "micro": 0,
+        "tag": null,
+        "createTime": "2018-06-02T01:53:59.215+0000",
+        "author": null
+      },
+      "generateTime": null,
+      "lastUpdateTime": "2018-06-02T01:53:59.222+0000",
+      "creator": null,
+      "description": {
+        "createTime": null,
+        "updateTime": null,
+        "name": "gtjbdcdjx",
+        "size": 16384,
+        "total": 2
+      },
+      "locator": {
+        "poolCode": "HNCS",
+        "path": "tjsx",
+        "name": "gtjbdcdjx"
+      },
+      "metadata": {
+        "fields": {
+          "_class": "dcsp.fl.common.Fields",
+          "items": [
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "id",
+              "title": "_id",
+              "alias": "id",
+              "dataType": "Numeric",
+              "dataLength": 20,
+              "notNull": true,
+              "require": false
+            },
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "fczsh",
+              "title": "房产证书号",
+              "dataType": "Text",
+              "dataLength": 255,
+              "notNull": false,
+              "require": false
+            },
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "fdcmc",
+              "title": "房地产名称",
+              "dataType": "Text",
+              "dataLength": 255,
+              "notNull": false,
+              "require": false
+            },
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "fwzld",
+              "title": "房屋座落地",
+              "dataType": "Text",
+              "dataLength": 255,
+              "notNull": false,
+              "require": false
+            },
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "jzmj",
+              "title": "建筑面积",
+              "dataType": "Text",
+              "dataLength": 255,
+              "notNull": false,
+              "require": false
+            },
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "yt",
+              "title": "用途",
+              "dataType": "Text",
+              "dataLength": 255,
+              "notNull": false,
+              "require": false
+            },
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "jgrq",
+              "title": "竣工日期",
+              "dataType": "Date",
+              "dataLength": 0,
+              "notNull": false,
+              "require": false
+            },
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "qlr",
+              "title": "权利人",
+              "dataType": "Text",
+              "dataLength": 255,
+              "notNull": false,
+              "require": false
+            },
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "qlrsfzh",
+              "title": "权利人身份证号",
+              "dataType": "Text",
+              "dataLength": 255,
+              "notNull": false,
+              "require": false
+            },
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "fzrq",
+              "title": "发证日期",
+              "dataType": "Date",
+              "dataLength": 0,
+              "notNull": false,
+              "require": false
+            },
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "syqx",
+              "title": "使用期限",
+              "dataType": "Text",
+              "dataLength": 255,
+              "notNull": false,
+              "require": false
+            }
+          ]
+        },
+        "createTime": "2018-06-02T01:53:59.215+0000",
+        "updateTime": "2018-06-02T01:53:59.215+0000",
+        "digest": "aNz4VBx49BHHF4bgrNA8RA==",
+        "empty": false
+      },
+      "changeTypes": [
+        "Created"
+      ],
+      "tags": null,
+      "extraAttributes": null,
+      "idRel": "resources/e2a7c28c-fc57-41f5-9734-329bf532678d"
+    },
+    {
+      "id": "7029642d-ebe5-4a34-9647-a9d97c573872",
+      "entityStatus": "Default",
+      "type": "Dataset",
+      "format": "Db",
+      "resId": "2110019000201806020017",
+      "entityKey": "HNCS:TJSX:RSJSBCBJBX",
+      "title": "人社局社保参保基本信息",
+      "summary": null,
+      "version": {
+        "prefix": "Resource",
+        "major": 1,
+        "minor": 0,
+        "micro": 0,
+        "tag": null,
+        "createTime": "2018-06-02T01:53:59.226+0000",
+        "author": null
+      },
+      "generateTime": null,
+      "lastUpdateTime": "2018-06-02T01:53:59.232+0000",
+      "creator": null,
+      "description": {
+        "createTime": null,
+        "updateTime": null,
+        "name": "rsjsbcbjbx",
+        "size": 16384,
+        "total": 6
+      },
+      "locator": {
+        "poolCode": "HNCS",
+        "path": "tjsx",
+        "name": "rsjsbcbjbx"
+      },
+      "metadata": {
+        "fields": {
+          "_class": "dcsp.fl.common.Fields",
+          "items": [
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "id",
+              "title": "_id",
+              "alias": "id",
+              "dataType": "Numeric",
+              "dataLength": 20,
+              "notNull": true,
+              "require": false
+            },
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "sfzh",
+              "title": "身份证号",
+              "dataType": "Text",
+              "dataLength": 255,
+              "notNull": false,
+              "require": false
+            },
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "xm",
+              "title": "姓名",
+              "dataType": "Text",
+              "dataLength": 255,
+              "notNull": false,
+              "require": false
+            },
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "xb",
+              "title": "性别",
+              "dataType": "Text",
+              "dataLength": 255,
+              "notNull": false,
+              "require": false
+            },
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "mz",
+              "title": "民族",
+              "dataType": "Text",
+              "dataLength": 255,
+              "notNull": false,
+              "require": false
+            },
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "cbzt",
+              "title": "参保状态",
+              "dataType": "Text",
+              "dataLength": 255,
+              "notNull": false,
+              "require": false
+            },
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "sccbrq",
+              "title": "首次参保日期",
+              "dataType": "Date",
+              "dataLength": 0,
+              "notNull": false,
+              "require": false
+            }
+          ]
+        },
+        "createTime": "2018-06-02T01:53:59.226+0000",
+        "updateTime": "2018-06-02T01:53:59.226+0000",
+        "digest": "AmVJktr+3LB1xSGVZfkgFg==",
+        "empty": false
+      },
+      "changeTypes": [
+        "Created"
+      ],
+      "tags": null,
+      "extraAttributes": null,
+      "idRel": "resources/7029642d-ebe5-4a34-9647-a9d97c573872"
+    },
+    {
+      "id": "78d58d15-f707-4e60-a193-ae755e2e00fa",
+      "entityStatus": "Default",
+      "type": "Dataset",
+      "format": "Db",
+      "resId": "2110019000201806020018",
+      "entityKey": "HNCS:TJSX:GAJCLDJX_COPY22",
+      "title": "公安局车辆登记信息",
+      "summary": null,
+      "version": {
+        "prefix": "Resource",
+        "major": 1,
+        "minor": 0,
+        "micro": 0,
+        "tag": null,
+        "createTime": "2018-06-02T01:53:59.234+0000",
+        "author": null
+      },
+      "generateTime": null,
+      "lastUpdateTime": "2018-06-02T01:53:59.239+0000",
+      "creator": null,
+      "description": {
+        "createTime": null,
+        "updateTime": null,
+        "name": "gajcldjx_copy22",
+        "size": 16384,
+        "total": 0
+      },
+      "locator": {
+        "poolCode": "HNCS",
+        "path": "tjsx",
+        "name": "gajcldjx_copy22"
+      },
+      "metadata": {
+        "fields": {
+          "_class": "dcsp.fl.common.Fields",
+          "items": [
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "id",
+              "title": "_id",
+              "alias": "id",
+              "dataType": "Numeric",
+              "dataLength": 20,
+              "notNull": true,
+              "require": false
+            },
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "cph",
+              "title": "车牌号",
+              "dataType": "Text",
+              "dataLength": 255,
+              "notNull": false,
+              "require": false
+            },
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "spqydm",
+              "title": "上牌区域代码",
+              "dataType": "Text",
+              "dataLength": 255,
+              "notNull": false,
+              "require": false
+            },
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "cllx",
+              "title": "车辆类型",
+              "dataType": "Text",
+              "dataLength": 255,
+              "notNull": false,
+              "require": false
+            },
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "hzrs",
+              "title": "荷载人数",
+              "dataType": "Numeric",
+              "dataLength": 20,
+              "notNull": false,
+              "require": false
+            },
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "cjh",
+              "title": "车架号",
+              "dataType": "Text",
+              "dataLength": 255,
+              "notNull": false,
+              "require": false
+            },
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "fdjh",
+              "title": "发动机号",
+              "dataType": "Text",
+              "dataLength": 255,
+              "notNull": false,
+              "require": false
+            },
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "ys",
+              "title": "颜色",
+              "dataType": "Text",
+              "dataLength": 255,
+              "notNull": false,
+              "require": false
+            },
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "pp",
+              "title": "品牌",
+              "dataType": "Text",
+              "dataLength": 255,
+              "notNull": false,
+              "require": false
+            },
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "sprq",
+              "title": "上牌日期",
+              "dataType": "Date",
+              "dataLength": 0,
+              "notNull": false,
+              "require": false
+            },
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "czxm",
+              "title": "车主姓名",
+              "dataType": "Text",
+              "dataLength": 255,
+              "notNull": false,
+              "require": false
+            },
+            {
+              "_class": "dcsp.fl.common.Field",
+              "name": "czsfzhm",
+              "title": "车主身份证号码",
+              "dataType": "Text",
+              "dataLength": 255,
+              "notNull": false,
+              "require": false
+            }
+          ]
+        },
+        "createTime": "2018-06-02T01:53:59.234+0000",
+        "updateTime": "2018-06-02T01:53:59.234+0000",
+        "digest": "cVdbjpzGDMSa4QosyBML6Q==",
+        "empty": false
+      },
+      "changeTypes": [
+        "Created"
+      ],
+      "tags": null,
+      "extraAttributes": null,
+      "idRel": "resources/78d58d15-f707-4e60-a193-ae755e2e00fa"
+    }
+  ],
+  "last": true,
+  "totalElements": 19,
+  "totalPages": 1,
+  "first": true,
+  "sort": null,
+  "numberOfElements": 19,
+  "size": 25,
+  "number": 0
+}

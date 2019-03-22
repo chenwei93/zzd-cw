@@ -1,0 +1,24 @@
+{
+  "content": [
+    {
+      "name": "监控应用服务器",
+      "xlh": "06AVFXM",
+      "ip": "192.168.1.40",
+      "sbxh": "x3550-M4",
+      "zt": "在线",
+      "cj": "IBM",
+      "czxt": "Centos Linux release 7.1",
+      "gsbm": "综合业务部",
+      "des": "负责监控系统的指标运算",
+      "fzr": "xx",
+      "xh": "Intel Xecon E5-2620",
+      "wlsl": "6",
+      "zp": "2100MHz",
+      "ljsl": "12",
+      "ncdx": "32G",
+      "nczcws": 8,
+      "xnncdx": "16G",
+      "kjnccs": 4
+    }
+  ]
+}

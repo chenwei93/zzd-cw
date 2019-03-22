@@ -1,0 +1,1199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="851c8f0d-eb75-4944-b2d7-479112b8f4f2" name="Default" comment="测试提交">
+      <change beforePath="$PROJECT_DIR$/../sp" beforeDir="false" afterPath="$PROJECT_DIR$/../sp" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="1699732007">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="37" />
+          <entry key="project.open.time.0" value="2" />
+          <entry key="project.open.time.1" value="24" />
+          <entry key="project.open.time.11" value="1" />
+          <entry key="project.open.time.13" value="1" />
+          <entry key="project.open.time.14" value="1" />
+          <entry key="project.open.time.18" value="1" />
+          <entry key="project.open.time.2" value="4" />
+          <entry key="project.open.time.3" value="3" />
+          <entry key="project.opened" value="37" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="html" value="1" />
+          <entry key="js" value="53" />
+          <entry key="scss" value="5" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="HTML" value="1" />
+          <entry key="JavaScript" value="53" />
+          <entry key="SCSS" value="5" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="js" value="687" />
+          <entry key="scss" value="13" />
+          <entry key="txt" value="185" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JavaScript" value="687" />
+          <entry key="PLAIN_TEXT" value="185" />
+          <entry key="SCSS" value="13" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="1425120828">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="6" />
+          <entry key="project.open.time.1" value="3" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.7" value="1" />
+          <entry key="project.open.time.8" value="1" />
+          <entry key="project.opened" value="6" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="js" value="33" />
+          <entry key="txt" value="27" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JavaScript" value="33" />
+          <entry key="PLAIN_TEXT" value="27" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="drdms" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/view/main/MainController.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="422">
+              <caret line="121" column="22" lean-forward="true" selection-start-line="121" selection-start-column="22" selection-end-line="121" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="tsconfig.json" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>treepicker</find>
+      <find>暂无</find>
+      <find>fieldset</find>
+      <find>radio</find>
+      <find>/drdms/api/datasets</find>
+      <find>radiogroup</find>
+      <find>onEdit</find>
+      <find>console.</find>
+      <find>resSize</find>
+      <find>GridDataset</find>
+      <find>tbar</find>
+      <find>emptyText: '输入查询内容直接回车'</find>
+      <find>Ext.create</find>
+      <find>rowediting</find>
+      <find>entries/</find>
+      <find>close</find>
+      <find>combo</find>
+      <find>Ext.Json,</find>
+      <find>actioncolumn</find>
+      <find>model</find>
+      <find>entrymetadata</find>
+      <find>entry-changelogcen</find>
+      <find>homeTitle</find>
+      <find>submit</find>
+      <find>submitrowwidget</find>
+      <find>/base/api/personnel</find>
+      <find>tab.p</find>
+      <find>selection</find>
+      <find>entry-view</find>
+      <find>entry-changelog</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>catalogbq</replace>
+      <replace>CatalogSS</replace>
+      <replace>catalogss</replace>
+      <replace>status</replace>
+      <replace>it</replace>
+      <replace>entryview</replace>
+      <replace>mdId</replace>
+      <replace>rs</replace>
+      <replace>rpOrgName</replace>
+      <replace>entry</replace>
+      <replace>DRDMS</replace>
+      <replace>unpublished</replace>
+      <replace>resourceformat</replace>
+      <replace>entrymetadata</replace>
+      <replace>entryset</replace>
+      <replace>grid</replace>
+      <replace>catalogHY</replace>
+      <replace>catalogSS</replace>
+      <replace>keyword</replace>
+      <replace>arr</replace>
+      <replace>女</replace>
+      <replace>天津市</replace>
+      <replace>60</replace>
+      <replace>code</replace>
+      <replace>modular</replace>
+      <replace>title</replace>
+      <replace>url</replace>
+      <replace>name</replace>
+      <replace>privilege</replace>
+      <replace>account</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$/app/view/entrywh</dir>
+      <dir>$PROJECT_DIR$/app/view/entry</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$/.." value="菜单权限" />
+      </map>
+    </option>
+    <option name="RESET_MODE" value="SOFT" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/app/view/main/MainWrap.js" />
+        <option value="$PROJECT_DIR$/app/view/account/AccountPrivilege.js" />
+        <option value="$PROJECT_DIR$/app/view/privilege/Privilege.js" />
+        <option value="$PROJECT_DIR$/app/view/privilege/PrivilegeAdd.js" />
+        <option value="$PROJECT_DIR$/app/view/privilege/PrivilegeShow.js" />
+        <option value="$PROJECT_DIR$/app/view/person/Person.js" />
+        <option value="$PROJECT_DIR$/app/view/person/PersonController.js" />
+        <option value="$PROJECT_DIR$/app/view/account/Account.js" />
+        <option value="$PROJECT_DIR$/app/view/account/AccountRoles.js" />
+        <option value="$PROJECT_DIR$/app/view/account/AccountRolesController.js" />
+        <option value="$PROJECT_DIR$/app/view/roles/RolesAllotModularController.js" />
+        <option value="$PROJECT_DIR$/app/view/account/AccountAdd.js" />
+        <option value="$PROJECT_DIR$/app/view/account/AccountAddPersonController.js" />
+        <option value="$PROJECT_DIR$/app/view/account/AccountAddPerson.js" />
+        <option value="$PROJECT_DIR$/app/view/account/AccountController.js" />
+        <option value="$PROJECT_DIR$/app/view/account/AccountAddAccount.js" />
+        <option value="$PROJECT_DIR$/app/view/person/PersonPanel.js" />
+        <option value="$PROJECT_DIR$/app/view/entry/EntryWHController.js" />
+        <option value="$PROJECT_DIR$/app/view/entry/EntryEditPanelWizard.js" />
+        <option value="$PROJECT_DIR$/app/view/entry/EntryEditFormBase.js" />
+        <option value="$PROJECT_DIR$/app/view/entry/EntryViewDataset.js" />
+        <option value="$PROJECT_DIR$/app/view/entry/EntryEditGridDataset.js" />
+        <option value="$PROJECT_DIR$/app/model/GridDataset.js" />
+        <option value="$PROJECT_DIR$/app/view/entrywh/EntryWhYwTypeModel.js" />
+        <option value="$PROJECT_DIR$/app/view/entrywh/EntryWhYwType.js" />
+        <option value="$PROJECT_DIR$/app/view/entry/EntryEditController.js" />
+        <option value="$PROJECT_DIR$/app/view/entrywh/EntryWhYwTypeController.js" />
+        <option value="$PROJECT_DIR$/app/view/keyword/Keyword.js" />
+        <option value="$PROJECT_DIR$/app/store/MenuTreeNode.js" />
+        <option value="$PROJECT_DIR$/app/store/MenuTreeCenter.js" />
+        <option value="$PROJECT_DIR$/app/view/entry/EntryPublishedNodeModel.js" />
+        <option value="$PROJECT_DIR$/app/view/principal/User.js" />
+        <option value="$PROJECT_DIR$/app/view/home/HomeNodeCreate.js" />
+        <option value="$PROJECT_DIR$/sass/var/all.scss" />
+        <option value="$PROJECT_DIR$/sass/src/view/main/MainWrap.scss" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/app/view/entrywh/EntryWhGrid.js" />
+        <option value="$PROJECT_DIR$/app/view/entry/EntryPublishedController.js" />
+        <option value="$PROJECT_DIR$/app/view/entry/EntryPendingCenterController.js" />
+        <option value="$PROJECT_DIR$/app/view/entry/EntryChangeLogCenter.js" />
+        <option value="$PROJECT_DIR$/app/view/entry/EntryChangeLogController.js" />
+        <option value="$PROJECT_DIR$/app/view/entrydata/EntryData.js" />
+        <option value="$PROJECT_DIR$/app/view/entrydata/EntryDataList.js" />
+        <option value="$PROJECT_DIR$/app/view/entrydata/EntryDataListController.js" />
+        <option value="$PROJECT_DIR$/app/view/catalog/CatalogZT.js" />
+        <option value="$PROJECT_DIR$/app/view/entrydata/EntryDataController.js" />
+        <option value="$PROJECT_DIR$/app/view/catalog/CatalogZTController.js" />
+        <option value="$PROJECT_DIR$/app/Application.js" />
+        <option value="$PROJECT_DIR$/app/view/main/MainHeader.js" />
+        <option value="$PROJECT_DIR$/app/model/Entry.js" />
+        <option value="$PROJECT_DIR$/app/view/main/MainController.js" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <annotation-enable>false</annotation-enable>
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="22" />
+    <option name="y" value="27" />
+    <option name="width" value="1202" />
+    <option name="height" value="722" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>General</id>
+          </State>
+          <State>
+            <id>XPath</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>General</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="drdms" type="b2602c69:ProjectViewProjectNode" />
+              <item name="drdms" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="drdms" type="b2602c69:ProjectViewProjectNode" />
+              <item name="drdms" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="drdms" type="b2602c69:ProjectViewProjectNode" />
+              <item name="drdms" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="view" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path" value="/usr/local/bin/node" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app/view/account" />
+      <recent name="$PROJECT_DIR$/app/store/data" />
+      <recent name="$PROJECT_DIR$/resources" />
+      <recent name="$PROJECT_DIR$/app/view/entry/data" />
+      <recent name="$PROJECT_DIR$/app/view/entry" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/resources" />
+      <recent name="$PROJECT_DIR$/app/view/entrywh" />
+      <recent name="$PROJECT_DIR$/app/view/account" />
+      <recent name="$PROJECT_DIR$/app/view/roles" />
+      <recent name="$PROJECT_DIR$/app/view/principal" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="851c8f0d-eb75-4944-b2d7-479112b8f4f2" name="Default" comment="" />
+      <created>1508816560120</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1508816560120</updated>
+      <workItem from="1508816561400" duration="116419000" />
+      <workItem from="1509783476896" duration="29672000" />
+      <workItem from="1509930425104" duration="55978000" />
+      <workItem from="1510208135405" duration="51762000" />
+      <workItem from="1511139447833" duration="9158000" />
+      <workItem from="1511315925804" duration="16922000" />
+      <workItem from="1511757905798" duration="78079000" />
+      <workItem from="1512953593247" duration="1061000" />
+      <workItem from="1512955999697" duration="53229000" />
+      <workItem from="1513216253719" duration="7652000" />
+      <workItem from="1513558409110" duration="31549000" />
+      <workItem from="1513911196618" duration="512000" />
+      <workItem from="1514183945528" duration="4577000" />
+      <workItem from="1514443093965" duration="251000" />
+      <workItem from="1514445976194" duration="5375000" />
+      <workItem from="1514856590029" duration="39549000" />
+      <workItem from="1515978299769" duration="18493000" />
+      <workItem from="1516004135900" duration="89141000" />
+      <workItem from="1517188317254" duration="138939000" />
+      <workItem from="1521101925068" duration="3563000" />
+      <workItem from="1521509622005" duration="13478000" />
+      <workItem from="1522041367197" duration="35000" />
+      <workItem from="1524103790392" duration="68000" />
+      <workItem from="1524190724074" duration="489000" />
+      <workItem from="1525915113289" duration="47986000" />
+      <workItem from="1528006802101" duration="865000" />
+      <workItem from="1528088783193" duration="580000" />
+      <workItem from="1528271215858" duration="2400000" />
+      <workItem from="1529051653807" duration="1343000" />
+      <workItem from="1529658980653" duration="575000" />
+      <workItem from="1530168972725" duration="2000" />
+      <workItem from="1530603841797" duration="1906000" />
+      <workItem from="1531121945902" duration="3616000" />
+      <workItem from="1531272771897" duration="6000" />
+      <workItem from="1532314587084" duration="10000" />
+      <workItem from="1539845450686" duration="1416000" />
+      <workItem from="1540171844619" duration="1597000" />
+      <workItem from="1540186149808" duration="21000" />
+      <workItem from="1540194260904" duration="581000" />
+      <workItem from="1540274601911" duration="1367000" />
+      <workItem from="1540534003718" duration="704000" />
+      <workItem from="1540775813719" duration="23000" />
+      <workItem from="1540953704653" duration="686000" />
+      <workItem from="1540976831980" duration="456000" />
+      <workItem from="1541038146533" duration="607000" />
+      <workItem from="1541040566880" duration="1196000" />
+      <workItem from="1541482257022" duration="522000" />
+      <workItem from="1541665909525" duration="861000" />
+      <workItem from="1542268594574" duration="2594000" />
+      <workItem from="1542339640905" duration="28000" />
+      <workItem from="1542354482077" duration="2807000" />
+      <workItem from="1542593851183" duration="1657000" />
+      <workItem from="1543217936744" duration="2340000" />
+      <workItem from="1544164383179" duration="25000" />
+      <workItem from="1545111761558" duration="29000" />
+      <workItem from="1545373248479" duration="71000" />
+      <workItem from="1545887366869" duration="453000" />
+      <workItem from="1545889490527" duration="3772000" />
+      <workItem from="1545974106757" duration="1995000" />
+      <workItem from="1545977088000" duration="1954000" />
+      <workItem from="1546496174116" duration="1146000" />
+      <workItem from="1547193252932" duration="1092000" />
+      <workItem from="1547451218375" duration="1338000" />
+      <workItem from="1548048470601" duration="2197000" />
+      <workItem from="1548638386243" duration="2334000" />
+      <workItem from="1548810834575" duration="5024000" />
+      <workItem from="1549010115487" duration="550000" />
+      <workItem from="1550719531777" duration="615000" />
+      <workItem from="1550802121100" duration="3014000" />
+      <workItem from="1551842954776" duration="2101000" />
+      <workItem from="1552375237171" duration="5153000" />
+      <workItem from="1552440807438" duration="110000" />
+      <workItem from="1552441300048" duration="8000" />
+      <workItem from="1552441457662" duration="12000" />
+      <workItem from="1552441798682" duration="1983000" />
+      <workItem from="1552458070570" duration="2264000" />
+      <workItem from="1552979781444" duration="65000" />
+      <workItem from="1553073440381" duration="25000" />
+    </task>
+    <task id="LOCAL-00001" summary="drdms修改目录分类&#10;&#10;&#10;目录分类添加关闭，新增分类功能。">
+      <created>1515143210121</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1515143210121</updated>
+    </task>
+    <task id="LOCAL-00002" summary="drdms添加提示">
+      <created>1515396355238</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1515396355238</updated>
+    </task>
+    <task id="LOCAL-00003" summary="drdmsinitComponent=&gt;render">
+      <created>1515402954852</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1515402954852</updated>
+    </task>
+    <task id="LOCAL-00004" summary="drdms修改指定分类新增，变更目录">
+      <created>1515489386550</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1515489386550</updated>
+    </task>
+    <task id="LOCAL-00005" summary="1.AP新增服务，选择一条服务，修改预览&#10;2.AP新增应用修改视图预览&#10;3.RBase首页双击显示查看详情页&#10;4.RBase资源池查看页面（Db）修改布局，隐藏密码&#10;5.RBase资源库管理，编辑页面修改资源结构信息&#10;6.RBase添加提示信息&#10;7.AP应用、服务维护，发布添加提示信息">
+      <created>1515748299100</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1515748299100</updated>
+    </task>
+    <task id="LOCAL-00006" summary="删除console">
+      <created>1515983431989</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1515983431989</updated>
+    </task>
+    <task id="LOCAL-00007" summary="1.修改drdms，ap，rbase首页布局&#10;2.替换ap，rbase样式（all.scss）">
+      <created>1516007231661</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1516007231661</updated>
+    </task>
+    <task id="LOCAL-00008" summary="DRDMS账户管理新增角色分配，密码更改&#10;&#10;&#10;遗留：获取角色的请求，分配角色和密码更改的请求">
+      <created>1516093198458</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1516093198458</updated>
+    </task>
+    <task id="LOCAL-00009" summary="DRDMS动态获取菜单和mainheader相关数据&#10;&#10;&#10;遗留：菜单展开子节点报错：Cannot read property 'internalId' of null。">
+      <created>1516176815791</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1516176815791</updated>
+    </task>
+    <task id="LOCAL-00010" summary="DRDMS修改动态获取菜单">
+      <created>1516182237940</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1516182237940</updated>
+    </task>
+    <task id="LOCAL-00011" summary="DRDMS修改动态获取、过滤菜单。">
+      <created>1516266336055</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1516266336056</updated>
+    </task>
+    <task id="LOCAL-00012" summary="1.ap修改应用预览保存&#10;2.DRDMS修改entrydata-list的信息项">
+      <created>1516612456845</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1516612456845</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Revert &quot;1.ap修改应用预览保存 2.DRDMS修改entrydata-list的信息项&quot;&#10;&#10;This reverts commit 3c75192">
+      <created>1516757211900</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1516757211900</updated>
+    </task>
+    <task id="LOCAL-00014" summary="1.ap修改应用预览保存&#10;2.DRDMS修改entrydata-list的信息项">
+      <created>1516757326285</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1516757326285</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Revert &quot;1.ap修改应用预览保存 2.DRDMS修改entrydata-list的信息项&quot;&#10;&#10;This reverts commit ad9f3a9">
+      <created>1516757542649</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1516757542649</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Revert &quot;1.ap修改应用预览保存 2.DRDMS修改entrydata-list的信息项&quot;&#10;&#10;This reverts commit ad9f3a9">
+      <created>1516757561309</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1516757561309</updated>
+    </task>
+    <task id="LOCAL-00017" summary="ap服务列别新增'部门'、'服务类型'列，修改'类型'为'列别'">
+      <created>1516785032730</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1516785032730</updated>
+    </task>
+    <task id="LOCAL-00018" summary="修改获取登陆后信息的请求">
+      <created>1517880837855</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1517880837855</updated>
+    </task>
+    <task id="LOCAL-00019" summary="drdms新增人员、角色、模块、菜单管理&#10;&#10;&#10;未完善">
+      <created>1517907882780</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1517907882781</updated>
+    </task>
+    <task id="LOCAL-00020" summary="1.drdms完善人员、角色管理&#10;2.修改是否登陆判断&#10;&#10;&#10;&#10;人员、角色、模块菜单管理未完善">
+      <created>1517994661689</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1517994661689</updated>
+    </task>
+    <task id="LOCAL-00021" summary="drdms修改人员、角色、模块、菜单管理&#10;&#10;&#10;未完善">
+      <created>1518080960545</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1518080960545</updated>
+    </task>
+    <task id="LOCAL-00022" summary="drdms修改人员、角色、模块、菜单管理模拟数据等&#10;&#10;&#10;未完善">
+      <created>1518167066348</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1518167066348</updated>
+    </task>
+    <task id="LOCAL-00023" summary="1.人员添加重置账户&#10;2.角色添加批量处理&#10;3.人员、角色、菜单、模块添加查看、新增等功能">
+      <created>1519636623216</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1519636623216</updated>
+    </task>
+    <task id="LOCAL-00024" summary="修改账号新增">
+      <created>1519722864243</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1519722864243</updated>
+    </task>
+    <task id="LOCAL-00025" summary="修改目录字段">
+      <created>1525944956696</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1525944956696</updated>
+    </task>
+    <task id="LOCAL-00026" summary="修改目录字段显示">
+      <created>1526032253101</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1526032253101</updated>
+    </task>
+    <task id="LOCAL-00027" summary="1.修改目录字段&#10;2.基础数据目录添加系统默认服务类型">
+      <created>1526219159160</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1526219159160</updated>
+    </task>
+    <task id="LOCAL-00028" summary="查看附件form显示数据">
+      <created>1526268621760</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1526268621760</updated>
+    </task>
+    <task id="LOCAL-00029" summary="修改资源池显示form">
+      <created>1526288914788</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1526288914788</updated>
+    </task>
+    <task id="LOCAL-00030" summary="修改附件嵌入类型显示">
+      <created>1526349421152</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1526349421152</updated>
+    </task>
+    <task id="LOCAL-00031" summary="drdms、rbase、ap风格统一">
+      <created>1540173538615</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1540173538615</updated>
+    </task>
+    <task id="LOCAL-00032" summary="drdms、rbase、dg 修改logo和标题">
+      <created>1540977193240</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1540977193240</updated>
+    </task>
+    <task id="LOCAL-00033" summary="drdms标题区别部门、中心">
+      <created>1541666166214</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1541666166214</updated>
+    </task>
+    <task id="LOCAL-00034" summary="修改drdms获取用户">
+      <created>1545890041413</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1545890041413</updated>
+    </task>
+    <task id="LOCAL-00035" summary="drdms:&#10;1.修改跳转&#10;2.修改注销">
+      <created>1545975452107</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1545975452107</updated>
+    </task>
+    <task id="LOCAL-00036" summary="drdms 登录失败跳转">
+      <created>1545975489664</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1545975489664</updated>
+    </task>
+    <task id="LOCAL-00037" summary="新增湖州原型（da）">
+      <created>1552375920211</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1552375920211</updated>
+    </task>
+    <task id="LOCAL-00038" summary="新增湖州原型（da）">
+      <created>1552378244752</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1552378244752</updated>
+    </task>
+    <task id="LOCAL-00039" summary="测试提交">
+      <created>1552441916324</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1552441916324</updated>
+    </task>
+    <task id="LOCAL-00040" summary="测试提交">
+      <created>1552455181533</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1552455181533</updated>
+    </task>
+    <option name="localTasksCounter" value="41" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="882033000" />
+  </component>
+  <component name="TodoView" selected-index="1">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="22" y="27" width="1202" height="722" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.8504202" visible="true" weight="0.33700255" />
+      <window_info id="Structure" order="1" sideWeight="0.4873817" weight="0.24809484" />
+      <window_info id="Favorites" order="2" sideWeight="0.14957984" side_tool="true" weight="0.26365188" />
+      <window_info anchor="bottom" id="Messages" order="0" sideWeight="0.49110922" weight="0.33492064" />
+      <window_info anchor="bottom" id="Message" order="1" />
+      <window_info anchor="bottom" id="Find" order="2" sideWeight="0.44138545" weight="0.32715008" />
+      <window_info anchor="bottom" id="Run" order="3" />
+      <window_info anchor="bottom" id="Debug" order="4" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="7" sideWeight="0.44538528" weight="0.42222223" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.3488569" side_tool="true" visible="true" weight="0.11904762" />
+      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.47756138" weight="0.2952381" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="10" sideWeight="0.6511431" visible="true" weight="0.11904762" />
+      <window_info anchor="bottom" id="Docker" order="11" show_stripe_button="false" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="EXTERNAL /Users/chenwei/project/zzd/apps/sp">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Revert &quot;1.ap修改应用预览保存 2.DRDMS修改entrydata-list的信息项&quot;&#10;&#10;This reverts commit ad9f3a9" />
+    <MESSAGE value="ap服务列别新增'部门'、'服务类型'列，修改'类型'为'列别'" />
+    <MESSAGE value="修改获取登陆后信息的请求" />
+    <MESSAGE value="drdms新增人员、角色、模块、菜单管理&#10;&#10;&#10;未完善" />
+    <MESSAGE value="1.drdms完善人员、角色管理&#10;2.修改是否登陆判断&#10;&#10;&#10;&#10;人员、角色、模块菜单管理未完善" />
+    <MESSAGE value="drdms修改人员、角色、模块、菜单管理&#10;&#10;&#10;未完善" />
+    <MESSAGE value="drdms修改人员、角色、模块、菜单管理模拟数据等&#10;&#10;&#10;未完善" />
+    <MESSAGE value="1.人员添加重置账户&#10;2.角色添加批量处理&#10;3.人员、角色、菜单、模块添加查看、新增等功能" />
+    <MESSAGE value="修改账号新增" />
+    <MESSAGE value="修改目录字段" />
+    <MESSAGE value="修改目录字段显示" />
+    <MESSAGE value="1.修改目录字段&#10;2.基础数据目录添加系统默认服务类型" />
+    <MESSAGE value="查看附件form显示数据" />
+    <MESSAGE value="修改资源池显示form" />
+    <MESSAGE value="修改附件嵌入类型显示" />
+    <MESSAGE value="修改ap" />
+    <MESSAGE value="drdms、rbase、ap风格统一" />
+    <MESSAGE value="drdms、rbase、dg 修改logo和标题" />
+    <MESSAGE value="drdms标题区别部门、中心" />
+    <MESSAGE value="修改drdms、rbase" />
+    <MESSAGE value="修改drdms获取用户" />
+    <MESSAGE value="drdms:&#10;1.修改跳转&#10;2.修改注销" />
+    <MESSAGE value="drdms 登录失败跳转" />
+    <MESSAGE value="新增湖州原型（da）" />
+    <MESSAGE value="测试提交" />
+    <option name="LAST_COMMIT_MESSAGE" value="测试提交" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/app/view/entryset/EntrySetEditMetadata.js</url>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/app/view/entrywh/EntryWhController.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="27" column="27" selection-start-line="27" selection-start-column="27" selection-end-line="27" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/view/entry/EntryWH.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="23" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/view/home/HomeNodePublish.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1020">
+          <caret line="60" column="39" lean-forward="true" selection-start-line="60" selection-start-column="39" selection-end-line="60" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8389">
+          <caret line="503" column="44" selection-start-line="503" selection-start-column="44" selection-end-line="503" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/view/principal/User.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="20" lean-forward="true" selection-start-line="18" selection-start-column="20" selection-end-line="18" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/view/home/HomeNodeCreate.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-552">
+          <caret line="24" column="21" lean-forward="true" selection-start-line="24" selection-start-column="21" selection-end-line="24" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/overrides/base/ViewController.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="5" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/view/home/HomeNode.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/view/home/HomeNodeController.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2431">
+          <caret line="143" column="14" lean-forward="true" selection-start-line="143" selection-start-column="14" selection-end-line="143" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sass/src/view/main/MainWrap.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="817">
+          <caret line="54" column="15" selection-start-line="54" selection-start-column="15" selection-end-line="54" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sass/var/all.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" selection-start-line="3" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/view/realmnode/RealmNodeModel.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="17" lean-forward="true" selection-start-line="22" selection-start-column="17" selection-end-line="22" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="31" selection-start-line="7" selection-start-column="31" selection-end-line="7" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/view/entry/EntryEditController.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4743">
+          <caret line="279" column="28" selection-start-line="279" selection-start-column="28" selection-end-line="279" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/model/EntryData.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/view/region/RegionController.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="23" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/view/keyword/Keyword.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="697">
+          <caret line="41" column="9" lean-forward="true" selection-start-line="41" selection-start-column="9" selection-end-line="41" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/view/dictionary/DictionaryGrid.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="14" selection-start-line="3" selection-start-column="14" selection-end-line="3" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/view/entry/EntryViewDataset.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1241">
+          <caret line="73" column="16" selection-start-line="73" selection-start-column="16" selection-end-line="73" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/view/entry/EntryEditGridDataset.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2992">
+          <caret line="176" column="37" selection-start-line="176" selection-start-column="17" selection-end-line="176" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/view/entry/EntryViewDatasetController.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/model/EntryMetadata.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="24" selection-start-column="24" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/view/entrywh/EntryWhGrid.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="27" column="2" selection-start-line="27" selection-start-column="2" selection-end-line="31" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/view/entryset/EntryMetadataShow.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="32" selection-start-column="32" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/view/entryset/EntryMetadataEdit.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="496">
+          <caret line="146" column="20" lean-forward="true" selection-start-line="146" selection-start-column="20" selection-end-line="146" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/view/entry/EntryPublishedController.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="66" column="56" selection-start-line="66" selection-start-column="56" selection-end-line="66" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/view/entry/EntryPublishedCenter.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/view/entry/EntryPendingCenterController.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="363">
+          <caret line="115" column="39" selection-start-line="115" selection-start-column="39" selection-end-line="115" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/view/entry/EntryPendingCenterModel.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/view/entry/EntryPendingCenter.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-311" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/view/entry/EntryChangeLogCenter.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="451">
+          <caret line="36" column="9" lean-forward="true" selection-start-line="22" selection-start-column="7" selection-end-line="36" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/view/entry/EntryChangeLogController.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="434">
+          <caret line="102" column="5" lean-forward="true" selection-start-line="81" selection-start-column="4" selection-end-line="102" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/view/entrydata/EntryDataList.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="444">
+          <caret line="36" column="9" selection-start-line="36" selection-start-column="9" selection-end-line="36" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/view/entrydata/EntryDataListController.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="316">
+          <caret line="46" column="30" selection-start-line="46" selection-start-column="30" selection-end-line="46" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/view/entrydata/EntryDataController.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="181">
+          <caret line="37" column="22" lean-forward="true" selection-start-line="37" selection-start-column="22" selection-end-line="37" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/view/entry/EntryChangeLog.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-162">
+          <caret line="25" column="5" lean-forward="true" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/view/entrydata/EntryData.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="629">
+          <caret line="37" column="9" selection-start-line="23" selection-start-column="3" selection-end-line="37" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/view/catalog/CatalogZT.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="646">
+          <caret line="38" column="9" selection-start-line="38" selection-start-column="9" selection-end-line="38" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/view/catalog/CatalogZTController.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1224">
+          <caret line="72" column="37" selection-start-line="72" selection-start-column="37" selection-end-line="72" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/view/entry/EntryCatalog.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" column="5" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/view/entry/EntryFLController.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="782">
+          <caret line="46" column="11" lean-forward="true" selection-start-line="46" selection-start-column="11" selection-end-line="46" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/view/catalog/CatalogHYController.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="629">
+          <caret line="37" column="23" lean-forward="true" selection-start-line="37" selection-start-column="23" selection-end-line="37" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/view/entry/EntryFL.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="23" lean-forward="true" selection-end-line="152" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/view/catalog/CatalogSSModel.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="31" column="13" selection-start-line="11" selection-start-column="12" selection-end-line="31" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/view/main/MainHeaderController.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-545" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Application.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="296">
+          <caret line="24" column="4" selection-start-line="24" selection-start-column="4" selection-end-line="24" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/model/Entry.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="519">
+          <caret line="143" column="9" selection-start-line="143" selection-start-column="9" selection-end-line="143" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/view/main/MainHeader.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="505">
+          <caret line="38" column="28" selection-start-line="38" selection-start-column="28" selection-end-line="38" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/view/entry/EntryView.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/view/entry/EntrySearch.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="13" lean-forward="true" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/view/main/MainController.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="422">
+          <caret line="121" column="22" lean-forward="true" selection-start-line="121" selection-start-column="22" selection-end-line="121" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

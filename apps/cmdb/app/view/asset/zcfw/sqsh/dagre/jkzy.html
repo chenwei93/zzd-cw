@@ -1,0 +1,122 @@
+<!doctype html>
+
+<meta charset="utf-8">
+<title>Dagre D3 Demo: TCP State Diagram</title>
+
+<link rel="stylesheet" href="demo.css">
+<script src="https://d3js.org/d3.v4.min.js" charset="utf-8"></script>
+<!--<script src="../dagre-d3.js"></script>-->
+<script src="dist/dagre-d3.js"></script>
+
+<style id="css">
+body {
+  font: 300 14px 'Helvetica Neue', Helvetica;
+}
+
+.node rect {
+  stroke: #333;
+  fill: #fff;
+}
+
+.edgePath path {
+  stroke: #333;
+  fill: #333;
+  stroke-width: 1.5px;
+}
+</style>
+
+
+<svg width=600 height=400><g/></svg>
+
+
+<script id="js">
+// Create a new directed graph
+var g = new dagreD3.graphlib.Graph().setGraph({});
+
+// States and transitions from RFC 793
+//var states = [ "CLOSED", "LISTEN", "SYN RCVD", "SYN SENT",
+//               "ESTAB", "FINWAIT-1", "CLOSE WAIT", "FINWAIT-2",
+//               "CLOSING", "LAST-ACK", "TIME WAIT" ];
+var states = ["申请","技术人员审核","领导审核","实施","结果告知"];
+// Automatically label each of the nodes
+//states.forEach(function(state) { g.setNode(state, { label: state }); });
+states.forEach(function(state) { g.setNode(state, { label: state }); });
+
+// Set up the edges
+g.setEdge("申请", "技术人员审核" ,{label: ""});
+g.setEdge( "技术人员审核" ,"申请",{label: "审核不通过"});
+g.setEdge("技术人员审核" , "领导审核", {label: "审核通过"});
+g.setEdge( "领导审核","技术人员审核" , {label: "审核不通过"});
+g.setEdge("领导审核" ,"实施", {label: "审核通过"});
+g.setEdge("实施","结果告知" , {label: "消息通知"});
+
+
+// Set some general styles
+g.nodes().forEach(function(v) {
+  var node = g.node(v);
+  node.rx = node.ry = 5;
+});
+var getRequest = function () {
+    var url = location.search; //获取url中"?"符后的字串
+    url = encodeURI(url);
+
+    var theRequest = new Object();
+    if (url.indexOf("?") != -1) {
+        var str = url.substr(1);
+        strs = str.split("&");
+        for (var i = 0; i < strs.length; i++) {
+            theRequest[strs[i].split("=")[0]] = unescape(strs[i].split("=")[1]);
+        }
+    }
+    return theRequest;
+};
+// Add some custom colors based on state
+g.node('申请').style = "fill: #D3D3D3";
+g.node('结果告知').style = "fill:#D3D3D3";
+var status = getRequest('type').type;
+if(status != null){
+    var value = '';
+    if(status == 'jsrysh'){
+        value ='技术人员审核';
+        g.node(value).style = "fill: #87CEFA";
+    }else if(status == 'ldsh'){
+        value = '领导审核';
+        g.node(value).style = "fill: #87CEFA";
+    }else if(status =='ssjk'){
+        value = '实施';
+            g.node(value).style = "fill: #87CEFA";
+    }else if(status =='jggzjk'){
+        value = '结果告知';
+        g.node(value).style = "fill: #87CEFA";
+    }else{
+        value = '申请';
+        g.node(value).style = "fill: #87CEFA";
+    }
+
+}
+
+
+
+var svg = d3.select("svg"),
+    inner = svg.select("g");
+
+// Set up zoom support
+var zoom = d3.zoom().on("zoom", function() {
+      inner.attr("transform", d3.event.transform);
+    });
+svg.call(zoom);
+
+// Create the renderer
+var render = new dagreD3.render();
+
+// Run the renderer. This is what draws the final graph.
+render(inner, g);
+
+// Center the graph
+var initialScale = 0.75;
+svg.call(zoom.transform, d3.zoomIdentity.translate((svg.attr("width") - g.graph().width * initialScale) / 2, 20).scale(initialScale));
+
+svg.attr('height', g.graph().height * initialScale + 40);
+
+</script>
+

@@ -1,0 +1,68 @@
+.icon {
+    margin-left: -12px;
+    vertical-align: middle;
+}
+
+#infovis-label div:hover {
+    cursor: pointer;
+}
+
+.andiv {
+    position: absolute;
+    right: -9px;
+    display: inline;
+    width: 30px;
+    height: 59px;
+    top: -1px;
+    text-align: center;
+    /*background-color: white;*/
+}
+
+.green {
+    margin: 5px 7px;
+    width: 10px;
+    height: 10px;
+    text-align: center;
+    border-radius: 7px;
+    background-color: #56B750;
+    border: 2px #D3D3D3 solid;
+}
+
+.gray {
+    margin: 5px 7px;
+    width: 10px;
+    height: 10px;
+    text-align: center;
+    border-radius: 7px;
+    background-color: white;
+    border: 2px #D3D3D3 solid;
+}
+
+.choosegray {
+    margin: 5px 7px;
+    width: 10px;
+    height: 10px;
+    text-align: center;
+    border-radius: 7px;
+    background-color: Gainsboro;
+    border: 2px #D3D3D3 solid;
+}
+
+.red {
+    margin: 5px 7px;
+    width: 10px;
+    height: 10px;
+    text-align: center;
+    border-radius: 7px;
+    background-color: red;
+    border: 2px #D3D3D3 solid;
+}
+
+.textcenter {
+    text-align: center;
+}
+
+.infovis-canvaswidget {
+    width: 100%;
+    height: 100%;
+}

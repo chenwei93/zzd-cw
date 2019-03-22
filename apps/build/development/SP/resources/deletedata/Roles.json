@@ -1,0 +1,60 @@
+{
+  "content": [
+    {
+      "name": "管理员",
+      "modular": [
+        {
+          "title": "分布式目录管理系统（中心）",
+          "code": "DRDMSZ"
+        },
+        {
+          "title": "分布式目录管理系统（部门）",
+          "code": "DRDMSB"
+        },
+        {
+          "title": "数据服务管理平台",
+          "code": "AP"
+        },
+        {
+          "title": "节点资源管理系统",
+          "code": "RBase"
+        }
+      ]
+    },
+    {
+      "name": "普通用户",
+      "modular": [
+        {
+          "title": "分布式目录管理系统（中心）",
+          "code": "DRDMSZ"
+        }
+      ]
+    },
+    {
+      "name": "VIP",
+      "modular": [
+        {
+          "title": "分布式目录管理系统（部门）",
+          "code": "DRDMSB"
+        }
+      ]
+    },
+    {
+      "name": "SVIP",
+      "modular": [
+        {
+          "title": "节点资源管理系统",
+          "code": "RBase"
+        }
+      ],
+      "xx": [
+        {
+          "code": "RBase"
+        },
+        {
+          "code": "AP"
+        }
+      ]
+    }
+  ]
+}

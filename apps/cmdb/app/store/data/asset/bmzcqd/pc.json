@@ -1,0 +1,34 @@
+{
+  "content": [
+    {
+      "title": "pc1",
+      "code": "pc1",
+      "des": "这是pc1",
+      "type":"yzysq"
+    },
+    {
+      "title": "pc2",
+      "code": "pc2",
+      "des": "这是pc2",
+      "type":"yzysq"
+    },
+    {
+      "title": "pc3",
+      "code": "pc3",
+      "des": "这是pc3",
+      "type":"yzysq"
+    },
+    {
+      "title": "pc4",
+      "code": "pc4",
+      "des": "这是pc4",
+      "type":"yzysq"
+    },
+    {
+      "title": "pc5",
+      "code": "pc5",
+      "des": "这是pc5",
+      "type":"yzysq"
+    }
+  ]
+}

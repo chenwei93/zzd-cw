@@ -1,0 +1,3471 @@
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:99 */
+.fa-times-circle-o:before {
+    content: "\f05c" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:100 */
+.fa-check-circle-o:before {
+    content: "\f05d" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:101 */
+.fa-ban:before {
+    content: "\f05e" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:102 */
+.fa-arrow-left:before {
+    content: "\f060" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:103 */
+.fa-arrow-right:before {
+    content: "\f061" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:104 */
+.fa-arrow-up:before {
+    content: "\f062" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:105 */
+.fa-arrow-down:before {
+    content: "\f063" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:106 */
+.fa-mail-forward:before,
+.fa-share:before {
+    content: "\f064" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:108 */
+.fa-expand:before {
+    content: "\f065" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:109 */
+.fa-compress:before {
+    content: "\f066" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:110 */
+.fa-plus:before {
+    content: "\f067" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:111 */
+.fa-minus:before {
+    content: "\f068" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:112 */
+.fa-asterisk:before {
+    content: "\f069" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:113 */
+.fa-exclamation-circle:before {
+    content: "\f06a" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:114 */
+.fa-gift:before {
+    content: "\f06b" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:115 */
+.fa-leaf:before {
+    content: "\f06c" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:116 */
+.fa-fire:before {
+    content: "\f06d" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:117 */
+.fa-eye:before {
+    content: "\f06e" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:118 */
+.fa-eye-slash:before {
+    content: "\f070" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:119 */
+.fa-warning:before,
+.fa-exclamation-triangle:before {
+    content: "\f071" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:121 */
+.fa-plane:before {
+    content: "\f072" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:122 */
+.fa-calendar:before {
+    content: "\f073" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:123 */
+.fa-random:before {
+    content: "\f074" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:124 */
+.fa-comment:before {
+    content: "\f075" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:125 */
+.fa-magnet:before {
+    content: "\f076" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:126 */
+.fa-chevron-up:before {
+    content: "\f077" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:127 */
+.fa-chevron-down:before {
+    content: "\f078" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:128 */
+.fa-retweet:before {
+    content: "\f079" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:129 */
+.fa-shopping-cart:before {
+    content: "\f07a" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:130 */
+.fa-folder:before {
+    content: "\f07b" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:131 */
+.fa-folder-open:before {
+    content: "\f07c" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:132 */
+.fa-arrows-v:before {
+    content: "\f07d" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:133 */
+.fa-arrows-h:before {
+    content: "\f07e" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:134 */
+.fa-bar-chart-o:before,
+.fa-bar-chart:before {
+    content: "\f080" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:136 */
+.fa-twitter-square:before {
+    content: "\f081" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:137 */
+.fa-facebook-square:before {
+    content: "\f082" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:138 */
+.fa-camera-retro:before {
+    content: "\f083" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:139 */
+.fa-key:before {
+    content: "\f084" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:140 */
+.fa-gears:before,
+.fa-cogs:before {
+    content: "\f085" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:142 */
+.fa-comments:before {
+    content: "\f086" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:143 */
+.fa-thumbs-o-up:before {
+    content: "\f087" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:144 */
+.fa-thumbs-o-down:before {
+    content: "\f088" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:145 */
+.fa-star-half:before {
+    content: "\f089" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:146 */
+.fa-heart-o:before {
+    content: "\f08a" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:147 */
+.fa-sign-out:before {
+    content: "\f08b" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:148 */
+.fa-linkedin-square:before {
+    content: "\f08c" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:149 */
+.fa-thumb-tack:before {
+    content: "\f08d" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:150 */
+.fa-external-link:before {
+    content: "\f08e" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:151 */
+.fa-sign-in:before {
+    content: "\f090" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:152 */
+.fa-trophy:before {
+    content: "\f091" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:153 */
+.fa-github-square:before {
+    content: "\f092" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:154 */
+.fa-upload:before {
+    content: "\f093" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:155 */
+.fa-lemon-o:before {
+    content: "\f094" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:156 */
+.fa-phone:before {
+    content: "\f095" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:157 */
+.fa-square-o:before {
+    content: "\f096" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:158 */
+.fa-bookmark-o:before {
+    content: "\f097" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:159 */
+.fa-phone-square:before {
+    content: "\f098" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:160 */
+.fa-twitter:before {
+    content: "\f099" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:161 */
+.fa-facebook-f:before,
+.fa-facebook:before {
+    content: "\f09a" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:163 */
+.fa-github:before {
+    content: "\f09b" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:164 */
+.fa-unlock:before {
+    content: "\f09c" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:165 */
+.fa-credit-card:before {
+    content: "\f09d" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:166 */
+.fa-feed:before,
+.fa-rss:before {
+    content: "\f09e" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:168 */
+.fa-hdd-o:before {
+    content: "\f0a0" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:169 */
+.fa-bullhorn:before {
+    content: "\f0a1" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:170 */
+.fa-bell:before {
+    content: "\f0f3" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:171 */
+.fa-certificate:before {
+    content: "\f0a3" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:172 */
+.fa-hand-o-right:before {
+    content: "\f0a4" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:173 */
+.fa-hand-o-left:before {
+    content: "\f0a5" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:174 */
+.fa-hand-o-up:before {
+    content: "\f0a6" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:175 */
+.fa-hand-o-down:before {
+    content: "\f0a7" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:176 */
+.fa-arrow-circle-left:before {
+    content: "\f0a8" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:177 */
+.fa-arrow-circle-right:before {
+    content: "\f0a9" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:178 */
+.fa-arrow-circle-up:before {
+    content: "\f0aa" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:179 */
+.fa-arrow-circle-down:before {
+    content: "\f0ab" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:180 */
+.fa-globe:before {
+    content: "\f0ac" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:181 */
+.fa-wrench:before {
+    content: "\f0ad" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:182 */
+.fa-tasks:before {
+    content: "\f0ae" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:183 */
+.fa-filter:before {
+    content: "\f0b0" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:184 */
+.fa-briefcase:before {
+    content: "\f0b1" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:185 */
+.fa-arrows-alt:before {
+    content: "\f0b2" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:186 */
+.fa-group:before,
+.fa-users:before {
+    content: "\f0c0" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:188 */
+.fa-chain:before,
+.fa-link:before {
+    content: "\f0c1" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:190 */
+.fa-cloud:before {
+    content: "\f0c2" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:191 */
+.fa-flask:before {
+    content: "\f0c3" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:192 */
+.fa-cut:before,
+.fa-scissors:before {
+    content: "\f0c4" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:194 */
+.fa-copy:before,
+.fa-files-o:before {
+    content: "\f0c5" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:196 */
+.fa-paperclip:before {
+    content: "\f0c6" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:197 */
+.fa-save:before,
+.fa-floppy-o:before {
+    content: "\f0c7" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:199 */
+.fa-square:before {
+    content: "\f0c8" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:200 */
+.fa-navicon:before,
+.fa-reorder:before,
+.fa-bars:before {
+    content: "\f0c9" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:203 */
+.fa-list-ul:before {
+    content: "\f0ca" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:204 */
+.fa-list-ol:before {
+    content: "\f0cb" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:205 */
+.fa-strikethrough:before {
+    content: "\f0cc" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:206 */
+.fa-underline:before {
+    content: "\f0cd" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:207 */
+.fa-table:before {
+    content: "\f0ce" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:208 */
+.fa-magic:before {
+    content: "\f0d0" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:209 */
+.fa-truck:before {
+    content: "\f0d1" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:210 */
+.fa-pinterest:before {
+    content: "\f0d2" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:211 */
+.fa-pinterest-square:before {
+    content: "\f0d3" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:212 */
+.fa-google-plus-square:before {
+    content: "\f0d4" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:213 */
+.fa-google-plus:before {
+    content: "\f0d5" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:214 */
+.fa-money:before {
+    content: "\f0d6" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:215 */
+.fa-caret-down:before {
+    content: "\f0d7" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:216 */
+.fa-caret-up:before {
+    content: "\f0d8" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:217 */
+.fa-caret-left:before {
+    content: "\f0d9" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:218 */
+.fa-caret-right:before {
+    content: "\f0da" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:219 */
+.fa-columns:before {
+    content: "\f0db" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:220 */
+.fa-unsorted:before,
+.fa-sort:before {
+    content: "\f0dc" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:222 */
+.fa-sort-down:before,
+.fa-sort-desc:before {
+    content: "\f0dd" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:224 */
+.fa-sort-up:before,
+.fa-sort-asc:before {
+    content: "\f0de" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:226 */
+.fa-envelope:before {
+    content: "\f0e0" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:227 */
+.fa-linkedin:before {
+    content: "\f0e1" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:228 */
+.fa-rotate-left:before,
+.fa-undo:before {
+    content: "\f0e2" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:230 */
+.fa-legal:before,
+.fa-gavel:before {
+    content: "\f0e3" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:232 */
+.fa-dashboard:before,
+.fa-tachometer:before {
+    content: "\f0e4" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:234 */
+.fa-comment-o:before {
+    content: "\f0e5" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:235 */
+.fa-comments-o:before {
+    content: "\f0e6" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:236 */
+.fa-flash:before,
+.fa-bolt:before {
+    content: "\f0e7" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:238 */
+.fa-sitemap:before {
+    content: "\f0e8" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:239 */
+.fa-umbrella:before {
+    content: "\f0e9" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:240 */
+.fa-paste:before,
+.fa-clipboard:before {
+    content: "\f0ea" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:242 */
+.fa-lightbulb-o:before {
+    content: "\f0eb" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:243 */
+.fa-exchange:before {
+    content: "\f0ec" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:244 */
+.fa-cloud-download:before {
+    content: "\f0ed" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:245 */
+.fa-cloud-upload:before {
+    content: "\f0ee" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:246 */
+.fa-user-md:before {
+    content: "\f0f0" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:247 */
+.fa-stethoscope:before {
+    content: "\f0f1" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:248 */
+.fa-suitcase:before {
+    content: "\f0f2" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:249 */
+.fa-bell-o:before {
+    content: "\f0a2" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:250 */
+.fa-coffee:before {
+    content: "\f0f4" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:251 */
+.fa-cutlery:before {
+    content: "\f0f5" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:252 */
+.fa-file-text-o:before {
+    content: "\f0f6" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:253 */
+.fa-building-o:before {
+    content: "\f0f7" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:254 */
+.fa-hospital-o:before {
+    content: "\f0f8" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:255 */
+.fa-ambulance:before {
+    content: "\f0f9" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:256 */
+.fa-medkit:before {
+    content: "\f0fa" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:257 */
+.fa-fighter-jet:before {
+    content: "\f0fb" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:258 */
+.fa-beer:before {
+    content: "\f0fc" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:259 */
+.fa-h-square:before {
+    content: "\f0fd" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:260 */
+.fa-plus-square:before {
+    content: "\f0fe" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:261 */
+.fa-angle-double-left:before {
+    content: "\f100" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:262 */
+.fa-angle-double-right:before {
+    content: "\f101" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:263 */
+.fa-angle-double-up:before {
+    content: "\f102" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:264 */
+.fa-angle-double-down:before {
+    content: "\f103" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:265 */
+.fa-angle-left:before {
+    content: "\f104" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:266 */
+.fa-angle-right:before {
+    content: "\f105" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:267 */
+.fa-angle-up:before {
+    content: "\f106" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:268 */
+.fa-angle-down:before {
+    content: "\f107" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:269 */
+.fa-desktop:before {
+    content: "\f108" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:270 */
+.fa-laptop:before {
+    content: "\f109" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:271 */
+.fa-tablet:before {
+    content: "\f10a" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:272 */
+.fa-mobile-phone:before,
+.fa-mobile:before {
+    content: "\f10b" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:274 */
+.fa-circle-o:before {
+    content: "\f10c" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:275 */
+.fa-quote-left:before {
+    content: "\f10d" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:276 */
+.fa-quote-right:before {
+    content: "\f10e" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:277 */
+.fa-spinner:before {
+    content: "\f110" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:278 */
+.fa-circle:before {
+    content: "\f111" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:279 */
+.fa-mail-reply:before,
+.fa-reply:before {
+    content: "\f112" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:281 */
+.fa-github-alt:before {
+    content: "\f113" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:282 */
+.fa-folder-o:before {
+    content: "\f114" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:283 */
+.fa-folder-open-o:before {
+    content: "\f115" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:284 */
+.fa-smile-o:before {
+    content: "\f118" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:285 */
+.fa-frown-o:before {
+    content: "\f119" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:286 */
+.fa-meh-o:before {
+    content: "\f11a" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:287 */
+.fa-gamepad:before {
+    content: "\f11b" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:288 */
+.fa-keyboard-o:before {
+    content: "\f11c" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:289 */
+.fa-flag-o:before {
+    content: "\f11d" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:290 */
+.fa-flag-checkered:before {
+    content: "\f11e" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:291 */
+.fa-terminal:before {
+    content: "\f120" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:292 */
+.fa-code:before {
+    content: "\f121" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:293 */
+.fa-mail-reply-all:before,
+.fa-reply-all:before {
+    content: "\f122" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:295 */
+.fa-star-half-empty:before,
+.fa-star-half-full:before,
+.fa-star-half-o:before {
+    content: "\f123" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:298 */
+.fa-location-arrow:before {
+    content: "\f124" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:299 */
+.fa-crop:before {
+    content: "\f125" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:300 */
+.fa-code-fork:before {
+    content: "\f126" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:301 */
+.fa-unlink:before,
+.fa-chain-broken:before {
+    content: "\f127" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:303 */
+.fa-question:before {
+    content: "\f128" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:304 */
+.fa-info:before {
+    content: "\f129" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:305 */
+.fa-exclamation:before {
+    content: "\f12a" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:306 */
+.fa-superscript:before {
+    content: "\f12b" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:307 */
+.fa-subscript:before {
+    content: "\f12c" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:308 */
+.fa-eraser:before {
+    content: "\f12d" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:309 */
+.fa-puzzle-piece:before {
+    content: "\f12e" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:310 */
+.fa-microphone:before {
+    content: "\f130" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:311 */
+.fa-microphone-slash:before {
+    content: "\f131" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:312 */
+.fa-shield:before {
+    content: "\f132" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:313 */
+.fa-calendar-o:before {
+    content: "\f133" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:314 */
+.fa-fire-extinguisher:before {
+    content: "\f134" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:315 */
+.fa-rocket:before {
+    content: "\f135" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:316 */
+.fa-maxcdn:before {
+    content: "\f136" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:317 */
+.fa-chevron-circle-left:before {
+    content: "\f137" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:318 */
+.fa-chevron-circle-right:before {
+    content: "\f138" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:319 */
+.fa-chevron-circle-up:before {
+    content: "\f139" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:320 */
+.fa-chevron-circle-down:before {
+    content: "\f13a" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:321 */
+.fa-html5:before {
+    content: "\f13b" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:322 */
+.fa-css3:before {
+    content: "\f13c" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:323 */
+.fa-anchor:before {
+    content: "\f13d" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:324 */
+.fa-unlock-alt:before {
+    content: "\f13e" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:325 */
+.fa-bullseye:before {
+    content: "\f140" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:326 */
+.fa-ellipsis-h:before {
+    content: "\f141" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:327 */
+.fa-ellipsis-v:before {
+    content: "\f142" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:328 */
+.fa-rss-square:before {
+    content: "\f143" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:329 */
+.fa-play-circle:before {
+    content: "\f144" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:330 */
+.fa-ticket:before {
+    content: "\f145" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:331 */
+.fa-minus-square:before {
+    content: "\f146" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:332 */
+.fa-minus-square-o:before {
+    content: "\f147" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:333 */
+.fa-level-up:before {
+    content: "\f148" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:334 */
+.fa-level-down:before {
+    content: "\f149" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:335 */
+.fa-check-square:before {
+    content: "\f14a" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:336 */
+.fa-pencil-square:before {
+    content: "\f14b" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:337 */
+.fa-external-link-square:before {
+    content: "\f14c" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:338 */
+.fa-share-square:before {
+    content: "\f14d" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:339 */
+.fa-compass:before {
+    content: "\f14e" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:340 */
+.fa-toggle-down:before,
+.fa-caret-square-o-down:before {
+    content: "\f150" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:342 */
+.fa-toggle-up:before,
+.fa-caret-square-o-up:before {
+    content: "\f151" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:344 */
+.fa-toggle-right:before,
+.fa-caret-square-o-right:before {
+    content: "\f152" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:346 */
+.fa-euro:before,
+.fa-eur:before {
+    content: "\f153" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:348 */
+.fa-gbp:before {
+    content: "\f154" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:349 */
+.fa-dollar:before,
+.fa-usd:before {
+    content: "\f155" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:351 */
+.fa-rupee:before,
+.fa-inr:before {
+    content: "\f156" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:353 */
+.fa-cny:before,
+.fa-rmb:before,
+.fa-yen:before,
+.fa-jpy:before {
+    content: "\f157" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:357 */
+.fa-ruble:before,
+.fa-rouble:before,
+.fa-rub:before {
+    content: "\f158" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:360 */
+.fa-won:before,
+.fa-krw:before {
+    content: "\f159" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:362 */
+.fa-bitcoin:before,
+.fa-btc:before {
+    content: "\f15a" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:364 */
+.fa-file:before {
+    content: "\f15b" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:365 */
+.fa-file-text:before {
+    content: "\f15c" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:366 */
+.fa-sort-alpha-asc:before {
+    content: "\f15d" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:367 */
+.fa-sort-alpha-desc:before {
+    content: "\f15e" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:368 */
+.fa-sort-amount-asc:before {
+    content: "\f160" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:369 */
+.fa-sort-amount-desc:before {
+    content: "\f161" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:370 */
+.fa-sort-numeric-asc:before {
+    content: "\f162" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:371 */
+.fa-sort-numeric-desc:before {
+    content: "\f163" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:372 */
+.fa-thumbs-up:before {
+    content: "\f164" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:373 */
+.fa-thumbs-down:before {
+    content: "\f165" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:374 */
+.fa-youtube-square:before {
+    content: "\f166" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:375 */
+.fa-youtube:before {
+    content: "\f167" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:376 */
+.fa-xing:before {
+    content: "\f168" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:377 */
+.fa-xing-square:before {
+    content: "\f169" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:378 */
+.fa-youtube-play:before {
+    content: "\f16a" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:379 */
+.fa-dropbox:before {
+    content: "\f16b" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:380 */
+.fa-stack-overflow:before {
+    content: "\f16c" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:381 */
+.fa-instagram:before {
+    content: "\f16d" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:382 */
+.fa-flickr:before {
+    content: "\f16e" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:383 */
+.fa-adn:before {
+    content: "\f170" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:384 */
+.fa-bitbucket:before {
+    content: "\f171" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:385 */
+.fa-bitbucket-square:before {
+    content: "\f172" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:386 */
+.fa-tumblr:before {
+    content: "\f173" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:387 */
+.fa-tumblr-square:before {
+    content: "\f174" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:388 */
+.fa-long-arrow-down:before {
+    content: "\f175" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:389 */
+.fa-long-arrow-up:before {
+    content: "\f176" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:390 */
+.fa-long-arrow-left:before {
+    content: "\f177" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:391 */
+.fa-long-arrow-right:before {
+    content: "\f178" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:392 */
+.fa-apple:before {
+    content: "\f179" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:393 */
+.fa-windows:before {
+    content: "\f17a" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:394 */
+.fa-android:before {
+    content: "\f17b" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:395 */
+.fa-linux:before {
+    content: "\f17c" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:396 */
+.fa-dribbble:before {
+    content: "\f17d" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:397 */
+.fa-skype:before {
+    content: "\f17e" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:398 */
+.fa-foursquare:before {
+    content: "\f180" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:399 */
+.fa-trello:before {
+    content: "\f181" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:400 */
+.fa-female:before {
+    content: "\f182" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:401 */
+.fa-male:before {
+    content: "\f183" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:402 */
+.fa-gittip:before,
+.fa-gratipay:before {
+    content: "\f184" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:404 */
+.fa-sun-o:before {
+    content: "\f185" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:405 */
+.fa-moon-o:before {
+    content: "\f186" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:406 */
+.fa-archive:before {
+    content: "\f187" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:407 */
+.fa-bug:before {
+    content: "\f188" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:408 */
+.fa-vk:before {
+    content: "\f189" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:409 */
+.fa-weibo:before {
+    content: "\f18a" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:410 */
+.fa-renren:before {
+    content: "\f18b" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:411 */
+.fa-pagelines:before {
+    content: "\f18c" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:412 */
+.fa-stack-exchange:before {
+    content: "\f18d" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:413 */
+.fa-arrow-circle-o-right:before {
+    content: "\f18e" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:414 */
+.fa-arrow-circle-o-left:before {
+    content: "\f190" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:415 */
+.fa-toggle-left:before,
+.fa-caret-square-o-left:before {
+    content: "\f191" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:417 */
+.fa-dot-circle-o:before {
+    content: "\f192" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:418 */
+.fa-wheelchair:before {
+    content: "\f193" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:419 */
+.fa-vimeo-square:before {
+    content: "\f194" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:420 */
+.fa-turkish-lira:before,
+.fa-try:before {
+    content: "\f195" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:422 */
+.fa-plus-square-o:before {
+    content: "\f196" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:423 */
+.fa-space-shuttle:before {
+    content: "\f197" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:424 */
+.fa-slack:before {
+    content: "\f198" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:425 */
+.fa-envelope-square:before {
+    content: "\f199" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:426 */
+.fa-wordpress:before {
+    content: "\f19a" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:427 */
+.fa-openid:before {
+    content: "\f19b" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:428 */
+.fa-institution:before,
+.fa-bank:before,
+.fa-university:before {
+    content: "\f19c" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:431 */
+.fa-mortar-board:before,
+.fa-graduation-cap:before {
+    content: "\f19d" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:433 */
+.fa-yahoo:before {
+    content: "\f19e" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:434 */
+.fa-google:before {
+    content: "\f1a0" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:435 */
+.fa-reddit:before {
+    content: "\f1a1" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:436 */
+.fa-reddit-square:before {
+    content: "\f1a2" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:437 */
+.fa-stumbleupon-circle:before {
+    content: "\f1a3" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:438 */
+.fa-stumbleupon:before {
+    content: "\f1a4" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:439 */
+.fa-delicious:before {
+    content: "\f1a5" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:440 */
+.fa-digg:before {
+    content: "\f1a6" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:441 */
+.fa-pied-piper:before {
+    content: "\f1a7" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:442 */
+.fa-pied-piper-alt:before {
+    content: "\f1a8" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:443 */
+.fa-drupal:before {
+    content: "\f1a9" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:444 */
+.fa-joomla:before {
+    content: "\f1aa" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:445 */
+.fa-language:before {
+    content: "\f1ab" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:446 */
+.fa-fax:before {
+    content: "\f1ac" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:447 */
+.fa-building:before {
+    content: "\f1ad" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:448 */
+.fa-child:before {
+    content: "\f1ae" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:449 */
+.fa-paw:before {
+    content: "\f1b0" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:450 */
+.fa-spoon:before {
+    content: "\f1b1" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:451 */
+.fa-cube:before {
+    content: "\f1b2" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:452 */
+.fa-cubes:before {
+    content: "\f1b3" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:453 */
+.fa-behance:before {
+    content: "\f1b4" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:454 */
+.fa-behance-square:before {
+    content: "\f1b5" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:455 */
+.fa-steam:before {
+    content: "\f1b6" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:456 */
+.fa-steam-square:before {
+    content: "\f1b7" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:457 */
+.fa-recycle:before {
+    content: "\f1b8" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:458 */
+.fa-automobile:before,
+.fa-car:before {
+    content: "\f1b9" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:460 */
+.fa-cab:before,
+.fa-taxi:before {
+    content: "\f1ba" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:462 */
+.fa-tree:before {
+    content: "\f1bb" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:463 */
+.fa-spotify:before {
+    content: "\f1bc" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:464 */
+.fa-deviantart:before {
+    content: "\f1bd" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:465 */
+.fa-soundcloud:before {
+    content: "\f1be" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:466 */
+.fa-database:before {
+    content: "\f1c0" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:467 */
+.fa-file-pdf-o:before {
+    content: "\f1c1" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:468 */
+.fa-file-word-o:before {
+    content: "\f1c2" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:469 */
+.fa-file-excel-o:before {
+    content: "\f1c3" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:470 */
+.fa-file-powerpoint-o:before {
+    content: "\f1c4" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:471 */
+.fa-file-photo-o:before,
+.fa-file-picture-o:before,
+.fa-file-image-o:before {
+    content: "\f1c5" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:474 */
+.fa-file-zip-o:before,
+.fa-file-archive-o:before {
+    content: "\f1c6" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:476 */
+.fa-file-sound-o:before,
+.fa-file-audio-o:before {
+    content: "\f1c7" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:478 */
+.fa-file-movie-o:before,
+.fa-file-video-o:before {
+    content: "\f1c8" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:480 */
+.fa-file-code-o:before {
+    content: "\f1c9" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:481 */
+.fa-vine:before {
+    content: "\f1ca" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:482 */
+.fa-codepen:before {
+    content: "\f1cb" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:483 */
+.fa-jsfiddle:before {
+    content: "\f1cc" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:484 */
+.fa-life-bouy:before,
+.fa-life-buoy:before,
+.fa-life-saver:before,
+.fa-support:before,
+.fa-life-ring:before {
+    content: "\f1cd" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:489 */
+.fa-circle-o-notch:before {
+    content: "\f1ce" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:490 */
+.fa-ra:before,
+.fa-rebel:before {
+    content: "\f1d0" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:492 */
+.fa-ge:before,
+.fa-empire:before {
+    content: "\f1d1" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:494 */
+.fa-git-square:before {
+    content: "\f1d2" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:495 */
+.fa-git:before {
+    content: "\f1d3" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:496 */
+.fa-y-combinator-square:before,
+.fa-yc-square:before,
+.fa-hacker-news:before {
+    content: "\f1d4" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:499 */
+.fa-tencent-weibo:before {
+    content: "\f1d5" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:500 */
+.fa-qq:before {
+    content: "\f1d6" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:501 */
+.fa-wechat:before,
+.fa-weixin:before {
+    content: "\f1d7" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:503 */
+.fa-send:before,
+.fa-paper-plane:before {
+    content: "\f1d8" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:505 */
+.fa-send-o:before,
+.fa-paper-plane-o:before {
+    content: "\f1d9" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:507 */
+.fa-history:before {
+    content: "\f1da" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:508 */
+.fa-circle-thin:before {
+    content: "\f1db" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:509 */
+.fa-header:before {
+    content: "\f1dc" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:510 */
+.fa-paragraph:before {
+    content: "\f1dd" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:511 */
+.fa-sliders:before {
+    content: "\f1de" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:512 */
+.fa-share-alt:before {
+    content: "\f1e0" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:513 */
+.fa-share-alt-square:before {
+    content: "\f1e1" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:514 */
+.fa-bomb:before {
+    content: "\f1e2" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:515 */
+.fa-soccer-ball-o:before,
+.fa-futbol-o:before {
+    content: "\f1e3" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:517 */
+.fa-tty:before {
+    content: "\f1e4" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:518 */
+.fa-binoculars:before {
+    content: "\f1e5" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:519 */
+.fa-plug:before {
+    content: "\f1e6" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:520 */
+.fa-slideshare:before {
+    content: "\f1e7" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:521 */
+.fa-twitch:before {
+    content: "\f1e8" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:522 */
+.fa-yelp:before {
+    content: "\f1e9" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:523 */
+.fa-newspaper-o:before {
+    content: "\f1ea" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:524 */
+.fa-wifi:before {
+    content: "\f1eb" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:525 */
+.fa-calculator:before {
+    content: "\f1ec" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:526 */
+.fa-paypal:before {
+    content: "\f1ed" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:527 */
+.fa-google-wallet:before {
+    content: "\f1ee" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:528 */
+.fa-cc-visa:before {
+    content: "\f1f0" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:529 */
+.fa-cc-mastercard:before {
+    content: "\f1f1" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:530 */
+.fa-cc-discover:before {
+    content: "\f1f2" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:531 */
+.fa-cc-amex:before {
+    content: "\f1f3" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:532 */
+.fa-cc-paypal:before {
+    content: "\f1f4" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:533 */
+.fa-cc-stripe:before {
+    content: "\f1f5" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:534 */
+.fa-bell-slash:before {
+    content: "\f1f6" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:535 */
+.fa-bell-slash-o:before {
+    content: "\f1f7" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:536 */
+.fa-trash:before {
+    content: "\f1f8" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:537 */
+.fa-copyright:before {
+    content: "\f1f9" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:538 */
+.fa-at:before {
+    content: "\f1fa" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:539 */
+.fa-eyedropper:before {
+    content: "\f1fb" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:540 */
+.fa-paint-brush:before {
+    content: "\f1fc" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:541 */
+.fa-birthday-cake:before {
+    content: "\f1fd" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:542 */
+.fa-area-chart:before {
+    content: "\f1fe" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:543 */
+.fa-pie-chart:before {
+    content: "\f200" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:544 */
+.fa-line-chart:before {
+    content: "\f201" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:545 */
+.fa-lastfm:before {
+    content: "\f202" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:546 */
+.fa-lastfm-square:before {
+    content: "\f203" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:547 */
+.fa-toggle-off:before {
+    content: "\f204" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:548 */
+.fa-toggle-on:before {
+    content: "\f205" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:549 */
+.fa-bicycle:before {
+    content: "\f206" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:550 */
+.fa-bus:before {
+    content: "\f207" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:551 */
+.fa-ioxhost:before {
+    content: "\f208" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:552 */
+.fa-angellist:before {
+    content: "\f209" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:553 */
+.fa-cc:before {
+    content: "\f20a" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:554 */
+.fa-shekel:before,
+.fa-sheqel:before,
+.fa-ils:before {
+    content: "\f20b" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:557 */
+.fa-meanpath:before {
+    content: "\f20c" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:558 */
+.fa-buysellads:before {
+    content: "\f20d" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:559 */
+.fa-connectdevelop:before {
+    content: "\f20e" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:560 */
+.fa-dashcube:before {
+    content: "\f210" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:561 */
+.fa-forumbee:before {
+    content: "\f211" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:562 */
+.fa-leanpub:before {
+    content: "\f212" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:563 */
+.fa-sellsy:before {
+    content: "\f213" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:564 */
+.fa-shirtsinbulk:before {
+    content: "\f214" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:565 */
+.fa-simplybuilt:before {
+    content: "\f215" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:566 */
+.fa-skyatlas:before {
+    content: "\f216" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:567 */
+.fa-cart-plus:before {
+    content: "\f217" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:568 */
+.fa-cart-arrow-down:before {
+    content: "\f218" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:569 */
+.fa-diamond:before {
+    content: "\f219" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:570 */
+.fa-ship:before {
+    content: "\f21a" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:571 */
+.fa-user-secret:before {
+    content: "\f21b" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:572 */
+.fa-motorcycle:before {
+    content: "\f21c" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:573 */
+.fa-street-view:before {
+    content: "\f21d" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:574 */
+.fa-heartbeat:before {
+    content: "\f21e" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:575 */
+.fa-venus:before {
+    content: "\f221" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:576 */
+.fa-mars:before {
+    content: "\f222" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:577 */
+.fa-mercury:before {
+    content: "\f223" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:578 */
+.fa-intersex:before,
+.fa-transgender:before {
+    content: "\f224" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:580 */
+.fa-transgender-alt:before {
+    content: "\f225" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:581 */
+.fa-venus-double:before {
+    content: "\f226" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:582 */
+.fa-mars-double:before {
+    content: "\f227" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:583 */
+.fa-venus-mars:before {
+    content: "\f228" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:584 */
+.fa-mars-stroke:before {
+    content: "\f229" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:585 */
+.fa-mars-stroke-v:before {
+    content: "\f22a" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:586 */
+.fa-mars-stroke-h:before {
+    content: "\f22b" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:587 */
+.fa-neuter:before {
+    content: "\f22c" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:588 */
+.fa-genderless:before {
+    content: "\f22d" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:589 */
+.fa-facebook-official:before {
+    content: "\f230" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:590 */
+.fa-pinterest-p:before {
+    content: "\f231" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:591 */
+.fa-whatsapp:before {
+    content: "\f232" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:592 */
+.fa-server:before {
+    content: "\f233" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:593 */
+.fa-user-plus:before {
+    content: "\f234" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:594 */
+.fa-user-times:before {
+    content: "\f235" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:595 */
+.fa-hotel:before,
+.fa-bed:before {
+    content: "\f236" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:597 */
+.fa-viacoin:before {
+    content: "\f237" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:598 */
+.fa-train:before {
+    content: "\f238" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:599 */
+.fa-subway:before {
+    content: "\f239" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:600 */
+.fa-medium:before {
+    content: "\f23a" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:601 */
+.fa-yc:before,
+.fa-y-combinator:before {
+    content: "\f23b" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:603 */
+.fa-optin-monster:before {
+    content: "\f23c" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:604 */
+.fa-opencart:before {
+    content: "\f23d" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:605 */
+.fa-expeditedssl:before {
+    content: "\f23e" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:606 */
+.fa-battery-4:before,
+.fa-battery-full:before {
+    content: "\f240" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:608 */
+.fa-battery-3:before,
+.fa-battery-three-quarters:before {
+    content: "\f241" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:610 */
+.fa-battery-2:before,
+.fa-battery-half:before {
+    content: "\f242" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:612 */
+.fa-battery-1:before,
+.fa-battery-quarter:before {
+    content: "\f243" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:614 */
+.fa-battery-0:before,
+.fa-battery-empty:before {
+    content: "\f244" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:616 */
+.fa-mouse-pointer:before {
+    content: "\f245" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:617 */
+.fa-i-cursor:before {
+    content: "\f246" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:618 */
+.fa-object-group:before {
+    content: "\f247" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:619 */
+.fa-object-ungroup:before {
+    content: "\f248" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:620 */
+.fa-sticky-note:before {
+    content: "\f249" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:621 */
+.fa-sticky-note-o:before {
+    content: "\f24a" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:622 */
+.fa-cc-jcb:before {
+    content: "\f24b" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:623 */
+.fa-cc-diners-club:before {
+    content: "\f24c" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:624 */
+.fa-clone:before {
+    content: "\f24d" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:625 */
+.fa-balance-scale:before {
+    content: "\f24e" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:626 */
+.fa-hourglass-o:before {
+    content: "\f250" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:627 */
+.fa-hourglass-1:before,
+.fa-hourglass-start:before {
+    content: "\f251" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:629 */
+.fa-hourglass-2:before,
+.fa-hourglass-half:before {
+    content: "\f252" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:631 */
+.fa-hourglass-3:before,
+.fa-hourglass-end:before {
+    content: "\f253" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:633 */
+.fa-hourglass:before {
+    content: "\f254" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:634 */
+.fa-hand-grab-o:before,
+.fa-hand-rock-o:before {
+    content: "\f255" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:636 */
+.fa-hand-stop-o:before,
+.fa-hand-paper-o:before {
+    content: "\f256" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:638 */
+.fa-hand-scissors-o:before {
+    content: "\f257" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:639 */
+.fa-hand-lizard-o:before {
+    content: "\f258" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:640 */
+.fa-hand-spock-o:before {
+    content: "\f259" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:641 */
+.fa-hand-pointer-o:before {
+    content: "\f25a" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:642 */
+.fa-hand-peace-o:before {
+    content: "\f25b" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:643 */
+.fa-trademark:before {
+    content: "\f25c" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:644 */
+.fa-registered:before {
+    content: "\f25d" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:645 */
+.fa-creative-commons:before {
+    content: "\f25e" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:646 */
+.fa-gg:before {
+    content: "\f260" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:647 */
+.fa-gg-circle:before {
+    content: "\f261" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:648 */
+.fa-tripadvisor:before {
+    content: "\f262" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:649 */
+.fa-odnoklassniki:before {
+    content: "\f263" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:650 */
+.fa-odnoklassniki-square:before {
+    content: "\f264" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:651 */
+.fa-get-pocket:before {
+    content: "\f265" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:652 */
+.fa-wikipedia-w:before {
+    content: "\f266" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:653 */
+.fa-safari:before {
+    content: "\f267" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:654 */
+.fa-chrome:before {
+    content: "\f268" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:655 */
+.fa-firefox:before {
+    content: "\f269" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:656 */
+.fa-opera:before {
+    content: "\f26a" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:657 */
+.fa-internet-explorer:before {
+    content: "\f26b" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:658 */
+.fa-tv:before,
+.fa-television:before {
+    content: "\f26c" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:660 */
+.fa-contao:before {
+    content: "\f26d" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:661 */
+.fa-500px:before {
+    content: "\f26e" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:662 */
+.fa-amazon:before {
+    content: "\f270" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:663 */
+.fa-calendar-plus-o:before {
+    content: "\f271" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:664 */
+.fa-calendar-minus-o:before {
+    content: "\f272" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:665 */
+.fa-calendar-times-o:before {
+    content: "\f273" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:666 */
+.fa-calendar-check-o:before {
+    content: "\f274" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:667 */
+.fa-industry:before {
+    content: "\f275" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:668 */
+.fa-map-pin:before {
+    content: "\f276" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:669 */
+.fa-map-signs:before {
+    content: "\f277" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:670 */
+.fa-map-o:before {
+    content: "\f278" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:671 */
+.fa-map:before {
+    content: "\f279" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:672 */
+.fa-commenting:before {
+    content: "\f27a" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:673 */
+.fa-commenting-o:before {
+    content: "\f27b" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:674 */
+.fa-houzz:before {
+    content: "\f27c" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:675 */
+.fa-vimeo:before {
+    content: "\f27d" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:676 */
+.fa-black-tie:before {
+    content: "\f27e" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/etc/_icons.scss:677 */
+.fa-fonticons:before {
+    content: "\f280" !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-awesome/sass/src/all.scss:20 */
+.x-fa:before {
+    font-family: FontAwesome !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-ext/sass/src/all.scss:3 */
+@font-face {
+    font-family: 'ExtJS';
+    src: url('../resources/font-ext/fonts/ExtJS.eot?-tqegh9');
+    src: url('../resources/font-ext/fonts/ExtJS.eot?#iefix-tqegh9') format('embedded-opentype'), url('../resources/font-ext/fonts/ExtJS.ttf?-tqegh9') format('truetype'), url('../resources/font-ext/fonts/ExtJS.woff?-tqegh9') format('woff'), url('../resources/font-ext/fonts/ExtJS.svg?-tqegh9#ExtJS') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-ext/sass/src/all.scss:14 */
+.ext {
+    font-family: ExtJS;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-ext/sass/src/all.scss:18 */
+.ext-sencha:before {
+    content: "\e61e";
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-ext/sass/src/all.scss:21 */
+.ext-checkbox-checked:before {
+    content: "\e613";
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-ext/sass/src/all.scss:24 */
+.ext-checkbox-unchecked:before {
+    content: "\e614";
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-ext/sass/src/all.scss:27 */
+.ext-chevron-left:before {
+    content: "\e615";
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-ext/sass/src/all.scss:30 */
+.ext-chevron-right:before {
+    content: "\e616";
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-ext/sass/src/all.scss:33 */
+.ext-double-chevron-left:before {
+    content: "\e617";
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-ext/sass/src/all.scss:36 */
+.ext-double-chevron-right:before {
+    content: "\e618";
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-ext/sass/src/all.scss:39 */
+.ext-sort-down:before {
+    content: "\e619";
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-ext/sass/src/all.scss:42 */
+.ext-sort-up:before {
+    content: "\e61a";
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-ext/sass/src/all.scss:45 */
+.ext-spinner-down:before {
+    content: "\e61b";
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-ext/sass/src/all.scss:48 */
+.ext-spinner-up:before {
+    content: "\e61c";
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-ext/sass/src/all.scss:51 */
+.ext-square-edit:before {
+    content: "\e61d";
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-ext/sass/src/all.scss:54 */
+.ext-equals-vertical:before {
+    content: "\e612";
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-ext/sass/src/all.scss:57 */
+.ext-collapse:before {
+    content: "\e600";
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-ext/sass/src/all.scss:60 */
+.ext-columns:before {
+    content: "\e601";
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-ext/sass/src/all.scss:63 */
+.ext-dirty:before {
+    content: "\e602";
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-ext/sass/src/all.scss:66 */
+.ext-dirty-rtl:before {
+    content: "\e603";
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-ext/sass/src/all.scss:69 */
+.ext-edit-html:before {
+    content: "\e604";
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-ext/sass/src/all.scss:72 */
+.ext-equals:before {
+    content: "\e605";
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-ext/sass/src/all.scss:75 */
+.ext-expand:before {
+    content: "\e606";
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-ext/sass/src/all.scss:78 */
+.ext-group-by:before {
+    content: "\e607";
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-ext/sass/src/all.scss:81 */
+.ext-minimize:before {
+    content: "\e608";
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-ext/sass/src/all.scss:84 */
+.ext-nw-handle:before {
+    content: "\e609";
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-ext/sass/src/all.scss:87 */
+.ext-ne-handle:before {
+    content: "\e60a";
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-ext/sass/src/all.scss:90 */
+.ext-sw-handle:before {
+    content: "\e60b";
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-ext/sass/src/all.scss:93 */
+.ext-se-handle:before {
+    content: "\e60c";
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-ext/sass/src/all.scss:96 */
+.ext-text-background-color:before {
+    content: "\e60d";
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-ext/sass/src/all.scss:99 */
+.ext-text-color:before {
+    content: "\e60e";
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-ext/sass/src/all.scss:102 */
+.ext-text-decrease:before {
+    content: "\e60f";
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-ext/sass/src/all.scss:105 */
+.ext-text-increase:before {
+    content: "\e610";
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/font-ext/sass/src/all.scss:108 */
+.ext-unpin:before {
+    content: "\e611";
+}
+/* /Users/chenwei/project/dcsp/apps/ext/classic/theme-triton/sass/src/Component.scss:3 */
+@font-face {
+    font-family: 'Open Sans';
+    src: url('fonts/OpenSans-Light.ttf');
+    font-weight: 300;
+    font-style: normal;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/classic/theme-triton/sass/src/Component.scss:10 */
+@font-face {
+    font-family: 'Open Sans';
+    src: url('fonts/OpenSans-LightItalic.ttf');
+    font-weight: 300;
+    font-style: italic;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/classic/theme-triton/sass/src/Component.scss:17 */
+@font-face {
+    font-family: 'Open Sans';
+    src: url('fonts/OpenSans-Regular.ttf');
+    font-weight: 400;
+    font-style: normal;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/classic/theme-triton/sass/src/Component.scss:24 */
+@font-face {
+    font-family: 'Open Sans';
+    src: url('fonts/OpenSans-Italic.ttf');
+    font-weight: 400;
+    font-style: italic;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/classic/theme-triton/sass/src/Component.scss:31 */
+@font-face {
+    font-family: 'Open Sans';
+    src: url('fonts/OpenSans-Semibold.ttf');
+    font-weight: 600;
+    font-style: normal;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/classic/theme-triton/sass/src/Component.scss:38 */
+@font-face {
+    font-family: 'Open Sans';
+    src: url('fonts/OpenSans-SemiboldItalic.ttf');
+    font-weight: 600;
+    font-style: italic;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/classic/theme-triton/sass/src/Component.scss:45 */
+@font-face {
+    font-family: 'Open Sans';
+    src: url('fonts/OpenSans-Bold.ttf');
+    font-weight: 700;
+    font-style: normal;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/classic/theme-triton/sass/src/Component.scss:52 */
+@font-face {
+    font-family: 'Open Sans';
+    src: url('fonts/OpenSans-BoldItalic.ttf');
+    font-weight: 700;
+    font-style: italic;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/classic/theme-triton/sass/src/Component.scss:59 */
+@font-face {
+    font-family: 'Open Sans';
+    src: url('fonts/OpenSans-ExtraBold.ttf');
+    font-weight: 800;
+    font-style: normal;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/classic/theme-triton/sass/src/Component.scss:66 */
+@font-face {
+    font-family: 'Open Sans';
+    src: url('fonts/OpenSans-ExtraBoldItalic.ttf');
+    font-weight: 800;
+    font-style: italic;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/classic/theme-triton/sass/src/form/FieldSet.scss:1 */
+.x-fieldset {
+    border-top: 1px solid #bbb !important;
+    background: #f6f6f6;
+    position: static;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/classic/theme-triton/sass/src/form/FieldSet.scss:6 */
+.x-fieldset .x-fieldset-header {
+    padding: 10px 5px 10px 5px;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/classic/theme-triton/sass/src/form/FieldSet.scss:9 */
+.x-fieldset .x-fieldset-body {
+    position: relative;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/classic/theme-triton/sass/src/form/FieldSet.scss:12 */
+.x-fieldset.x-fieldset-collapsed {
+    background: none;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/classic/theme-triton/sass/src/menu/Menu.scss:1 */
+.x-menu-item-active .x-menu-item-text {
+    font-weight: 400;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/classic/theme-triton/sass/src/tab/Tab.scss:1 */
+.x-tab-close-btn:before {
+    display: block;
+    width: 16px;
+    line-height: 16px;
+    text-align: center;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/classic/theme-triton/sass/src/window/Toast.scss:1 */
+.x-toast {
+    -webkit-box-shadow: rgba(0, 0, 0, 0.5) 0 2px 2px;
+    -moz-box-shadow: rgba(0, 0, 0, 0.5) 0 2px 2px;
+    box-shadow: rgba(0, 0, 0, 0.5) 0 2px 2px;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/charts/sass/src/draw/Surface.scss:1 */
+.x-surface {
+    position: absolute;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/charts/sass/src/draw/Surface.scss:5 */
+.x-surface-canvas {
+    position: absolute;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/charts/sass/src/draw/Container.scss:1 */
+.x-draw-container {
+    position: relative;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    user-select: none;
+    cursor: default;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/charts/sass/src/chart/legend/Legend.scss:1 */
+.x-legend {
+    background: #fff;
+    outline: none;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/charts/sass/src/chart/legend/Legend.scss:6 */
+.x-legend-horizontal {
+    overflow-x: auto;
+    overflow-y: hidden;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/charts/sass/src/chart/legend/Legend.scss:11 */
+.x-legend-horizontal .x-legend-item {
+    display: inline-block;
+    border-right: 1px solid #ccc;
+    border-top: 1px solid #ccc;
+    border-bottom: 1px solid #ccc;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/charts/sass/src/chart/legend/Legend.scss:18 */
+.x-legend-horizontal .x-legend-item:first-child {
+    border-left: 1px solid #ccc;
+    border-bottom-left-radius: 0;
+    border-top-left-radius: 0;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/charts/sass/src/chart/legend/Legend.scss:24 */
+.x-legend-horizontal .x-legend-item:last-child {
+    border-bottom-right-radius: 0;
+    border-top-right-radius: 0;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/charts/sass/src/chart/legend/Legend.scss:30 */
+.x-legend-horizontal.x-rtl .x-legend-item:first-child {
+    border-right: 1px solid #ccc;
+    border-bottom-right-radius: 0;
+    border-top-right-radius: 0;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/charts/sass/src/chart/legend/Legend.scss:35 */
+.x-legend-horizontal.x-rtl .x-legend-item:last-child {
+    border-right: none;
+    border-bottom-left-radius: 0;
+    border-top-left-radius: 0;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/charts/sass/src/chart/legend/Legend.scss:43 */
+.x-legend-vertical {
+    overflow-x: hidden;
+    overflow-y: auto;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/charts/sass/src/chart/legend/Legend.scss:48 */
+.x-legend-vertical .x-legend-item {
+    border-left: 1px solid #ccc;
+    border-right: 1px solid #ccc;
+    border-bottom: 1px solid #ccc;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/charts/sass/src/chart/legend/Legend.scss:53 */
+.x-legend-vertical .x-legend-item:first-child {
+    border-top: 1px solid #ccc;
+    border-top-left-radius: 0;
+    border-top-right-radius: 0;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/charts/sass/src/chart/legend/Legend.scss:59 */
+.x-legend-vertical .x-legend-item:last-child {
+    border-bottom-left-radius: 0;
+    border-bottom-right-radius: 0;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/charts/sass/src/chart/legend/Legend.scss:66 */
+.x-legend-item-inactive {
+    -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=30)";
+    opacity: 0.3;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/charts/sass/src/chart/legend/Legend.scss:70 */
+.x-legend-item {
+    padding: 0.8em 1em 0.8em 1.8em;
+    color: #333;
+    background: rgba(255, 255, 255, 0);
+    max-width: 16em;
+    min-width: 0;
+    font-size: 13px;
+    font-family: 'Open Sans', 'Helvetica Neue', helvetica, arial, verdana, sans-serif;
+    line-height: 13px;
+    font-weight: 300;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    position: relative;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/charts/sass/src/chart/legend/Legend.scss:86 */
+.x-rtl > * > .x-legend-item {
+    padding: 0.8em 1.8em 0.8em 1em;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/charts/sass/src/chart/legend/Legend.scss:90 */
+.x-legend-item-marker {
+    position: absolute;
+    width: 0.8em;
+    height: 0.8em;
+    -webkit-box-shadow: rgba(255, 255, 255, 0.3) 0 1px 0, rgba(0, 0, 0, 0.4) 0 1px 0 inset;
+    -moz-box-shadow: rgba(255, 255, 255, 0.3) 0 1px 0, rgba(0, 0, 0, 0.4) 0 1px 0 inset;
+    box-shadow: rgba(255, 255, 255, 0.3) 0 1px 0, rgba(0, 0, 0, 0.4) 0 1px 0 inset;
+    left: 0.7em;
+    top: 0.85em;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/charts/sass/src/chart/legend/Legend.scss:102 */
+.x-rtl > * > * > .x-legend-item-marker {
+    right: 0.7em;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/charts/classic/sass/src/chart/legend/Legend.scss:1 */
+.x-legend-inner {
+    display: table;
+    text-align: center;
+    padding: 5px;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/charts/classic/sass/src/chart/legend/Legend.scss:8 */
+.x-legend-horizontal .x-legend-inner {
+    min-width: 100%;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/charts/classic/sass/src/chart/legend/Legend.scss:14 */
+.x-legend-vertical .x-legend-inner {
+    min-height: 100%;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/charts/classic/sass/src/chart/legend/Legend.scss:19 */
+.x-legend-container {
+    display: table-cell;
+    vertical-align: middle;
+    white-space: nowrap;
+    line-height: 0;
+    background: #fff;
+    -webkit-box-shadow: rgba(255, 255, 255, 0.6) 0 1px 1px;
+    -moz-box-shadow: rgba(255, 255, 255, 0.6) 0 1px 1px;
+    box-shadow: rgba(255, 255, 255, 0.6) 0 1px 1px;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/charts/classic/sass/src/chart/AbstractChart.scss:1 */
+.x-chart-image {
+    width: 100%;
+    height: auto;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/ux/sass/src/Gauge.scss:1 */
+.x-gauge-text {
+    position: absolute;
+    text-align: center;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/ux/sass/var/Gauge.scss:28 */
+.x-gauge .x-gauge-track {
+    fill: #ececec;
+    fill-opacity: 1;
+    stroke: #d0d0d0;
+    stroke-opacity: 1;
+    stroke-width: 1;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/ux/sass/var/Gauge.scss:36 */
+.x-gauge .x-gauge-value {
+    fill: #458fd2;
+    fill-opacity: 1;
+    stroke: none;
+    stroke-opacity: 1;
+    stroke-width: 1;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/ux/classic/sass/src/DataView/DragSelector.scss:1 */
+.x-view-selector {
+    position: absolute;
+    border: 1px dotted #39b;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/ux/classic/sass/src/Explorer.scss:1 */
+.x-explorer-view {
+    background-color: #fff;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/ux/classic/sass/src/Explorer.scss:5 */
+.x-explorer-item {
+    float: left;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/ux/classic/sass/src/Explorer.scss:9 */
+.x-explorer-item-text {
+    text-align: center;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/ux/classic/sass/src/Explorer.scss:13 */
+.x-explorer-node-icon {
+    height: 100px;
+    width: 100px;
+    background: url(ux/images/explorer/node.png);
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/ux/classic/sass/src/Explorer.scss:19 */
+.x-explorer-leaf-icon {
+    background: url(ux/images/explorer/leaf.png);
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/ux/classic/sass/src/GroupTabPanel.scss:2 */
+.x-grouptabpanel {
+    /* Main GroupTabPanel style */
+    background-color: #4e78b1;
+    border: solid 15px #4e78b1;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/ux/classic/sass/src/GroupTabPanel.scss:9 */
+.x-grouptabcontainer {
+    /* End of GroupTabPanel style */
+    /* Card Layout container */
+    background-color: white;
+    border-top: 1px solid #d9d9d9 !important;
+    border-bottom: 1px solid #d9d9d9 !important;
+    border-right: 1px solid #d9d9d9 !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/ux/classic/sass/src/GroupTabPanel.scss:17 */
+.x-grouptabpanel .x-grouptab .x-grid-cell-inner {
+    /* End of Card Layout container */
+    font-family: tahoma, arial, sans-serif;
+    text-decoration: none!important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/ux/classic/sass/src/GroupTabPanel.scss:22 */
+.x-grouptabpanel .x-grouptab-first .x-grid-cell-inner {
+    font-size: 13px;
+    line-height: 18px;
+    font-weight: bold;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/ux/classic/sass/src/GroupTabPanel.scss:28 */
+.x-grouptabbar .x-grid-row .x-grid-cell {
+    background-color: transparent;
+    padding-left: 6px;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/ux/classic/sass/src/GroupTabPanel.scss:33 */
+.x-grouptabbar .x-grid-cell-inner {
+    color: #dfe8f6;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/ux/classic/sass/src/GroupTabPanel.scss:37 */
+.x-grouptabpanel .x-active-group .x-grid-cell-inner {
+    color: #395b8e;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/ux/classic/sass/src/GroupTabPanel.scss:41 */
+.x-grouptabbar .x-grouptab {
+    line-height: 24px;
+    background-color: transparent;
+    font-size: 12px;
+    position: relative;
+    padding-left: 6px;
+    padding-bottom: 2px;
+    overflow: visible;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/ux/classic/sass/src/GroupTabPanel.scss:51 */
+.x-grouptabbar .x-grouptab-first {
+    padding-top: 6px;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/ux/classic/sass/src/GroupTabPanel.scss:55 */
+.x-grouptabbar .x-grouptab-last {
+    margin-bottom: 3px;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/ux/classic/sass/src/GroupTabPanel.scss:59 */
+.x-grouptabbar .x-active-tab .x-grid-cell-inner {
+    background-color: #edeef0;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/ux/classic/sass/src/GroupTabPanel.scss:63 */
+.x-grouptabbar .x-tree-elbow-line,
+.x-grouptabbar .x-tree-elbow-empty {
+    width: 0;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/ux/classic/sass/src/GroupTabPanel.scss:68 */
+.x-grouptabbar .x-active-group .x-grouptab {
+    background-color: white!important;
+    border: 0 none!important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/ux/classic/sass/src/GroupTabPanel.scss:73 */
+.x-grouptabbar .x-active-group .x-grouptab-first {
+    border-top: 1px solid #d9d9d9!important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/ux/classic/sass/src/GroupTabPanel.scss:77 */
+.x-grouptabbar .x-active-group .x-grouptab-center {
+    border-left: 1px solid #d9d9d9!important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/ux/classic/sass/src/GroupTabPanel.scss:81 */
+.x-grouptabbar .x-active-group .x-grouptab-last {
+    border-bottom: 1px solid #d9d9d9!important;
+    padding-bottom: 3px;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/ux/classic/sass/src/GroupTabPanel.scss:86 */
+.x-grouptabbar .x-active-group .x-grouptab-first,
+.x-grouptabbar .x-active-group .x-grouptab-last {
+    border-left: 1px solid #d9d9d9!important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/ux/classic/sass/src/GroupTabPanel.scss:91 */
+.x-grouptab-cell {
+    border: 0 none!important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/ux/classic/sass/src/GroupTabPanel.scss:96 */
+.x-grouptabbar .x-grouptabs-corner {
+    /* Tab corners */
+    background-image: url(ux/images/grouptabpanel/corners.gif);
+    display: none;
+    width: 11px;
+    height: 11px;
+    position: absolute;
+    font-size: 1px;
+    line-height: 6px;
+    overflow: hidden;
+    zoom: 1;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/ux/classic/sass/src/GroupTabPanel.scss:108 */
+.x-grouptabbar .x-grouptabs-corner {
+    display: none;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/ux/classic/sass/src/GroupTabPanel.scss:112 */
+.x-grouptabbar .x-active-group .x-grouptab-first .x-grouptabs-corner-top-left,
+.x-grouptabbar .x-active-group .x-grouptab-last .x-grouptabs-corner-bottom-left {
+    display: block;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/ux/classic/sass/src/GroupTabPanel.scss:117 */
+.x-grouptabbar .x-grouptabs-corner-top-left {
+    background-position: top left;
+    left: 0;
+    top: 0;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/ux/classic/sass/src/GroupTabPanel.scss:121 */
+.x-grouptabbar .x-grouptabs-corner-bottom-left {
+    background-position: bottom left;
+    left: 0;
+    bottom: 0;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/ux/classic/sass/src/GroupTabPanel.scss:125 */
+.x-grouptabbar .x-grouptabs-corner-top-right {
+    background-position: top right;
+    right: 0;
+    top: 0;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/ux/classic/sass/src/GroupTabPanel.scss:129 */
+.x-grouptabbar .x-grouptabs-corner-bottom-right {
+    background-position: bottom right;
+    right: 0;
+    bottom: 0;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/ux/classic/sass/src/GroupTabPanel.scss:133 */
+.x-grouptabbar .x-active-group .x-grouptabs-corner-bottom-left {
+    bottom: -4px;
+    left: -4px;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/ux/classic/sass/src/GroupTabPanel.scss:136 */
+.x-grouptabbar .x-active-group .x-grouptabs-corner-bottom-right {
+    bottom: -4px;
+    right: -4px;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/ux/classic/sass/src/GroupTabPanel.scss:139 */
+.x-grouptabbar .x-active-group .x-grouptabs-corner-top-left {
+    top: -4px;
+    left: -4px;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/ux/classic/sass/src/GroupTabPanel.scss:142 */
+.x-grouptabbar .x-active-group .x-grouptabs-corner-top-right {
+    top: -4px;
+    right: -4px;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/ux/classic/sass/src/GroupTabPanel.scss:146 */
+.x-grouptabbar .x-tree-panel .x-grid-cell {
+    overflow: visible;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/ux/classic/sass/src/GroupTabPanel.scss:150 */
+.x-grouptabbar .x-panel-body {
+    background-color: #4e78b1;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/ux/classic/sass/src/GroupTabPanel.scss:154 */
+.x-grouptabbar {
+    top: 0 !important;
+    margin-top: -1px !important;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/ux/classic/sass/src/GroupTabPanel.scss:159 */
+.x-grouptabbar .x-grouptab .x-tree-icon-parent {
+    display: none;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/ux/classic/sass/src/GroupTabPanel.scss:163 */
+.x-grouptabbar .x-grouptab .x-tree-elbow,
+.x-grouptabbar .x-grouptab .x-tree-elbow-end {
+    display: none;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/ux/classic/sass/src/GroupTabPanel.scss:168 */
+.x-grouptabbar .x-grouptab .x-tree-expander {
+    background-image: url(ux/images/grouptabpanel/plus.gif);
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/ux/classic/sass/src/GroupTabPanel.scss:172 */
+.x-grouptabbar .x-grid-tree-node-expanded .x-grouptab .x-tree-expander {
+    background-image: url(ux/images/grouptabpanel/minus.gif);
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/ux/classic/sass/src/statusbar/StatusBar.scss:1 */
+.x-statusbar .x-status-text {
+    cursor: default;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/ux/classic/sass/src/statusbar/StatusBar.scss:4 */
+.x-statusbar .x-status-busy {
+    padding-left: 25px !important;
+    background: transparent no-repeat 3px 0;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/ux/classic/sass/src/statusbar/StatusBar.scss:9 */
+.x-statusbar .x-status-text-panel {
+    border: 0 none;
+    padding: 2px 8px 2px 5px;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/ux/classic/sass/src/statusbar/StatusBar.scss:14 */
+.x-statusbar .x-status-error {
+    cursor: pointer;
+    padding-left: 25px !important;
+    background: transparent no-repeat 3px 0;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/ux/classic/sass/src/statusbar/StatusBar.scss:19 */
+.x-statusbar .x-status-valid {
+    padding-left: 25px !important;
+    background: transparent no-repeat 3px 0;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/ux/classic/sass/src/statusbar/StatusBar.scss:23 */
+.x-status-error-list {
+    font: 11px tahoma, arial, verdana, sans-serif;
+    position: absolute;
+    z-index: 9999;
+    border-top: 1px solid;
+    border-right: 1px solid;
+    border-bottom: 1px solid;
+    border-left: 1px solid;
+    padding: 5px 10px;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/ux/classic/sass/src/statusbar/StatusBar.scss:33 */
+.x-status-error-list li {
+    cursor: pointer;
+    list-style: disc;
+    margin-left: 10px;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/ux/classic/sass/src/statusbar/StatusBar.scss:38 */
+.x-status-error-list li a {
+    text-decoration: none;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/ux/classic/sass/src/statusbar/StatusBar.scss:41 */
+.x-status-error-list li a:hover {
+    text-decoration: underline;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/ux/classic/sass/src/statusbar/StatusBar.scss:45 */
+.x-statusbar .x-status-busy {
+    background-image: url(ux/images/statusbar/loading.gif);
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/ux/classic/sass/src/statusbar/StatusBar.scss:49 */
+.x-statusbar .x-status-error {
+    color: #c33;
+    background-image: url(ux/images/statusbar/exclamation.gif);
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/ux/classic/sass/src/statusbar/StatusBar.scss:53 */
+.x-statusbar .x-status-valid {
+    background-image: url(ux/images/statusbar/accept.png);
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/ux/classic/sass/src/statusbar/StatusBar.scss:56 */
+.x-status-error-list {
+    border-color: #c33;
+    background: white;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/ux/classic/sass/src/statusbar/StatusBar.scss:60 */
+.x-status-error-list li a {
+    color: #15428b;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/ux/classic/sass/src/LiveSearchGridPanel.scss:1 */
+.x-livesearch-match {
+    font-weight: bold;
+    background-color: yellow;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/ux/classic/sass/src/TabScrollerMenu.scss:1 */
+.x-tab-tabmenu-right {
+    background: transparent url(ux/images/tabscrollermenu/menu.gif) no-repeat 0 0;
+    width: 18px;
+    height: 20px;
+    cursor: pointer;
+    zoom: 1;
+    z-index: 6;
+    float: right;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/ux/classic/sass/src/TabScrollerMenu.scss:10 */
+.x-tab-tabmenu-over {
+    background-position: -18px 0;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/ux/classic/sass/src/TabScrollerMenu.scss:13 */
+.x-tab-tabmenu-disabled {
+    background-position: 0 0;
+    opacity: 0.5;
+    -moz-opacity: 0.5;
+    filter: opacity=50;
+    cursor: default;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/ux/classic/sass/src/colorpick/Selector.scss:2 */
+.x-colorpicker {
+    /* The actual pop window with the color picker components */
+    overflow: visible;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/ux/classic/sass/src/colorpick/Selector.scss:8 */
+.x-colorpicker >.x-box-inner {
+    overflow: visible;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/ux/classic/sass/src/colorpick/Selector.scss:13 */
+.x-colorpicker .x-form-item-label {
+    text-align: center;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/ux/classic/sass/src/colorpick/Selector.scss:18 */
+.x-colopicker-escape-overflow {
+    overflow: visible;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/ux/classic/sass/src/colorpick/Selector.scss:21 */
+.x-colopicker-escape-overflow >.x-box-inner {
+    overflow: visible;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/ux/classic/sass/src/colorpick/Selector.scss:28 */
+.x-colorpicker-colormap {
+    background-image: url(ux/images/colorpick/map_gradient.png);
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/ux/classic/sass/src/colorpick/Selector.scss:35 */
+.x-colorpicker-colormap-draghandle-container {
+    overflow: visible;
+    z-index: 1;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/ux/classic/sass/src/colorpick/Selector.scss:41 */
+.x-colorpicker-colormap-blender {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/ux/classic/sass/src/colorpick/Selector.scss:49 */
+.x-colorpicker-colormap-draghandle {
+    width: 15px;
+    height: 15px;
+    position: relative;
+    left: -7px;
+    top: -7px;
+    background-image: url(ux/images/colorpick/drag_circle.png);
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/ux/classic/sass/src/colorpick/Selector.scss:60 */
+.x-colorpicker-draghandle-container {
+    width: 20px;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/ux/classic/sass/src/colorpick/Selector.scss:63 */
+.x-colorpicker-draghandle-container .x-autocontainer-outerCt {
+    height: 100%;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/ux/classic/sass/src/colorpick/Selector.scss:68 */
+.x-colorpicker-draghandle {
+    width: 32px;
+    height: 9px;
+    position: relative;
+    left: -6px;
+    top: -4px;
+    background-image: url(ux/images/colorpick/pickerslider.png);
+    background-repeat: no-repeat;
+    z-index: 1;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/ux/classic/sass/src/colorpick/Selector.scss:79 */
+.x-colorpicker-hue {
+    background-image: url(ux/images/colorpick/huegradient.png);
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/ux/classic/sass/src/colorpick/Selector.scss:86 */
+.x-colorpicker-hue-gradient {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/ux/classic/sass/src/colorpick/Selector.scss:95 */
+.x-colorpicker-saturation .x-colorpicker-draghandle-container {
+    background: -moz-linear-gradient(top, #fff 0%, #000 100%);
+    /* FF3.6+ */
+    background: -webkit-linear-gradient(top, #fff 0%, #000 100%);
+    /* Chrome10+,Safari5.1+ */
+    background: -o-linear-gradient(top, #fff 0%, #000 100%);
+    /* Opera 11.10+ */
+    background: -ms-linear-gradient(top, #fff 0%, #000 100%);
+    /* IE10+ */
+    background: linear-gradient(to bottom, #fff 0%, #000 100%);
+    /* W3C */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', endColorstr='#000000',GradientType=0 );
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/ux/classic/sass/src/colorpick/Selector.scss:106 */
+.x-colorpicker-value .x-colorpicker-draghandle-container {
+    background: -moz-linear-gradient(top, red 0%, #000 100%);
+    /* FF3.6+ */
+    background: -webkit-linear-gradient(top, red 0%, #000 100%);
+    /* Chrome10+,Safari5.1+ */
+    background: -o-linear-gradient(top, red 0%, #000 100%);
+    /* Opera 11.10+ */
+    background: -ms-linear-gradient(top, red 0%, #000 100%);
+    /* IE10+ */
+    background: linear-gradient(to bottom, red 0%, #000 100%);
+    /* W3C */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ff0000', endColorstr='#000000',GradientType=0 );
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/ux/classic/sass/src/colorpick/Selector.scss:117 */
+.x-colorpicker-alpha .x-colorpicker-draghandle-container {
+    background-image: url(ux/images/colorpick/checkerboard.png);
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/ux/classic/sass/src/colorpick/Selector.scss:123 */
+.x-colorpicker-preview {
+    background-image: url(ux/images/colorpick/checkerboard.png);
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/ux/classic/sass/src/colorpick/Button.scss:2 */
+.x-colorpicker-button {
+    position: relative;
+    border: 1px solid gray;
+    background-image: url(ux/images/colorpick/checkerboard.png);
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/ux/classic/sass/src/colorpick/Field.scss:3 */
+.x-colorpicker-field .x-form-item-body {
+    position: relative;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/ux/classic/sass/src/colorpick/Field.scss:7 */
+.x-colorpicker-field input {
+    padding-left: 26px;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/ux/classic/sass/src/colorpick/Field.scss:12 */
+.x-colorpicker-field-swatch {
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    left: 4px;
+    background-image: url(ux/images/colorpick/checkerboard.png);
+    top: 0px;
+    bottom: 0px;
+    margin: auto;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/ux/classic/sass/src/colorpick/Field.scss:25 */
+.x-colorpicker-field-swatch-inner {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/ux/classic/sass/src/form/ItemSelector.scss:3 */
+.x-form-multiselect-body .x-boundlist .x-mask {
+    /* Styles used by Ext.ux.form.ItemSelector */
+    background: none;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/ux/classic/sass/src/form/ItemSelector.scss:7 */
+.x-form-itemselector-body .x-form-item {
+    margin: 0;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/ux/classic/sass/src/form/ItemSelector.scss:11 */
+.x-form-itemselector-top {
+    background-image: url(ux/images/itemselector/top.gif);
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/ux/classic/sass/src/form/ItemSelector.scss:14 */
+.x-form-itemselector-up {
+    background-image: url(ux/images/itemselector/up.gif);
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/ux/classic/sass/src/form/ItemSelector.scss:17 */
+.x-form-itemselector-add {
+    background-image: url(ux/images/itemselector/right.gif);
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/ux/classic/sass/src/form/ItemSelector.scss:20 */
+.x-form-itemselector-remove {
+    background-image: url(ux/images/itemselector/left.gif);
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/ux/classic/sass/src/form/ItemSelector.scss:23 */
+.x-form-itemselector-down {
+    background-image: url(ux/images/itemselector/down.gif);
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/ux/classic/sass/src/form/ItemSelector.scss:26 */
+.x-form-itemselector-bottom {
+    background-image: url(ux/images/itemselector/bottom.gif);
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/ux/classic/sass/src/grid/SubTable.scss:1 */
+.x-grid-subtable {
+    border-collapse: collapse;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/ux/classic/sass/src/grid/SubTable.scss:5 */
+tr.x-grid-subtable-row {
+    background-color: #fff;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/ux/classic/sass/src/grid/SubTable.scss:9 */
+.x-grid-subtable-header {
+    border: 1px solid #d0d0d0;
+    color: #000;
+    font: 400 13px/19px 'Open Sans', 'Helvetica Neue', helvetica, arial, verdana, sans-serif;
+    background-image: none;
+    background-color: #fff;
+    padding: 6px 10px 5px 10px;
+    text-overflow: ellipsis;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/ux/classic/sass/src/grid/SubTable.scss:27 */
+.x-grid-subtable-cell {
+    border-top: 1px solid #e9e9e9;
+    border-right: 1px solid #e9e9e9;
+    border-bottom: 1px solid #e9e9e9;
+    border-left: 1px solid #e9e9e9;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/ux/classic/sass/src/layout/ResponsiveColumn.scss:1 */
+.x-responsivecolumn {
+    padding: 20px 0 0 20px;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/ux/classic/sass/src/layout/ResponsiveColumn.scss:4 */
+.x-responsivecolumn > * {
+    margin: 0 20px 20px 0;
+    float: left;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/ux/classic/sass/src/rating/Picker.scss:1 */
+.ux-rating-picker {
+    overflow: hidden;
+    color: #ccc;
+    -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=80)";
+    opacity: 0.8;
+    display: inline-block;
+    vertical-align: top;
+    line-height: 1;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/ux/classic/sass/src/rating/Picker.scss:15 */
+.ux-rating-picker-inner {
+    position: relative;
+    overflow: hidden;
+    display: inline-block;
+    vertical-align: top;
+    cursor: pointer;
+    white-space: nowrap;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/ux/classic/sass/src/rating/Picker.scss:28 */
+.ux-rating-picker-over.ux-rating-picker-track-over {
+    color: #ccc;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/ux/classic/sass/src/rating/Picker.scss:31 */
+.ux-rating-picker-over.ux-rating-picker-track-over > * > .ux-rating-picker-value {
+    display: none;
+    width: 0;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/ux/classic/sass/src/rating/Picker.scss:36 */
+.ux-rating-picker-over.ux-rating-picker-track-over > * > .ux-rating-picker-value:hover {
+    color: inherit;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/ux/classic/sass/src/rating/Picker.scss:40 */
+.ux-rating-picker-over.ux-rating-picker-track-over > * > .ux-rating-picker-tracker {
+    display: inline-block;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/ux/classic/sass/src/rating/Picker.scss:45 */
+.ux-rating-picker-value,
+.ux-rating-picker-tracker {
+    overflow: hidden;
+    position: absolute;
+    white-space: nowrap;
+    top: 0;
+    width: 0;
+    height: 100%;
+    color: #ffe850;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/ux/classic/sass/src/rating/Picker.scss:58 */
+.ux-rating-picker-tracker {
+    display: none;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/ux/classic/sass/src/rating/Picker.scss:62 */
+.ux-rating-picker-over {
+    -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
+    opacity: 1;
+}
+/* /Users/chenwei/project/dcsp/apps/cmdb/sass/src/view/asset/zcfw/sqsh/Timeline.scss:17 */
+.timeline-item .profile-pic-wrap {
+    width: 100px;
+    float: left;
+    font-size: 10px;
+    text-align: center;
+    position: relative;
+    padding: 5px 0;
+}
+/* /Users/chenwei/project/dcsp/apps/cmdb/sass/src/view/asset/zcfw/sqsh/Timeline.scss:26 */
+.timeline-item .profile-pic-wrap img {
+    height: 46px;
+    width: 46px;
+}
+/* /Users/chenwei/project/dcsp/apps/cmdb/sass/src/view/asset/zcfw/sqsh/Timeline.scss:33 */
+.timeline-item .contents-wrap {
+    margin: 0 0px 15px 15px;
+    border-bottom: 1px dashed #949495;
+    position: relative;
+    padding: 15px;
+    white-space: normal;
+}
+/* /Users/chenwei/project/dcsp/apps/cmdb/sass/src/view/asset/zcfw/sqsh/Timeline.scss:64 */
+.timeline-item .contents-wrap .shared-by,
+.timeline-item .contents-wrap .followed-by {
+    font-size: 12px;
+    line-height: 18px;
+    margin-bottom: 10px;
+}
+/* /Users/chenwei/project/dcsp/apps/cmdb/sass/src/view/asset/zcfw/sqsh/Timeline.scss:69 */
+.timeline-item .contents-wrap .shared-by a,
+.timeline-item .contents-wrap .followed-by a {
+    color: #5fa2dd;
+    text-decoration: none;
+    font-weight: bold;
+}
+/* /Users/chenwei/project/dcsp/apps/cmdb/sass/src/view/asset/zcfw/sqsh/Timeline.scss:76 */
+.timeline-item .contents-wrap .shared-img {
+    width: 100%;
+    display: block;
+}
+/* /Users/chenwei/project/dcsp/apps/cmdb/sass/src/view/asset/zcfw/sqsh/Timeline.scss:81 */
+.timeline-item .contents-wrap .job-meeting a {
+    color: #5fa2dd;
+    text-decoration: none;
+    font-weight: bold;
+    margin-bottom: 10px;
+    display: block;
+}
+/* /Users/chenwei/project/dcsp/apps/cmdb/sass/src/view/asset/zcfw/sqsh/Timeline.scss:90 */
+.timeline-item .article-comment {
+    border-left: 5px solid #949495;
+    padding: 10px 20px;
+}
+/* /Users/chenwei/project/dcsp/apps/cmdb/sass/src/view/asset/zcfw/sqsh/Timeline.scss:94 */
+.timeline-item .article-comment span {
+    margin-right: 10px;
+}
+/* /Users/chenwei/project/dcsp/apps/cmdb/sass/src/view/asset/zcfw/sqsh/Timeline.scss:101 */
+.timeline-item .followed-by img {
+    height: 32px;
+    width: 32px;
+    margin-right: 5px;
+    float: left;
+}
+/* /Users/chenwei/project/dcsp/apps/cmdb/sass/src/view/asset/zcfw/sqsh/Timeline.scss:109 */
+.timeline-item .followed-by .followed-by-inner {
+    margin-left: 40px;
+    padding: 5px 0;
+}
+/* /Users/chenwei/project/dcsp/apps/cmdb/sass/src/view/asset/zcfw/sqsh/Timeline.scss:116 */
+button {
+    float: right;
+}
+/* /Users/chenwei/project/dcsp/apps/cmdb/sass/src/view/asset/zcfw/sqsh/Timeline.scss:120 */
+.profiledescription-social-toolbar {
+    border-top: 1px solid #949495 !important;
+}
+/* /Users/chenwei/project/dcsp/apps/cmdb/sass/src/view/asset/zcfw/sqsh/Timeline.scss:124 */
+@media (max-width: 450px) {
+    /* /Users/chenwei/project/dcsp/apps/cmdb/sass/src/view/asset/zcfw/sqsh/Timeline.scss:126 */
+    .userProfile-container .comments h4,
+    .userProfile-container .comments .from-now {
+        float: none;
+    }
+    /* /Users/chenwei/project/dcsp/apps/cmdb/sass/src/view/asset/zcfw/sqsh/Timeline.scss:130 */
+    .userProfile-container .comments .from-now {
+        margin-bottom: 10px;
+    }
+    /* /Users/chenwei/project/dcsp/apps/cmdb/sass/src/view/asset/zcfw/sqsh/Timeline.scss:133 */
+    .userProfile-container .comments h4 {
+        margin: 0;
+    }
+}
+/* /Users/chenwei/project/dcsp/apps/cmdb/sass/src/view/asset/zcfw/sqsh/Timeline.scss:139 */
+@media (max-width: 350px) {
+    /* /Users/chenwei/project/dcsp/apps/cmdb/sass/src/view/asset/zcfw/sqsh/Timeline.scss:140 */
+    .timeline-items-wrap {
+        display: none;
+    }
+}
+/* /Users/chenwei/project/dcsp/apps/cmdb/sass/src/view/asset/zcfw/sqsh/Timeline.scss:145 */
+@media (max-width: 420px) {
+    /* /Users/chenwei/project/dcsp/apps/cmdb/sass/src/view/asset/zcfw/sqsh/Timeline.scss:146 */
+    .profiledescription-social-toolbar {
+        display: none !important;
+    }
+}
+/* /Users/chenwei/project/dcsp/apps/cmdb/sass/src/view/asset/zcfw/sqsh/Timeline.scss:151 */
+.user-notifications,
+.timeline-items-wrap {
+    padding: 15px;
+    background: #fff;
+}
+/* /Users/chenwei/project/dcsp/apps/cmdb/sass/src/view/asset/zcfw/sqsh/Timeline.scss:157 */
+.timeline-epoch {
+    width: 100px;
+    background: white;
+    text-align: center;
+    padding: 7px 5px;
+    position: relative;
+    margin-bottom: 15px;
+    font-size: 14px;
+    border: solid 3px #949495;
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    -ms-border-radius: 3px;
+    -o-border-radius: 3px;
+    border-radius: 3px;
+    font-weight: bold;
+}
+/* /Users/chenwei/project/dcsp/apps/cmdb/sass/src/view/asset/zcfw/sqsh/Timeline.scss:172 */
+.timeline-item-last .line-wrap:before {
+    display: none;
+}
+/* /Users/chenwei/project/dcsp/apps/cmdb/sass/src/view/asset/zcfw/sqsh/Timeline.scss:178 */
+@media (max-width: 320px) {
+    /* /Users/chenwei/project/dcsp/apps/cmdb/sass/src/view/asset/zcfw/sqsh/Timeline.scss:180 */
+    .phone .user-profile-desc {
+        height: 380px !important;
+    }
+    /* /Users/chenwei/project/dcsp/apps/cmdb/sass/src/view/asset/zcfw/sqsh/Timeline.scss:185 */
+    .phone .userProfile-container .icon-padding:before {
+        padding: 16px 8px;
+    }
+    /* /Users/chenwei/project/dcsp/apps/cmdb/sass/src/view/asset/zcfw/sqsh/Timeline.scss:191 */
+    .phone .userProfile-container .timeline-items-wrap .x-dataview-item .timeline-item:before {
+        height: 540px;
+    }
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/core/sass/src/list/TreeItem.scss:480 */
+.x-treelist-navigation {
+    background-color: #32404e;
+    background-position: 44px 0%;
+    padding: 0 0 0 0;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/core/sass/src/list/TreeItem.scss:100 */
+.x-treelist-navigation .x-treelist-toolstrip {
+    background-color: #32404e;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/core/sass/src/list/TreeItem.scss:109 */
+.x-treelist-navigation .x-treelist-item-selected.x-treelist-item-tool {
+    color: #fff;
+    background-color: #2eadf5;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/core/sass/src/list/TreeItem.scss:114 */
+.x-treelist-navigation .x-treelist-item-selected.x-treelist-item-tool:after {
+    height: 64px;
+    position: absolute;
+    top: 0;
+    left: 0;
+    content: " ";
+    width: 5px;
+    background-color: #2eadf5;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/core/sass/src/list/TreeItem.scss:131 */
+.x-treelist-navigation .x-treelist-item-selected > .x-treelist-row {
+    background-color: #475360;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/core/sass/src/list/TreeItem.scss:140 */
+.x-treelist-navigation .x-treelist-item-tool {
+    padding-left: 10px;
+    padding-right: 10px;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/core/sass/src/list/TreeItem.scss:147 */
+.x-treelist-navigation .x-treelist-item-tool-floated:after {
+    height: 64px;
+    position: absolute;
+    top: 0;
+    left: 0;
+    content: " ";
+    width: 5px;
+    background-color: #2eadf5;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/core/sass/src/list/TreeItem.scss:163 */
+.x-treelist-navigation .x-treelist-item-icon:before,
+.x-treelist-navigation .x-treelist-item-tool:before,
+.x-treelist-navigation .x-treelist-item-expander {
+    line-height: 64px;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/core/sass/src/list/TreeItem.scss:175 */
+.x-treelist-navigation .x-treelist-item-icon,
+.x-treelist-navigation .x-treelist-item-tool,
+.x-treelist-navigation .x-treelist-item-expander {
+    text-align: center;
+    background-repeat: no-repeat;
+    background-position: 0 center;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/core/sass/src/list/TreeItem.scss:185 */
+.x-treelist-navigation .x-treelist-item-loading .x-treelist-item-icon {
+    background-image: url(images/tree/loading.gif);
+    color: transparent;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/core/sass/src/list/TreeItem.scss:190 */
+.x-treelist-navigation .x-treelist-item-icon,
+.x-treelist-navigation .x-treelist-item-tool {
+    color: #adb3b8;
+    font-size: 18px;
+    width: 44px;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/core/sass/src/list/TreeItem.scss:203 */
+.x-treelist-navigation .x-treelist-item-tool {
+    width: 64px;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/core/sass/src/list/TreeItem.scss:213 */
+.x-treelist-navigation .x-treelist-item-expander {
+    color: #fff;
+    font-size: 16px;
+    width: 24px;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/core/sass/src/list/TreeItem.scss:242 */
+.x-treelist-navigation .x-treelist-item-text {
+    color: #fff;
+    margin-left: 50px;
+    margin-right: 24px;
+    font-size: 14px;
+    line-height: 64px;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/core/sass/src/list/TreeItem.scss:258 */
+.x-treelist-navigation .x-treelist-row {
+    padding-left: 10px;
+    padding-right: 10px;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/core/sass/src/list/TreeItem.scss:264 */
+.x-treelist-navigation .x-treelist-row-over:before,
+.x-treelist-navigation .x-treelist-item-selected > .x-treelist-row:before {
+    content: " ";
+    position: absolute;
+    display: block;
+    left: 0;
+    top: 0;
+    width: 5px;
+    height: 100%;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/core/sass/src/list/TreeItem.scss:275 */
+.x-treelist-navigation .x-treelist-row-over:before {
+    background-color: transparent;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/core/sass/src/list/TreeItem.scss:279 */
+.x-treelist-navigation .x-treelist-item-selected > .x-treelist-row-over:before {
+    background-color: #50baf7;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/core/sass/src/list/TreeItem.scss:283 */
+.x-treelist-navigation .x-treelist-item-selected > .x-treelist-row:before {
+    background-color: #2eadf5;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/core/sass/src/list/TreeItem.scss:289 */
+.x-treelist-navigation .x-treelist-item-floated .x-treelist-container {
+    width: auto;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/core/sass/src/list/TreeItem.scss:292 */
+.x-treelist-navigation .x-treelist-item-floated > .x-treelist-row {
+    background-color: #32404e;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/core/sass/src/list/TreeItem.scss:296 */
+.x-treelist-navigation .x-treelist-item-floated > .x-treelist-container {
+    margin-left: -44px;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/core/sass/src/list/TreeItem.scss:305 */
+.x-treelist-navigation .x-treelist-item-floated > * > * > .x-treelist-item-text {
+    margin-left: 0;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/core/sass/src/list/TreeItem.scss:309 */
+.x-treelist-navigation .x-treelist-item-floated > * .x-treelist-row {
+    padding-left: 0;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/core/sass/src/list/TreeItem.scss:313 */
+.x-treelist-navigation .x-treelist-item-floated .x-treelist-row:before {
+    width: 0;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/core/sass/src/list/TreeItem.scss:317 */
+.x-treelist-navigation .x-treelist-item-floated > .x-treelist-row-over {
+    background-color: #32404e;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/core/sass/src/list/TreeItem.scss:320 */
+.x-treelist-navigation .x-treelist-item-floated > .x-treelist-row-over > * > .x-treelist-item-text {
+    color: #fff;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/core/sass/src/list/TreeItem.scss:326 */
+.x-treelist-navigation .x-treelist-item-expanded {
+    background-color: #2c3845;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/core/sass/src/list/TreeItem.scss:344 */
+.x-treelist-navigation.x-treelist-highlight-path .x-treelist-item-over > * > .x-treelist-item-icon {
+    color: #fff;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/core/sass/src/list/TreeItem.scss:348 */
+.x-treelist-navigation.x-treelist-highlight-path .x-treelist-item-over > * > .x-treelist-item-text {
+    color: #d6d9dc;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/core/sass/src/list/TreeItem.scss:352 */
+.x-treelist-navigation.x-treelist-highlight-path .x-treelist-item-over > * > .x-treelist-item-expander {
+    color: #fff;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/core/sass/src/list/TreeItem.scss:359 */
+.x-treelist-navigation .x-treelist-row-over {
+    background-color: #3c4a57;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/core/sass/src/list/TreeItem.scss:362 */
+.x-treelist-navigation .x-treelist-row-over > * > .x-treelist-item-icon {
+    color: #fff;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/core/sass/src/list/TreeItem.scss:366 */
+.x-treelist-navigation .x-treelist-row-over > * > .x-treelist-item-text {
+    color: #d6d9dc;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/core/sass/src/list/TreeItem.scss:370 */
+.x-treelist-navigation .x-treelist-row-over > * > .x-treelist-item-expander {
+    color: #fff;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/core/sass/src/list/TreeItem.scss:377 */
+.x-treelist-navigation .x-treelist-expander-first .x-treelist-item-icon {
+    left: 24px;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/core/sass/src/list/TreeItem.scss:386 */
+.x-treelist-navigation .x-treelist-expander-first .x-treelist-item-text {
+    margin-left: 74px;
+    margin-right: 0;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/core/sass/src/list/TreeItem.scss:396 */
+.x-treelist-navigation .x-treelist-expander-first .x-treelist-item-hide-icon > * > * > .x-treelist-item-text {
+    margin-left: 30px;
+}
+/* /Users/chenwei/project/dcsp/apps/ext/packages/core/sass/src/list/TreeItem.scss:406 */
+.x-treelist-navigation .x-treelist-item-hide-icon > * > * > .x-treelist-item-text {
+    margin-left: 6px;
+}
+/* /Users/chenwei/project/dcsp/apps/cmdb/sass/src/view/main/Main.scss:41 */
+.menu-wrap {
+    background-color: #32404e;
+}
+/* /Users/chenwei/project/dcsp/apps/cmdb/sass/src/view/main/Main.scss:55 */
+.topoint:hover {
+    /*
+.mainheader{
+  background-image: url("background.png");
+  background-size:100% 74px;
+  background-repeat: no-repeat;
+  width:100%;
+  height: 76px;
+}
+*/
+    cursor: pointer;
+}
+/* /Users/chenwei/project/dcsp/apps/cmdb/sass/src/view/main/Main.scss:59 */
+.imgcenter {
+    text-align: center;
+    margin-top: 0px;
+}
+/* /Users/chenwei/project/dcsp/apps/cmdb/sass/src/view/main/Main.scss:64 */
+.imgs {
+    width: 36px;
+    height: 36px;
+    margin-top: -8px;
+}
+/* /Users/chenwei/project/dcsp/apps/cmdb/sass/src/view/main/Main.scss:70 */
+.main-wrap-bg {
+    background-color: #eee !important;
+}
+/* /Users/chenwei/project/dcsp/apps/cmdb/sass/src/view/main/Main.scss:76 */
+.img {
+    display: block;
+    margin: 0 auto;
+}
+/* /Users/chenwei/project/dcsp/apps/cmdb/sass/src/view/main/Main.scss:81 */
+.imgdx {
+    width: 15px;
+    height: 15px;
+}
+/* /Users/chenwei/project/dcsp/apps/cmdb/sass/src/view/main/Main.scss:86 */
+.zcjsbg {
+    background-color: #1dafeb;
+}
+/* /Users/chenwei/project/dcsp/apps/cmdb/sass/src/view/main/Main.scss:90 */
+.bd {
+    display: inline-block;
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+}

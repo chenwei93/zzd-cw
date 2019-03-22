@@ -1,0 +1,212 @@
+{
+  "id" : "root",
+  "text" : "根节点",
+  "expanded" : false,
+  "leaf" : false,
+  "children" : [ {
+    "parentId" : "root",
+    "id" : "2bbed431-20d8-435e-8394-eaa5bd1d0ce6",
+    "text" : "天津市",
+    "expanded" : false,
+    "leaf" : false,
+    "children" : [ {
+      "parentId" : "2bbed431-20d8-435e-8394-eaa5bd1d0ce6",
+      "id" : "c57e1bb6-d3ee-4a97-8867-92aff2645c87",
+      "text" : "宝坻区",
+      "expanded" : false,
+      "leaf" : true,
+      "extraAttributes" : {
+        "code" : "BDQ",
+        "idRel" : "regions/c57e1bb6-d3ee-4a97-8867-92aff2645c87",
+        "rank" : "City",
+        "orders" : 0
+      }
+    }, {
+      "parentId" : "2bbed431-20d8-435e-8394-eaa5bd1d0ce6",
+      "id" : "825f6ea5-5cd0-49aa-a00d-c06e86b89407",
+      "text" : "北辰区",
+      "expanded" : false,
+      "leaf" : true,
+      "extraAttributes" : {
+        "code" : "BCQ",
+        "idRel" : "regions/825f6ea5-5cd0-49aa-a00d-c06e86b89407",
+        "rank" : "City",
+        "orders" : 0
+      }
+    }, {
+      "parentId" : "2bbed431-20d8-435e-8394-eaa5bd1d0ce6",
+      "id" : "fa52cde3-0814-48f7-bf7f-5e8e702188b9",
+      "text" : "滨海新区",
+      "expanded" : false,
+      "leaf" : true,
+      "extraAttributes" : {
+        "code" : "BHQ",
+        "idRel" : "regions/fa52cde3-0814-48f7-bf7f-5e8e702188b9",
+        "rank" : "City",
+        "orders" : 0
+      }
+    }, {
+      "parentId" : "2bbed431-20d8-435e-8394-eaa5bd1d0ce6",
+      "id" : "74a955bb-666f-42ce-b1cd-e4d7e4741347",
+      "text" : "东丽区",
+      "expanded" : false,
+      "leaf" : true,
+      "extraAttributes" : {
+        "code" : "DLQ",
+        "idRel" : "regions/74a955bb-666f-42ce-b1cd-e4d7e4741347",
+        "rank" : "City",
+        "orders" : 0
+      }
+    }, {
+      "parentId" : "2bbed431-20d8-435e-8394-eaa5bd1d0ce6",
+      "id" : "3d81407b-f878-4de7-9451-a6f084304e96",
+      "text" : "和平区",
+      "expanded" : false,
+      "leaf" : true,
+      "extraAttributes" : {
+        "code" : "HPQ",
+        "idRel" : "regions/3d81407b-f878-4de7-9451-a6f084304e96",
+        "rank" : "City",
+        "orders" : 0
+      }
+    }, {
+      "parentId" : "2bbed431-20d8-435e-8394-eaa5bd1d0ce6",
+      "id" : "1463528c-2cd2-4c40-9041-51091381e239",
+      "text" : "河北区",
+      "expanded" : false,
+      "leaf" : true,
+      "extraAttributes" : {
+        "code" : "HBQ",
+        "idRel" : "regions/1463528c-2cd2-4c40-9041-51091381e239",
+        "rank" : "City",
+        "orders" : 0
+      }
+    }, {
+      "parentId" : "2bbed431-20d8-435e-8394-eaa5bd1d0ce6",
+      "id" : "3a5c379e-9eae-4e22-b295-c18594ac9d58",
+      "text" : "河东区",
+      "expanded" : false,
+      "leaf" : true,
+      "extraAttributes" : {
+        "code" : "HDQ",
+        "idRel" : "regions/3a5c379e-9eae-4e22-b295-c18594ac9d58",
+        "rank" : "City",
+        "orders" : 0
+      }
+    }, {
+      "parentId" : "2bbed431-20d8-435e-8394-eaa5bd1d0ce6",
+      "id" : "a739b3b8-991b-4e8e-9238-340750af7bd6",
+      "text" : "河西区",
+      "expanded" : false,
+      "leaf" : true,
+      "extraAttributes" : {
+        "code" : "HXQ",
+        "idRel" : "regions/a739b3b8-991b-4e8e-9238-340750af7bd6",
+        "rank" : "City",
+        "orders" : 0
+      }
+    }, {
+      "parentId" : "2bbed431-20d8-435e-8394-eaa5bd1d0ce6",
+      "id" : "6cabe059-90a8-444a-b031-2cb0c368acbf",
+      "text" : "红桥区",
+      "expanded" : false,
+      "leaf" : true,
+      "extraAttributes" : {
+        "code" : "HQQ",
+        "idRel" : "regions/6cabe059-90a8-444a-b031-2cb0c368acbf",
+        "rank" : "City",
+        "orders" : 0
+      }
+    }, {
+      "parentId" : "2bbed431-20d8-435e-8394-eaa5bd1d0ce6",
+      "id" : "62d83a6a-f27d-438e-85f2-598a2b6ebcd2",
+      "text" : "蘇州区",
+      "expanded" : false,
+      "leaf" : true,
+      "extraAttributes" : {
+        "code" : "SZQ",
+        "idRel" : "regions/62d83a6a-f27d-438e-85f2-598a2b6ebcd2",
+        "rank" : "City",
+        "orders" : 0
+      }
+    }, {
+      "parentId" : "2bbed431-20d8-435e-8394-eaa5bd1d0ce6",
+      "id" : "08991d5f-7b02-44dd-b20c-ed0708ec26e8",
+      "text" : "津南区",
+      "expanded" : false,
+      "leaf" : true,
+      "extraAttributes" : {
+        "code" : "JNQ",
+        "idRel" : "regions/08991d5f-7b02-44dd-b20c-ed0708ec26e8",
+        "rank" : "City",
+        "orders" : 0
+      }
+    }, {
+      "parentId" : "2bbed431-20d8-435e-8394-eaa5bd1d0ce6",
+      "id" : "d68369cf-688a-4c7c-a764-08dbb900854c",
+      "text" : "静海区",
+      "expanded" : false,
+      "leaf" : true,
+      "extraAttributes" : {
+        "code" : "JHQ",
+        "idRel" : "regions/d68369cf-688a-4c7c-a764-08dbb900854c",
+        "rank" : "City",
+        "orders" : 0
+      }
+    }, {
+      "parentId" : "2bbed431-20d8-435e-8394-eaa5bd1d0ce6",
+      "id" : "cdaea9b4-8e7b-422a-bbec-be710bfb5935",
+      "text" : "南开区",
+      "expanded" : false,
+      "leaf" : true,
+      "extraAttributes" : {
+        "code" : "NKQ",
+        "idRel" : "regions/cdaea9b4-8e7b-422a-bbec-be710bfb5935",
+        "rank" : "City",
+        "orders" : 0
+      }
+    }, {
+      "parentId" : "2bbed431-20d8-435e-8394-eaa5bd1d0ce6",
+      "id" : "93e6dfbf-0b00-4f44-9830-7408c8670ace",
+      "text" : "宁河区",
+      "expanded" : false,
+      "leaf" : true,
+      "extraAttributes" : {
+        "code" : "NHQ",
+        "idRel" : "regions/93e6dfbf-0b00-4f44-9830-7408c8670ace",
+        "rank" : "City",
+        "orders" : 0
+      }
+    }, {
+      "parentId" : "2bbed431-20d8-435e-8394-eaa5bd1d0ce6",
+      "id" : "44f1f46b-f28d-46ee-a7be-a96b91a3da23",
+      "text" : "武清区",
+      "expanded" : false,
+      "leaf" : true,
+      "extraAttributes" : {
+        "code" : "WQQ",
+        "idRel" : "regions/44f1f46b-f28d-46ee-a7be-a96b91a3da23",
+        "rank" : "City",
+        "orders" : 0
+      }
+    }, {
+      "parentId" : "2bbed431-20d8-435e-8394-eaa5bd1d0ce6",
+      "id" : "07bf9fb3-aac5-4ca8-a15e-98a3cc3bca68",
+      "text" : "西青区",
+      "expanded" : false,
+      "leaf" : true,
+      "extraAttributes" : {
+        "code" : "XQQ",
+        "idRel" : "regions/07bf9fb3-aac5-4ca8-a15e-98a3cc3bca68",
+        "rank" : "City",
+        "orders" : 0
+      }
+    } ],
+    "extraAttributes" : {
+      "code" : "TJ",
+      "idRel" : "regions/2bbed431-20d8-435e-8394-eaa5bd1d0ce6",
+      "rank" : "Province",
+      "orders" : 0
+    }
+  } ]
+}

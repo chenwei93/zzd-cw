@@ -1,0 +1,34 @@
+{
+  "content": [
+    {
+      "title": "元数据采集",
+      "preNode": "x",
+      "nextNode": "x",
+      "doType": 3,
+      "time": "10个工作日",
+      "role": "xx部门",
+      "tag": true,
+      "orderTemplate": "元数据采集工单"
+    },
+    {
+      "title": "数据资源目录上架",
+      "preNode": "x",
+      "nextNode": "x",
+      "doType": 1,
+      "time": "10个工作日",
+      "role": "大数据中心",
+      "tag": true,
+      "orderTemplate": "数据资源目录上架工单"
+    },
+    {
+      "title": "元数据会审",
+      "preNode": "x",
+      "nextNode": "x",
+      "doType": 2,
+      "time": "15个工作日",
+      "role": "xx部门",
+      "tag": false,
+      "orderTemplate": "元数据会审工单"
+    }
+  ]
+}

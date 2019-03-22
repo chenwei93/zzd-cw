@@ -1,0 +1,12 @@
+{
+
+      "id": 2,
+      "ip": "10.21.21.1",
+      "ports": {
+        "att": "1"
+      },
+      "name": "testNode2",
+      "title": "测试主机2",
+      "local": true
+
+}

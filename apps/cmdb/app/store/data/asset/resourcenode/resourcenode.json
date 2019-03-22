@@ -1,0 +1,94 @@
+{
+  "links": [
+    {
+      "rel": "self",
+      "href": "http://node.zzdit.com/rbase/api/resourceNodes{&sort}"
+    },
+    {
+      "rel": "profile",
+      "href": "http://node.zzdit.com/rbase/api/profile/resourceNodes"
+    },
+    {
+      "rel": "search",
+      "href": "http://node.zzdit.com/rbase/api/resourceNodes/search"
+    }
+  ],
+  "content": [
+    {
+      "id": "94363de4-a1c8-4dd9-806e-7116d7e1b62d",
+      "entityStatus": "Default",
+      "ip": "127.0.0.1",
+      "ports": {},
+      "local": true,
+      "name": "localhost",
+      "title": "本机（自动生成）",
+      "memo": null,
+      "idRel": "resourceNodes/94363de4-a1c8-4dd9-806e-7116d7e1b62d",
+      "content": [],
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://node.zzdit.com/rbase/api/resourceNodes/94363de4-a1c8-4dd9-806e-7116d7e1b62d"
+        },
+        {
+          "rel": "resourceNode",
+          "href": "http://node.zzdit.com/rbase/api/resourceNodes/94363de4-a1c8-4dd9-806e-7116d7e1b62d"
+        }
+      ]
+    },
+    {
+      "id": "e614eea4-3ec0-4b39-a3ed-0f5cd93b0ff4",
+      "entityStatus": "Default",
+      "ip": "dcspserver",
+      "ports": {
+        "3306": "DataBase"
+      },
+      "local": false,
+      "name": "dcspserver",
+      "title": "测试数据库主机（自动生成）",
+      "memo": null,
+      "idRel": "resourceNodes/e614eea4-3ec0-4b39-a3ed-0f5cd93b0ff4",
+      "content": [],
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://node.zzdit.com/rbase/api/resourceNodes/e614eea4-3ec0-4b39-a3ed-0f5cd93b0ff4"
+        },
+        {
+          "rel": "resourceNode",
+          "href": "http://node.zzdit.com/rbase/api/resourceNodes/e614eea4-3ec0-4b39-a3ed-0f5cd93b0ff4"
+        }
+      ]
+    },
+    {
+      "id": "ed0a713e-1841-464c-b452-0dcca5592974",
+      "entityStatus": "Default",
+      "ip": "localhost",
+      "ports": {
+        "0": "Arbitrary"
+      },
+      "local": false,
+      "name": "localhost",
+      "title": "测试文件主机（自动生成）",
+      "memo": null,
+      "idRel": "resourceNodes/ed0a713e-1841-464c-b452-0dcca5592974",
+      "content": [],
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://node.zzdit.com/rbase/api/resourceNodes/ed0a713e-1841-464c-b452-0dcca5592974"
+        },
+        {
+          "rel": "resourceNode",
+          "href": "http://node.zzdit.com/rbase/api/resourceNodes/ed0a713e-1841-464c-b452-0dcca5592974"
+        }
+      ]
+    }
+  ],
+  "page": {
+    "size": 25,
+    "totalElements": 3,
+    "totalPages": 1,
+    "number": 0
+  }
+}

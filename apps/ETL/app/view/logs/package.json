@@ -1,0 +1,20 @@
+{
+  "id": 0,
+  "jobName": "two",
+  "channel_id": "63b90434-8410-4ecd-94a3-c0710884e5b2",
+  "name": "456",
+  "status": "end",
+  "lines_read": 0,
+  "lines_written": 0,
+  "lines_updaten": 0,
+  "lines_input": 0,
+  "lines_output": 0,
+  "lines_rejected": 0,
+  "errors": 0,
+  "start_date": "1900-01-01 07:00:00",
+  "end_date": "2018-10-23 15:45:50",
+  "log_date": "2018-10-23 15:45:56",
+  "dep_date": "2018-10-23 15:45:50",
+  "replay_date": "2018-10-23 15:45:50",
+  "log_field": "2018/10/23 15:45:49 - 456 - 开始执行任务\r\n2018/10/23 15:45:51 - 456 - 开始项[转换]\r\n2018/10/23 15:45:51 - 转换 - Loading transformation from XML file [D:/test/test/d3662116-eb11-47b7-aa2e-45671b2ebc79.ktr]\r\n2018/10/23 15:45:51 - 转换 - Using run configuration [Pentaho local]\r\n2018/10/23 15:45:51 - 转换 - Using legacy execution engine\r\n2018/10/23 15:45:51 - 4 - 为了转换解除补丁开始  [4]\r\n2018/10/23 15:45:51 - 表输出.0 - Connected to database [测试] (commit=1000)\r\n2018/10/23 15:45:52 - 表输入.0 - Finished reading query, closing connection.\r\n2018/10/23 15:45:52 - 表输入.0 - 完成处理 (I=3000, O=0, R=0, W=3000, U=0, E=0)\r\n2018/10/23 15:45:56 - 表输出.0 - 完成处理 (I=0, O=3000, R=3000, W=3000, U=0, E=0)\r\n2018/10/23 15:45:56 - 456 - 完成作业项[转换] (结果=[true])\r\n2018/10/23 15:45:56 - 456 - 任务执行完毕\r\n\r\nEND\r\n"
+}

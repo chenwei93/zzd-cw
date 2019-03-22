@@ -1,0 +1,1250 @@
+{
+  "text": ".",
+  "expanded": true,
+  "children": [
+    {
+      "text": "资源",
+      "id": "zy",
+      "expanded": true,
+      "type": "zy",
+      "inherit": [],
+      "dataset": [],
+      "children": [
+        {
+          "text": "资产",
+          "id": "zc",
+          "expanded": true,
+          "type": "zc",
+          "inherit": [
+            "zy"
+          ],
+          "dataset": [
+            {
+              "text": "资产名称",
+              "code": "zcmc",
+              "type": "string",
+              "show_type": "textfield",
+              "percent": 0.5
+            },
+            {
+              "text": "提供部门",
+              "code": "tgbm",
+              "type": "string",
+              "show_type": "textfield",
+              "percent": 0.5
+            },
+            {
+              "text": "资产内部编码",
+              "code": "zcnbbm",
+              "type": "string",
+              "show_type": "textfield",
+              "percent": 0.5
+            },
+            {
+              "text": "资产类型",
+              "code": "zclx",
+              "type": "dataset",
+              "show_type": "combo",
+              "percent": 0.5,
+              "store": [
+                {
+                  "showname": "政务云资产",
+                  "value": "yzy"
+                },
+                {
+                  "showname": "软件服务资产",
+                  "value": "fwzc"
+                },
+                {
+                  "showname": "数据资产",
+                  "value": "sjzc"
+                },
+                {
+                  "showname": "接口资产",
+                  "value": "jkzc"
+                },
+                {
+                  "showname": "设备资产",
+                  "value": "sbzc"
+                },
+                {
+                  "showname": "基础数据资产",
+                  "value": "jcsjzc"
+                }
+              ]
+            },
+            {
+              "text": "资产入库时间",
+              "code": "zcrksj",
+              "type": "date",
+              "show_type": "datefield",
+              "percent": 0.5
+            },
+            {
+              "text": "状态",
+              "code": "zt",
+              "type": "dataset",
+              "show_type": "combo",
+              "percent": 0.5,
+              "store": [
+                {
+                  "showname": "可用",
+                  "value": "ky"
+                },
+                {
+                  "showname": "不可用",
+                  "value": "bky"
+                }
+              ]
+            },
+            {
+              "text": "资产说明",
+              "code": "zcsm",
+              "type": "string",
+              "show_type": "tectarea",
+              "percent": 1
+            }
+          ],
+          "children": [
+            {
+              "text": "政务云资产",
+              "id": "yzy",
+              "expanded": true,
+              "type": "yzysq",
+              "code": "yzy",
+              "des": "政务云资产",
+              "inherit": [
+                "zc"
+              ],
+              "dataset": [
+                {
+                  "text": "网络区域",
+                  "code": "wlqy",
+                  "type": "string",
+                  "show_type": "combo",
+                  "percent": 0.5,
+                  "store": [
+                    {
+                      "showname": "资源共享区（外网）",
+                      "value": "zygxqw"
+                    },
+                    {
+                      "showname": "公众服务区（外网）",
+                      "value": "gzfwqw"
+                    },
+                    {
+                      "showname": " 资源共享区（内网）",
+                      "value": "zygxqn"
+                    },
+                    {
+                      "showname": "公众服务区（内网）",
+                      "value": "gzfwqn"
+                    }
+                  ]
+                }
+              ],
+              "children": [
+                {
+                  "text": "服务器设备",
+                  "id": "yzy_fwq",
+                  "code": "fwq",
+                  "des": "这是服务器设备",
+                  "type": "rjfw",
+                  "inherit": [
+                    "yzy"
+                  ],
+                  "dataset": [
+                    {
+                      "text": "CPU内核数",
+                      "code": "y_lxr",
+                      "type": "string",
+                      "show_type": "combo",
+                      "store": [
+                        {
+                          "showname": "1",
+                          "value": "1"
+                        },
+                        {
+                          "showname": "2",
+                          "value": "2"
+                        },
+                        {
+                          "showname": "4",
+                          "value": "4"
+                        },
+                        {
+                          "showname": "8",
+                          "value": "8"
+                        },
+                        {
+                          "showname": "12",
+                          "value": "12"
+                        },
+                        {
+                          "showname": "16",
+                          "value": "16"
+                        },
+                        {
+                          "showname": "32",
+                          "value": "32"
+                        }
+                      ],
+                      "percent": 0.5
+                    },
+                    {
+                      "text": "CPU主频",
+                      "code": "y_zp",
+                      "type": "string",
+                      "show_type": "combo",
+                      "store": [
+                        {
+                          "showname": "2.4GHz",
+                          "value": "2.4GHz"
+                        },
+                        {
+                          "showname": "3.2GHz",
+                          "value": "3.2GHz"
+                        },
+                        {
+                          "showname": "3.4GHz",
+                          "value": "3.4GHz"
+                        },
+                        {
+                          "showname": "4.5GHz",
+                          "value": "4.5GHz"
+                        }
+                      ],
+                      "percent": 0.5
+                    },
+                    {
+                      "text": "CPU一级缓存",
+                      "code": "y_yjhc",
+                      "type": "string",
+                      "show_type": "combo",
+                      "store": [
+                        {
+                          "showname": "128M",
+                          "value": "128M"
+                        },
+                        {
+                          "showname": "256M",
+                          "value": "256M"
+                        },
+                        {
+                          "showname": "512M",
+                          "value": "512M"
+                        }
+                      ],
+                      "percent": 0.5
+                    },
+                    {
+                      "text": "内存大小",
+                      "code": "y_dx",
+                      "type": "number",
+                      "show_type": "numberfield",
+                      "percent": 0.5
+                    },
+                    {
+                      "text": "内存传输类型",
+                      "code": "y_zslx",
+                      "type": "string",
+                      "show_type": "combo",
+                      "store": [
+                        {
+                          "showname": "2.4GHz",
+                          "value": "2.4GHz"
+                        },
+                        {
+                          "showname": "3.2GHz",
+                          "value": "3.2GHz"
+                        },
+                        {
+                          "showname": "3.4GHz",
+                          "value": "3.4GHz"
+                        },
+                        {
+                          "showname": "4.5GHz",
+                          "value": "4.5GHz"
+                        }
+                      ],
+                      "percent": 0.5
+                    },
+                    {
+                      "text": "内存频率",
+                      "code": "y_pl",
+                      "type": "string",
+                      "show_type": "combo",
+                      "store": [
+                        {
+                          "showname": "2600MHz",
+                          "value": "2600MHz"
+                        },
+                        {
+                          "showname": "3200MHz",
+                          "value": "3200MHz"
+                        },
+                        {
+                          "showname": "3000MHz",
+                          "value": "3000MHz"
+                        },
+                        {
+                          "showname": "2800MHz",
+                          "value": "2800MHz"
+                        },
+                        {
+                          "showname": "2400MHz",
+                          "value": "2400MHz"
+                        }
+                      ],
+                      "percent": 0.5
+                    },
+                    {
+                      "text": "存储个数",
+                      "code": "y_gs",
+                      "type": "number",
+                      "show_type": "numberfield",
+                      "percent": 0.5
+                    },
+                    {
+                      "text": "存储容量",
+                      "code": "y_rl",
+                      "type": "string",
+                      "show_type": "combo",
+                      "store": [
+                        {
+                          "showname": "256G",
+                          "value": "256G"
+                        },
+                        {
+                          "showname": "512G",
+                          "value": "512G"
+                        },
+                        {
+                          "showname": "1T",
+                          "value": "1T"
+                        },
+                        {
+                          "showname": "2T",
+                          "value": "2T"
+                        },
+                        {
+                          "showname": "4T",
+                          "value": "4T"
+                        }
+                      ],
+                      "percent": 0.5
+                    },
+                    {
+                      "text": "存储缓存",
+                      "code": "y_hc",
+                      "type": "string",
+                      "show_type": "combo",
+                      "store": [
+                        {
+                          "showname": "64M",
+                          "value": "64M"
+                        },
+                        {
+                          "showname": "128M",
+                          "value": "128M"
+                        },
+                        {
+                          "showname": "256M",
+                          "value": "256M"
+                        },
+                        {
+                          "showname": "512M",
+                          "value": "512M"
+                        }
+                      ],
+                      "percent": 0.5
+                    },
+                    {
+                      "text": "接口类型",
+                      "code": "y_jklx",
+                      "type": "string",
+                      "show_type": "combo",
+                      "store": [
+                        {
+                          "showname": "SATA",
+                          "value": "SATA"
+                        },
+                        {
+                          "showname": "PCI-E",
+                          "value": "PCI-E"
+                        },
+                        {
+                          "showname": "SAS",
+                          "value": "SAS"
+                        }
+                      ],
+                      "percent": 0.5
+                    },
+                    {
+                      "text": "带宽",
+                      "code": "y_kd",
+                      "type": "string",
+                      "show_type": "combo",
+                      "store": [
+                        {
+                          "showname": "1M",
+                          "value": "1M"
+                        },
+                        {
+                          "showname": "10M",
+                          "value": "10M"
+                        },
+                        {
+                          "showname": "100M",
+                          "value": "100M"
+                        },
+                        {
+                          "showname": "1G",
+                          "value": "1G"
+                        }
+                      ],
+                      "percent": 0.5
+                    },
+                    {
+                      "text": "公网带宽",
+                      "code": "y_gsdk",
+                      "type": "number",
+                      "show_type": "numberfield",
+                      "percent": 0.5
+                    }
+                  ],
+                  "expanded": true,
+                  "children": [
+                    {
+                      "text": "物理服务器设备",
+                      "id": "yzy_io",
+                      "code": "io",
+                      "des": "这是物理服务器设备",
+                      "type": "rjfw",
+                      "inherit": [
+                        "yzy"
+                      ],
+                      "dataset": [],
+                      "leaf": true
+                    },
+                    {
+                      "text": "虚拟服务器",
+                      "id": "yzy_cpu",
+                      "code": "cpu",
+                      "des": "这是虚拟服务器",
+                      "type": "rjfw",
+                      "inherit": [
+                        "yzy"
+                      ],
+                      "dataset": [],
+                      "leaf": true
+                    }
+                  ]
+                },
+                {
+                  "text": "网络设备",
+                  "id": "yzy_cc",
+                  "code": "cc",
+                  "des": "这是网络设备",
+                  "type": "rjfw",
+                  "inherit": [
+                    "yzy"
+                  ],
+                  "dataset": [],
+                  "children": [
+                    {
+                      "text": "核心交换机",
+                      "id": "yzy_hxjhj",
+                      "code": "hxjhj",
+                      "des": "这是核心交换机",
+                      "type": "rjfw",
+                      "inherit": [
+                        "yzy"
+                      ],
+                      "dataset": [],
+                      "leaf": true
+                    },
+                    {
+                      "text": "负载均衡",
+                      "id": "yzy_fzjh",
+                      "code": "fzjh",
+                      "des": "这是负载均衡",
+                      "type": "rjfw",
+                      "inherit": [
+                        "yzy"
+                      ],
+                      "dataset": [],
+                      "leaf": true
+                    }
+                  ]
+                },
+                {
+                  "text": "安全设备",
+                  "id": "yzy_aq",
+                  "code": "aq",
+                  "des": "这是安全设备",
+                  "type": "rjfw",
+                  "inherit": [
+                    "yzy"
+                  ],
+                  "dataset": [],
+                  "children": [
+                    {
+                      "text": "防火墙",
+                      "id": "yzy_fhq",
+                      "code": "fhq",
+                      "des": "这是防火墙",
+                      "type": "rjfw",
+                      "inherit": [
+                        "yzy"
+                      ],
+                      "dataset": [],
+                      "leaf": true
+                    },
+                    {
+                      "text": "堡垒机",
+                      "id": "yzy_blj",
+                      "code": "blj",
+                      "des": "这是负载均衡",
+                      "type": "rjfw",
+                      "inherit": [
+                        "yzy"
+                      ],
+                      "dataset": [],
+                      "leaf": true
+                    },
+                    {
+                      "text": "WAF",
+                      "id": "yzy_waf",
+                      "code": "waf",
+                      "des": "这是WAF",
+                      "type": "rjfw",
+                      "inherit": [
+                        "yzy"
+                      ],
+                      "dataset": [],
+                      "leaf": true
+                    },
+                    {
+                      "text": "准入",
+                      "id": "yzy_zr",
+                      "code": "zr",
+                      "des": "这是准入",
+                      "type": "rjfw",
+                      "inherit": [
+                        "yzy"
+                      ],
+                      "dataset": [],
+                      "leaf": true
+                    },
+                    {
+                      "text": "VPN",
+                      "id": "yzy_vpn",
+                      "code": "vpn",
+                      "des": "这是VPN",
+                      "type": "rjfw",
+                      "inherit": [
+                        "yzy"
+                      ],
+                      "dataset": [],
+                      "leaf": true
+                    },
+                    {
+                      "text": "日志服务器",
+                      "id": "yzy_rzfwq",
+                      "code": "rzfwq",
+                      "des": "这是日志服务器",
+                      "type": "rjfw",
+                      "inherit": [
+                        "yzy"
+                      ],
+                      "dataset": [],
+                      "leaf": true
+                    }
+                  ]
+                },
+                {
+                  "text": "存储设备",
+                  "id": "yzy_ccsb",
+                  "code": "ccsb",
+                  "des": "这是存储设备",
+                  "type": "rjfw",
+                  "inherit": [
+                    "yzy"
+                  ],
+                  "dataset": [],
+                  "expanded": true,
+                  "children": [
+                    {
+                      "text": "SAN存储",
+                      "id": "yzy_san",
+                      "code": "san",
+                      "des": "这是SAN存储",
+                      "type": "rjfw",
+                      "inherit": [
+                        "yzy"
+                      ],
+                      "dataset": [],
+                      "leaf": true
+                    },
+                    {
+                      "text": "SAN 交换机",
+                      "id": "yzy_sanjhj",
+                      "code": "sanjhj",
+                      "des": "这是SAN 交换机",
+                      "type": "rjfw",
+                      "inherit": [
+                        "yzy"
+                      ],
+                      "dataset": [],
+                      "leaf": true
+                    },
+                    {
+                      "text": "存储网关",
+                      "id": "yzy_ccwg",
+                      "code": "ccwg",
+                      "des": "这是存储网关",
+                      "type": "rjfw",
+                      "inherit": [
+                        "yzy"
+                      ],
+                      "dataset": [],
+                      "leaf": true
+                    },
+                    {
+                      "text": "IPSAN",
+                      "id": "yzy_IPSAN",
+                      "code": "IPSAN",
+                      "des": "这是IPSAN",
+                      "type": "rjfw",
+                      "inherit": [
+                        "yzy"
+                      ],
+                      "dataset": [],
+                      "leaf": true
+                    },
+                    {
+                      "text": "分布式存储CSS",
+                      "id": "yzy_fbscccss",
+                      "code": "fbscccss",
+                      "des": "这是分布式存储CSS",
+                      "type": "rjfw",
+                      "inherit": [
+                        "yzy"
+                      ],
+                      "dataset": [],
+                      "leaf": true
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "软件服务资产",
+              "code": "rjfw",
+              "des": "这是软件服务资产",
+              "type": "rjfw",
+              "id": "rjfw",
+              "inherit": [
+                "zc"
+              ],
+              "dataset": [
+                {
+                  "text": "标准工作量",
+                  "code": "bzgzl",
+                  "type": "string",
+                  "show_type": "textfield",
+                  "percent": 0.5
+                },
+                {
+                  "text": "实时条件",
+                  "code": "sstj",
+                  "type": "string",
+                  "show_type": "textfield",
+                  "percent": 0.5
+                }
+              ],
+              "expanded": true,
+              "children": [
+                {
+                  "text": "运维系统",
+                  "id": "rjfw_ywxt",
+                  "inherit": [
+                    "rjfw"
+                  ],
+                  "dataset": [],
+                  "type": "rjfw",
+                  "code": "ywxt",
+                  "des": "这是运维系统服务",
+                  "children": [
+                    {
+                      "text": "DNS",
+                      "code": "dns",
+                      "id": "rjfw_dns",
+                      "inherit": [
+                        "rjfw"
+                      ],
+                      "dataset": [],
+                      "type": "rjfw",
+                      "des": "这是DNS",
+                      "leaf": true
+                    },
+                    {
+                      "text": "备份软件",
+                      "code": "bfrj",
+                      "id": "rjfw_bfrj",
+                      "inherit": [
+                        "rjfw"
+                      ],
+                      "dataset": [],
+                      "type": "rjfw",
+                      "des": "这是备份软件",
+                      "leaf": true
+                    },
+                    {
+                      "text": "可信计算",
+                      "code": "kxjs",
+                      "id": "rjfw_kxjs",
+                      "inherit": [
+                        "rjfw"
+                      ],
+                      "dataset": [],
+                      "type": "rjfw",
+                      "des": "这是可信计算",
+                      "leaf": true
+                    },
+                    {
+                      "text": "防病毒",
+                      "code": "fbd",
+                      "id": "rjfw_fbd",
+                      "inherit": [
+                        "rjfw"
+                      ],
+                      "dataset": [],
+                      "type": "rjfw",
+                      "des": "这是防病毒",
+                      "leaf": true
+                    },
+                    {
+                      "text": "esight",
+                      "code": "esight",
+                      "id": "rjfw_esight",
+                      "inherit": [
+                        "rjfw"
+                      ],
+                      "dataset": [],
+                      "type": "rjfw",
+                      "des": "esight",
+                      "leaf": true
+                    },
+                    {
+                      "text": "ftp",
+                      "code": "ftp",
+                      "id": "rjfw_ftp",
+                      "inherit": [
+                        "rjfw"
+                      ],
+                      "dataset": [],
+                      "type": "rjfw",
+                      "des": "ftp",
+                      "leaf": true
+                    },
+                    {
+                      "text": "政务云平台",
+                      "code": "zwypt",
+                      "id": "rjfw_zwypt",
+                      "inherit": [
+                        "rjfw"
+                      ],
+                      "dataset": [],
+                      "type": "rjfw",
+                      "des": "这是政务云平台",
+                      "leaf": true
+                    },
+                    {
+                      "text": "备份软件",
+                      "code": "bfrj",
+                      "id": "rjfw_bfrj",
+                      "inherit": [
+                        "rjfw"
+                      ],
+                      "dataset": [],
+                      "type": "rjfw",
+                      "des": "这是备份软件",
+                      "leaf": true
+                    },
+                    {
+                      "text": "日志采集",
+                      "code": "rzcj",
+                      "id": "rjfw_rzcj",
+                      "inherit": [
+                        "rjfw"
+                      ],
+                      "dataset": [],
+                      "type": "rjfw",
+                      "des": "这是日志采集",
+                      "leaf": true
+                    },
+                    {
+                      "text": "电话受理服务系统",
+                      "code": "dhslfwxt",
+                      "id": "rjfw_dhslfwxt",
+                      "inherit": [
+                        "rjfw"
+                      ],
+                      "dataset": [],
+                      "type": "rjfw",
+                      "des": "这是电话受理服务系统",
+                      "leaf": true
+                    },
+                    {
+                      "text": "数据库性能分析和行为审计",
+                      "code": "sjkxnfxhxwsj",
+                      "leaf": true
+                    },
+                    {
+                      "text": "信息安全风险管控",
+                      "code": "xxaqfxjk",
+                      "leaf": true
+                    },
+                    {
+                      "text": "信息安全监控预警及处置服务平台",
+                      "code": "xxaqjkyjjczfwpt",
+                      "leaf": true
+                    },
+                    {
+                      "text": "可信计算",
+                      "code": "kxjs",
+                      "leaf": true
+                    }
+                  ]
+                },
+                {
+                  "text": "应用系统",
+                  "id": "rjfw_yyxt",
+                  "inherit": [
+                    "rjfw"
+                  ],
+                  "dataset": [],
+                  "type": "rjfw",
+                  "code": "yyxt",
+                  "des": "这是应用系统",
+                  "children": [
+                    {
+                      "text": "数据架构体系",
+                      "code": "sjjgtx",
+                      "leaf": true
+                    },
+                    {
+                      "text": "PAAS 平台",
+                      "code": "paas",
+                      "leaf": true
+                    },
+                    {
+                      "text": "集约化网站群平台",
+                      "code": "jyhwzqpt",
+                      "leaf": true
+                    },
+                    {
+                      "text": "统一身份认证系统",
+                      "code": "tysfrzxt",
+                      "leaf": true
+                    },
+                    {
+                      "text": "数据交换平台",
+                      "code": "sjjhpt",
+                      "leaf": true
+                    },
+                    {
+                      "text": "视频会议系统",
+                      "code": "sphyxt",
+                      "leaf": true
+                    },
+                    {
+                      "text": "大数据平台",
+                      "code": "dsjpt",
+                      "leaf": true
+                    },
+                    {
+                      "text": "数据开放平台",
+                      "code": "sjkfpt",
+                      "leaf": true
+                    },
+                    {
+                      "text": "数据资源共享统一接口平台",
+                      "code": "sjzygxtyjkpt",
+                      "leaf": true
+                    },
+                    {
+                      "text": "基础设施平台运行事件集中监控处置系统",
+                      "code": "jcssptyxsjjzjkczxt",
+                      "leaf": true
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": " 数据资产",
+              "code": "sjzc",
+              "des": "这是数据资产",
+              "type": "sjzc",
+              "id": "sjzc",
+              "inherit": [
+                "zc"
+              ],
+              "dataset": [
+                {
+                  "text": "数据方式",
+                  "code": "sjfs",
+                  "type": "string",
+                  "show_type": "combo",
+                  "store": [
+                    {
+                      "showname": "开放",
+                      "value": "kf"
+                    },
+                    {
+                      "showname": "汇集",
+                      "value": "hj"
+                    },
+                    {
+                      "showname": "共享",
+                      "value": "gx"
+                    }
+                  ],
+                  "percent": 0.5
+                },
+                {
+                  "text": "共享类型",
+                  "code": "gxlx",
+                  "type": "string",
+                  "show_type": "combo",
+                  "store": [
+                    {
+                      "showname": "有条件共享",
+                      "value": "ytjgx"
+                    },
+                    {
+                      "showname": "无条件共享",
+                      "value": "wtjgx"
+                    },
+                    {
+                      "showname": "不予共享",
+                      "value": "bygx"
+                    }
+                  ],
+                  "percent": 0.5
+                },
+                {
+                  "text": "开放类型",
+                  "code": "kflx",
+                  "type": "string",
+                  "show_type": "combo",
+                  "store": [
+                    {
+                      "showname": "向社会开放",
+                      "value": "yes"
+                    },
+                    {
+                      "showname": "不向社会开放",
+                      "value": "no"
+                    }
+                  ],
+                  "percent": 0.5
+                },
+                {
+                  "text": "共享条件",
+                  "code": "gxtj",
+                  "type": "string",
+                  "show_type": "textfield",
+                  "percent": 0.5
+                },
+                {
+                  "text": "开放条件",
+                  "code": "kftj",
+                  "type": "string",
+                  "show_type": "textfield",
+                  "percent": 0.5
+                }
+              ],
+              "leaf": true
+            },
+            {
+              "text": " 接口资产",
+              "code": "jkzy",
+              "des": "这是接口资源",
+              "type": "jkzy",
+              "id": "jkzy",
+              "inherit": [
+                "zc"
+              ],
+              "dataset": [
+                {
+                  "text": "类型",
+                  "code": "lx",
+                  "type": "string",
+                  "show_type": "combo",
+                  "store": [
+                    {
+                      "showname": "内->外",
+                      "value": "nw"
+                    },
+                    {
+                      "showname": "外->内",
+                      "value": "wn"
+                    }
+                  ],
+                  "percent": 0.5
+                },
+                {
+                  "text": "调用频率限制",
+                  "code": "j_typlxz",
+                  "type": "string",
+                  "show_type": "combo",
+                  "store": [
+                    {
+                      "showname": "实时",
+                      "value": "ss"
+                    },
+                    {
+                      "showname": "高",
+                      "value": "g"
+                    },
+                    {
+                      "showname": "一般",
+                      "value": "yb"
+                    },
+                    {
+                      "showname": "低",
+                      "value": "d"
+                    }
+                  ],
+                  "percent": 0.5
+                },
+                {
+                  "text": "接口类型",
+                  "code": "j_jklx",
+                  "type": "string",
+                  "show_type": "combo",
+                  "store": [
+                    {
+                      "showname": "代理接口",
+                      "value": "dljk"
+                    },
+                    {
+                      "showname": "中心接口",
+                      "value": "zxjk"
+                    },
+                    {
+                      "showname": "组合接口",
+                      "value": "zhjk"
+                    }
+                  ],
+                  "percent": 0.5
+                },
+                {
+                  "text": "重点监控",
+                  "code": "j_zdjk",
+                  "type": "boolean",
+                  "show_type": "radiogroup",
+                  "store": [
+                    {
+                      "boxLabel": "是",
+                      "inputValue": "true"
+                    },
+                    {
+                      "boxLabel": "否",
+                      "inputValue": "false"
+                    }
+                  ],
+                  "percent": 0.5
+                },
+                {
+                  "text": "协议类型",
+                  "code": "j_xytype",
+                  "type": "string",
+                  "show_type": "combo",
+                  "store": [
+                    {
+                      "showname": "Webserice",
+                      "value": "Webserice"
+                    },
+                    {
+                      "showname": "RPC",
+                      "value": "RPC"
+                    },
+                    {
+                      "showname": "Restful",
+                      "value": "Restful"
+                    }
+                  ],
+                  "percent": 0.5
+                },
+                {
+                  "text": "认证方式",
+                  "code": "j_rzfs",
+                  "type": "string",
+                  "show_type": "combo",
+                  "store": [
+                    {
+                      "showname": "OAuth",
+                      "value": "OAuth"
+                    },
+                    {
+                      "showname": "WS-Security",
+                      "value": "WS-Security"
+                    }
+                  ],
+                  "percent": 0.5
+                },
+                {
+                  "text": "传输方式",
+                  "code": "j_csfs",
+                  "type": "string",
+                  "show_type": "combo",
+                  "store": [
+                    {
+                      "showname": "XML",
+                      "value": "XML"
+                    },
+                    {
+                      "showname": "JSON",
+                      "value": "JSON"
+                    },
+                    {
+                      "showname": "二进制",
+                      "value": "ejz"
+                    }
+                  ],
+                  "percent": 0.5
+                },
+                {
+                  "text": "URL映射",
+                  "code": "j_urlys",
+                  "type": "string",
+                  "show_type": "textfield",
+                  "percent": 1
+                },
+                {
+                  "text": "服务地址",
+                  "code": "fwdz",
+                  "type": "string",
+                  "show_type": "textfield",
+                  "percent": 1
+                },
+                {
+                  "text": "服务类型",
+                  "code": "fwlx",
+                  "type": "string",
+                  "show_type": "combo",
+                  "store": [
+                    {
+                      "showname": "WebService",
+                      "value": "WebService"
+                    },
+                    {
+                      "showname": "RPC",
+                      "value": "RPC"
+                    },
+                    {
+                      "showname": "Restful",
+                      "value": "Restful"
+                    }
+                  ],
+                  "percent": 0.5
+                }
+              ],
+              "leaf": true
+              //            },
+              //            {
+              //              "text": " 设备资产",
+              //              "code": "sbzc",
+              //              "des": "这是设备资产",
+              //              "type": "sbzc",
+              //              "id": "sbzc",
+              //              "inherit": [
+              //                "zc"
+              //              ],
+              //              "dataset": [
+              //                {
+              //                  "text": "设备类型",
+              //                  "code": "sblx",
+              //                  "type": "string",
+              //                  "show_type": "combo",
+              //                  "store": [
+              //                    {
+              //                      "showname": "服务器",
+              //                      "value": "fwq"
+              //                    },
+              //                    {
+              //                      "showname": "网络设备",
+              //                      "value": "wlsb"
+              //                    },
+              //                    {
+              //                      "showname": "安全设备",
+              //                      "value": "aqsb"
+              //                    }
+              //                  ],
+              //                  "percent": 0.5
+              //                }
+              //              ],
+              //              "children": [
+              //                {
+              //                  "text": " PC服务器",
+              //                  "code": "pc",
+              //                  "type": "sbzc",
+              //                  "id": "sbzc_pc",
+              //                  "inherit": [
+              //                    "sbzc"
+              //                  ],
+              //                  "dataset": [],
+              //                  "leaf": true
+              //                },
+              //                {
+              //                  "text": " 小型机",
+              //                  "code": "small",
+              //                  "type": "sbzc",
+              //                  "id": "sbzc_small",
+              //                  "inherit": [
+              //                    "sbzc"
+              //                  ],
+              //                  "dataset": [],
+              //                  "leaf": true
+              //                },
+              //                {
+              //                  "text": "路由器",
+              //                  "code": "lyq",
+              //                  "type": "sbzc",
+              //                  "id": "sbzc_lyq",
+              //                  "inherit": [
+              //                    "sbzc"
+              //                  ],
+              //                  "dataset": [],
+              //                  "leaf": true
+              //                }
+              //              ]
+            },
+            {
+              "text": "基础数据资产",
+              "type": "jcsjzc",
+              "code": "jcsjzc",
+              "des": "这是基础数据资产",
+              "id": "jcsjzc",
+              "inherit": [
+                "zc"
+              ],
+              "dataset": [],
+              "leaf": true
+            }
+          ]
+        },
+        {
+          "text": "数字资产",
+          "code": "szzc",
+          "leaf": true
+        }
+      ]
+    }
+  ]
+}

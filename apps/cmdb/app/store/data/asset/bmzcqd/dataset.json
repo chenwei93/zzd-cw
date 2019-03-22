@@ -1,0 +1,49 @@
+{
+  "content": [
+    {
+      "name": "名称",
+      "code": "name",
+      "type": "textfield",
+      "minsize": 1,
+      "maxsize": 200,
+      "mustinput": true,
+      "mrz": ""
+    },
+    {
+      "name": "屏幕尺寸",
+      "code": "size",
+      "type": "textfield",
+      "minsize": 1,
+      "maxsize": 100,
+      "mustinput": false,
+      "mrz": ""
+    },
+    {
+      "name": "内存大小",
+      "code": "nc",
+      "type": "textfield",
+      "minsize": 1,
+      "maxsize": 100,
+      "mustinput": false,
+      "mrz": ""
+    },
+    {
+      "name": "cpu型号",
+      "code": "cpu",
+      "type": "textfield",
+      "minsize": 1,
+      "maxsize": 200,
+      "mustinput": true,
+      "mrz": ""
+    },
+    {
+      "name": "品牌",
+      "code": "pp",
+      "type": "textfield",
+      "minsize": 1,
+      "maxsize": 200,
+      "mustinput": true,
+      "mrz": ""
+    }
+  ]
+}

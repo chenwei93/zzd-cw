@@ -1,0 +1,1888 @@
+{
+  "id" : "root",
+  "text" : "根节点",
+  "expanded" : false,
+  "leaf" : false,
+  "children" : [ {
+    "parentId" : "root",
+    "id" : "8d2f0930-d901-4ec6-9249-5f5dce886f31",
+    "text" : "国标主题分类",
+    "expanded" : false,
+    "leaf" : false,
+    "children" : [ {
+      "parentId" : "8d2f0930-d901-4ec6-9249-5f5dce886f31",
+      "id" : "e366ef37-f734-41d2-9166-9b15a3d10eee",
+      "text" : "综合政务",
+      "expanded" : false,
+      "leaf" : false,
+      "children" : [ {
+        "parentId" : "e366ef37-f734-41d2-9166-9b15a3d10eee",
+        "id" : "526643df-f100-4d55-8dbe-9dc7e2594c11",
+        "text" : "政务综合类",
+        "expanded" : false,
+        "leaf" : true,
+        "extraAttributes" : {
+          "code" : "ZAA00",
+          "idRel" : "dictionaryItems/ZAA00",
+          "value" : "A00",
+          "desc" : null
+        }
+      }, {
+        "parentId" : "e366ef37-f734-41d2-9166-9b15a3d10eee",
+        "id" : "d9693428-939b-4a2c-81f5-94e53f1080d0",
+        "text" : "方针政策",
+        "expanded" : false,
+        "leaf" : true,
+        "extraAttributes" : {
+          "code" : "ZAB00",
+          "idRel" : "dictionaryItems/ZAB00",
+          "value" : "B00",
+          "desc" : "政府制订的、宏观的、指导各个领域发展的方针政策"
+        }
+      }, {
+        "parentId" : "e366ef37-f734-41d2-9166-9b15a3d10eee",
+        "id" : "acf19d58-a579-4f20-a085-0402f1ff245e",
+        "text" : "中共党务",
+        "expanded" : false,
+        "leaf" : true,
+        "extraAttributes" : {
+          "code" : "ZAC00",
+          "idRel" : "dictionaryItems/ZAC00",
+          "value" : "C00",
+          "desc" : "关于中国共产党的规章制度、组织机构建设和发展，以及工作职责等相关信息"
+        }
+      }, {
+        "parentId" : "e366ef37-f734-41d2-9166-9b15a3d10eee",
+        "id" : "d77018bf-1b5c-4a4e-b872-fd5d501a9fa6",
+        "text" : "政府工作",
+        "expanded" : false,
+        "leaf" : true,
+        "extraAttributes" : {
+          "code" : "ZAD00",
+          "idRel" : "dictionaryItems/ZAD00",
+          "value" : "D00",
+          "desc" : "关于政府的规章制度、组织机构建设和发展，以及工作职责等相关信息"
+        }
+      }, {
+        "parentId" : "e366ef37-f734-41d2-9166-9b15a3d10eee",
+        "id" : "c8a964cf-70d7-4dcf-9a25-680fad09ad5e",
+        "text" : "人大",
+        "expanded" : false,
+        "leaf" : true,
+        "extraAttributes" : {
+          "code" : "ZAE00",
+          "idRel" : "dictionaryItems/ZAE00",
+          "value" : "E00",
+          "desc" : "关于人民代表大会的规章制度、组织机构建设和发展，以及工作职责的相关信息"
+        }
+      }, {
+        "parentId" : "e366ef37-f734-41d2-9166-9b15a3d10eee",
+        "id" : "0f10d2ee-824e-43f1-8111-ed80fa80e936",
+        "text" : "政协",
+        "expanded" : false,
+        "leaf" : true,
+        "extraAttributes" : {
+          "code" : "ZAF00",
+          "idRel" : "dictionaryItems/ZAF00",
+          "value" : "F00",
+          "desc" : "政治协商会议的规章制度、组织机构建设和发展，以及工作职责等相关信息"
+        }
+      }, {
+        "parentId" : "e366ef37-f734-41d2-9166-9b15a3d10eee",
+        "id" : "88fa47d6-532c-4ca3-8167-52a8f9668918",
+        "text" : "法院",
+        "expanded" : false,
+        "leaf" : true,
+        "extraAttributes" : {
+          "code" : "ZAG00",
+          "idRel" : "dictionaryItems/ZAG00",
+          "value" : "G00",
+          "desc" : "法院系统的规章制度、组织机构建设和发展，以及工作职责等相关信息"
+        }
+      }, {
+        "parentId" : "e366ef37-f734-41d2-9166-9b15a3d10eee",
+        "id" : "913be5bb-bb7a-4c61-a9b2-39a89b1927e1",
+        "text" : "检察院",
+        "expanded" : false,
+        "leaf" : true,
+        "extraAttributes" : {
+          "code" : "ZAH00",
+          "idRel" : "dictionaryItems/ZAH00",
+          "value" : "H00",
+          "desc" : "检察院系统的规章制度、组织机构建设和发展，以及工作职责等相关信息"
+        }
+      }, {
+        "parentId" : "e366ef37-f734-41d2-9166-9b15a3d10eee",
+        "id" : "669ac4df-c203-47b6-8279-788ea32bdaac",
+        "text" : "机构编制",
+        "expanded" : false,
+        "leaf" : true,
+        "extraAttributes" : {
+          "code" : "ZAJ00",
+          "idRel" : "dictionaryItems/ZAJ00",
+          "value" : "J00",
+          "desc" : "关于机构编制的管理、机构体系的当前概况和远景规划"
+        }
+      }, {
+        "parentId" : "e366ef37-f734-41d2-9166-9b15a3d10eee",
+        "id" : "a1cc83da-8d6a-4dcb-9dec-161c569a4d7f",
+        "text" : "领导人",
+        "expanded" : false,
+        "leaf" : true,
+        "extraAttributes" : {
+          "code" : "ZAK00",
+          "idRel" : "dictionaryItems/ZAK00",
+          "value" : "K00",
+          "desc" : "关于领导人的简历、工作岗位、工作活动、作品等相关信息"
+        }
+      }, {
+        "parentId" : "e366ef37-f734-41d2-9166-9b15a3d10eee",
+        "id" : "4abf8ea0-596b-4000-863f-11877f6a7a3c",
+        "text" : "会议、会务",
+        "expanded" : false,
+        "leaf" : true,
+        "extraAttributes" : {
+          "code" : "ZAL00",
+          "idRel" : "dictionaryItems/ZAL00",
+          "value" : "L00",
+          "desc" : "会议产生的报告等相关信息，以及会议组织、管理的相关信息"
+        }
+      }, {
+        "parentId" : "e366ef37-f734-41d2-9166-9b15a3d10eee",
+        "id" : "0e6b3e55-03c6-4d95-9f69-a97a8a9a1226",
+        "text" : "重大事件",
+        "expanded" : false,
+        "leaf" : true,
+        "extraAttributes" : {
+          "code" : "ZAM00",
+          "idRel" : "dictionaryItems/ZAM00",
+          "value" : "M00",
+          "desc" : "有深远影响的事件的相关信息"
+        }
+      } ],
+      "extraAttributes" : {
+        "code" : "ZA",
+        "idRel" : "dictionaryItems/ZA",
+        "value" : "ZA",
+        "desc" : "关于政治方面的事务和国家的管理工作"
+      }
+    }, {
+      "parentId" : "8d2f0930-d901-4ec6-9249-5f5dce886f31",
+      "id" : "53d88b7f-46ce-4ad9-ac1f-dffa7d160317",
+      "text" : "经济管理",
+      "expanded" : false,
+      "leaf" : false,
+      "children" : [ {
+        "parentId" : "53d88b7f-46ce-4ad9-ac1f-dffa7d160317",
+        "id" : "6d59487d-b94e-4c82-ab71-11de4827bf93",
+        "text" : "经济管理综合类",
+        "expanded" : false,
+        "leaf" : true,
+        "extraAttributes" : {
+          "code" : "ZBA00",
+          "idRel" : "dictionaryItems/ZBA00",
+          "value" : "A00",
+          "desc" : null
+        }
+      }, {
+        "parentId" : "53d88b7f-46ce-4ad9-ac1f-dffa7d160317",
+        "id" : "9d630eae-57d4-4dec-aa65-834035c140cd",
+        "text" : "经济发展计划",
+        "expanded" : false,
+        "leaf" : true,
+        "extraAttributes" : {
+          "code" : "ZBB00",
+          "idRel" : "dictionaryItems/ZBB00",
+          "value" : "B00",
+          "desc" : "关于经济的宏观的发展规划"
+        }
+      }, {
+        "parentId" : "53d88b7f-46ce-4ad9-ac1f-dffa7d160317",
+        "id" : "d605e992-06b0-49ed-be69-e32fd6bd506a",
+        "text" : "经济管理",
+        "expanded" : false,
+        "leaf" : true,
+        "extraAttributes" : {
+          "code" : "ZBC00",
+          "idRel" : "dictionaryItems/ZBC00",
+          "value" : "C00",
+          "desc" : "关于经济的宏观管理现状"
+        }
+      }, {
+        "parentId" : "53d88b7f-46ce-4ad9-ac1f-dffa7d160317",
+        "id" : "d5da6cf7-eb2f-4647-815b-94d4e0aaa3ad",
+        "text" : "经济体制改革",
+        "expanded" : false,
+        "leaf" : true,
+        "extraAttributes" : {
+          "code" : "ZBD00",
+          "idRel" : "dictionaryItems/ZBD00",
+          "value" : "D00",
+          "desc" : "关于经济体制改革的管理和规划、发展情况"
+        }
+      }, {
+        "parentId" : "53d88b7f-46ce-4ad9-ac1f-dffa7d160317",
+        "id" : "a37301f6-2793-4552-a8ac-c4999e9a859a",
+        "text" : "经贸管理",
+        "expanded" : false,
+        "leaf" : true,
+        "extraAttributes" : {
+          "code" : "ZBE00",
+          "idRel" : "dictionaryItems/ZBE00",
+          "value" : "E00",
+          "desc" : "关于经济贸易的宏观管理和发展调查报告、统计资料"
+        }
+      }, {
+        "parentId" : "53d88b7f-46ce-4ad9-ac1f-dffa7d160317",
+        "id" : "0c4a232c-8d78-4832-9096-3557130a41c1",
+        "text" : "统计",
+        "expanded" : false,
+        "leaf" : true,
+        "extraAttributes" : {
+          "code" : "ZBF00",
+          "idRel" : "dictionaryItems/ZBF00",
+          "value" : "F00",
+          "desc" : "关于统计工作的管理和发展情况"
+        }
+      }, {
+        "parentId" : "53d88b7f-46ce-4ad9-ac1f-dffa7d160317",
+        "id" : "971e723b-a355-40cd-9da9-4e465e43f98c",
+        "text" : "物价",
+        "expanded" : false,
+        "leaf" : true,
+        "extraAttributes" : {
+          "code" : "ZBG00",
+          "idRel" : "dictionaryItems/ZBG00",
+          "value" : "G00",
+          "desc" : "关于物价的管理和调查报告、统计资料，以及物价体系规划"
+        }
+      }, {
+        "parentId" : "53d88b7f-46ce-4ad9-ac1f-dffa7d160317",
+        "id" : "bff14a99-1254-4600-82d2-548d3265bb73",
+        "text" : "工商",
+        "expanded" : false,
+        "leaf" : true,
+        "extraAttributes" : {
+          "code" : "ZBH00",
+          "idRel" : "dictionaryItems/ZBH00",
+          "value" : "H00",
+          "desc" : "关于市场监督管理和维护公平竞争的市场秩序"
+        }
+      } ],
+      "extraAttributes" : {
+        "code" : "ZB",
+        "idRel" : "dictionaryItems/ZB",
+        "value" : "ZB",
+        "desc" : "关于经济的管理、规划、发展概况"
+      }
+    }, {
+      "parentId" : "8d2f0930-d901-4ec6-9249-5f5dce886f31",
+      "id" : "34e426f9-1972-44d1-9dab-132435da58ab",
+      "text" : "国土资源、能源",
+      "expanded" : false,
+      "leaf" : false,
+      "children" : [ {
+        "parentId" : "34e426f9-1972-44d1-9dab-132435da58ab",
+        "id" : "6a8affdf-a15e-4803-96c8-bab3b7618bf5",
+        "text" : "国土资源与能源综合类",
+        "expanded" : false,
+        "leaf" : true,
+        "extraAttributes" : {
+          "code" : "ZCA00",
+          "idRel" : "dictionaryItems/ZCA00",
+          "value" : "A00",
+          "desc" : null
+        }
+      }, {
+        "parentId" : "34e426f9-1972-44d1-9dab-132435da58ab",
+        "id" : "e7888280-981a-4268-9310-e2d508ea9ea8",
+        "text" : "土地",
+        "expanded" : false,
+        "leaf" : true,
+        "extraAttributes" : {
+          "code" : "ZCB00",
+          "idRel" : "dictionaryItems/ZCB00",
+          "value" : "B00",
+          "desc" : "关于土地资源的管理、规划和开发利用情况"
+        }
+      }, {
+        "parentId" : "34e426f9-1972-44d1-9dab-132435da58ab",
+        "id" : "2765f689-ab8e-4df8-9202-f86635ced2bc",
+        "text" : "矿藏",
+        "expanded" : false,
+        "leaf" : true,
+        "extraAttributes" : {
+          "code" : "ZCC00",
+          "idRel" : "dictionaryItems/ZCC00",
+          "value" : "C00",
+          "desc" : "关于矿产资源的管理、规划和利用开发情况"
+        }
+      }, {
+        "parentId" : "34e426f9-1972-44d1-9dab-132435da58ab",
+        "id" : "aa7ab09f-f77d-438a-aaa4-17f251cdd05f",
+        "text" : "水资源",
+        "expanded" : false,
+        "leaf" : true,
+        "extraAttributes" : {
+          "code" : "ZCD00",
+          "idRel" : "dictionaryItems/ZCD00",
+          "value" : "D00",
+          "desc" : "关于水资源的管理、开发利用和规划"
+        }
+      }, {
+        "parentId" : "34e426f9-1972-44d1-9dab-132435da58ab",
+        "id" : "20b37007-3efa-4194-9408-ab22066e816a",
+        "text" : "海洋",
+        "expanded" : false,
+        "leaf" : true,
+        "extraAttributes" : {
+          "code" : "ZCE00",
+          "idRel" : "dictionaryItems/ZCE00",
+          "value" : "E00",
+          "desc" : "关于海洋资源的管理和资源的开发利用和规划"
+        }
+      }, {
+        "parentId" : "34e426f9-1972-44d1-9dab-132435da58ab",
+        "id" : "21dbfdcd-485f-4802-95c0-2d2dd589ae48",
+        "text" : "煤炭",
+        "expanded" : false,
+        "leaf" : true,
+        "extraAttributes" : {
+          "code" : "ZCF00",
+          "idRel" : "dictionaryItems/ZCF00",
+          "value" : "F00",
+          "desc" : "关于煤炭资源的管理、科技、规划和开发利用"
+        }
+      }, {
+        "parentId" : "34e426f9-1972-44d1-9dab-132435da58ab",
+        "id" : "9e9843b5-0dd4-4909-ab6e-54f1fd66318c",
+        "text" : "石油",
+        "expanded" : false,
+        "leaf" : true,
+        "extraAttributes" : {
+          "code" : "ZCG00",
+          "idRel" : "dictionaryItems/ZCG00",
+          "value" : "G00",
+          "desc" : "关于石油、天然气行业生产、经营的规章制度、法律法规、规划和管理"
+        }
+      }, {
+        "parentId" : "34e426f9-1972-44d1-9dab-132435da58ab",
+        "id" : "ed5fe183-7e58-4818-9d6c-243435344dca",
+        "text" : "燃料、燃气",
+        "expanded" : false,
+        "leaf" : true,
+        "extraAttributes" : {
+          "code" : "ZCH00",
+          "idRel" : "dictionaryItems/ZCH00",
+          "value" : "H00",
+          "desc" : "关于燃料、燃气行业生产、经营的规章制度、法律法规、规划和管理"
+        }
+      }, {
+        "parentId" : "34e426f9-1972-44d1-9dab-132435da58ab",
+        "id" : "06a34968-f285-4b54-b8e3-64ff47387057",
+        "text" : "电力",
+        "expanded" : false,
+        "leaf" : true,
+        "extraAttributes" : {
+          "code" : "ZCJ00",
+          "idRel" : "dictionaryItems/ZCJ00",
+          "value" : "J00",
+          "desc" : "关于电力生产和市场经营的规章制度、法律法规、管理机构，以及设施建设和技术发展"
+        }
+      } ],
+      "extraAttributes" : {
+        "code" : "ZC",
+        "idRel" : "dictionaryItems/ZC",
+        "value" : "ZC",
+        "desc" : "土地、水、海洋、石油、天然气、矿藏、电力资源的管理、规划和发展"
+      }
+    }, {
+      "parentId" : "8d2f0930-d901-4ec6-9249-5f5dce886f31",
+      "id" : "97d78acb-84a7-4ef8-b445-5a4e63a750a6",
+      "text" : "工业、交通",
+      "expanded" : false,
+      "leaf" : false,
+      "children" : [ {
+        "parentId" : "97d78acb-84a7-4ef8-b445-5a4e63a750a6",
+        "id" : "4d3d51af-0d4a-4ca8-9c4f-b3db5e6cafc6",
+        "text" : "工交综合类",
+        "expanded" : false,
+        "leaf" : true,
+        "extraAttributes" : {
+          "code" : "ZDA00",
+          "idRel" : "dictionaryItems/ZDA00",
+          "value" : "A00",
+          "desc" : null
+        }
+      }, {
+        "parentId" : "97d78acb-84a7-4ef8-b445-5a4e63a750a6",
+        "id" : "75e02de1-ca31-4e46-ae85-01b9866b5278",
+        "text" : "工业",
+        "expanded" : false,
+        "leaf" : true,
+        "extraAttributes" : {
+          "code" : "ZDB00",
+          "idRel" : "dictionaryItems/ZDB00",
+          "value" : "B00",
+          "desc" : "关于工业的规章制度、法律法规、管理机构、体系结构规划和发展"
+        }
+      }, {
+        "parentId" : "97d78acb-84a7-4ef8-b445-5a4e63a750a6",
+        "id" : "fc89d46c-10a0-46d2-a7dd-fe0624d8cc77",
+        "text" : "企业",
+        "expanded" : false,
+        "leaf" : true,
+        "extraAttributes" : {
+          "code" : "ZDC00",
+          "idRel" : "dictionaryItems/ZDC00",
+          "value" : "C00",
+          "desc" : "关于企业创建、经营的规章制度、法律法规、管理机和政府对企业提供的相关服务"
+        }
+      }, {
+        "parentId" : "97d78acb-84a7-4ef8-b445-5a4e63a750a6",
+        "id" : "3ece008b-8654-40a0-b431-2a1759afd848",
+        "text" : "交通运输",
+        "expanded" : false,
+        "leaf" : true,
+        "extraAttributes" : {
+          "code" : "ZDD00",
+          "idRel" : "dictionaryItems/ZDD00",
+          "value" : "D00",
+          "desc" : "关于交通运输业的规章制度、法律法规、管理机构、功能服务和设施建设的规划和发展情况"
+        }
+      } ],
+      "extraAttributes" : {
+        "code" : "ZD",
+        "idRel" : "dictionaryItems/ZD",
+        "value" : "ZD",
+        "desc" : "工业、企业、交通运输、邮政及相关领域"
+      }
+    }, {
+      "parentId" : "8d2f0930-d901-4ec6-9249-5f5dce886f31",
+      "id" : "de7c4792-5fbd-4618-b8af-05837fd9c838",
+      "text" : "信息产业",
+      "expanded" : false,
+      "leaf" : false,
+      "children" : [ {
+        "parentId" : "de7c4792-5fbd-4618-b8af-05837fd9c838",
+        "id" : "d6d852e8-cd59-4791-988c-a12ee37c38a9",
+        "text" : "信息产业综合类",
+        "expanded" : false,
+        "leaf" : true,
+        "extraAttributes" : {
+          "code" : "ZEA00",
+          "idRel" : "dictionaryItems/ZEA00",
+          "value" : "A00",
+          "desc" : null
+        }
+      }, {
+        "parentId" : "de7c4792-5fbd-4618-b8af-05837fd9c838",
+        "id" : "719b970e-956e-49fe-b26f-6ffcbaa7f24f",
+        "text" : "通信",
+        "expanded" : false,
+        "leaf" : true,
+        "extraAttributes" : {
+          "code" : "ZEB00",
+          "idRel" : "dictionaryItems/ZEB00",
+          "value" : "B00",
+          "desc" : "与通信相关的规章制度、法律法规、设施建设、功能服务以及组织机构等入此"
+        }
+      }, {
+        "parentId" : "de7c4792-5fbd-4618-b8af-05837fd9c838",
+        "id" : "51e49a32-d2e8-4e1b-8b11-db8fe4cc060e",
+        "text" : "计算机",
+        "expanded" : false,
+        "leaf" : true,
+        "extraAttributes" : {
+          "code" : "ZEC00",
+          "idRel" : "dictionaryItems/ZEC00",
+          "value" : "C00",
+          "desc" : "与计算机相关的研发、生产、销售相关的规章制度、法律法规、技术和标准、以及该行业的市场行情等概况此"
+        }
+      }, {
+        "parentId" : "de7c4792-5fbd-4618-b8af-05837fd9c838",
+        "id" : "502da808-5fd0-4c24-9f44-3dd3c670fd82",
+        "text" : "软件",
+        "expanded" : false,
+        "leaf" : true,
+        "extraAttributes" : {
+          "code" : "ZED00",
+          "idRel" : "dictionaryItems/ZED00",
+          "value" : "D00",
+          "desc" : "与软件业相关的规章制度、法律法规、技术标准和发展概况"
+        }
+      }, {
+        "parentId" : "de7c4792-5fbd-4618-b8af-05837fd9c838",
+        "id" : "4aafd319-55af-40a7-9bbe-a86bfa83133c",
+        "text" : "网络",
+        "expanded" : false,
+        "leaf" : true,
+        "extraAttributes" : {
+          "code" : "ZEE00",
+          "idRel" : "dictionaryItems/ZEE00",
+          "value" : "E00",
+          "desc" : "关于网络的规章制度、法律法规、设施建设规划和发展情况，以及网络的功能服务"
+        }
+      }, {
+        "parentId" : "de7c4792-5fbd-4618-b8af-05837fd9c838",
+        "id" : "f5175dd4-4ac6-4480-9594-a815fbb7a69c",
+        "text" : "信息技术、信息系统",
+        "expanded" : false,
+        "leaf" : true,
+        "extraAttributes" : {
+          "code" : "ZEF00",
+          "idRel" : "dictionaryItems/ZEF00",
+          "value" : "F00",
+          "desc" : "关于信息系统建设的规划和发展情况，信息系统功能服务的开发利用，以及相关的规章制度、法律法规，信息技术的研发"
+        }
+      }, {
+        "parentId" : "de7c4792-5fbd-4618-b8af-05837fd9c838",
+        "id" : "dff33087-e1f8-4ec0-89ec-3f9a3742c8bb",
+        "text" : "邮政",
+        "expanded" : false,
+        "leaf" : true,
+        "extraAttributes" : {
+          "code" : "ZEG00",
+          "idRel" : "dictionaryItems/ZEG00",
+          "value" : "G00",
+          "desc" : "关于邮政业的规章制度、法律法规、设施建设的规划和发展情况、功能服务的开发利用"
+        }
+      } ],
+      "extraAttributes" : {
+        "code" : "ZE",
+        "idRel" : "dictionaryItems/ZE",
+        "value" : "ZE",
+        "desc" : "与信息产业内以及相关的行业领域"
+      }
+    }, {
+      "parentId" : "8d2f0930-d901-4ec6-9249-5f5dce886f31",
+      "id" : "450913c7-aeca-4ece-b00f-7e5605adaee3",
+      "text" : "城乡建设、环境保护",
+      "expanded" : false,
+      "leaf" : false,
+      "children" : [ {
+        "parentId" : "450913c7-aeca-4ece-b00f-7e5605adaee3",
+        "id" : "d232ca5e-eef6-4587-80a4-b7194aa4c07b",
+        "text" : "城乡建设与环境保护综合类",
+        "expanded" : false,
+        "leaf" : true,
+        "extraAttributes" : {
+          "code" : "ZFA00",
+          "idRel" : "dictionaryItems/ZFA00",
+          "value" : "A00",
+          "desc" : null
+        }
+      }, {
+        "parentId" : "450913c7-aeca-4ece-b00f-7e5605adaee3",
+        "id" : "ec8e77e0-ab36-4d3d-9a84-6e39a2039bff",
+        "text" : "城乡规划",
+        "expanded" : false,
+        "leaf" : true,
+        "extraAttributes" : {
+          "code" : "ZFB00",
+          "idRel" : "dictionaryItems/ZFB00",
+          "value" : "B00",
+          "desc" : "关于城乡规划方面的规章制度、法律法规、规划报告"
+        }
+      }, {
+        "parentId" : "450913c7-aeca-4ece-b00f-7e5605adaee3",
+        "id" : "71a6ed08-25ad-4c58-ade4-3cb9a383cef0",
+        "text" : "城乡建设",
+        "expanded" : false,
+        "leaf" : true,
+        "extraAttributes" : {
+          "code" : "ZFC00",
+          "idRel" : "dictionaryItems/ZFC00",
+          "value" : "C00",
+          "desc" : "城乡的建设发展情况，包括公共设施建设和园林建设"
+        }
+      }, {
+        "parentId" : "450913c7-aeca-4ece-b00f-7e5605adaee3",
+        "id" : "016b963e-3338-4cf0-8f31-1e5bf40dbcbb",
+        "text" : "市政工程",
+        "expanded" : false,
+        "leaf" : true,
+        "extraAttributes" : {
+          "code" : "ZFD00",
+          "idRel" : "dictionaryItems/ZFD00",
+          "value" : "D00",
+          "desc" : "市政建设的发展情况，包括道路、桥梁、隧道等的建设，以及供水、供气方面的建设情况"
+        }
+      }, {
+        "parentId" : "450913c7-aeca-4ece-b00f-7e5605adaee3",
+        "id" : "772f906e-b23a-436b-8d62-d0ad083a7501",
+        "text" : "房地产",
+        "expanded" : false,
+        "leaf" : true,
+        "extraAttributes" : {
+          "code" : "ZFE00",
+          "idRel" : "dictionaryItems/ZFE00",
+          "value" : "E00",
+          "desc" : "关于房地产行业的规律制度、法律法规，以及房地产市场和开发商的调查报告、统计资料等房地产经济方面的信息"
+        }
+      }, {
+        "parentId" : "450913c7-aeca-4ece-b00f-7e5605adaee3",
+        "id" : "07179fd6-973f-48c5-ab0e-c023e8d1efda",
+        "text" : "环境保护、治理",
+        "expanded" : false,
+        "leaf" : true,
+        "extraAttributes" : {
+          "code" : "ZFZF00",
+          "idRel" : "dictionaryItems/ZFZF00",
+          "value" : "ZF00",
+          "desc" : "包括环境保护方面的科学知识、规章制度、法律法规、当前环境概况，以及相关环保经济领域的发展情况"
+        }
+      }, {
+        "parentId" : "450913c7-aeca-4ece-b00f-7e5605adaee3",
+        "id" : "4296e499-485a-4950-8922-f24c40deb9b9",
+        "text" : "环境污染、监测",
+        "expanded" : false,
+        "leaf" : true,
+        "extraAttributes" : {
+          "code" : "ZFG00",
+          "idRel" : "dictionaryItems/ZFG00",
+          "value" : "G00",
+          "desc" : "关于环境监测的统计报告和技术标准，"
+        }
+      } ],
+      "extraAttributes" : {
+        "code" : "ZF",
+        "idRel" : "dictionaryItems/ZF",
+        "value" : "ZF",
+        "desc" : "关于城乡建设的规划和发展情况，以及环境的监测，环境的保护及其相关领域经济的发展情况"
+      }
+    }, {
+      "parentId" : "8d2f0930-d901-4ec6-9249-5f5dce886f31",
+      "id" : "729b631d-0ead-4200-ae14-4746d2975d0f",
+      "text" : "农业、水利",
+      "expanded" : false,
+      "leaf" : false,
+      "children" : [ {
+        "parentId" : "729b631d-0ead-4200-ae14-4746d2975d0f",
+        "id" : "353f9a06-5f35-4cf0-829c-13c90bb7841e",
+        "text" : "农业水利综合类",
+        "expanded" : false,
+        "leaf" : true,
+        "extraAttributes" : {
+          "code" : "ZGA00",
+          "idRel" : "dictionaryItems/ZGA00",
+          "value" : "A00",
+          "desc" : null
+        }
+      }, {
+        "parentId" : "729b631d-0ead-4200-ae14-4746d2975d0f",
+        "id" : "5d1d9aa6-4709-4a3b-89d7-bbc65c858bfe",
+        "text" : "农业",
+        "expanded" : false,
+        "leaf" : true,
+        "extraAttributes" : {
+          "code" : "ZGB00",
+          "idRel" : "dictionaryItems/ZGB00",
+          "value" : "B00",
+          "desc" : "关于农业的规章制度、法律法规、农产品市场、农业组织、农业科技、农业基础设施建设"
+        }
+      }, {
+        "parentId" : "729b631d-0ead-4200-ae14-4746d2975d0f",
+        "id" : "86cc8955-2cc2-47d9-b907-49ed8e17b6c2",
+        "text" : "林业",
+        "expanded" : false,
+        "leaf" : true,
+        "extraAttributes" : {
+          "code" : "ZGC00",
+          "idRel" : "dictionaryItems/ZGC00",
+          "value" : "C00",
+          "desc" : "关于林业的规划、建设情况、规章制度、法律法规、科学技术、组织机构和相关领域经济情况"
+        }
+      }, {
+        "parentId" : "729b631d-0ead-4200-ae14-4746d2975d0f",
+        "id" : "5610bc87-b83d-44cf-8c3a-f90a804d1a97",
+        "text" : "畜牧业",
+        "expanded" : false,
+        "leaf" : true,
+        "extraAttributes" : {
+          "code" : "ZGD00",
+          "idRel" : "dictionaryItems/ZGD00",
+          "value" : "D00",
+          "desc" : "关于畜牧业的规章制度、法律法规、设施建设、科学技术和相关领域经济发展情况"
+        }
+      }, {
+        "parentId" : "729b631d-0ead-4200-ae14-4746d2975d0f",
+        "id" : "d3fd8c5a-3c1f-4a21-ac06-5fe37128f42a",
+        "text" : "副业",
+        "expanded" : false,
+        "leaf" : true,
+        "extraAttributes" : {
+          "code" : "ZGE00",
+          "idRel" : "dictionaryItems/ZGE00",
+          "value" : "E00",
+          "desc" : "关于副业发展的规章制度、法律法规、设施建设、科学技术和相关领域的经济发展情况"
+        }
+      }, {
+        "parentId" : "729b631d-0ead-4200-ae14-4746d2975d0f",
+        "id" : "b9ce9e63-9fdb-43a8-a359-8dd173f5c6bf",
+        "text" : "渔业",
+        "expanded" : false,
+        "leaf" : true,
+        "extraAttributes" : {
+          "code" : "ZGF00",
+          "idRel" : "dictionaryItems/ZGF00",
+          "value" : "F00",
+          "desc" : "关于渔业发展的规章制度、法律法规、科学技术、设施建设和相关领域的经济发展情况"
+        }
+      }, {
+        "parentId" : "729b631d-0ead-4200-ae14-4746d2975d0f",
+        "id" : "4235a19e-094a-4fa0-9399-89ebcf31963a",
+        "text" : "水利",
+        "expanded" : false,
+        "leaf" : true,
+        "extraAttributes" : {
+          "code" : "ZGG00",
+          "idRel" : "dictionaryItems/ZGG00",
+          "value" : "G00",
+          "desc" : "关于水利建设的规划和发展、规章制度、法律法规、科学技术和组织机构"
+        }
+      } ],
+      "extraAttributes" : {
+        "code" : "ZG",
+        "idRel" : "dictionaryItems/ZG",
+        "value" : "ZG",
+        "desc" : "关于粮农、畜牧、林业、副业、渔业的规章制度、法律法规、发展规划、统计资料、科学知识、组织机构等"
+      }
+    }, {
+      "parentId" : "8d2f0930-d901-4ec6-9249-5f5dce886f31",
+      "id" : "ee1131c8-2dfd-4eae-b155-a5c97d043f4e",
+      "text" : "财政",
+      "expanded" : false,
+      "leaf" : false,
+      "children" : [ {
+        "parentId" : "ee1131c8-2dfd-4eae-b155-a5c97d043f4e",
+        "id" : "0131bde5-4353-4071-98ec-22dbf0edadbf",
+        "text" : "财政综合类",
+        "expanded" : false,
+        "leaf" : true,
+        "extraAttributes" : {
+          "code" : "ZHA00",
+          "idRel" : "dictionaryItems/ZHA00",
+          "value" : "A00",
+          "desc" : null
+        }
+      }, {
+        "parentId" : "ee1131c8-2dfd-4eae-b155-a5c97d043f4e",
+        "id" : "24f3bdeb-3f58-481b-8482-a34082eec892",
+        "text" : "财政",
+        "expanded" : false,
+        "leaf" : true,
+        "extraAttributes" : {
+          "code" : "ZHB00",
+          "idRel" : "dictionaryItems/ZHB00",
+          "value" : "B00",
+          "desc" : "关于财政的规章制度、法律法规、业务管理、统计资料"
+        }
+      }, {
+        "parentId" : "ee1131c8-2dfd-4eae-b155-a5c97d043f4e",
+        "id" : "b710b2c5-92b0-4c15-a71e-a03be41efad7",
+        "text" : "税务",
+        "expanded" : false,
+        "leaf" : true,
+        "extraAttributes" : {
+          "code" : "ZHC00",
+          "idRel" : "dictionaryItems/ZHC00",
+          "value" : "C00",
+          "desc" : "关于税务的规章制度、法律法规、理论知识、税务体系建设"
+        }
+      }, {
+        "parentId" : "ee1131c8-2dfd-4eae-b155-a5c97d043f4e",
+        "id" : "006e88a6-e502-496a-a259-2764b3489bd1",
+        "text" : "金融",
+        "expanded" : false,
+        "leaf" : true,
+        "extraAttributes" : {
+          "code" : "ZHD00",
+          "idRel" : "dictionaryItems/ZHD00",
+          "value" : "D00",
+          "desc" : "关于金融的规章制度、法律法规、理论知识、组织机构、金融经济统计资料"
+        }
+      }, {
+        "parentId" : "ee1131c8-2dfd-4eae-b155-a5c97d043f4e",
+        "id" : "08e17003-1841-4e48-84bc-2e1b7aac3967",
+        "text" : "保险",
+        "expanded" : false,
+        "leaf" : true,
+        "extraAttributes" : {
+          "code" : "ZHE00",
+          "idRel" : "dictionaryItems/ZHE00",
+          "value" : "E00",
+          "desc" : "关于保险的规章制度、法律法规、理论知识、组织机构、保险经济统计资料"
+        }
+      }, {
+        "parentId" : "ee1131c8-2dfd-4eae-b155-a5c97d043f4e",
+        "id" : "aca77d8d-8ab6-4772-9a51-43659c5ebf99",
+        "text" : "审计",
+        "expanded" : false,
+        "leaf" : true,
+        "extraAttributes" : {
+          "code" : "ZHF00",
+          "idRel" : "dictionaryItems/ZHF00",
+          "value" : "F00",
+          "desc" : "关于审计的规章制度、法律法规、理论知识、组织机构"
+        }
+      }, {
+        "parentId" : "ee1131c8-2dfd-4eae-b155-a5c97d043f4e",
+        "id" : "0f1613ea-7ccb-47b5-a9ad-9ff2eb12c0db",
+        "text" : "会计",
+        "expanded" : false,
+        "leaf" : true,
+        "extraAttributes" : {
+          "code" : "ZHG00",
+          "idRel" : "dictionaryItems/ZHG00",
+          "value" : "G00",
+          "desc" : "关于会计的规章制度、法律法规、组织机构、理论知识和行业发展情况"
+        }
+      } ],
+      "extraAttributes" : {
+        "code" : "ZH",
+        "idRel" : "dictionaryItems/ZH",
+        "value" : "ZH",
+        "desc" : "财政、会计、金融、保险、税务、审计等"
+      }
+    }, {
+      "parentId" : "8d2f0930-d901-4ec6-9249-5f5dce886f31",
+      "id" : "5fe9bc7a-d922-4f23-aa9b-11b241e1dbd7",
+      "text" : "商业、贸易",
+      "expanded" : false,
+      "leaf" : false,
+      "children" : [ {
+        "parentId" : "5fe9bc7a-d922-4f23-aa9b-11b241e1dbd7",
+        "id" : "2e0eef7e-875d-491f-b9f8-d2858320d8e9",
+        "text" : " 商贸综合类",
+        "expanded" : false,
+        "leaf" : true,
+        "extraAttributes" : {
+          "code" : "ZJA00",
+          "idRel" : "dictionaryItems/ZJA00",
+          "value" : "A00",
+          "desc" : null
+        }
+      }, {
+        "parentId" : "5fe9bc7a-d922-4f23-aa9b-11b241e1dbd7",
+        "id" : "2e9c1f24-ae26-4703-9957-39e9d1ea39d2",
+        "text" : " 国内贸易",
+        "expanded" : false,
+        "leaf" : true,
+        "extraAttributes" : {
+          "code" : "ZJB00",
+          "idRel" : "dictionaryItems/ZJB00",
+          "value" : "B00",
+          "desc" : "在国内进行的买卖"
+        }
+      }, {
+        "parentId" : "5fe9bc7a-d922-4f23-aa9b-11b241e1dbd7",
+        "id" : "aaddb920-a199-4f83-803a-5f769c24afe5",
+        "text" : " 对外贸易",
+        "expanded" : false,
+        "leaf" : true,
+        "extraAttributes" : {
+          "code" : "ZJC00",
+          "idRel" : "dictionaryItems/ZJC00",
+          "value" : "C00",
+          "desc" : "在国际间进行的买卖"
+        }
+      }, {
+        "parentId" : "5fe9bc7a-d922-4f23-aa9b-11b241e1dbd7",
+        "id" : "531479ef-3b3a-4283-ac42-8a5cc306696f",
+        "text" : " 物流、仓储",
+        "expanded" : false,
+        "leaf" : true,
+        "extraAttributes" : {
+          "code" : "ZJD00",
+          "idRel" : "dictionaryItems/ZJD00",
+          "value" : "D00",
+          "desc" : "物资流动、仓库储备"
+        }
+      }, {
+        "parentId" : "5fe9bc7a-d922-4f23-aa9b-11b241e1dbd7",
+        "id" : "f8ca1184-443d-4b7a-9426-152409cb7dee",
+        "text" : " 海关",
+        "expanded" : false,
+        "leaf" : true,
+        "extraAttributes" : {
+          "code" : "ZJE00",
+          "idRel" : "dictionaryItems/ZJE00",
+          "value" : "E00",
+          "desc" : "交纳关税和货船报关结关的地方"
+        }
+      }, {
+        "parentId" : "5fe9bc7a-d922-4f23-aa9b-11b241e1dbd7",
+        "id" : "be7ad0cc-3c0e-4e41-81e9-614d404f50a9",
+        "text" : " 检验、检疫",
+        "expanded" : false,
+        "leaf" : true,
+        "extraAttributes" : {
+          "code" : "ZJF00",
+          "idRel" : "dictionaryItems/ZJF00",
+          "value" : "F00",
+          "desc" : "检查并验证或为防止传染病蔓延，对可能成为传染源的人员、交通工具、物资等采取隔离观察、消毒等措施"
+        }
+      } ],
+      "extraAttributes" : {
+        "code" : "ZJ",
+        "idRel" : "dictionaryItems/ZJ",
+        "value" : "ZJ",
+        "desc" : "商业指以货币为媒介进行交换从而实现商品的流通的经济活动,贸易指买卖的通称"
+      }
+    }, {
+      "parentId" : "8d2f0930-d901-4ec6-9249-5f5dce886f31",
+      "id" : "e81d0ea6-e0c9-4570-a4f5-5520244051e2",
+      "text" : "旅游、服务业",
+      "expanded" : false,
+      "leaf" : false,
+      "children" : [ {
+        "parentId" : "e81d0ea6-e0c9-4570-a4f5-5520244051e2",
+        "id" : "c1aa1fc5-bf2b-42b0-8100-7002bfafa479",
+        "text" : " 旅游、服务业综合类",
+        "expanded" : false,
+        "leaf" : true,
+        "extraAttributes" : {
+          "code" : "ZKA00",
+          "idRel" : "dictionaryItems/ZKA00",
+          "value" : "A00",
+          "desc" : null
+        }
+      }, {
+        "parentId" : "e81d0ea6-e0c9-4570-a4f5-5520244051e2",
+        "id" : "89663e59-0fe2-4b70-a95f-34add1928fb4",
+        "text" : "旅游",
+        "expanded" : false,
+        "leaf" : true,
+        "extraAttributes" : {
+          "code" : "ZKB00",
+          "idRel" : "dictionaryItems/ZKB00",
+          "value" : "B00",
+          "desc" : "外出游览、观光"
+        }
+      }, {
+        "parentId" : "e81d0ea6-e0c9-4570-a4f5-5520244051e2",
+        "id" : "a6ac868b-35df-4be7-a57f-620c3caffcfa",
+        "text" : "服务业",
+        "expanded" : false,
+        "leaf" : true,
+        "extraAttributes" : {
+          "code" : "ZKC00",
+          "idRel" : "dictionaryItems/ZKC00",
+          "value" : "C00",
+          "desc" : "为他人提供服侍这一职业"
+        }
+      } ],
+      "extraAttributes" : {
+        "code" : "ZK",
+        "idRel" : "dictionaryItems/ZK",
+        "value" : "ZK",
+        "desc" : "外出游览或为他人提供服侍、帮助的行业"
+      }
+    }, {
+      "parentId" : "8d2f0930-d901-4ec6-9249-5f5dce886f31",
+      "id" : "355f5f78-c100-4ad2-b3c9-96710d99c516",
+      "text" : "气象、水文、测绘、地震",
+      "expanded" : false,
+      "leaf" : false,
+      "children" : [ {
+        "parentId" : "355f5f78-c100-4ad2-b3c9-96710d99c516",
+        "id" : "2f9aa33a-ce2f-4c6a-969a-525d6a0a40e6",
+        "text" : " 气象水文综合类",
+        "expanded" : false,
+        "leaf" : true,
+        "extraAttributes" : {
+          "code" : "ZLA00",
+          "idRel" : "dictionaryItems/ZLA00",
+          "value" : "A00",
+          "desc" : null
+        }
+      }, {
+        "parentId" : "355f5f78-c100-4ad2-b3c9-96710d99c516",
+        "id" : "fcabf9b0-24b2-4357-9ccb-117d298691bd",
+        "text" : " 气象",
+        "expanded" : false,
+        "leaf" : true,
+        "extraAttributes" : {
+          "code" : "ZLB00",
+          "idRel" : "dictionaryItems/ZLB00",
+          "value" : "B00",
+          "desc" : "大气现象"
+        }
+      }, {
+        "parentId" : "355f5f78-c100-4ad2-b3c9-96710d99c516",
+        "id" : "5b47e25e-9920-456f-97f6-134f6209433c",
+        "text" : " 水文",
+        "expanded" : false,
+        "leaf" : true,
+        "extraAttributes" : {
+          "code" : "ZLC00",
+          "idRel" : "dictionaryItems/ZLC00",
+          "value" : "C00",
+          "desc" : "自然界中水的变化、运动等的各种现象"
+        }
+      }, {
+        "parentId" : "355f5f78-c100-4ad2-b3c9-96710d99c516",
+        "id" : "30a08347-7432-4192-9e30-62a3467de44c",
+        "text" : " 测绘",
+        "expanded" : false,
+        "leaf" : true,
+        "extraAttributes" : {
+          "code" : "ZLD00",
+          "idRel" : "dictionaryItems/ZLD00",
+          "value" : "D00",
+          "desc" : "测量和地图制图"
+        }
+      }, {
+        "parentId" : "355f5f78-c100-4ad2-b3c9-96710d99c516",
+        "id" : "60bb88f9-f2e1-4048-80d0-da9175676032",
+        "text" : " 地震",
+        "expanded" : false,
+        "leaf" : true,
+        "extraAttributes" : {
+          "code" : "ZLE00",
+          "idRel" : "dictionaryItems/ZLE00",
+          "value" : "E00",
+          "desc" : "地壳的天然震动"
+        }
+      } ],
+      "extraAttributes" : {
+        "code" : "ZL",
+        "idRel" : "dictionaryItems/ZL",
+        "value" : "ZL",
+        "desc" : "大气现象、自然界中水的变化、运动等的各种现象、测量和地图制图、地壳的天然震动"
+      }
+    }, {
+      "parentId" : "8d2f0930-d901-4ec6-9249-5f5dce886f31",
+      "id" : "738845d4-73bc-4e75-9f67-e4079def8237",
+      "text" : "对外事务",
+      "expanded" : false,
+      "leaf" : false,
+      "children" : [ {
+        "parentId" : "738845d4-73bc-4e75-9f67-e4079def8237",
+        "id" : "08080296-f73c-4436-8e57-f99d8f90ae4e",
+        "text" : " 对外事务综合类",
+        "expanded" : false,
+        "leaf" : true,
+        "extraAttributes" : {
+          "code" : "ZMA00",
+          "idRel" : "dictionaryItems/ZMA00",
+          "value" : "A00",
+          "desc" : null
+        }
+      }, {
+        "parentId" : "738845d4-73bc-4e75-9f67-e4079def8237",
+        "id" : "759fbcf9-260b-4839-918f-e6b7459e809b",
+        "text" : " 外交",
+        "expanded" : false,
+        "leaf" : true,
+        "extraAttributes" : {
+          "code" : "ZMB00",
+          "idRel" : "dictionaryItems/ZMB00",
+          "value" : "B00",
+          "desc" : "一个国家在国际关系方面的活动"
+        }
+      }, {
+        "parentId" : "738845d4-73bc-4e75-9f67-e4079def8237",
+        "id" : "0157d8f0-7b36-4e78-8edf-be94dff2e767",
+        "text" : " 外事活动",
+        "expanded" : false,
+        "leaf" : true,
+        "extraAttributes" : {
+          "code" : "ZMC00",
+          "idRel" : "dictionaryItems/ZMC00",
+          "value" : "C00",
+          "desc" : "外交事务、涉外事务方面的活动"
+        }
+      }, {
+        "parentId" : "738845d4-73bc-4e75-9f67-e4079def8237",
+        "id" : "3793f591-33a9-4a78-a7c4-02e03b464367",
+        "text" : " 国际关系",
+        "expanded" : false,
+        "leaf" : true,
+        "extraAttributes" : {
+          "code" : "ZMD00",
+          "idRel" : "dictionaryItems/ZMD00",
+          "value" : "D00",
+          "desc" : "一个国家与其它各国及其公民之间的关系"
+        }
+      }, {
+        "parentId" : "738845d4-73bc-4e75-9f67-e4079def8237",
+        "id" : "aa12df67-e871-46e2-9072-c42150e1b48a",
+        "text" : " 国际组织",
+        "expanded" : false,
+        "leaf" : true,
+        "extraAttributes" : {
+          "code" : "ZME00",
+          "idRel" : "dictionaryItems/ZME00",
+          "value" : "E00",
+          "desc" : "各国及其公民之间按照一定的目的、任务和形式组成的国际性团体机构"
+        }
+      }, {
+        "parentId" : "738845d4-73bc-4e75-9f67-e4079def8237",
+        "id" : "47f948f2-e973-4a36-b120-4ba52a1c732d",
+        "text" : " 国际会议",
+        "expanded" : false,
+        "leaf" : true,
+        "extraAttributes" : {
+          "code" : "ZMF00",
+          "idRel" : "dictionaryItems/ZMF00",
+          "value" : "F00",
+          "desc" : "各国之间共同议事,并遵循一定的议程,所举行的一种集会"
+        }
+      } ],
+      "extraAttributes" : {
+        "code" : "ZM",
+        "idRel" : "dictionaryItems/ZM",
+        "value" : "ZM",
+        "desc" : "一个国家在国际关系方面的活动的行政事务、总务"
+      }
+    }, {
+      "parentId" : "8d2f0930-d901-4ec6-9249-5f5dce886f31",
+      "id" : "b08dc3e9-a0c0-46a0-8bc5-09783b2fbd7b",
+      "text" : "政法、监察",
+      "expanded" : false,
+      "leaf" : false,
+      "children" : [ {
+        "parentId" : "b08dc3e9-a0c0-46a0-8bc5-09783b2fbd7b",
+        "id" : "827ba3b3-1e9a-4193-835e-9b271bcefd41",
+        "text" : " 政法综合类",
+        "expanded" : false,
+        "leaf" : true,
+        "extraAttributes" : {
+          "code" : "ZNA00",
+          "idRel" : "dictionaryItems/ZNA00",
+          "value" : "A00",
+          "desc" : null
+        }
+      }, {
+        "parentId" : "b08dc3e9-a0c0-46a0-8bc5-09783b2fbd7b",
+        "id" : "ba8fba4a-1f5c-4ae8-b265-4ad83e71f9a9",
+        "text" : " 公安",
+        "expanded" : false,
+        "leaf" : true,
+        "extraAttributes" : {
+          "code" : "ZNB00",
+          "idRel" : "dictionaryItems/ZNB00",
+          "value" : "B00",
+          "desc" : "社会的公共治安"
+        }
+      }, {
+        "parentId" : "b08dc3e9-a0c0-46a0-8bc5-09783b2fbd7b",
+        "id" : "2358f993-d66f-48e1-b450-b0bfac87748f",
+        "text" : " 国家安全",
+        "expanded" : false,
+        "leaf" : true,
+        "extraAttributes" : {
+          "code" : "ZNC00",
+          "idRel" : "dictionaryItems/ZNC00",
+          "value" : "C00",
+          "desc" : "国家的独立、主权、统一和领土完整不受侵犯，国家的政权、政治制度、经济制度和社会秩序不被破坏，国家的荣誉和利益不遭损害"
+        }
+      }, {
+        "parentId" : "b08dc3e9-a0c0-46a0-8bc5-09783b2fbd7b",
+        "id" : "ac31b257-e3cf-4c15-b149-151d63fe94fe",
+        "text" : " 监察",
+        "expanded" : false,
+        "leaf" : true,
+        "extraAttributes" : {
+          "code" : "ZND00",
+          "idRel" : "dictionaryItems/ZND00",
+          "value" : "D00",
+          "desc" : "监督考察"
+        }
+      }, {
+        "parentId" : "b08dc3e9-a0c0-46a0-8bc5-09783b2fbd7b",
+        "id" : "13257a4b-6df4-4c52-a6ce-91d7fb7535d3",
+        "text" : " 司法",
+        "expanded" : false,
+        "leaf" : true,
+        "extraAttributes" : {
+          "code" : "ZNE00",
+          "idRel" : "dictionaryItems/ZNE00",
+          "value" : "E00",
+          "desc" : "行使法律权力"
+        }
+      } ],
+      "extraAttributes" : {
+        "code" : "ZN",
+        "idRel" : "dictionaryItems/ZN",
+        "value" : "ZN",
+        "desc" : "政治和法律，监督和考察"
+      }
+    }, {
+      "parentId" : "8d2f0930-d901-4ec6-9249-5f5dce886f31",
+      "id" : "669a7714-0364-4f94-8486-508b1b946a21",
+      "text" : "科技、教育",
+      "expanded" : false,
+      "leaf" : false,
+      "children" : [ {
+        "parentId" : "669a7714-0364-4f94-8486-508b1b946a21",
+        "id" : "e2e83328-7255-4443-b8de-a9491c3331e9",
+        "text" : " 科教综合类",
+        "expanded" : false,
+        "leaf" : true,
+        "extraAttributes" : {
+          "code" : "ZPA00",
+          "idRel" : "dictionaryItems/ZPA00",
+          "value" : "A00",
+          "desc" : null
+        }
+      }, {
+        "parentId" : "669a7714-0364-4f94-8486-508b1b946a21",
+        "id" : "b5507f21-33db-4a66-ac58-a525fe7292fa",
+        "text" : " 科技管理",
+        "expanded" : false,
+        "leaf" : true,
+        "extraAttributes" : {
+          "code" : "ZPB00",
+          "idRel" : "dictionaryItems/ZPB00",
+          "value" : "B00",
+          "desc" : "对科学技术研究工作进行管理"
+        }
+      }, {
+        "parentId" : "669a7714-0364-4f94-8486-508b1b946a21",
+        "id" : "082fd5c0-884e-405f-9cad-3b274cf7bdd9",
+        "text" : " 科研工作",
+        "expanded" : false,
+        "leaf" : true,
+        "extraAttributes" : {
+          "code" : "ZPC00",
+          "idRel" : "dictionaryItems/ZPC00",
+          "value" : "C00",
+          "desc" : "科学研究工作"
+        }
+      }, {
+        "parentId" : "669a7714-0364-4f94-8486-508b1b946a21",
+        "id" : "6ce0736d-2513-4ba6-970e-e7ae28ffef35",
+        "text" : " 知识产权",
+        "expanded" : false,
+        "leaf" : true,
+        "extraAttributes" : {
+          "code" : "ZPD00",
+          "idRel" : "dictionaryItems/ZPD00",
+          "value" : "D00",
+          "desc" : "知识产权是指公民、法人或其他组织对其在科学技术和文学艺术等领域内，主要基于脑力劳动创造完成的智力成果所依法享有的专有权利"
+        }
+      }, {
+        "parentId" : "669a7714-0364-4f94-8486-508b1b946a21",
+        "id" : "7b14f424-7af8-4c02-9bd8-2deec2705c1d",
+        "text" : " 技术监督",
+        "expanded" : false,
+        "leaf" : true,
+        "extraAttributes" : {
+          "code" : "ZPE00",
+          "idRel" : "dictionaryItems/ZPE00",
+          "value" : "E00",
+          "desc" : "对劳动生产方面的经验、知识和技巧有权进行检查管理"
+        }
+      }, {
+        "parentId" : "669a7714-0364-4f94-8486-508b1b946a21",
+        "id" : "e50116eb-7cad-4492-8b86-e03d74b10a63",
+        "text" : " 教育",
+        "expanded" : false,
+        "leaf" : true,
+        "extraAttributes" : {
+          "code" : "ZPF00",
+          "idRel" : "dictionaryItems/ZPF00",
+          "value" : "F00",
+          "desc" : "培养人才、传播知识的工作,主要指学校教育"
+        }
+      }, {
+        "parentId" : "669a7714-0364-4f94-8486-508b1b946a21",
+        "id" : "9628799d-1652-479d-8f85-8bc61dadc512",
+        "text" : " 院校管理",
+        "expanded" : false,
+        "leaf" : true,
+        "extraAttributes" : {
+          "code" : "ZPG00",
+          "idRel" : "dictionaryItems/ZPG00",
+          "value" : "G00",
+          "desc" : "对各类学院、学校进行管理"
+        }
+      } ],
+      "extraAttributes" : {
+        "code" : "ZP",
+        "idRel" : "dictionaryItems/ZP",
+        "value" : "ZP",
+        "desc" : "科技就是科学技术、教育是指培养人才、传播知识的工作"
+      }
+    }, {
+      "parentId" : "8d2f0930-d901-4ec6-9249-5f5dce886f31",
+      "id" : "e47178b6-74e7-4736-939f-8c35e0275f62",
+      "text" : "文化、卫生、体育",
+      "expanded" : false,
+      "leaf" : false,
+      "children" : [ {
+        "parentId" : "e47178b6-74e7-4736-939f-8c35e0275f62",
+        "id" : "fa802695-cc99-478a-b6c9-6ad0650e954e",
+        "text" : " 文体综合类",
+        "expanded" : false,
+        "leaf" : true,
+        "extraAttributes" : {
+          "code" : "ZQA00",
+          "idRel" : "dictionaryItems/ZQA00",
+          "value" : "A00",
+          "desc" : null
+        }
+      }, {
+        "parentId" : "e47178b6-74e7-4736-939f-8c35e0275f62",
+        "id" : "a83219e8-7280-4338-a319-4cdf726b0c4c",
+        "text" : " 语言文字",
+        "expanded" : false,
+        "leaf" : true,
+        "extraAttributes" : {
+          "code" : "ZQB00",
+          "idRel" : "dictionaryItems/ZQB00",
+          "value" : "B00",
+          "desc" : "语言是用以表达情意的声音是人类最重要的交际工具它跟思想有密切关系,是人类区别于其他动物的本质特征、文字是记录语言的符号,如汉字、拉丁字母"
+        }
+      }, {
+        "parentId" : "e47178b6-74e7-4736-939f-8c35e0275f62",
+        "id" : "1cf320c5-066c-4657-b0e4-86704b6a8281",
+        "text" : " 文学艺术",
+        "expanded" : false,
+        "leaf" : true,
+        "extraAttributes" : {
+          "code" : "ZQC00",
+          "idRel" : "dictionaryItems/ZQC00",
+          "value" : "C00",
+          "desc" : null
+        }
+      }, {
+        "parentId" : "e47178b6-74e7-4736-939f-8c35e0275f62",
+        "id" : "4884f6b6-948c-4b7c-8341-0cdc4432bed3",
+        "text" : " 文物、考古",
+        "expanded" : false,
+        "leaf" : true,
+        "extraAttributes" : {
+          "code" : "ZQD00",
+          "idRel" : "dictionaryItems/ZQD00",
+          "value" : "D00",
+          "desc" : "文物是指历代遗留下来的具有历史、艺术价值的东西考古是指根据古代的遗迹、遗物和文献,研究古代事物"
+        }
+      }, {
+        "parentId" : "e47178b6-74e7-4736-939f-8c35e0275f62",
+        "id" : "920452ef-40f5-4759-86bd-b007acf4ebd3",
+        "text" : " 新闻出版",
+        "expanded" : false,
+        "leaf" : true,
+        "extraAttributes" : {
+          "code" : "ZQE00",
+          "idRel" : "dictionaryItems/ZQE00",
+          "value" : "E00",
+          "desc" : "图书、期刊、音像制品、电子出版物、网络出版物、投影片（含缩微制品）等出版业务"
+        }
+      }, {
+        "parentId" : "e47178b6-74e7-4736-939f-8c35e0275f62",
+        "id" : "2973b776-f1b2-434c-bc8c-31001391dbd0",
+        "text" : " 广播电影电视",
+        "expanded" : false,
+        "leaf" : true,
+        "extraAttributes" : {
+          "code" : "ZQF00",
+          "idRel" : "dictionaryItems/ZQF00",
+          "value" : "F00",
+          "desc" : "广播是指利用无线电或电视信号对大众传播、电影是指表达一个完整主题的、具有连贯、活动感觉的影像、电视是指利用电子设备传送活动图像的技术,是重要的广播和通信方式,即电视接收机，很多时候也指电视节目"
+        }
+      }, {
+        "parentId" : "e47178b6-74e7-4736-939f-8c35e0275f62",
+        "id" : "47d4630b-2be2-4ef0-9bf4-351d940472f9",
+        "text" : " 医药卫生管理",
+        "expanded" : false,
+        "leaf" : true,
+        "extraAttributes" : {
+          "code" : "ZQG00",
+          "idRel" : "dictionaryItems/ZQG00",
+          "value" : "G00",
+          "desc" : "对药品生产、流通、医疗器械企业进行管理"
+        }
+      }, {
+        "parentId" : "e47178b6-74e7-4736-939f-8c35e0275f62",
+        "id" : "d4893e36-79e5-48ab-91fa-8ffbb7050c45",
+        "text" : " 医疗保健",
+        "expanded" : false,
+        "leaf" : true,
+        "extraAttributes" : {
+          "code" : "ZQH00",
+          "idRel" : "dictionaryItems/ZQH00",
+          "value" : "H00",
+          "desc" : "治疗人体疾病、保护和增进人体健康"
+        }
+      }, {
+        "parentId" : "e47178b6-74e7-4736-939f-8c35e0275f62",
+        "id" : "b35bca1a-9b5a-4733-ac6a-2cfe438de1c8",
+        "text" : " 计划生育",
+        "expanded" : false,
+        "leaf" : true,
+        "extraAttributes" : {
+          "code" : "ZQJ00",
+          "idRel" : "dictionaryItems/ZQJ00",
+          "value" : "J00",
+          "desc" : "通过有效的控制生育的方法来执行制订子女人数和生育间隔时间"
+        }
+      }, {
+        "parentId" : "e47178b6-74e7-4736-939f-8c35e0275f62",
+        "id" : "3b8f3cbd-04bc-4c33-8fe7-96bc82a516f9",
+        "text" : " 体育",
+        "expanded" : false,
+        "leaf" : true,
+        "extraAttributes" : {
+          "code" : "ZQK00",
+          "idRel" : "dictionaryItems/ZQK00",
+          "value" : "K00",
+          "desc" : "一种娱乐消遣活动或需体力、智慧与技巧的比赛或竞技,它要求用或多或少的体力,按照传统的形式或一组规则进行,有时还作为一种职业在户外或室内进行"
+        }
+      } ],
+      "extraAttributes" : {
+        "code" : "ZQ",
+        "idRel" : "dictionaryItems/ZQ",
+        "value" : "ZQ",
+        "desc" : null
+      }
+    }, {
+      "parentId" : "8d2f0930-d901-4ec6-9249-5f5dce886f31",
+      "id" : "f3b0f21e-4ea3-4b36-b95c-8132fdaf7b6f",
+      "text" : "军事、国防",
+      "expanded" : false,
+      "leaf" : false,
+      "children" : [ {
+        "parentId" : "f3b0f21e-4ea3-4b36-b95c-8132fdaf7b6f",
+        "id" : "e39381a4-ca70-41cd-9bfa-4d16632c0bca",
+        "text" : " 军事国防综合类",
+        "expanded" : false,
+        "leaf" : true,
+        "extraAttributes" : {
+          "code" : "ZRA00",
+          "idRel" : "dictionaryItems/ZRA00",
+          "value" : "A00",
+          "desc" : null
+        }
+      }, {
+        "parentId" : "f3b0f21e-4ea3-4b36-b95c-8132fdaf7b6f",
+        "id" : "84903a48-6034-498e-bb47-a082913d5530",
+        "text" : " 国防建设",
+        "expanded" : false,
+        "leaf" : true,
+        "extraAttributes" : {
+          "code" : "ZRB00",
+          "idRel" : "dictionaryItems/ZRB00",
+          "value" : "B00",
+          "desc" : "指为保卫国家的主权，领土、领海和领空的完整和安全,防御外来的武装侵略和颠覆而进行的建设活动"
+        }
+      }, {
+        "parentId" : "f3b0f21e-4ea3-4b36-b95c-8132fdaf7b6f",
+        "id" : "170587f8-f46b-4284-9d19-e1b78d5ecacb",
+        "text" : " 军事工作",
+        "expanded" : false,
+        "leaf" : true,
+        "extraAttributes" : {
+          "code" : "ZRC00",
+          "idRel" : "dictionaryItems/ZRC00",
+          "value" : "C00",
+          "desc" : "与军队或战争有关事宜的工作"
+        }
+      }, {
+        "parentId" : "f3b0f21e-4ea3-4b36-b95c-8132fdaf7b6f",
+        "id" : "693c59ce-a079-4f34-82a2-f94d4bfbb12d",
+        "text" : " 军队政治工作",
+        "expanded" : false,
+        "leaf" : true,
+        "extraAttributes" : {
+          "code" : "ZRD00",
+          "idRel" : "dictionaryItems/ZRD00",
+          "value" : "D00",
+          "desc" : "军队政治工作就是要保证革命政党对军队的领导，使军队成为革命政党实现革命目的的工具"
+        }
+      }, {
+        "parentId" : "f3b0f21e-4ea3-4b36-b95c-8132fdaf7b6f",
+        "id" : "5520505b-f206-480c-a991-57ab178508b9",
+        "text" : " 军事后勤工作",
+        "expanded" : false,
+        "leaf" : true,
+        "extraAttributes" : {
+          "code" : "ZRE00",
+          "idRel" : "dictionaryItems/ZRE00",
+          "value" : "E00",
+          "desc" : "与军队或战争有关的后方对前方的一切供应工作"
+        }
+      }, {
+        "parentId" : "f3b0f21e-4ea3-4b36-b95c-8132fdaf7b6f",
+        "id" : "069518e4-fb77-46a1-8eb6-2863805187cb",
+        "text" : " 军事装备工作",
+        "expanded" : false,
+        "leaf" : true,
+        "extraAttributes" : {
+          "code" : "ZRF00",
+          "idRel" : "dictionaryItems/ZRF00",
+          "value" : "F00",
+          "desc" : "与军队或战争有关的配备工作"
+        }
+      }, {
+        "parentId" : "f3b0f21e-4ea3-4b36-b95c-8132fdaf7b6f",
+        "id" : "4839d60e-33e7-46ea-a523-68fc4acf231c",
+        "text" : " 军事技术",
+        "expanded" : false,
+        "leaf" : true,
+        "extraAttributes" : {
+          "code" : "ZRG00",
+          "idRel" : "dictionaryItems/ZRG00",
+          "value" : "G00",
+          "desc" : "与军队或战争有关的经验、知识和技巧"
+        }
+      }, {
+        "parentId" : "f3b0f21e-4ea3-4b36-b95c-8132fdaf7b6f",
+        "id" : "0a7f1e6e-4bd1-4ee7-a745-5a590cf70154",
+        "text" : " 武警",
+        "expanded" : false,
+        "leaf" : true,
+        "extraAttributes" : {
+          "code" : "ZRH00",
+          "idRel" : "dictionaryItems/ZRH00",
+          "value" : "H00",
+          "desc" : "武装警察"
+        }
+      } ],
+      "extraAttributes" : {
+        "code" : "ZR",
+        "idRel" : "dictionaryItems/ZR",
+        "value" : "ZR",
+        "desc" : "军事是指与军队或战争有关的事情、国防是指保卫国家的主权，领土、领海和领空的完整和安全,防御外来的武装侵略和颠覆"
+      }
+    }, {
+      "parentId" : "8d2f0930-d901-4ec6-9249-5f5dce886f31",
+      "id" : "4e0f8958-18fa-4645-b9b3-0ecaa77daa8a",
+      "text" : "劳动、人事",
+      "expanded" : false,
+      "leaf" : false,
+      "children" : [ {
+        "parentId" : "4e0f8958-18fa-4645-b9b3-0ecaa77daa8a",
+        "id" : "5f3dfa19-a763-4a6c-bd1d-a40e3bc92767",
+        "text" : " 劳动人事综合类",
+        "expanded" : false,
+        "leaf" : true,
+        "extraAttributes" : {
+          "code" : "ZSA00",
+          "idRel" : "dictionaryItems/ZSA00",
+          "value" : "A00",
+          "desc" : null
+        }
+      }, {
+        "parentId" : "4e0f8958-18fa-4645-b9b3-0ecaa77daa8a",
+        "id" : "0e092506-9d19-4e3a-894d-5ecf10066488",
+        "text" : " 人事工作",
+        "expanded" : false,
+        "leaf" : true,
+        "extraAttributes" : {
+          "code" : "ZSB00",
+          "idRel" : "dictionaryItems/ZSB00",
+          "value" : "B00",
+          "desc" : "人事是指关于工作人员的录用、培养、调配、奖罚等工作"
+        }
+      }, {
+        "parentId" : "4e0f8958-18fa-4645-b9b3-0ecaa77daa8a",
+        "id" : "c973e51a-b8cd-4b74-b92a-47fcbacf8987",
+        "text" : " 劳动就业",
+        "expanded" : false,
+        "leaf" : true,
+        "extraAttributes" : {
+          "code" : "ZSC00",
+          "idRel" : "dictionaryItems/ZSC00",
+          "value" : "C00",
+          "desc" : "主要指就业的基本政策、措施、方针、标准、劳动关系调整的基本规则"
+        }
+      }, {
+        "parentId" : "4e0f8958-18fa-4645-b9b3-0ecaa77daa8a",
+        "id" : "fc426d54-a178-4fbb-8d1f-848c89e6b3da",
+        "text" : " 社会保障",
+        "expanded" : false,
+        "leaf" : true,
+        "extraAttributes" : {
+          "code" : "ZSD00",
+          "idRel" : "dictionaryItems/ZSD00",
+          "value" : "D00",
+          "desc" : "主要指社会保险"
+        }
+      }, {
+        "parentId" : "4e0f8958-18fa-4645-b9b3-0ecaa77daa8a",
+        "id" : "02564b0d-067c-435f-b797-7b5d8db737de",
+        "text" : " 工资职称",
+        "expanded" : false,
+        "leaf" : true,
+        "extraAttributes" : {
+          "code" : "ZSE00",
+          "idRel" : "dictionaryItems/ZSE00",
+          "value" : "E00",
+          "desc" : "付给劳动者劳动报酬和科学技术人员等级"
+        }
+      }, {
+        "parentId" : "4e0f8958-18fa-4645-b9b3-0ecaa77daa8a",
+        "id" : "e0a342cb-5a80-4bbb-bede-4fab4ce4b398",
+        "text" : " 福利待遇",
+        "expanded" : false,
+        "leaf" : true,
+        "extraAttributes" : {
+          "code" : "ZSF00",
+          "idRel" : "dictionaryItems/ZSF00",
+          "value" : "F00",
+          "desc" : "生活上的利益和享有的权利及物质报酬"
+        }
+      } ],
+      "extraAttributes" : {
+        "code" : "ZS",
+        "idRel" : "dictionaryItems/ZS",
+        "value" : "ZS",
+        "desc" : "劳动特指劳动就业和社会保障、人事是指关于工作人员的录用、培养、调配、奖罚等工作"
+      }
+    }, {
+      "parentId" : "8d2f0930-d901-4ec6-9249-5f5dce886f31",
+      "id" : "87dcad4d-9362-4b0a-80d9-48289076e432",
+      "text" : "民政、社区",
+      "expanded" : false,
+      "leaf" : false,
+      "children" : [ {
+        "parentId" : "87dcad4d-9362-4b0a-80d9-48289076e432",
+        "id" : "bcac7b88-fa95-490e-a5de-8a55b3d234b4",
+        "text" : " 民政综合类",
+        "expanded" : false,
+        "leaf" : true,
+        "extraAttributes" : {
+          "code" : "ZTA00",
+          "idRel" : "dictionaryItems/ZTA00",
+          "value" : "A00",
+          "desc" : null
+        }
+      }, {
+        "parentId" : "87dcad4d-9362-4b0a-80d9-48289076e432",
+        "id" : "2512ef95-0ce8-4126-baa3-0e0aa5bc30b6",
+        "text" : " 民政",
+        "expanded" : false,
+        "leaf" : true,
+        "extraAttributes" : {
+          "code" : "ZTB00",
+          "idRel" : "dictionaryItems/ZTB00",
+          "value" : "B00",
+          "desc" : "政府处理的有关人民的行政事务"
+        }
+      }, {
+        "parentId" : "87dcad4d-9362-4b0a-80d9-48289076e432",
+        "id" : "fb815c1a-dde3-497d-a59c-f446577a3604",
+        "text" : " 社区",
+        "expanded" : false,
+        "leaf" : true,
+        "extraAttributes" : {
+          "code" : "ZTC00",
+          "idRel" : "dictionaryItems/ZTC00",
+          "value" : "C00",
+          "desc" : "同一地区人所组成的整体"
+        }
+      } ],
+      "extraAttributes" : {
+        "code" : "ZT",
+        "idRel" : "dictionaryItems/ZT",
+        "value" : "ZT",
+        "desc" : "政府处理的有关人民的行政事务、同一地区人所组成的整体"
+      }
+    }, {
+      "parentId" : "8d2f0930-d901-4ec6-9249-5f5dce886f31",
+      "id" : "a681b9cf-23f5-421c-9bdc-0063f89e6495",
+      "text" : "文秘、行政",
+      "expanded" : false,
+      "leaf" : false,
+      "children" : [ {
+        "parentId" : "a681b9cf-23f5-421c-9bdc-0063f89e6495",
+        "id" : "0515ad9f-3aed-479c-9d3c-f655e23420b9",
+        "text" : " 文秘行政综合类",
+        "expanded" : false,
+        "leaf" : true,
+        "extraAttributes" : {
+          "code" : "ZUA00",
+          "idRel" : "dictionaryItems/ZUA00",
+          "value" : "A00",
+          "desc" : null
+        }
+      }, {
+        "parentId" : "a681b9cf-23f5-421c-9bdc-0063f89e6495",
+        "id" : "b4db8560-9434-4365-a7c1-38cde40f9b6c",
+        "text" : " 文秘工作",
+        "expanded" : false,
+        "leaf" : true,
+        "extraAttributes" : {
+          "code" : "ZUB00",
+          "idRel" : "dictionaryItems/ZUB00",
+          "value" : "B00",
+          "desc" : "处理文书、文件类的工作"
+        }
+      }, {
+        "parentId" : "a681b9cf-23f5-421c-9bdc-0063f89e6495",
+        "id" : "5e6e894c-64b0-4750-91da-dc6bd4741371",
+        "text" : " 文种",
+        "expanded" : false,
+        "leaf" : true,
+        "extraAttributes" : {
+          "code" : "ZUC00",
+          "idRel" : "dictionaryItems/ZUC00",
+          "value" : "C00",
+          "desc" : "能概括的表明每一种公文性质、用途的统一规范称谓"
+        }
+      }, {
+        "parentId" : "a681b9cf-23f5-421c-9bdc-0063f89e6495",
+        "id" : "873fe43d-8a63-49e3-8a44-234cdaa57c8a",
+        "text" : "机要、保密 ",
+        "expanded" : false,
+        "leaf" : true,
+        "extraAttributes" : {
+          "code" : "ZUD00",
+          "idRel" : "dictionaryItems/ZUD00",
+          "value" : "D00",
+          "desc" : "重要而机密、保守秘密"
+        }
+      }, {
+        "parentId" : "a681b9cf-23f5-421c-9bdc-0063f89e6495",
+        "id" : "3ecb1288-cd9f-48ba-9530-9f3bb27aff49",
+        "text" : "档案 ",
+        "expanded" : false,
+        "leaf" : true,
+        "extraAttributes" : {
+          "code" : "ZUE00",
+          "idRel" : "dictionaryItems/ZUE00",
+          "value" : "E00",
+          "desc" : "国家机构、社会组织以及个人从事政治、军事、经济、科学、技术、文化、宗教等活动直接形成的对国家和社会有保存价值的各种文字、图表、声像等不同形式的历史记录"
+        }
+      }, {
+        "parentId" : "a681b9cf-23f5-421c-9bdc-0063f89e6495",
+        "id" : "e1b623a8-56ba-4311-bf6e-bd60f105adcc",
+        "text" : "信访工作 ",
+        "expanded" : false,
+        "leaf" : true,
+        "extraAttributes" : {
+          "code" : "ZUF00",
+          "idRel" : "dictionaryItems/ZUF00",
+          "value" : "F00",
+          "desc" : "接受和处理群众通过信函或面谈方式反映问题的工作"
+        }
+      }, {
+        "parentId" : "a681b9cf-23f5-421c-9bdc-0063f89e6495",
+        "id" : "88061cf5-bef4-4fa9-a998-b0bfb69322e5",
+        "text" : "行政事务 ",
+        "expanded" : false,
+        "leaf" : true,
+        "extraAttributes" : {
+          "code" : "ZUG00",
+          "idRel" : "dictionaryItems/ZUG00",
+          "value" : "G00",
+          "desc" : "政府机关企事业各种社会团体等的内部执行管理的杂务"
+        }
+      } ],
+      "extraAttributes" : {
+        "code" : "ZU",
+        "idRel" : "dictionaryItems/ZU",
+        "value" : "ZU",
+        "desc" : "处理文书文件类秘书、指企事业、各种社会团体等的内部管理"
+      }
+    }, {
+      "parentId" : "8d2f0930-d901-4ec6-9249-5f5dce886f31",
+      "id" : "4f3de8e4-4de1-4863-b8eb-36b503e12a06",
+      "text" : "综合党团",
+      "expanded" : false,
+      "leaf" : false,
+      "children" : [ {
+        "parentId" : "4f3de8e4-4de1-4863-b8eb-36b503e12a06",
+        "id" : "ec0b4f0c-3793-42ab-b666-12ec6d363dac",
+        "text" : " 党团综合类",
+        "expanded" : false,
+        "leaf" : true,
+        "extraAttributes" : {
+          "code" : "ZVA00",
+          "idRel" : "dictionaryItems/ZVA00",
+          "value" : "A00",
+          "desc" : null
+        }
+      }, {
+        "parentId" : "4f3de8e4-4de1-4863-b8eb-36b503e12a06",
+        "id" : "4ca157fa-2c22-4ed9-bf1c-770a51db55ec",
+        "text" : " 党派团体",
+        "expanded" : false,
+        "leaf" : true,
+        "extraAttributes" : {
+          "code" : "ZVB00",
+          "idRel" : "dictionaryItems/ZVB00",
+          "value" : "B00",
+          "desc" : "关于各党派团体的概况"
+        }
+      }, {
+        "parentId" : "4f3de8e4-4de1-4863-b8eb-36b503e12a06",
+        "id" : "cf973230-48cf-4610-9a2f-f451909c7619",
+        "text" : " 民族事务",
+        "expanded" : false,
+        "leaf" : true,
+        "extraAttributes" : {
+          "code" : "ZVC00",
+          "idRel" : "dictionaryItems/ZVC00",
+          "value" : "C00",
+          "desc" : "关于少数民族事业的发展概况"
+        }
+      }, {
+        "parentId" : "4f3de8e4-4de1-4863-b8eb-36b503e12a06",
+        "id" : "434e047f-d3ac-4f9c-98ba-f5485df32623",
+        "text" : " 宗教",
+        "expanded" : false,
+        "leaf" : true,
+        "extraAttributes" : {
+          "code" : "ZVD00",
+          "idRel" : "dictionaryItems/ZVD00",
+          "value" : "D00",
+          "desc" : "关于宗教事务的管理和发展情况"
+        }
+      }, {
+        "parentId" : "4f3de8e4-4de1-4863-b8eb-36b503e12a06",
+        "id" : "df3024f2-b3ca-4eef-ae0e-abe4a9af825e",
+        "text" : " 侨务工作",
+        "expanded" : false,
+        "leaf" : true,
+        "extraAttributes" : {
+          "code" : "ZVE00",
+          "idRel" : "dictionaryItems/ZVE00",
+          "value" : "E00",
+          "desc" : "关于侨务工作的管理和发展概况，以及侨民概况"
+        }
+      }, {
+        "parentId" : "4f3de8e4-4de1-4863-b8eb-36b503e12a06",
+        "id" : "235fc49e-4624-4421-98a3-5e4af073e199",
+        "text" : " 港澳台工作",
+        "expanded" : false,
+        "leaf" : true,
+        "extraAttributes" : {
+          "code" : "ZVF00",
+          "idRel" : "dictionaryItems/ZVF00",
+          "value" : "F00",
+          "desc" : "关于香港、澳门、台湾的政策法规、政治、经济、科技交流往来等概况"
+        }
+      } ],
+      "extraAttributes" : {
+        "code" : "ZV",
+        "idRel" : "dictionaryItems/ZV",
+        "value" : "ZV",
+        "desc" : "宗教、民族、侨民、党派团体、特别行政区的综合事务"
+      }
+    }, {
+      "parentId" : "8d2f0930-d901-4ec6-9249-5f5dce886f31",
+      "id" : "dccd39af-a146-4169-8d98-c48481d2f5f4",
+      "text" : "综合类",
+      "expanded" : false,
+      "leaf" : true,
+      "extraAttributes" : {
+        "code" : "ZW",
+        "idRel" : "dictionaryItems/ZW",
+        "value" : "ZW",
+        "desc" : null
+      }
+    } ],
+    "extraAttributes" : {
+      "code" : "CatalogGB",
+      "idRel" : "dictionaryCatalogs/CatalogGB",
+      "value" : "CatalogGB",
+      "desc" : null
+    }
+  } ]
+}

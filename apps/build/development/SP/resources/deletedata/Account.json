@@ -1,0 +1,84 @@
+{
+  "content": [
+    {
+      "username": "admin",
+      "password": "admin",
+      "nick": "管理员",
+      "realmNode": "Center",
+      "lastPassword":"111111",
+      "admin":true,
+      "accountNonExpired":true,
+      "accountNonLocked":false,
+      "credentialsNonExpired":true,
+      "enabled":true,
+      "createTime":"2018-01-01",
+      "pwdTime":"2018-01-22",
+      "modular": [
+        {
+          "title": "分布式目录管理系统（中心）",
+          "code": "DRDMSZ"
+        },
+        {
+          "title": "分布式目录管理系统（部门）",
+          "code": "DRDMSB"
+        },
+        {
+          "title": "数据服务管理平台",
+          "code": "AP"
+        },
+        {
+          "title": "节点资源管理系统",
+          "code": "RBase"
+        }
+      ]
+    },
+    {
+      "username": "user",
+      "password": "user",
+      "nick": "ccc",
+      "realmNode": "Center",
+      "lastPassword":"111111",
+      "admin":true,
+      "accountNonExpired":true,
+      "accountNonLocked":false,
+      "credentialsNonExpired":true,
+      "enabled":true,
+      "createTime":"2018-01-01",
+      "pwdTime":"2018-01-22",
+      "modular": [
+        {
+          "title": "分布式目录管理系统（中心）",
+          "code": "DRDMSZ"
+        },
+        {
+          "title": "分布式目录管理系统（部门）",
+          "code": "DRDMSB"
+        }
+      ]
+    },
+    {
+      "username": "suser",
+      "password": "suser",
+      "nick": "www",
+      "realmNode": "Node",
+      "lastPassword":"111111",
+      "admin":true,
+      "accountNonExpired":true,
+      "accountNonLocked":false,
+      "credentialsNonExpired":true,
+      "enabled":true,
+      "createTime":"2018-01-01",
+      "pwdTime":"2018-01-22",
+      "modular": [
+        {
+          "title": "分布式目录管理系统（部门）",
+          "code": "DRDMSB"
+        },
+        {
+          "title": "节点资源管理系统",
+          "code": "RBase"
+        }
+      ]
+    }
+  ]
+}

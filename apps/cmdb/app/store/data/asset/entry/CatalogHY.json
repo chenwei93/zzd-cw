@@ -1,0 +1,1258 @@
+{
+  "id": "root",
+  "text": "根节点",
+  "expanded": false,
+  "leaf": false,
+  "children": [
+    {
+      "parentId": "root",
+      "id": "9668de39-a5ae-4089-83c8-3838a3714630",
+      "text": "行业分类",
+      "expanded": false,
+      "leaf": false,
+      "children": [
+        {
+          "parentId": "9668de39-a5ae-4089-83c8-3838a3714630",
+          "id": "00d4aa77-cbb0-4569-9158-3229ce7cc941",
+          "text": "农业",
+          "expanded": false,
+          "leaf": true,
+          "extraAttributes": {
+            "code": "A00",
+            "idRel": "dictionaryItems/A00",
+            "value": "A00",
+            "desc": "指对各种农作物的种植活动。"
+          }
+        },
+        {
+          "parentId": "9668de39-a5ae-4089-83c8-3838a3714630",
+          "id": "54bb6b42-5041-42fb-8882-64984e0fe350",
+          "text": "林业",
+          "expanded": false,
+          "leaf": true,
+          "extraAttributes": {
+            "code": "B00",
+            "idRel": "dictionaryItems/B00",
+            "value": "B00",
+            "desc": null
+          }
+        },
+        {
+          "parentId": "9668de39-a5ae-4089-83c8-3838a3714630",
+          "id": "cebe5f9d-8655-4577-aa84-7d2330e4c2a8",
+          "text": "畜牧业",
+          "expanded": false,
+          "leaf": true,
+          "extraAttributes": {
+            "code": "C00",
+            "idRel": "dictionaryItems/C00",
+            "value": "C00",
+            "desc": "指为了获得各种畜禽产品而从事的动物饲养活动。"
+          }
+        },
+        {
+          "parentId": "9668de39-a5ae-4089-83c8-3838a3714630",
+          "id": "7732278e-bf44-437f-a9b0-a087d06f5754",
+          "text": "渔业",
+          "expanded": false,
+          "leaf": true,
+          "extraAttributes": {
+            "code": "D00",
+            "idRel": "dictionaryItems/D00",
+            "value": "D00",
+            "desc": null
+          }
+        },
+        {
+          "parentId": "9668de39-a5ae-4089-83c8-3838a3714630",
+          "id": "f0871404-5383-4adc-b60e-ed54c522ae3f",
+          "text": "农、林、牧、渔服务业",
+          "expanded": false,
+          "leaf": true,
+          "extraAttributes": {
+            "code": "E00",
+            "idRel": "dictionaryItems/E00",
+            "value": "E00",
+            "desc": "指对农、林、牧、渔业生产活动进行的各种支持性服务活动。但不包括各种科学技术和专业技术服务活动。"
+          }
+        },
+        {
+          "parentId": "9668de39-a5ae-4089-83c8-3838a3714630",
+          "id": "4f868260-ccc2-459c-a0fe-310f804a48be",
+          "text": "煤炭开采和洗选业",
+          "expanded": false,
+          "leaf": true,
+          "extraAttributes": {
+            "code": "F00",
+            "idRel": "dictionaryItems/F00",
+            "value": "F00",
+            "desc": "指对各种煤炭的开采、洗选、分级等生产活动。不包括煤制品的生产和煤炭勘探活动。"
+          }
+        },
+        {
+          "parentId": "9668de39-a5ae-4089-83c8-3838a3714630",
+          "id": "8d1a59ed-9631-400f-987d-537d8cec0d79",
+          "text": "石油和天然气开采业",
+          "expanded": false,
+          "leaf": true,
+          "extraAttributes": {
+            "code": "G00",
+            "idRel": "dictionaryItems/G00",
+            "value": "G00",
+            "desc": null
+          }
+        },
+        {
+          "parentId": "9668de39-a5ae-4089-83c8-3838a3714630",
+          "id": "86714be2-beb1-42dd-92fe-d6cb76985974",
+          "text": "黑色金属矿采选业",
+          "expanded": false,
+          "leaf": true,
+          "extraAttributes": {
+            "code": "H00",
+            "idRel": "dictionaryItems/H00",
+            "value": "H00",
+            "desc": null
+          }
+        },
+        {
+          "parentId": "9668de39-a5ae-4089-83c8-3838a3714630",
+          "id": "5fafafe3-a033-4b36-92b5-8de7ff0d25eb",
+          "text": "有色金属矿采选业",
+          "expanded": false,
+          "leaf": true,
+          "extraAttributes": {
+            "code": "I00",
+            "idRel": "dictionaryItems/I00",
+            "value": "I00",
+            "desc": "指对常用有色金属矿、贵金属矿，以及稀有稀土金属矿的开采、选矿活动。"
+          }
+        },
+        {
+          "parentId": "9668de39-a5ae-4089-83c8-3838a3714630",
+          "id": "2c7554bb-2387-4cad-9df8-7857642ab4ad",
+          "text": "非金属矿采选业",
+          "expanded": false,
+          "leaf": true,
+          "extraAttributes": {
+            "code": "J00",
+            "idRel": "dictionaryItems/J00",
+            "value": "J00",
+            "desc": null
+          }
+        },
+        {
+          "parentId": "9668de39-a5ae-4089-83c8-3838a3714630",
+          "id": "65a76a7d-0d8a-4767-a71f-894b6f0774a7",
+          "text": "其他采矿业",
+          "expanded": false,
+          "leaf": true,
+          "extraAttributes": {
+            "code": "K00",
+            "idRel": "dictionaryItems/K00",
+            "value": "K00",
+            "desc": null
+          }
+        },
+        {
+          "parentId": "9668de39-a5ae-4089-83c8-3838a3714630",
+          "id": "50a541f1-4f29-4d28-b1b9-063f08c4e15c",
+          "text": "农副食品加工业",
+          "expanded": false,
+          "leaf": true,
+          "extraAttributes": {
+            "code": "L00",
+            "idRel": "dictionaryItems/L00",
+            "value": "L00",
+            "desc": "指直接以农、林、牧 、渔业产品为原料进行的谷物磨制、饲料加工、植物油和制糖加工、屠宰及肉类加工、水产品加工，以及蔬菜、水果和坚果等食品的加工活动。"
+          }
+        },
+        {
+          "parentId": "9668de39-a5ae-4089-83c8-3838a3714630",
+          "id": "510ac2b6-0f28-4b85-8f26-f1463810d577",
+          "text": "食品制造业",
+          "expanded": false,
+          "leaf": true,
+          "extraAttributes": {
+            "code": "M00",
+            "idRel": "dictionaryItems/M00",
+            "value": "M00",
+            "desc": null
+          }
+        },
+        {
+          "parentId": "9668de39-a5ae-4089-83c8-3838a3714630",
+          "id": "e63e284f-8a99-485c-8026-1dc6a1f99a43",
+          "text": "饮料制造业",
+          "expanded": false,
+          "leaf": true,
+          "extraAttributes": {
+            "code": "N00",
+            "idRel": "dictionaryItems/N00",
+            "value": "N00",
+            "desc": null
+          }
+        },
+        {
+          "parentId": "9668de39-a5ae-4089-83c8-3838a3714630",
+          "id": "5245b05d-8329-49b2-84a2-d72e8f7a4a09",
+          "text": "烟草制品业",
+          "expanded": false,
+          "leaf": true,
+          "extraAttributes": {
+            "code": "O00",
+            "idRel": "dictionaryItems/O00",
+            "value": "O00",
+            "desc": null
+          }
+        },
+        {
+          "parentId": "9668de39-a5ae-4089-83c8-3838a3714630",
+          "id": "f7d7c08c-69d9-4c17-8b41-f3ce196cd8cd",
+          "text": "纺织业",
+          "expanded": false,
+          "leaf": true,
+          "extraAttributes": {
+            "code": "P00",
+            "idRel": "dictionaryItems/P00",
+            "value": "P00",
+            "desc": null
+          }
+        },
+        {
+          "parentId": "9668de39-a5ae-4089-83c8-3838a3714630",
+          "id": "2e514396-76d8-4bdb-9690-c503e7cadbad",
+          "text": "纺织服装、鞋、帽制造业",
+          "expanded": false,
+          "leaf": true,
+          "extraAttributes": {
+            "code": "Q00",
+            "idRel": "dictionaryItems/Q00",
+            "value": "Q00",
+            "desc": null
+          }
+        },
+        {
+          "parentId": "9668de39-a5ae-4089-83c8-3838a3714630",
+          "id": "35a92013-1281-450f-8489-62355b3ed0d5",
+          "text": "皮革、毛皮、羽毛(绒)及其制品业",
+          "expanded": false,
+          "leaf": true,
+          "extraAttributes": {
+            "code": "R00",
+            "idRel": "dictionaryItems/R00",
+            "value": "R00",
+            "desc": null
+          }
+        },
+        {
+          "parentId": "9668de39-a5ae-4089-83c8-3838a3714630",
+          "id": "548140c9-e7bf-4f3f-9423-1a6bb22772ad",
+          "text": "木材加工及木、竹、藤、棕、草制品业",
+          "expanded": false,
+          "leaf": true,
+          "extraAttributes": {
+            "code": "S00",
+            "idRel": "dictionaryItems/S00",
+            "value": "S00",
+            "desc": null
+          }
+        },
+        {
+          "parentId": "9668de39-a5ae-4089-83c8-3838a3714630",
+          "id": "aa26cfb6-ae06-4fd6-b604-1f194170a2e9",
+          "text": "家具制造业",
+          "expanded": false,
+          "leaf": true,
+          "extraAttributes": {
+            "code": "T00",
+            "idRel": "dictionaryItems/T00",
+            "value": "T00",
+            "desc": "指用木材、金属、塑料、竹、藤等材料制作的，具有坐卧、凭倚、储藏、间隔等功能，可用于住宅、旅馆、办公室、学校、餐馆、医院、剧场、公园、船舰、飞机、机动车等任何场所的各种家具的制造。"
+          }
+        },
+        {
+          "parentId": "9668de39-a5ae-4089-83c8-3838a3714630",
+          "id": "4dfd220c-508a-413a-a6db-3a644bd361bc",
+          "text": "造纸及纸制品业",
+          "expanded": false,
+          "leaf": true,
+          "extraAttributes": {
+            "code": "U00",
+            "idRel": "dictionaryItems/U00",
+            "value": "U00",
+            "desc": null
+          }
+        },
+        {
+          "parentId": "9668de39-a5ae-4089-83c8-3838a3714630",
+          "id": "cfeec3c3-5fcb-41cd-befc-bc7ddf496e9f",
+          "text": "印刷业和记录媒介的复制",
+          "expanded": false,
+          "leaf": true,
+          "extraAttributes": {
+            "code": "V00",
+            "idRel": "dictionaryItems/V00",
+            "value": "V00",
+            "desc": null
+          }
+        },
+        {
+          "parentId": "9668de39-a5ae-4089-83c8-3838a3714630",
+          "id": "2a2458c0-cc50-4503-8635-43ac70097f9c",
+          "text": "文教体育用品制造业",
+          "expanded": false,
+          "leaf": true,
+          "extraAttributes": {
+            "code": "W00",
+            "idRel": "dictionaryItems/W00",
+            "value": "W00",
+            "desc": null
+          }
+        },
+        {
+          "parentId": "9668de39-a5ae-4089-83c8-3838a3714630",
+          "id": "b6ef2b2e-614a-4f05-9fc3-ab81e2912b70",
+          "text": "石油加工、炼焦及核燃料加工业",
+          "expanded": false,
+          "leaf": true,
+          "extraAttributes": {
+            "code": "X00",
+            "idRel": "dictionaryItems/X00",
+            "value": "X00",
+            "desc": null
+          }
+        },
+        {
+          "parentId": "9668de39-a5ae-4089-83c8-3838a3714630",
+          "id": "a3543af0-3994-49eb-8b40-b0e7085fbaa8",
+          "text": "化学原料及化学制品制造业",
+          "expanded": false,
+          "leaf": true,
+          "extraAttributes": {
+            "code": "Y00",
+            "idRel": "dictionaryItems/Y00",
+            "value": "Y00",
+            "desc": null
+          }
+        },
+        {
+          "parentId": "9668de39-a5ae-4089-83c8-3838a3714630",
+          "id": "f04f8517-5ca3-4ebc-91d0-bb4a1ae7a96f",
+          "text": "医药制造业",
+          "expanded": false,
+          "leaf": true,
+          "extraAttributes": {
+            "code": "Z00",
+            "idRel": "dictionaryItems/Z00",
+            "value": "Z00",
+            "desc": null
+          }
+        },
+        {
+          "parentId": "9668de39-a5ae-4089-83c8-3838a3714630",
+          "id": "21cd780c-78f9-4a8a-b9dd-aeffc3ecd301",
+          "text": "化学纤维制造业",
+          "expanded": false,
+          "leaf": true,
+          "extraAttributes": {
+            "code": "A10",
+            "idRel": "dictionaryItems/A10",
+            "value": "A10",
+            "desc": null
+          }
+        },
+        {
+          "parentId": "9668de39-a5ae-4089-83c8-3838a3714630",
+          "id": "e496bf61-fbee-44b6-9793-6fe44f62e737",
+          "text": "橡胶制品业",
+          "expanded": false,
+          "leaf": true,
+          "extraAttributes": {
+            "code": "B10",
+            "idRel": "dictionaryItems/B10",
+            "value": "B10",
+            "desc": "指以天然及合成橡胶为原料生产各种橡胶制品的活动，还包括利用废橡胶再生产的橡胶制品。"
+          }
+        },
+        {
+          "parentId": "9668de39-a5ae-4089-83c8-3838a3714630",
+          "id": "8e6fcbad-f06e-4a8d-9923-67ce702f45d0",
+          "text": "塑料制品业",
+          "expanded": false,
+          "leaf": true,
+          "extraAttributes": {
+            "code": "C10",
+            "idRel": "dictionaryItems/C10",
+            "value": "C10",
+            "desc": "指以合成树脂（高分子化合物）为主要原料，经采用挤塑、注塑、吹塑、压延、层压等工艺加工成型的各种制品的生产；以及利用回收的废旧塑料加工再生产塑料制品的活动。"
+          }
+        },
+        {
+          "parentId": "9668de39-a5ae-4089-83c8-3838a3714630",
+          "id": "17a34560-6670-4561-b66d-c9ea4b18ca88",
+          "text": "非金属矿物制品业",
+          "expanded": false,
+          "leaf": true,
+          "extraAttributes": {
+            "code": "D10",
+            "idRel": "dictionaryItems/D10",
+            "value": "D10",
+            "desc": null
+          }
+        },
+        {
+          "parentId": "9668de39-a5ae-4089-83c8-3838a3714630",
+          "id": "9f37a69e-760b-4e6b-9279-6e47bfaac9c0",
+          "text": "黑色金属冶炼及压延加工业",
+          "expanded": false,
+          "leaf": true,
+          "extraAttributes": {
+            "code": "E10",
+            "idRel": "dictionaryItems/E10",
+            "value": "E10",
+            "desc": null
+          }
+        },
+        {
+          "parentId": "9668de39-a5ae-4089-83c8-3838a3714630",
+          "id": "34366e75-f3af-4469-b23c-6ed4cc5c6f93",
+          "text": "有色金属冶炼及压延加工业",
+          "expanded": false,
+          "leaf": true,
+          "extraAttributes": {
+            "code": "F10",
+            "idRel": "dictionaryItems/F10",
+            "value": "F10",
+            "desc": null
+          }
+        },
+        {
+          "parentId": "9668de39-a5ae-4089-83c8-3838a3714630",
+          "id": "78b75262-8734-4201-b260-2d0d60ed6c66",
+          "text": "金属制品业",
+          "expanded": false,
+          "leaf": true,
+          "extraAttributes": {
+            "code": "G10",
+            "idRel": "dictionaryItems/G10",
+            "value": "G10",
+            "desc": null
+          }
+        },
+        {
+          "parentId": "9668de39-a5ae-4089-83c8-3838a3714630",
+          "id": "acc661fb-f5a2-405c-9211-1819ae28694b",
+          "text": "通用设备制造业",
+          "expanded": false,
+          "leaf": true,
+          "extraAttributes": {
+            "code": "H10",
+            "idRel": "dictionaryItems/H10",
+            "value": "H10",
+            "desc": null
+          }
+        },
+        {
+          "parentId": "9668de39-a5ae-4089-83c8-3838a3714630",
+          "id": "a0834b20-5f47-4148-b9aa-8dd77a4fcfce",
+          "text": "专用设备制造业",
+          "expanded": false,
+          "leaf": true,
+          "extraAttributes": {
+            "code": "I10",
+            "idRel": "dictionaryItems/I10",
+            "value": "I10",
+            "desc": null
+          }
+        },
+        {
+          "parentId": "9668de39-a5ae-4089-83c8-3838a3714630",
+          "id": "e718b2e0-e1b0-4162-aa3b-df347be735b6",
+          "text": "交通运输设备制造业",
+          "expanded": false,
+          "leaf": true,
+          "extraAttributes": {
+            "code": "J10",
+            "idRel": "dictionaryItems/J10",
+            "value": "J10",
+            "desc": null
+          }
+        },
+        {
+          "parentId": "9668de39-a5ae-4089-83c8-3838a3714630",
+          "id": "6bfe7e8b-5f10-4825-b8b0-889de33d8433",
+          "text": "电气机械及器材制造业",
+          "expanded": false,
+          "leaf": true,
+          "extraAttributes": {
+            "code": "K10",
+            "idRel": "dictionaryItems/K10",
+            "value": "K10",
+            "desc": null
+          }
+        },
+        {
+          "parentId": "9668de39-a5ae-4089-83c8-3838a3714630",
+          "id": "f7d12e0e-e05d-4e79-9688-b0061e9eb0e8",
+          "text": "通信设备、计算机及其他电子设备制造业",
+          "expanded": false,
+          "leaf": true,
+          "extraAttributes": {
+            "code": "L10",
+            "idRel": "dictionaryItems/L10",
+            "value": "L10",
+            "desc": null
+          }
+        },
+        {
+          "parentId": "9668de39-a5ae-4089-83c8-3838a3714630",
+          "id": "0c584529-8a95-4d08-a53b-802217928cc4",
+          "text": "仪器仪表及文化、办公用机械制造业",
+          "expanded": false,
+          "leaf": true,
+          "extraAttributes": {
+            "code": "M10",
+            "idRel": "dictionaryItems/M10",
+            "value": "M10",
+            "desc": null
+          }
+        },
+        {
+          "parentId": "9668de39-a5ae-4089-83c8-3838a3714630",
+          "id": "1137f32c-5e8d-419b-8e8c-e096fb46ec7c",
+          "text": "工艺品及其他制造业",
+          "expanded": false,
+          "leaf": true,
+          "extraAttributes": {
+            "code": "N10",
+            "idRel": "dictionaryItems/N10",
+            "value": "N10",
+            "desc": null
+          }
+        },
+        {
+          "parentId": "9668de39-a5ae-4089-83c8-3838a3714630",
+          "id": "f8b9ffa7-f906-4076-94d2-986ceb2cf319",
+          "text": "废弃资源和废旧材料回收加工业",
+          "expanded": false,
+          "leaf": true,
+          "extraAttributes": {
+            "code": "O10",
+            "idRel": "dictionaryItems/O10",
+            "value": "O10",
+            "desc": null
+          }
+        },
+        {
+          "parentId": "9668de39-a5ae-4089-83c8-3838a3714630",
+          "id": "0cbe6f0f-49da-4acd-9702-426e48e9e9a3",
+          "text": "电力、热力的生产和供应业",
+          "expanded": false,
+          "leaf": true,
+          "extraAttributes": {
+            "code": "P10",
+            "idRel": "dictionaryItems/P10",
+            "value": "P10",
+            "desc": null
+          }
+        },
+        {
+          "parentId": "9668de39-a5ae-4089-83c8-3838a3714630",
+          "id": "1d72782e-122e-47df-bdef-a91a41fa4f97",
+          "text": "燃气生产和供应业",
+          "expanded": false,
+          "leaf": true,
+          "extraAttributes": {
+            "code": "Q10",
+            "idRel": "dictionaryItems/Q10",
+            "value": "Q10",
+            "desc": "  指利用煤炭、油、燃气等能源生产燃气，或外购液化石油气、天然气等燃气，并进行输配，向用户销售燃气的活动，以及对煤气、液化石油气、天然气输配及使用过程中的维修和管理活动。但不包括专门从事罐装液化石油气零售业务的活动。"
+          }
+        },
+        {
+          "parentId": "9668de39-a5ae-4089-83c8-3838a3714630",
+          "id": "215e9a92-a088-4d79-a85f-e381f762c29a",
+          "text": "水的生产和供应业",
+          "expanded": false,
+          "leaf": true,
+          "extraAttributes": {
+            "code": "R10",
+            "idRel": "dictionaryItems/R10",
+            "value": "R10",
+            "desc": null
+          }
+        },
+        {
+          "parentId": "9668de39-a5ae-4089-83c8-3838a3714630",
+          "id": "4bdd4fdb-bc14-4e41-a7a4-65a1e73f737c",
+          "text": "房屋和土木工程建筑业",
+          "expanded": false,
+          "leaf": true,
+          "extraAttributes": {
+            "code": "S10",
+            "idRel": "dictionaryItems/S10",
+            "value": "S10",
+            "desc": " 指建筑工程从破土动工到工程主体结构竣工（或封顶）的活动过程。不包括工程的内部安装和装饰活动。"
+          }
+        },
+        {
+          "parentId": "9668de39-a5ae-4089-83c8-3838a3714630",
+          "id": "e5f9fd92-62a4-4524-ad69-c62b3518ca5a",
+          "text": "建筑安装业",
+          "expanded": false,
+          "leaf": true,
+          "extraAttributes": {
+            "code": "T10",
+            "idRel": "dictionaryItems/T10",
+            "value": "T10",
+            "desc": " 指建筑物主体工程竣工后，建筑物内各种设备的安装活动，以及施工中的线路敷设和管道安装。不包括工程收尾的装饰，如对墙面、地板、天花板、门窗等处理活动。"
+          }
+        },
+        {
+          "parentId": "9668de39-a5ae-4089-83c8-3838a3714630",
+          "id": "1eee1e68-8566-4a51-a85a-84343cbeb82b",
+          "text": "建筑装饰业",
+          "expanded": false,
+          "leaf": true,
+          "extraAttributes": {
+            "code": "U10",
+            "idRel": "dictionaryItems/U10",
+            "value": "U10",
+            "desc": " 指对建筑工程后期的装饰、装修和清理活动，以及对居室的装修活动。"
+          }
+        },
+        {
+          "parentId": "9668de39-a5ae-4089-83c8-3838a3714630",
+          "id": "a832b51c-54f1-4ede-95ae-1d2f95155786",
+          "text": "其他建筑业",
+          "expanded": false,
+          "leaf": true,
+          "extraAttributes": {
+            "code": "V10",
+            "idRel": "dictionaryItems/V10",
+            "value": "V10",
+            "desc": null
+          }
+        },
+        {
+          "parentId": "9668de39-a5ae-4089-83c8-3838a3714630",
+          "id": "f1b6ca25-4c29-41fe-baa7-28e351cd4c3d",
+          "text": "铁路运输业",
+          "expanded": false,
+          "leaf": true,
+          "extraAttributes": {
+            "code": "W10",
+            "idRel": "dictionaryItems/W10",
+            "value": "W10",
+            "desc": "指铁路客运、货运及相关的调度、信号、机车、车辆、检修、工务等活动。不包括铁路系统所属的机车、车辆及信号通信设备的制造厂（公司）、建筑工程公司、商店、学校、科研所、医院等。"
+          }
+        },
+        {
+          "parentId": "9668de39-a5ae-4089-83c8-3838a3714630",
+          "id": "fb892c43-183f-4d3e-9a7b-828851a28f00",
+          "text": "道路运输业",
+          "expanded": false,
+          "leaf": true,
+          "extraAttributes": {
+            "code": "X10",
+            "idRel": "dictionaryItems/X10",
+            "value": "X10",
+            "desc": null
+          }
+        },
+        {
+          "parentId": "9668de39-a5ae-4089-83c8-3838a3714630",
+          "id": "d4b3e99e-5f8f-4e23-b101-cf64a0bad6a8",
+          "text": "城市公共交通业",
+          "expanded": false,
+          "leaf": true,
+          "extraAttributes": {
+            "code": "Y10",
+            "idRel": "dictionaryItems/Y10",
+            "value": "Y10",
+            "desc": "指城市旅客运输活动。"
+          }
+        },
+        {
+          "parentId": "9668de39-a5ae-4089-83c8-3838a3714630",
+          "id": "7da2b179-74f8-47b9-ae03-490080cc95ae",
+          "text": "水上运输业",
+          "expanded": false,
+          "leaf": true,
+          "extraAttributes": {
+            "code": "Z10",
+            "idRel": "dictionaryItems/Z10",
+            "value": "Z10",
+            "desc": null
+          }
+        },
+        {
+          "parentId": "9668de39-a5ae-4089-83c8-3838a3714630",
+          "id": "81b1f977-e00e-45e8-a5d9-6e4f4b4a5d8d",
+          "text": "航空运输业",
+          "expanded": false,
+          "leaf": true,
+          "extraAttributes": {
+            "code": "A11",
+            "idRel": "dictionaryItems/A11",
+            "value": "A11",
+            "desc": null
+          }
+        },
+        {
+          "parentId": "9668de39-a5ae-4089-83c8-3838a3714630",
+          "id": "7bc48ae9-0309-470d-9292-779d518d1889",
+          "text": "管道运输业",
+          "expanded": false,
+          "leaf": true,
+          "extraAttributes": {
+            "code": "B11",
+            "idRel": "dictionaryItems/B11",
+            "value": "B11",
+            "desc": "指通过管道对气体、液体等的运输活动"
+          }
+        },
+        {
+          "parentId": "9668de39-a5ae-4089-83c8-3838a3714630",
+          "id": "6446d48f-203e-4f5a-a32d-140a15e6c004",
+          "text": "装卸搬运和其他运输服务业",
+          "expanded": false,
+          "leaf": true,
+          "extraAttributes": {
+            "code": "C11",
+            "idRel": "dictionaryItems/C11",
+            "value": "C11",
+            "desc": null
+          }
+        },
+        {
+          "parentId": "9668de39-a5ae-4089-83c8-3838a3714630",
+          "id": "683b0ee5-a74d-45ec-a115-df7a6ef17fad",
+          "text": "仓储业",
+          "expanded": false,
+          "leaf": true,
+          "extraAttributes": {
+            "code": "D11",
+            "idRel": "dictionaryItems/D11",
+            "value": "D11",
+            "desc": "指专门从事货物仓储、货物运输中转仓储，以及以仓储为主的物流送配活动。"
+          }
+        },
+        {
+          "parentId": "9668de39-a5ae-4089-83c8-3838a3714630",
+          "id": "04fd78cb-335c-487f-8921-f0065c1b1b45",
+          "text": "邮政业",
+          "expanded": false,
+          "leaf": true,
+          "extraAttributes": {
+            "code": "E11",
+            "idRel": "dictionaryItems/E11",
+            "value": "E11",
+            "desc": null
+          }
+        },
+        {
+          "parentId": "9668de39-a5ae-4089-83c8-3838a3714630",
+          "id": "ef19abed-7ccf-4e02-82c3-ef80d7c5fb66",
+          "text": "电信和其他信息传输服务业",
+          "expanded": false,
+          "leaf": true,
+          "extraAttributes": {
+            "code": "F11",
+            "idRel": "dictionaryItems/F11",
+            "value": "F11",
+            "desc": null
+          }
+        },
+        {
+          "parentId": "9668de39-a5ae-4089-83c8-3838a3714630",
+          "id": "001efe63-ff1b-42a9-a8ab-5d9eaa810509",
+          "text": "计算机服务业",
+          "expanded": false,
+          "leaf": true,
+          "extraAttributes": {
+            "code": "G11",
+            "idRel": "dictionaryItems/G11",
+            "value": "G11",
+            "desc": null
+          }
+        },
+        {
+          "parentId": "9668de39-a5ae-4089-83c8-3838a3714630",
+          "id": "1e97cec3-49fa-44e8-a367-9289fadbbc54",
+          "text": "软件业",
+          "expanded": false,
+          "leaf": true,
+          "extraAttributes": {
+            "code": "H11",
+            "idRel": "dictionaryItems/H11",
+            "value": "H11",
+            "desc": "指专门从事计算机软件的设计、程序编制、分析、测试、修改、咨询；为互联网和数据库提供软件设计与技术规范；为软件所支持的系统及环境提供咨询、协调和指导；为硬件嵌入式软件及系统提供咨询、设计、鉴定等活动。"
+          }
+        },
+        {
+          "parentId": "9668de39-a5ae-4089-83c8-3838a3714630",
+          "id": "537889a7-eb22-4a85-a8ed-a59ee4de262e",
+          "text": "批发业",
+          "expanded": false,
+          "leaf": true,
+          "extraAttributes": {
+            "code": "I11",
+            "idRel": "dictionaryItems/I11",
+            "value": "I11",
+            "desc": "指批发商向批发、零售单位及其他企业、事业、机关批量销售生活用品和生产资料的活动，以及从事进出口贸易和贸易经纪与代理的活动。批发商可以对所批发的货物拥有所有权，并以本单位、公司的名义进行交易活动；也可以不拥有货物的所有权，而以中介身份做代理销售商。本类还包括各类商品批发市场中固定摊位的批发活动。"
+          }
+        },
+        {
+          "parentId": "9668de39-a5ae-4089-83c8-3838a3714630",
+          "id": "604490cd-4061-41ba-aba8-e123d31a7df1",
+          "text": "零售业",
+          "expanded": false,
+          "leaf": true,
+          "extraAttributes": {
+            "code": "J11",
+            "idRel": "dictionaryItems/J11",
+            "value": "J11",
+            "desc": "指百货商店、超级市场、专门零售商店、品牌专卖店、售货摊等主要面向最终消费者（如居民等）的销售活动。包括以互联网、邮政、电话、售货机等方式的销售活动。还包括在同一地点，后面加工生产，前面销售的店铺（如面包房）。谷物、种子、饲料、牲畜、矿产品、生产用原料、化工原料、农用化工产品、机械设备（乘用车、计算机及通信设备除外）等生产资料的销售不作为零售活动"
+          }
+        },
+        {
+          "parentId": "9668de39-a5ae-4089-83c8-3838a3714630",
+          "id": "94ca4e5c-c052-4867-8c52-e5902255c03c",
+          "text": "住宿业",
+          "expanded": false,
+          "leaf": true,
+          "extraAttributes": {
+            "code": "K11",
+            "idRel": "dictionaryItems/K11",
+            "value": "K11",
+            "desc": "指有偿为顾客提供临时住宿的服务活动"
+          }
+        },
+        {
+          "parentId": "9668de39-a5ae-4089-83c8-3838a3714630",
+          "id": "ae38065c-9e94-4cc4-b048-25e8c13d0ad1",
+          "text": "餐饮业",
+          "expanded": false,
+          "leaf": true,
+          "extraAttributes": {
+            "code": "L11",
+            "idRel": "dictionaryItems/L11",
+            "value": "L11",
+            "desc": "指在一定场所，对食物进行现场烹饪、调制，并出售给顾客主要供现场消费的服务活动。"
+          }
+        },
+        {
+          "parentId": "9668de39-a5ae-4089-83c8-3838a3714630",
+          "id": "2fc731f5-aa86-45c9-af70-fccdd6117e8c",
+          "text": "银行业",
+          "expanded": false,
+          "leaf": true,
+          "extraAttributes": {
+            "code": "M11",
+            "idRel": "dictionaryItems/M11",
+            "value": "M11",
+            "desc": null
+          }
+        },
+        {
+          "parentId": "9668de39-a5ae-4089-83c8-3838a3714630",
+          "id": "601be3e5-f9c3-49a0-8337-679845d7a177",
+          "text": "证券业",
+          "expanded": false,
+          "leaf": true,
+          "extraAttributes": {
+            "code": "N11",
+            "idRel": "dictionaryItems/N11",
+            "value": "N11",
+            "desc": " 指对股票、债券、期货及其他有价证券的投资交易活动。"
+          }
+        },
+        {
+          "parentId": "9668de39-a5ae-4089-83c8-3838a3714630",
+          "id": "c4a115de-cd89-4aab-8f9b-6634f7db7c4d",
+          "text": "保险业",
+          "expanded": false,
+          "leaf": true,
+          "extraAttributes": {
+            "code": "O11",
+            "idRel": "dictionaryItems/O11",
+            "value": "O11",
+            "desc": null
+          }
+        },
+        {
+          "parentId": "9668de39-a5ae-4089-83c8-3838a3714630",
+          "id": "4acd438d-4bb2-40f0-863d-f783cbc0ce4b",
+          "text": "其他金融活动",
+          "expanded": false,
+          "leaf": true,
+          "extraAttributes": {
+            "code": "P11",
+            "idRel": "dictionaryItems/P11",
+            "value": "P11",
+            "desc": " 指银行、证券、保险以外的金融活动。"
+          }
+        },
+        {
+          "parentId": "9668de39-a5ae-4089-83c8-3838a3714630",
+          "id": "1f854cfb-fdb6-4b5e-b7bf-ff47fe8ee3a5",
+          "text": "房地产业",
+          "expanded": false,
+          "leaf": true,
+          "extraAttributes": {
+            "code": "Q11",
+            "idRel": "dictionaryItems/Q11",
+            "value": "Q11",
+            "desc": null
+          }
+        },
+        {
+          "parentId": "9668de39-a5ae-4089-83c8-3838a3714630",
+          "id": "8057bfee-7d52-4b04-b4f3-ec4e67bd98ad",
+          "text": "租赁业",
+          "expanded": false,
+          "leaf": true,
+          "extraAttributes": {
+            "code": "R11",
+            "idRel": "dictionaryItems/R11",
+            "value": "R11",
+            "desc": null
+          }
+        },
+        {
+          "parentId": "9668de39-a5ae-4089-83c8-3838a3714630",
+          "id": "003fb691-7d96-4e04-88ae-1c5250476386",
+          "text": "商务服务业",
+          "expanded": false,
+          "leaf": true,
+          "extraAttributes": {
+            "code": "S11",
+            "idRel": "dictionaryItems/S11",
+            "value": "S11",
+            "desc": null
+          }
+        },
+        {
+          "parentId": "9668de39-a5ae-4089-83c8-3838a3714630",
+          "id": "cdb87f69-7978-4eef-80f6-38964cfb51bc",
+          "text": "研究与试验发展",
+          "expanded": false,
+          "leaf": true,
+          "extraAttributes": {
+            "code": "T11",
+            "idRel": "dictionaryItems/T11",
+            "value": "T11",
+            "desc": "指为了增加知识（包括有关自然、工程、人类、文化和社会的知识），以及运用这些知识创造新的应用，所进行的系统的、创造性的活动。该活动仅限于对新发现、新理论的研究，新技术、新产品、新工艺的研制。研究与试验发展包括基础研究、应用研究和试验发展。"
+          }
+        },
+        {
+          "parentId": "9668de39-a5ae-4089-83c8-3838a3714630",
+          "id": "a86954aa-ea7c-47c9-a1ab-70b69ce2c008",
+          "text": "专业技术服务业",
+          "expanded": false,
+          "leaf": true,
+          "extraAttributes": {
+            "code": "U11",
+            "idRel": "dictionaryItems/U11",
+            "value": "U11",
+            "desc": null
+          }
+        },
+        {
+          "parentId": "9668de39-a5ae-4089-83c8-3838a3714630",
+          "id": "f7bcdbc3-29ad-45fb-ac76-4ed22411ed31",
+          "text": "科技交流和推广服务业",
+          "expanded": false,
+          "leaf": true,
+          "extraAttributes": {
+            "code": "V11",
+            "idRel": "dictionaryItems/V11",
+            "value": "V11",
+            "desc": null
+          }
+        },
+        {
+          "parentId": "9668de39-a5ae-4089-83c8-3838a3714630",
+          "id": "73038e72-4831-494b-8691-b9d55864539c",
+          "text": "地质勘查业",
+          "expanded": false,
+          "leaf": true,
+          "extraAttributes": {
+            "code": "W11",
+            "idRel": "dictionaryItems/W11",
+            "value": "W11",
+            "desc": " 指对矿产资源、工程地质、科学研究进行的地质勘查、测试、监测、评估等活动。"
+          }
+        },
+        {
+          "parentId": "9668de39-a5ae-4089-83c8-3838a3714630",
+          "id": "7c6cbfe6-8a97-4075-848a-efe8ec3657bb",
+          "text": "水利管理业",
+          "expanded": false,
+          "leaf": true,
+          "extraAttributes": {
+            "code": "X11",
+            "idRel": "dictionaryItems/X11",
+            "value": "X11",
+            "desc": null
+          }
+        },
+        {
+          "parentId": "9668de39-a5ae-4089-83c8-3838a3714630",
+          "id": "1b2156f5-9f31-461e-8eef-38e8e7d1bafe",
+          "text": "环境管理业",
+          "expanded": false,
+          "leaf": true,
+          "extraAttributes": {
+            "code": "Y11",
+            "idRel": "dictionaryItems/Y11",
+            "value": "Y11",
+            "desc": null
+          }
+        },
+        {
+          "parentId": "9668de39-a5ae-4089-83c8-3838a3714630",
+          "id": "9a99c4b3-0981-417a-9b25-ab7c920e2e49",
+          "text": "公共设施管理业",
+          "expanded": false,
+          "leaf": true,
+          "extraAttributes": {
+            "code": "Z11",
+            "idRel": "dictionaryItems/Z11",
+            "value": "Z11",
+            "desc": null
+          }
+        },
+        {
+          "parentId": "9668de39-a5ae-4089-83c8-3838a3714630",
+          "id": "e1a4fb14-b92b-41d7-ae9d-14ff4389d2d4",
+          "text": "居民服务业",
+          "expanded": false,
+          "leaf": true,
+          "extraAttributes": {
+            "code": "A21",
+            "idRel": "dictionaryItems/A21",
+            "value": "A21",
+            "desc": null
+          }
+        },
+        {
+          "parentId": "9668de39-a5ae-4089-83c8-3838a3714630",
+          "id": "573e25dd-8048-4c34-a3a0-c930c20edf7f",
+          "text": "其他服务业",
+          "expanded": false,
+          "leaf": true,
+          "extraAttributes": {
+            "code": "B21",
+            "idRel": "dictionaryItems/B21",
+            "value": "B21",
+            "desc": null
+          }
+        },
+        {
+          "parentId": "9668de39-a5ae-4089-83c8-3838a3714630",
+          "id": "5c30dfe6-5c4d-4307-a103-654768e25213",
+          "text": "教育",
+          "expanded": false,
+          "leaf": true,
+          "extraAttributes": {
+            "code": "C21",
+            "idRel": "dictionaryItems/C21",
+            "value": "C21",
+            "desc": null
+          }
+        },
+        {
+          "parentId": "9668de39-a5ae-4089-83c8-3838a3714630",
+          "id": "e999e408-c151-4412-af84-f3634f910592",
+          "text": "卫生",
+          "expanded": false,
+          "leaf": true,
+          "extraAttributes": {
+            "code": "D21",
+            "idRel": "dictionaryItems/D21",
+            "value": "D21",
+            "desc": null
+          }
+        },
+        {
+          "parentId": "9668de39-a5ae-4089-83c8-3838a3714630",
+          "id": "f6013582-bc3f-4927-a34e-bcfbf859ea68",
+          "text": "社会保障业",
+          "expanded": false,
+          "leaf": true,
+          "extraAttributes": {
+            "code": "E21",
+            "idRel": "dictionaryItems/E21",
+            "value": "E21",
+            "desc": null
+          }
+        },
+        {
+          "parentId": "9668de39-a5ae-4089-83c8-3838a3714630",
+          "id": "7863fdfb-31b7-4a66-8571-46271ffbe582",
+          "text": "社会福利业",
+          "expanded": false,
+          "leaf": true,
+          "extraAttributes": {
+            "code": "F21",
+            "idRel": "dictionaryItems/F21",
+            "value": "F21",
+            "desc": null
+          }
+        },
+        {
+          "parentId": "9668de39-a5ae-4089-83c8-3838a3714630",
+          "id": "78a57ed0-3013-4f49-8523-0ad1e07957ac",
+          "text": "新闻出版业",
+          "expanded": false,
+          "leaf": true,
+          "extraAttributes": {
+            "code": "G21",
+            "idRel": "dictionaryItems/G21",
+            "value": "G21",
+            "desc": null
+          }
+        },
+        {
+          "parentId": "9668de39-a5ae-4089-83c8-3838a3714630",
+          "id": "21f31a0a-2365-48b7-bc43-e2a140e179c3",
+          "text": "广播、电视、电影和音像业",
+          "expanded": false,
+          "leaf": true,
+          "extraAttributes": {
+            "code": "H21",
+            "idRel": "dictionaryItems/H21",
+            "value": "H21",
+            "desc": "指对广播、电视、电影、录音、录像内容的制作、编导、主持、播出、放映等活动。不包括广播电视信号的传输和接收活动。"
+          }
+        },
+        {
+          "parentId": "9668de39-a5ae-4089-83c8-3838a3714630",
+          "id": "f1833d19-8f91-400b-9fa4-f86fe7b7192b",
+          "text": "文化艺术业",
+          "expanded": false,
+          "leaf": true,
+          "extraAttributes": {
+            "code": "I21",
+            "idRel": "dictionaryItems/I21",
+            "value": "I21",
+            "desc": null
+          }
+        },
+        {
+          "parentId": "9668de39-a5ae-4089-83c8-3838a3714630",
+          "id": "55588dea-00d7-4291-b286-fa4478f93409",
+          "text": "体育",
+          "expanded": false,
+          "leaf": true,
+          "extraAttributes": {
+            "code": "J21",
+            "idRel": "dictionaryItems/J21",
+            "value": "J21",
+            "desc": null
+          }
+        },
+        {
+          "parentId": "9668de39-a5ae-4089-83c8-3838a3714630",
+          "id": "869d01bf-8194-4581-807f-8bb89fc7af93",
+          "text": "娱乐业",
+          "expanded": false,
+          "leaf": true,
+          "extraAttributes": {
+            "code": "K21",
+            "idRel": "dictionaryItems/K21",
+            "value": "K21",
+            "desc": null
+          }
+        },
+        {
+          "parentId": "9668de39-a5ae-4089-83c8-3838a3714630",
+          "id": "5472f7de-d3a8-4565-9553-bb20b016e5a7",
+          "text": "中国共产党机关",
+          "expanded": false,
+          "leaf": true,
+          "extraAttributes": {
+            "code": "L21",
+            "idRel": "dictionaryItems/L21",
+            "value": "L21",
+            "desc": null
+          }
+        },
+        {
+          "parentId": "9668de39-a5ae-4089-83c8-3838a3714630",
+          "id": "1413cf88-9b36-4697-adfe-c713b41416e9",
+          "text": "国家机构",
+          "expanded": false,
+          "leaf": true,
+          "extraAttributes": {
+            "code": "M21",
+            "idRel": "dictionaryItems/M21",
+            "value": "M21",
+            "desc": "指宪法规定的国家机构的活动和国家武装力量。"
+          }
+        },
+        {
+          "parentId": "9668de39-a5ae-4089-83c8-3838a3714630",
+          "id": "835ce6f7-e5b3-41b0-b19e-854d7b89da4b",
+          "text": "人民政协和民主党派",
+          "expanded": false,
+          "leaf": true,
+          "extraAttributes": {
+            "code": "N21",
+            "idRel": "dictionaryItems/N21",
+            "value": "N21",
+            "desc": null
+          }
+        },
+        {
+          "parentId": "9668de39-a5ae-4089-83c8-3838a3714630",
+          "id": "82c0b6c6-37ce-4e06-a46a-102dedac904e",
+          "text": "群众团体、社会团体和宗教组织",
+          "expanded": false,
+          "leaf": true,
+          "extraAttributes": {
+            "code": "O21",
+            "idRel": "dictionaryItems/O21",
+            "value": "O21",
+            "desc": null
+          }
+        },
+        {
+          "parentId": "9668de39-a5ae-4089-83c8-3838a3714630",
+          "id": "d27e95e3-97d9-4cfc-b122-fecd377373ba",
+          "text": "基层群众自治组织",
+          "expanded": false,
+          "leaf": true,
+          "extraAttributes": {
+            "code": "P21",
+            "idRel": "dictionaryItems/P21",
+            "value": "P21",
+            "desc": "指通过选举产生的社区性组织，该组织为本地区提供一般性管理、调解、治安、优抚、计划生育等服务。"
+          }
+        },
+        {
+          "parentId": "9668de39-a5ae-4089-83c8-3838a3714630",
+          "id": "1168adaf-5861-475b-88db-ec32f22bf2ef",
+          "text": "国际组织",
+          "expanded": false,
+          "leaf": true,
+          "extraAttributes": {
+            "code": "Q21",
+            "idRel": "dictionaryItems/Q21",
+            "value": "Q21",
+            "desc": null
+          }
+        }
+      ],
+      "extraAttributes": {
+        "code": "CatalogHY",
+        "idRel": "dictionaryCatalogs/CatalogHY",
+        "value": "CatalogHY",
+        "desc": null
+      }
+    }
+  ]
+}

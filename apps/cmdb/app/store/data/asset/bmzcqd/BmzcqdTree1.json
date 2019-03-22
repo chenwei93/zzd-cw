@@ -1,0 +1,415 @@
+{
+  "text": ".",
+  "children": [
+    {
+
+
+
+      "text": " 云资源",
+      "id": "yzy",
+      "expanded": true,
+      "type": "yzysq",
+      "inherit": [],
+      "dataset": [
+        {
+          "name": "名称",
+          "code": "name",
+          "type": "string",
+          "show_type": "textfield",
+          "percent": 1
+        },
+        {
+          "name": "编码",
+          "code": "code",
+          "type": "string",
+          "show_type": "textfield",
+          "percent": 0.5
+        },
+        {
+          "name": "部门",
+          "code": "dept",
+          "type": "combo",
+          "show_type": "combo",
+          "percent": 0.5,
+          "store": [
+            {
+              "showname": "公安局",
+              "value": "gaj"
+            },
+            {
+              "showname": "民政局",
+              "value": "mzj"
+            }
+          ]
+        }
+      ],
+      "children": [
+        {
+          "text": "PC服务器",
+          "id": "yzy_pc",
+          "code": "pc",
+          "des": "这是pc服务器",
+          "type": "yzysq",
+          "inherit": [
+            "yzy"
+          ],
+          "dataset": [
+            {
+              "name": "cpu",
+              "code": "cpu",
+              "type": "dataset",
+              "show_type": "combo",
+              "percent": 0.5,
+              "store": [
+                {
+                  "showname": "Intel 酷睿i7 8代",
+                  "value": "i7"
+                },
+                {
+                  "showname": "AMD Ryzen 5",
+                  "value": "amd5"
+                },
+                {
+                  "showname": "Intel 酷睿i5 8代",
+                  "value": "i5"
+                }
+              ]
+            },
+            {
+              "name": "内存",
+              "code": "nc",
+              "type": "string",
+              "show_type": "textfield",
+              "percent": 0.5
+            },
+            {
+              "name": "描述",
+              "code": "des",
+              "type": "string",
+              "show_type": "textarea",
+              "percent": 1
+            }
+          ],
+          "leaf": true
+        },
+        {
+          "text": "小型机",
+          "id": "yzy_small",
+          "inherit": [
+            "yzy",
+            "yzy_pc"
+          ],
+          "dataset": [],
+          "code": "small",
+          "des": "这是小型机",
+          "type": "yzysq",
+          "leaf": true
+        },
+        {
+          "text": "大型机",
+          "id": "yzy_big",
+          "inherit": [
+            "yzy",
+            "yzy_pc"
+          ],
+          "dataset": [],
+          "code": "big",
+          "des": "这是大型机",
+          "type": "yzysq",
+          "leaf": true
+        }
+      ]
+    },
+    {
+      "text": " 数据资源",
+      "id": "sjzy",
+      "expanded": true,
+      "type": "sjzy",
+      "inherit": [
+        "yzy"
+      ],
+      "dataset": [],
+      "children": [
+        {
+          "text": "数据资源1",
+          "id": "sjzy_sjzy1",
+          "inherit": [
+            "sjzy"
+          ],
+          "dataset": [],
+          "code": "sjzy1",
+          "des": "这是数据资源1",
+          "type": "",
+          "leaf": true
+        },
+        {
+          "text": "数据资源2",
+          "id": "sjzy_sjzy2",
+          "code": "sjzy2",
+          "inherit": [
+            "sjzy"
+          ],
+          "dataset": [],
+          "des": "这是数据资源2",
+          "type": "",
+          "leaf": true
+        }
+      ]
+    },
+    {
+      "text": " 软件服务",
+      "type": "rjfw",
+      "id": "rjfw",
+      "inherit": [],
+      "dataset": [
+        {
+          "name": "名称",
+          "code": "name",
+          "type": "string",
+          "show_type": "textfield",
+          "percent": 1
+        },
+        {
+          "name": "编码",
+          "code": "code",
+          "type": "string",
+          "show_type": "textfield",
+          "percent": 0.5
+        },
+        {
+          "name": "要求完成时间",
+          "code": "endTime",
+          "type": "date",
+          "show_type": "datefield",
+          "percent": 0.5
+        },
+        {
+          "name": "联系人",
+          "code": "lxr",
+          "type": "string",
+          "show_type": "combo",
+          "store": [
+            {
+              "showname": "陈薇",
+              "value": "chenw"
+            },
+            {
+              "showname": "王石",
+              "value": "wangs"
+            },
+            {
+              "showname": "方荣",
+              "value": "fangr"
+            },
+            {
+              "showname": "莫智胜",
+              "value": "mozs"
+            }
+          ],
+          "percent": 0.5
+        },
+        {
+          "name": "实施条件以达到",
+          "code": "sstj",
+          "type": "boolean",
+          "show_type": "radiogroup",
+          "store": [
+            {
+              "boxLabel": "是",
+              "inputValue": true
+            },
+            {
+              "boxLabel": "否",
+              "inputValue": false
+            }
+          ],
+          "percent": 0.5
+        },
+        {
+          "name": "申请用途",
+          "code": "sqyt",
+          "type": "string",
+          "show_type": "textarea",
+          "percent": 0.5
+        }
+      ],
+      "expanded": true,
+      "children": [
+        {
+          "text": "IP地址",
+          "id": "rjfw_ip",
+          "inherit": [
+            "rjfw"
+          ],
+          "dataset": [],
+          "type": "rjfw",
+          "code": "ip",
+          "des": "这是IP地址",
+          "leaf": true
+        },
+        {
+          "text": "采控代理",
+          "des": "这是采控代理",
+          "id": "rjfw_ckdl",
+          "inherit": [
+            "rjfw"
+          ],
+          "dataset": [],
+          "type": "rjfw",
+          "code": "ckdl",
+          "leaf": true
+        }
+      ]
+    },
+    {
+      "text": " 接口资源",
+      "type": "jkzy",
+      "id": "jkzy",
+      "inherit": [],
+      "dataset": [
+        {
+          "name": "联系人",
+          "code": "lxr",
+          "type": "dataset",
+          "show_type": "combo",
+          "store": [
+            {
+              "showname": "陈薇",
+              "value": "chenw"
+            },
+            {
+              "showname": "王石",
+              "value": "wangs"
+            },
+            {
+              "showname": "方荣",
+              "value": "fangr"
+            },
+            {
+              "showname": "莫智胜",
+              "value": "mozs"
+            }
+          ],
+          "percent": 0.5
+        },
+        {
+          "name": "要求完成时间",
+          "code": "endTime",
+          "type": "date",
+          "show_type": "datefield",
+          "percent": 0.5
+        },
+        {
+          "name": "紧急程度",
+          "code": "jjcd",
+          "type": "dataset",
+          "show_type": "combo",
+          "store": [
+            {
+              "showname": "特提",
+              "value": "tt"
+            },
+            {
+              "showname": "特急",
+              "value": "tj"
+            },
+            {
+              "showname": "加急",
+              "value": "jj"
+            },
+            {
+              "showname": "平急",
+              "value": "pj"
+            }
+          ],
+          "percent": 0.5
+        }
+      ],
+      "expanded": true,
+      "children": [
+        {
+          "text": "接口资源1",
+          "id": "jkzy_jk1",
+          "inherit": [
+            "jkzy"
+          ],
+          "dataset": [],
+          "code": "jk1",
+          "des": "这是接口资源1",
+          "type": "jkzy",
+          "leaf": true
+        },
+        {
+          "text": "接口资源2",
+          "des": "这是接口资源2",
+          "id": "jkzy_jkzy2",
+          "inherit": [
+            "jkzy"
+          ],
+          "dataset": [],
+          "type": "jkzy",
+          "code": "jkzy2",
+          "leaf": true
+        }
+      ]
+    },
+    {
+      "text": " 基础数据资源",
+      "type": "jcsjzy",
+      "id": "jcsjzy",
+      "inherit": [
+        "jkzy"
+      ],
+      "dataset": [],
+      "expanded": true,
+      "children": [
+        {
+          "text": "IP地址",
+          "code": "ip",
+          "id": "jcsjzy_ip",
+          "inherit": [
+            "jkzy"
+          ],
+          "dataset": [],
+          "des": "这是IP地址",
+          "type": "jcsjzy",
+          "leaf": true
+        },
+        {
+          "text": "采控代理",
+          "id": "jcsjzy_ckdl",
+          "inherit": [
+            "jkzy"
+          ],
+          "dataset": [],
+          "des": "这是采控代理",
+          "type": "jcsjzy",
+          "code": "ckdl",
+          "leaf": true
+        }
+      ]
+    },
+    {
+      "text": " 日志资源",
+      "type": "rzzy",
+      "id": 6,
+      "expanded": true,
+      "children": [
+        {
+          "text": "IP地址",
+          "type": "rzzy",
+          "code": "ip",
+          "des": "这是IP地址",
+          "leaf": true
+        },
+        {
+          "text": "采控代理",
+          "type": "rzzy",
+          "des": "这是采控代理",
+          "code": "ckdl",
+          "leaf": true
+        }
+      ]
+    }
+  ]
+}
